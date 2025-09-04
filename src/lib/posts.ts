@@ -132,10 +132,15 @@ export function getMonthName(monthYear: string) {
   try {
     const [year, month] = monthYear.split('-');
     // Create a date object with the first day of the month
+    // Use the constructor that takes year, month, day to avoid timezone issues
     const date = new Date(parseInt(year), parseInt(month) - 1, 1);
     
     if (!isNaN(date.getTime())) {
-      return date.toLocaleString('default', { month: 'long', year: 'numeric' });
+      // Format using the Node.js locale
+      return new Intl.DateTimeFormat('en-US', { 
+        month: 'long',
+        year: 'numeric'
+      }).format(date);
     }
     return monthYear; // Fallback to the raw string
   } catch (error) {

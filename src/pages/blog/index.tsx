@@ -75,10 +75,15 @@ export default function Blog({}: BlogProps) {
     try {
       const [year, month] = monthYear.split('-');
       // Create a date object with the first day of the month
+      // Use the constructor that takes year, month, day to avoid timezone issues
       const date = new Date(parseInt(year), parseInt(month) - 1, 1);
       
       if (!isNaN(date.getTime())) {
-        return date.toLocaleString('default', { month: 'long', year: 'numeric' });
+        // Format using the browser's locale
+        return new Intl.DateTimeFormat('en-US', { 
+          month: 'long',
+          year: 'numeric'
+        }).format(date);
       }
       return monthYear; // Fallback to the raw string
     } catch (error) {
@@ -153,8 +158,9 @@ export default function Blog({}: BlogProps) {
                             try {
                               // Use the date directly from the frontmatter
                               const dateStr = post.date;
-                              // Create a date object from the string
-                              const date = new Date(dateStr);
+                              // Parse the date string manually to avoid timezone issues
+                              const [year, month, day] = dateStr.split('-').map(Number);
+                              const date = new Date(year, month - 1, day);
                               return format(date, 'MMMM d, yyyy');
                             } catch (error) {
                               return post.date; // Fallback to the raw date string if formatting fails
