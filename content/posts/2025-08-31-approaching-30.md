@@ -4,8 +4,6 @@ date: '2025-08-31'
 excerpt: 'Thoughts on turning 30, embracing adventure, and lessons learned from building products.'
 ---
 
-# Approaching 30: Reflections on the Next Chapter
-
 I can't believe it's already the end of August—almost September. In just four days I turn 30. It's incredible to reflect on the past 30 years and realize that I might already be halfway through this short but incredible journey of life.
 
 As I think about the next 30 years, a few things stand out that I really want to prioritize: embracing adventure, embracing fun, and rooting myself back in who I am—or maybe more importantly, who I was as a kid. Over the last five to seven years—what I'd call true adulthood—my focus has been on finding a job, learning how to make it on my own, and figuring out how to navigate the responsibilities of life. It's been good, honestly. I've learned so much, and I've had plenty of fun. But I can't shake the sense that my direction and goals weren't fully aligned with how I really want to be living.

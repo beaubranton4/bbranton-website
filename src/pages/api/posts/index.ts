@@ -86,10 +86,13 @@ export default async function handler(
     
     sortedPosts.forEach(post => {
       try {
-        const date = new Date(post.date);
+        // Parse date using UTC to avoid timezone issues
+        const [year, month, day] = post.date.split('-').map(Number);
+        const date = new Date(Date.UTC(year, month - 1, day));
+        
         // Check if date is valid
         if (!isNaN(date.getTime())) {
-          const monthYear = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+          const monthYear = `${date.getUTCFullYear()}-${String(date.getUTCMonth() + 1).padStart(2, '0')}`;
           
           if (!postsByMonth[monthYear]) {
             postsByMonth[monthYear] = [];

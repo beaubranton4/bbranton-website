@@ -5,8 +5,6 @@ excerpt: 'Reflections on turning 30, career satisfaction, and the entrepreneuria
 featured: true
 ---
 
-# Seven Days Until 30
-
 I'm seven days away from turning 30—September 4th, 2025. Thirty feels like a strange milestone. For whatever reason, it's one of those round numbers that makes you think about aging, about where you are in life. Statistically, it's not even halfway through an average lifespan, but it carries a weight. It feels like you're supposed to be a full-fledged adult by now.
 
 But I don't feel that way. I still feel like I have my whole life ahead of me, like I could be anything I want. And in some ways that's true. But in others, it's not. I've already curated a certain path—career, relationships, where I live. It's not like I can just drop everything tomorrow and become an artist or an architect. Technically, I could—plenty of people start later in life—but practically, I've spent years developing a specific skill set. The realistic thing now is to assess where I am, accept that foundation, and move forward with it.

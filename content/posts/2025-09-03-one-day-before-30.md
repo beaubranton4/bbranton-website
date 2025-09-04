@@ -4,8 +4,6 @@ date: '2025-09-03'
 excerpt: 'Reflections on my last day in my twenties, baseball, and finding fulfillment.'
 ---
 
-# One Day Before My 30th Birthday
-
 One day before my 30th birthday—my last day in my twenties.
 
 Today was fairly uneventful. It started like most days: I woke up, logged into my remote job as a data analyst, took a few calls, and then had the rest of the day to spend as I pleased. From 10:30 to 12:30 I worked out. I went on a three-mile run at a pretty fast pace, averaging around 7:45 per mile, then followed it up with an ab workout at the gym. After a shower, I came home, spent an hour or two working and responding to Slack messages, took a nap, and then went for a walk.

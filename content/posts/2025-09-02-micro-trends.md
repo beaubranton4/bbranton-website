@@ -4,8 +4,6 @@ date: '2025-09-02'
 excerpt: 'Observations on health trends, posture issues, and the search for social connection.'
 ---
 
-# Micro-Trends in My World
-
 Today I want to talk about trends I've been noticing—maybe not global movements, but micro-trends happening inside my world. Things I see among my friends, online, and on social media. They feel cultural, thought-shifting, and relevant to where I'm at in life right now.
 
 The first trend is this push toward healthier, more holistic ways of having fun and connecting with people. It feels like a lot of people are ditching alcohol and drugs for morning run clubs, cold plunges, or other activities that are both social and healthy. I think it's a good thing. Personally, as I'm about to turn 30 in two days, I've been thinking a lot about preserving my body. I want to engage in social activities that allow me to have fun, laugh, and connect with people—without hurting myself.

@@ -90,7 +90,10 @@ export default function Post() {
           <time className="text-gray-600 dark:text-gray-400 block">
             {(() => {
               try {
-                return format(new Date(postData.date), 'MMMM d, yyyy');
+                // Ensure date is parsed as UTC to avoid timezone issues
+                const [year, month, day] = postData.date.split('-').map(Number);
+                const date = new Date(Date.UTC(year, month - 1, day));
+                return format(date, 'MMMM d, yyyy');
               } catch (error) {
                 return postData.date; // Fallback to the raw date string if formatting fails
               }

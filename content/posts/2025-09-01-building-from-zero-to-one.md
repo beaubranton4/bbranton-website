@@ -4,8 +4,6 @@ date: '2025-09-01'
 excerpt: 'Reflections on what energizes me, taking the path of least resistance, and skills I want to develop.'
 ---
 
-# Building From Zero to One
-
 The more I reflect on what I'm interested in and what I actually like doing, the clearer it becomes: I enjoy building things from zero to one. I like getting projects off the ground, which explains why I start so many and often don't completely finish them. The excitement for me is in the creation, in that initial phase where something comes to life.
 
 Because of that, I think the best kind of project for me would be one that combines that zero-to-one energy with automation. Something I can build, set up, and then let run on its own while I benefit from it. A few examples come to mind: a stock trading algorithm that requires minimal oversight once built, a social media channel that's fully automated, or even a content system that produces blog posts without my constant input. Those ideas feel fun and aligned with what energizes me.

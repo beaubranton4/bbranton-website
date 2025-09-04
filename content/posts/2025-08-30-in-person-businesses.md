@@ -4,8 +4,6 @@ date: '2025-08-30'
 excerpt: 'Exploring the idea of creating spaces for play and connection, and reflecting on what brings me joy.'
 ---
 
-# In-Person Businesses and What I Want Out of Life
-
 Lately, I keep circling back to in-person businesses. Whenever I get bored, or when I want to decompress and reset, my instinct isn't to scroll my phone or sit inside—it's to go outside. Go for a bike ride. Head to the park. Hang out with people. There's something inherently joyful about play. Running around, moving, laughing. It feels good every single time. And I keep coming back to this idea: I want to help people play more. I want to build something that gets people out of their heads and into their bodies, moving and connecting.
 
 Gyms come to mind immediately, but I think gyms are inherently broken. Millions of people pay $100 to $300 a month without question, just to go stand around for an hour, pick up some weights, maybe hop on a machine. From a business perspective, it's brilliant. Recurring revenue, relatively low overhead. But is it actually the best thing for people? What do people really want when they go to the gym? I don't think it's just the weights or the machines. It's the social interaction. It's the idea of having a "third place"—a destination you go to that isn't work or home. It's the ritual of showing up, seeing familiar faces, and telling yourself you're doing something good for your body.

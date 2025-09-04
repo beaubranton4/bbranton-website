@@ -49,7 +49,6 @@ export default function Projects() {
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold mb-8">Projects</h1>
         <p className="text-xl mb-12">
-          Here are some of the projects I've been working on. I love building things that solve real problems.
         </p>
 
         <div className="grid md:grid-cols-2 gap-8">
