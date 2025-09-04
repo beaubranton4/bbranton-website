@@ -119,8 +119,7 @@ export default function Home() {
         {/* Brief bio */}
         <div className="prose prose-lg dark:prose-invert max-w-none">
           <p>
-            I'm Beau Branton, focused on building useful products and sharing my journey along the way.
-            This website serves as a hub for my thoughts, writings, and projects.
+            Hi,I'm Beau Branton, this website serves as a hub for my thoughts, writings, and projects. I don't take myself too seriously and neither should you. 
           </p>
         </div>
       </div>

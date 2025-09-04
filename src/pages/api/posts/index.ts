@@ -86,27 +86,21 @@ export default async function handler(
     
     sortedPosts.forEach(post => {
       try {
-        // Parse date using UTC to avoid timezone issues
-        const [year, month, day] = post.date.split('-').map(Number);
-        const date = new Date(Date.UTC(year, month - 1, day));
+        // Use the date directly from the frontmatter
+        const dateStr = post.date;
         
-        // Check if date is valid
-        if (!isNaN(date.getTime())) {
-          const monthYear = `${date.getUTCFullYear()}-${String(date.getUTCMonth() + 1).padStart(2, '0')}`;
-          
-          if (!postsByMonth[monthYear]) {
-            postsByMonth[monthYear] = [];
-          }
-          
-          postsByMonth[monthYear].push(post);
-        } else {
-          // For invalid dates, use a fallback category
-          const fallbackKey = 'future-posts';
-          if (!postsByMonth[fallbackKey]) {
-            postsByMonth[fallbackKey] = [];
-          }
-          postsByMonth[fallbackKey].push(post);
+        // Extract year and month from the date string
+        // The date format in the frontmatter is 'YYYY-MM-DD'
+        const [year, month] = dateStr.split('-');
+        
+        // Create a key in the format 'YYYY-MM'
+        const monthYear = `${year}-${month}`;
+        
+        if (!postsByMonth[monthYear]) {
+          postsByMonth[monthYear] = [];
         }
+        
+        postsByMonth[monthYear].push(post);
       } catch (error) {
         // Handle any date parsing errors
         console.error(`Error processing date for post ${post.id}:`, error);

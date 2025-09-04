@@ -74,8 +74,8 @@ export default function Blog({}: BlogProps) {
     
     try {
       const [year, month] = monthYear.split('-');
-      // Use UTC to avoid timezone issues
-      const date = new Date(Date.UTC(parseInt(year), parseInt(month) - 1));
+      // Create a date object with the first day of the month
+      const date = new Date(parseInt(year), parseInt(month) - 1, 1);
       
       if (!isNaN(date.getTime())) {
         return date.toLocaleString('default', { month: 'long', year: 'numeric' });
@@ -151,9 +151,10 @@ export default function Blog({}: BlogProps) {
                         <time className="text-gray-600 dark:text-gray-400 text-base mb-4 block">
                           {(() => {
                             try {
-                              // Ensure date is parsed as UTC to avoid timezone issues
-                              const [year, month, day] = post.date.split('-').map(Number);
-                              const date = new Date(Date.UTC(year, month - 1, day));
+                              // Use the date directly from the frontmatter
+                              const dateStr = post.date;
+                              // Create a date object from the string
+                              const date = new Date(dateStr);
                               return format(date, 'MMMM d, yyyy');
                             } catch (error) {
                               return post.date; // Fallback to the raw date string if formatting fails

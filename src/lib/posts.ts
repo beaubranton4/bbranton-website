@@ -98,14 +98,26 @@ export function getPostsByMonth() {
   const postsByMonth: { [key: string]: PostData[] } = {};
   
   posts.forEach(post => {
-    const date = new Date(post.date);
-    const monthYear = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
-    
-    if (!postsByMonth[monthYear]) {
-      postsByMonth[monthYear] = [];
+    try {
+      // Extract year and month directly from the date string
+      // The date format in the frontmatter is 'YYYY-MM-DD'
+      const [year, month] = post.date.split('-');
+      const monthYear = `${year}-${month}`;
+      
+      if (!postsByMonth[monthYear]) {
+        postsByMonth[monthYear] = [];
+      }
+      
+      postsByMonth[monthYear].push(post);
+    } catch (error) {
+      console.error(`Error processing date for post ${post.id}:`, error);
+      // Handle any parsing errors
+      const fallbackKey = 'future-posts';
+      if (!postsByMonth[fallbackKey]) {
+        postsByMonth[fallbackKey] = [];
+      }
+      postsByMonth[fallbackKey].push(post);
     }
-    
-    postsByMonth[monthYear].push(post);
   });
   
   return postsByMonth;
@@ -113,10 +125,22 @@ export function getPostsByMonth() {
 
 // Function to get month name from month-year string
 export function getMonthName(monthYear: string) {
-  const [year, month] = monthYear.split('-');
-  const date = new Date(parseInt(year), parseInt(month) - 1);
+  if (monthYear === 'future-posts') {
+    return 'Future Posts';
+  }
   
-  return date.toLocaleString('default', { month: 'long', year: 'numeric' });
+  try {
+    const [year, month] = monthYear.split('-');
+    // Create a date object with the first day of the month
+    const date = new Date(parseInt(year), parseInt(month) - 1, 1);
+    
+    if (!isNaN(date.getTime())) {
+      return date.toLocaleString('default', { month: 'long', year: 'numeric' });
+    }
+    return monthYear; // Fallback to the raw string
+  } catch (error) {
+    return monthYear; // Fallback to the raw string if parsing fails
+  }
 }
 
 // Function to get all post IDs for static paths
