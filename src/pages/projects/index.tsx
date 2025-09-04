@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Link from 'next/link';
 
-// Sample project data - in a real implementation, this would come from a database or CMS
+// My projects
 const projects = [
   {
     id: 'personal-website',
@@ -13,22 +13,28 @@ const projects = [
     github: 'https://github.com/beaubranton/beaubranton.com',
   },
   {
-    id: 'project-two',
-    title: 'Sample Project',
-    description: 'A sample project to showcase my skills and interests.',
-    tags: ['React', 'Node.js', 'MongoDB'],
-    image: '/images/projects/sample.jpg',
-    link: 'https://example.com',
-    github: 'https://github.com/beaubranton/sample-project',
+    id: 'spend-my-stipend',
+    title: 'Spend My Stipend',
+    description: 'An affiliate blog that helps employees figure out what to spend their employer-provided stipends on, including professional development, health and wellness, and remote work stipends.',
+    tags: ['Affiliate Marketing', 'Blog', 'Employee Benefits'],
+    image: '/images/projects/spend-my-stipend.jpg',
+    link: 'https://spendmystipend.com',
   },
   {
-    id: 'project-three',
-    title: 'Another Project',
-    description: 'Another example project that demonstrates my capabilities.',
-    tags: ['Python', 'Django', 'PostgreSQL'],
-    image: '/images/projects/another.jpg',
-    link: 'https://example.org',
-    github: 'https://github.com/beaubranton/another-project',
+    id: 'dugout-edge',
+    title: 'Dugout Edge',
+    description: 'Tools and tips for baseball and softball coaches and players. Features a subscription-based lineup generator that\'s on track to make $100 in MRR.',
+    tags: ['SaaS', 'Sports Tech', 'Subscription'],
+    image: '/images/projects/dugout-edge.jpg',
+    link: 'https://dugoutedge.com',
+  },
+  {
+    id: 'startup-seeds',
+    title: 'Startup Seeds',
+    description: 'A platform that uses LLMs to transcribe and summarize business ideas from top entrepreneurial podcasts, storing them in a searchable database.',
+    tags: ['AI', 'LLM', 'Podcast Transcription', 'Entrepreneurship'],
+    image: '/images/projects/startup-seeds.jpg',
+    link: 'https://startupseeds.io',
   },
 ];
 
@@ -50,7 +56,7 @@ export default function Projects() {
           {projects.map((project) => (
             <div key={project.id} className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
               <div className="h-48 bg-gray-200 dark:bg-gray-700 flex items-center justify-center">
-                <span className="text-gray-500 dark:text-gray-400">Project Image</span>
+                <span className="text-gray-500 dark:text-gray-400">{project.title}</span>
               </div>
               <div className="p-6">
                 <h2 className="text-2xl font-semibold mb-2">{project.title}</h2>
@@ -76,14 +82,16 @@ export default function Projects() {
                   >
                     View Project
                   </a>
-                  <a 
-                    href={project.github} 
-                    target="_blank" 
-                    rel="noopener noreferrer" 
-                    className="text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200"
-                  >
-                    GitHub
-                  </a>
+                  {project.github && (
+                    <a 
+                      href={project.github} 
+                      target="_blank" 
+                      rel="noopener noreferrer" 
+                      className="text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200"
+                    >
+                      GitHub
+                    </a>
+                  )}
                 </div>
               </div>
             </div>
