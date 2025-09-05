@@ -113,3 +113,4 @@ If your post isn't appearing as expected:
 2. Verify the date format is correct (YYYY-MM-DD)
 3. Ensure the file is in the correct directory (`content/posts`)
 4. Make sure the file has the `.md` extension
+

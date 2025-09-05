@@ -29,3 +29,4 @@ There's also the strategy of simply marketing different ideas on social media—
 All of these methods boil down to the same core principle: test first, sell first, build later. I've known this lesson for a while, but now I think I've truly internalized it. Dugout Edge showed me how much time and energy I can pour into something before realizing people don't really want it. The upside is that now I'm armed with a sharper mindset. I don't see it as wasted effort—it's more like a paid lesson.
 
 And so, the overall takeaway is a positive one: I've clarified that I need to validate ideas quickly and cheaply, and only invest in building once I know there's real demand.
+

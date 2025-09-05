@@ -13,3 +13,4 @@ The thing I'm wrestling with is whether building in public every single day woul
 On the other hand, I wonder if building in public would attract the wrong audience. People who follow along with my journey would likely be other builders. That's not necessarily a bad thing—if my product ends up being geared toward builders, then it makes sense. But if I'm building something for a completely different audience, like coaches or players in the baseball world, then wouldn't it make more sense to build content that speaks directly to them? That's the strategic tension I need to work through: do I build an audience of peers, or an audience of potential customers?
 
 Either way, the heart of it is that I want to find something I truly enjoy doing every day. If I can figure that out and share it consistently, then the rest of the pieces—audience, business, growth—will fall into place over time.
+

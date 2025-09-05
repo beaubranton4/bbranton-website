@@ -25,3 +25,4 @@ Now there's this strange comfort in staying home, not talking to anyone, and let
 Compare that to going out into the world. If I go to the gym and have a quick social interaction, it registers as something new. If I go to the grocery store, try a new restaurant, or just step into a different building, small adventures can unfold. I might chat with someone, or maybe something unexpected happens—even if it's not pleasant, like a homeless guy yelling at me—it still feels lived. It's a real story, something my brain holds onto.
 
 That's what I think we're missing. We need those new experiences, that sense of adventure, that feeling of being grounded in the physical world. Digital connection can only go so far. What we're really craving is the randomness of real life, the bumping into people, the stories that unfold when we're out there living.
+

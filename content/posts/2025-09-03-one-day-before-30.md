@@ -25,3 +25,4 @@ All of these things—coaching, watching, building tools like Dugout Edge, even 
 And that's really what I'm focused on now: fulfillment. When I was in college or in my early twenties, I always said, "I just want to be happy." But I've realized happiness is just an emotion—it comes and goes. Fulfillment is different. It's lasting. It's a way of living, a deep sense of knowing you're spending your time and energy in a way that matters. Fulfillment is found in the way you live every moment of every day.
 
 So here's to fulfillment. Here's to 30. And here's to me.
+

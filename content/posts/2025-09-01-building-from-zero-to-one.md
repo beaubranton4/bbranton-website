@@ -17,3 +17,4 @@ There are also a few skills I know I need to work on. First, I want to learn to 
 Second, I need to learn to sell better. Selling is also an art—and one of the most valuable skills a person can have. Along with that, I want to learn to play the social media game. If I can figure out how to create content, make videos, and really grab people's attention, I think that would be an incredibly powerful skill in today's world.
 
 If I can combine those—learning to sell, mastering social media, improving my speaking, and building things—I know I'll have a strong foundation. With my current skill set and the drive to keep learning, I feel confident I'll be able to figure things out.
+
