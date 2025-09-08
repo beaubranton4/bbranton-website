@@ -18,3 +18,5 @@ Second, I need to learn to sell better. Selling is also an art—and one of the 
 
 If I can combine those—learning to sell, mastering social media, improving my speaking, and building things—I know I'll have a strong foundation. With my current skill set and the drive to keep learning, I feel confident I'll be able to figure things out.
 
+
+

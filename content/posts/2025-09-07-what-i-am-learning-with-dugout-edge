@@ -1,0 +1,18 @@
+
+Now that I have actual users, the stress is real. I can see how becoming an entrepreneur is much more demanding and much higher stakes than working at a company. 
+You are taking people's money and you are promising to deliver. 
+Before, i did not give software engineer's enough credit. Not only is the technical parts of coding an absolute pain to deal with. Constantly looking up syntax. Debugging random error based on a symptom.
+
+Even after all that, there are so many decisions you need to make and long-term strategic thinking that goes into architecting a simple system. All i've done at dugoutedge is build a login with supabase authentication and a simple stripe integration and it's taking me months to understand how to set it up properly and go through edge cases. This is why i shouldn't have relied on custom code. I should have relied on stripe subscription management.
+
+There are so many things to test and you inevitably miss edge cases.
+
+The issue i'm running into right now is that when a customer subscription renews or gets updated in stripe, as opposed to the user manually updating from the platform, i'm not seeing my database values update that are being used to check for a premium subscription.
+
+I thought i had tested this and simulated what happens when a free trial ends, but for some reason i don't think it's working in production for some reason. 
+
+But, at the same time i'm feeling extremely motivated to fix this problem. the crazy thing is that i'll probably make 10x the amount of the money this thing will bring in by doing 1 hour of work a day at my comfy remote tech job.
+
+Nonetheless, it's so much more motivating. The work seems that much sweeter. It's because it's mine, and i'm learning and i'm passionate. I want to build a great product that helps these people. i don't just want their money. Ok, in reality, i do just want their money. But i also know that fixing these issues will improve customer satisfaction and reduce customer churn.
+
+Here are some notable stats about dugout edge premium (when i turned on payments). It was launched 10 days ago ()

@@ -27,3 +27,5 @@ If I do, I already have a plan in mind. The smart thing would be to make an anno
 
 I think it would resonate. There are so many people out there who dream of making the jump but are too scared, and I'd be someone they could root for—someone in the middle of it, not polished or "made" yet, but striving. It's relatable. It's real. And being in that uncomfortable position, fully exposed, would force me to succeed.
 
+
+

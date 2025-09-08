@@ -30,3 +30,5 @@ All of these methods boil down to the same core principle: test first, sell firs
 
 And so, the overall takeaway is a positive one: I've clarified that I need to validate ideas quickly and cheaply, and only invest in building once I know there's real demand.
 
+
+

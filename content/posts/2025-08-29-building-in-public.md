@@ -14,3 +14,5 @@ On the other hand, I wonder if building in public would attract the wrong audien
 
 Either way, the heart of it is that I want to find something I truly enjoy doing every day. If I can figure that out and share it consistently, then the rest of the pieces—audience, business, growth—will fall into place over time.
 
+
+
