@@ -1,3 +1,4 @@
+---
 title: 'On Shiny Objects and a Sense of Urgency'
 date: '2025-09-18'
 excerpt: "Lately, I’ve been thinking a lot about urgency—and how often I let Shiny Object Syndrome get in the way. It’s just another form of procrastination, disguised as productivity."

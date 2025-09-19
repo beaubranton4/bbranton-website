@@ -1,3 +1,4 @@
+---
 title: 'Reflection on working in tech'
 date: '2025-09-17'
 excerpt: 'I'm not cut out for the corporate world'

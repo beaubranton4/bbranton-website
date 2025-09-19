@@ -1,3 +1,4 @@
+---
 title: 'Daily Reflections on Solopreneurship and My Current Job.'
 date: '2025-09-09'
 excerpt: 'Daily Reflections on Solopreneurship and My Current Job.'

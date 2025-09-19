@@ -1,3 +1,4 @@
+---
 title: 'Being the Funny Guy'
 date: '2025-09-18'
 excerpt: "I keep circling back to the idea of being a comedian. There’s something in me that lights up when I come across a hilarious video and think, “I could’ve made that.” Nothing gives me as much joy as making a witty wise crack comment."

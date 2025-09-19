@@ -1,3 +1,4 @@
+---
 title: 'Celebrating my 30th in Vegas'
 date: '2025-09-16'
 excerpt: 'Vegas for my 30th. What a time'
