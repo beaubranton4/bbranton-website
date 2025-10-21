@@ -15,24 +15,48 @@ export default function About() {
         <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
           <p>
             Hello! I'm Beau Branton, and welcome to my personal website. This is where I share my thoughts,
-            writings, projects, and document my journey in a public digital space..
+            writings, projects, and document my journey in a public digital space.
           </p>
           
           <h2>Background</h2>
           <p>
-            I'm passionate about [your interests/profession]. With experience in [relevant fields],
-            I enjoy [what you enjoy doing professionally]. My background includes [brief professional summary].
+            I'm a former Stanford baseball player with a passion for entrepreneurship, technology, and building useful products. 
+            I currently work remotely in a role that gives me the flexibility to pursue my side projects and personal interests.
+            I've always been drawn to the intersection of sports and technology, which has led me to create tools that solve 
+            real problems for coaches and players.
           </p>
           
           <h2>What I Do</h2>
           <p>
-            Currently, I'm focused on [current projects or interests]. I'm particularly interested in
-            [specific areas of interest], and I'm always looking to learn and grow in these areas.
+            Currently, I'm focused on building and growing Dugout Edge, a SaaS platform for baseball and softball coaches.
+            The platform includes a lineup generator, practice planner, and drill library, all designed to make coaches' lives easier.
+            I'm particularly interested in leveraging AI and automation to create tools that save people time and eliminate tedious tasks.
+          </p>
+          
+          <p>
+            Beyond Dugout Edge, I'm constantly exploring new ideas and opportunities. I'm fascinated by the potential of 
+            building in public, content creation, and finding ways to provide value through digital products. Some of my other 
+            interests include running, fitness, and exploring the balance between work and personal fulfillment.
           </p>
           
           <h2>Building in Public</h2>
           <p>
-          I'm not one to typically share or boast, but I want to build in public as a way of holding myself accountable to reaching my goals of creating more, writing more, and building more.
+            I'm not one to typically share or boast, but I've come to believe in the power of building in public. It serves as 
+            a way of holding myself accountable to reaching my goals of creating more, writing more, and building more. I believe 
+            that showing your work is increasingly important in today's digital landscape.
+          </p>
+          
+          <p>
+            As I noted in my journal: "The world doesn't reward silent builders anymore. It rewards those who show their work."
+            Through this website and my other online platforms, I aim to document my journey, share my successes and failures,
+            and hopefully inspire others who are on similar paths.
+          </p>
+          
+          <h2>My Philosophy</h2>
+          <p>
+            I believe in the power of focus and discipline, but also in the value of exploration and following one's curiosity.
+            I've learned that good habits stack just like bad ones do, and that small, consistent actions can lead to significant
+            results over time. I'm constantly working to find the right balance between immediate gratification and long-term growth.
           </p>
           
           <h2>Connect with Me</h2>

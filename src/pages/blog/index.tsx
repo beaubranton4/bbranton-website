@@ -20,15 +20,17 @@ export default function Blog({}: BlogProps) {
   const router = useRouter();
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
+  const [searchQuery, setSearchQuery] = useState('');
   const [featuredPosts, setFeaturedPosts] = useState<{
     posts: PostData[];
     totalPosts: number;
     totalPages: number;
   }>({ posts: [], totalPosts: 0, totalPages: 0 });
   const [postsByMonth, setPostsByMonth] = useState<{ [key: string]: PostData[] }>({});
+  const [filteredPostsByMonth, setFilteredPostsByMonth] = useState<{ [key: string]: PostData[] }>({});
   
   // Get months for the sidebar - Only call Object.keys if postsByMonth is defined
-  const months = Object.keys(postsByMonth || {}).sort().reverse();
+  const months = Object.keys(filteredPostsByMonth || {}).sort().reverse();
 
   // Fetch posts data
   useEffect(() => {
@@ -45,11 +47,13 @@ export default function Blog({}: BlogProps) {
         const data = await response.json();
         setFeaturedPosts(data.featuredPosts || { posts: [], totalPosts: 0, totalPages: 0 });
         setPostsByMonth(data.postsByMonth || {});
+        setFilteredPostsByMonth(data.postsByMonth || {});
       } catch (error) {
         console.error('Error fetching posts:', error);
         // Set default values on error
         setFeaturedPosts({ posts: [], totalPosts: 0, totalPages: 0 });
         setPostsByMonth({});
+        setFilteredPostsByMonth({});
       } finally {
         setLoading(false);
       }
@@ -57,6 +61,31 @@ export default function Blog({}: BlogProps) {
     
     fetchPosts();
   }, [router.query.page]);
+  
+  // Filter posts based on search query
+  useEffect(() => {
+    if (!searchQuery.trim()) {
+      setFilteredPostsByMonth(postsByMonth);
+      return;
+    }
+    
+    const lowerCaseQuery = searchQuery.toLowerCase();
+    const filtered: { [key: string]: PostData[] } = {};
+    
+    Object.keys(postsByMonth).forEach(month => {
+      const matchingPosts = postsByMonth[month].filter(post => 
+        post.title.toLowerCase().includes(lowerCaseQuery) || 
+        post.excerpt?.toLowerCase().includes(lowerCaseQuery) || 
+        post.contentHtml?.toLowerCase().includes(lowerCaseQuery)
+      );
+      
+      if (matchingPosts.length > 0) {
+        filtered[month] = matchingPosts;
+      }
+    });
+    
+    setFilteredPostsByMonth(filtered);
+  }, [searchQuery, postsByMonth]);
 
   // Handle pagination
   const handlePageChange = (page: number) => {
@@ -94,19 +123,56 @@ export default function Blog({}: BlogProps) {
   return (
     <>
       <Head>
-        <title>Blog | Beau Branton</title>
-        <meta name="description" content="Thoughts, ideas, and writings by Beau Branton" />
+        <title>Journal | Beau Branton</title>
+        <meta name="description" content="Daily journal entries, thoughts, and reflections by Beau Branton" />
       </Head>
 
       <div className="max-w-5xl mx-auto">
-        <h1 className="text-4xl font-bold mb-8">Blog</h1>
+        <h1 className="text-4xl font-bold mb-8">Journal</h1>
+        
+        {/* Search bar */}
+        <div className="mb-8">
+          <div className="relative">
+            <input
+              type="text"
+              placeholder="Search journal entries..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="w-full px-4 py-2 pl-10 border border-gray-300 dark:border-gray-700 rounded-lg bg-white dark:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            />
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="h-5 w-5 absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+              />
+            </svg>
+            {searchQuery && (
+              <button
+                onClick={() => setSearchQuery('')}
+                className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+            )}
+          </div>
+        </div>
         
         <div className="flex flex-col md:flex-row gap-8">
           {/* Sidebar with monthly archives */}
           <div className="md:w-64 flex-shrink-0">
             <div className="sticky top-8">
               <h2 className="text-xl font-semibold mb-4">Archives</h2>
-              <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">Click a month to view posts</p>
+              <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">Click a month to view entries</p>
               {loading ? (
                 <p>Loading archives...</p>
               ) : months.length > 0 ? (
@@ -118,7 +184,7 @@ export default function Blog({}: BlogProps) {
                         className="text-gray-700 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 cursor-pointer flex items-center w-full text-left"
                       >
                         <span>{getMonthName(month)}</span>
-                        <span className="ml-2 text-gray-500 dark:text-gray-500">({postsByMonth[month].length})</span>
+                        <span className="ml-2 text-gray-500 dark:text-gray-500">({filteredPostsByMonth[month].length})</span>
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1 text-blue-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                         </svg>
@@ -129,12 +195,18 @@ export default function Blog({}: BlogProps) {
               ) : (
                 <p>No archives available</p>
               )}
+              
+              {searchQuery && months.length === 0 && (
+                <div className="mt-4 p-3 bg-yellow-50 dark:bg-yellow-900/20 text-yellow-800 dark:text-yellow-200 rounded-lg">
+                  <p>No entries match your search.</p>
+                </div>
+              )}
             </div>
           </div>
           
           {/* All posts in a continuous timeline */}
           <div className="flex-grow">
-            <h1 className="text-3xl font-bold mb-6">All Posts</h1>
+            <h1 className="text-3xl font-bold mb-6">Daily Entries</h1>
             
             {loading ? (
               <div className="py-12 text-center">
@@ -153,22 +225,65 @@ export default function Blog({}: BlogProps) {
                         <h2 className="text-2xl font-bold mb-3">
                           {post.title}
                         </h2>
-                        <time className="text-gray-600 dark:text-gray-400 text-base mb-4 block">
-                          {(() => {
-                            try {
-                              // Use the date directly from the frontmatter
-                              const dateStr = post.date;
-                              // Parse the date string manually to avoid timezone issues
-                              const [year, month, day] = dateStr.split('-').map(Number);
-                              const date = new Date(year, month - 1, day);
-                              return format(date, 'MMMM d, yyyy');
-                            } catch (error) {
-                              return post.date; // Fallback to the raw date string if formatting fails
-                            }
-                          })()}
-                        </time>
-                        <div className="blog-content mb-6">
+                        <div className="flex items-center mb-4">
+                          <time className="text-gray-600 dark:text-gray-400 text-base">
+                            {(() => {
+                              try {
+                                // Use the date directly from the frontmatter
+                                const dateStr = post.date;
+                                // Parse the date string manually to avoid timezone issues
+                                const [year, month, day] = dateStr.split('-').map(Number);
+                                const date = new Date(year, month - 1, day);
+                                return format(date, 'MMMM d, yyyy');
+                              } catch (error) {
+                                return post.date; // Fallback to the raw date string if formatting fails
+                              }
+                            })()}
+                          </time>
+                          {post.featured && (
+                            <span className="ml-3 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 text-xs px-2 py-1 rounded-full">
+                              Featured
+                            </span>
+                          )}
+                        </div>
+                        
+                        {post.excerpt && (
+                          <p className="text-gray-600 dark:text-gray-400 mb-4 italic">
+                            {post.excerpt}
+                          </p>
+                        )}
+                        
+                        <div className="blog-content mb-6 prose prose-lg dark:prose-invert max-w-none">
                           <div dangerouslySetInnerHTML={{ __html: post.contentHtml || '' }} />
+                        </div>
+                        
+                        <div className="flex flex-wrap gap-2 mt-6">
+                          {/* Extract topics from content for tags */}
+                          {(post.contentHtml || '').includes('Dugout Edge') && (
+                            <span className="bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 px-3 py-1 text-sm rounded-full">
+                              Dugout Edge
+                            </span>
+                          )}
+                          {(post.contentHtml || '').includes('baseball') && (
+                            <span className="bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-200 px-3 py-1 text-sm rounded-full">
+                              Baseball
+                            </span>
+                          )}
+                          {(post.contentHtml || '').includes('entrepreneur') && (
+                            <span className="bg-purple-100 dark:bg-purple-900/30 text-purple-800 dark:text-purple-200 px-3 py-1 text-sm rounded-full">
+                              Entrepreneurship
+                            </span>
+                          )}
+                          {(post.contentHtml || '').includes('health') && (
+                            <span className="bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-200 px-3 py-1 text-sm rounded-full">
+                              Health
+                            </span>
+                          )}
+                          {(post.contentHtml || '').includes('habit') && (
+                            <span className="bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-200 px-3 py-1 text-sm rounded-full">
+                              Habits
+                            </span>
+                          )}
                         </div>
                       </article>
                     ))}

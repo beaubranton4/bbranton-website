@@ -13,12 +13,16 @@ export default function Home() {
 
       <div className="max-w-3xl mx-auto py-12 px-4">
         <div className="flex flex-col md:flex-row items-center md:items-start gap-6 mb-12">
-          {/* Profile image - replace with your own image path */}
+          {/* Profile image */}
           <div className="w-32 h-32 rounded-full overflow-hidden bg-gray-200 flex-shrink-0">
-            {/* Replace with your profile image */}
-            <div className="w-full h-full flex items-center justify-center text-gray-400">
-              <span>Photo</span>
-            </div>
+            <Image 
+              src="/images/Beau Emoji Blue.png"
+              alt="Beau Branton emoji"
+              width={128}
+              height={128}
+              className="w-full h-full object-cover"
+              priority
+            />
           </div>
           
           <div>
@@ -117,10 +121,69 @@ export default function Home() {
         </div>
 
         {/* Brief bio */}
-        <div className="prose prose-lg dark:prose-invert max-w-none">
+        <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
           <p>
-            Hi,I'm Beau Branton, this website serves as a hub for my thoughts, writings, and projects. I don't take myself too seriously and neither should you. 
+            Hi, I'm Beau Branton. I'm a data analyst by day and entrepreneur by night. Baseball, health and fitness, hanging with friends and having fun. This website serves as a hub for my thoughts, writings, and projects. I'm passionate about building in public and documenting my journey as I work on various projects, particularly Dugout Edge — my SaaS tool for baseball and softball coaches.
           </p>
+        </div>
+        
+        {/* Currently Working On */}
+        <div className="mb-12">
+          <h2 className="text-2xl font-bold mb-4">Currently Working On</h2>
+          <div className="bg-gradient-to-r from-blue-50 to-cyan-50 dark:from-blue-900/20 dark:to-cyan-900/20 p-6 rounded-lg border border-blue-100 dark:border-blue-800">
+            <div className="flex items-center mb-3">
+              <div className="bg-blue-500 text-white text-xs px-2 py-1 rounded-full mr-2">ACTIVE</div>
+              <h3 className="text-xl font-semibold">Dugout Edge</h3>
+            </div>
+            <p className="mb-4 text-gray-700 dark:text-gray-300">
+              A SaaS platform for baseball and softball coaches with lineup generators, practice planners, and drill libraries. 
+              Currently building out the practice planner feature and expanding the drill library.
+            </p>
+            <a 
+              href="https://dugoutedge.com" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium inline-flex items-center"
+            >
+              View Project
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+              </svg>
+            </a>
+          </div>
+        </div>
+        
+        {/* Latest Journal Entries */}
+        <div className="mb-12">
+          <div className="flex justify-between items-center mb-4">
+            <h2 className="text-2xl font-bold">Latest Journal Entries</h2>
+            <Link href="/blog" className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium">
+              View All
+            </Link>
+          </div>
+          <div className="space-y-4">
+            <Link href="/blog" className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+              <time className="text-sm text-gray-500 dark:text-gray-400">October 20, 2025</time>
+              <h3 className="font-medium mt-1 mb-1">Sick Day</h3>
+              <p className="text-gray-600 dark:text-gray-400 text-sm line-clamp-2">
+                Taking a day off with Abby and reflecting on building in public with Dugout Edge.
+              </p>
+            </Link>
+            <Link href="/blog" className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+              <time className="text-sm text-gray-500 dark:text-gray-400">October 19, 2025</time>
+              <h3 className="font-medium mt-1 mb-1">Under the Weather</h3>
+              <p className="text-gray-600 dark:text-gray-400 text-sm line-clamp-2">
+                Dealing with sickness, reflecting on work habits, and reminiscing about Stanford baseball memories.
+              </p>
+            </Link>
+            <Link href="/blog" className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+              <time className="text-sm text-gray-500 dark:text-gray-400">October 18, 2025</time>
+              <h3 className="font-medium mt-1 mb-1">Reconnecting and Reflections</h3>
+              <p className="text-gray-600 dark:text-gray-400 text-sm line-clamp-2">
+                Catching up with Stanford baseball alumni, missing my dad's birthday, and making progress on Dugout Edge's practice plan feature.
+              </p>
+            </Link>
+          </div>
         </div>
       </div>
     </>
