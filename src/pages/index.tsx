@@ -16,7 +16,7 @@ export default function Home() {
           {/* Profile image */}
           <div className="w-32 h-32 rounded-full overflow-hidden bg-gray-200 flex-shrink-0">
             <Image 
-              src="/images/Beau Emoji Blue.png"
+              src="/images/Beau Emoji.jpeg"
               alt="Beau Branton emoji"
               width={128}
               height={128}
