@@ -123,7 +123,7 @@ export default function Home() {
         {/* Brief bio */}
         <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
           <p>
-            Hi, I'm Beau Branton. I'm a data analyst by day and entrepreneur by night. Baseball, health and fitness, hanging with friends and having fun. This website serves as a hub for my thoughts, writings, and projects. I'm passionate about building in public and documenting my journey as I work on various projects, particularly Dugout Edge — my SaaS tool for baseball and softball coaches.
+            Hi, my name is Beau Branton. I'm a data dude by day and wannabe entrepreneur by night. Former Professional Baseball Player. This website serves as a place to share for my thoughts, writings, and projects. Using AI to build products and share my journey in public.
           </p>
         </div>
         
