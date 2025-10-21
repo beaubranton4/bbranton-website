@@ -1,6 +1,6 @@
 ---
 title: 'Being the Funny Guy'
-date: '2025-09-18'
+date: '2025-09-19'
 excerpt: "I keep circling back to the idea of being a comedian. There’s something in me that lights up when I come across a hilarious video and think, “I could’ve made that.” Nothing gives me as much joy as making a witty wise crack comment."
 ---
 
@@ -10,7 +10,7 @@ And now, Portola is this weekend. Life just feels full right now. I’m grateful
 
 I keep going back and forth in my head: do I want to take what I’ve learned from building websites, apps, and vibe-coded projects into something brand new? Or should I just double down on Dugout Edge? It’s a niche I’m passionate about, something I actually care about, and it’s fun. The competition is low. My only hesitation is the market size—it feels small. But maybe I’m underestimating it. Maybe I can expand to leagues, college programs, high school coaches. The truth is, I don’t think I can afford to pivot right now. I should take Dugout Edge as far as it can go.
 
-One thing I’m disappointed in myself about: I still cave to some of my bad habits—junk food, smoking weed, even dumb stuff like picking at zits. I know these things hurt me, and I’m better than I was last year—I’ve made progress and I know how to quit—but I’m still not all the way there. Moderation has been good, but it’s still not the level I want. I need more urgency. No more “tomorrows.”
+One thing I’m disappointed in myself about: I still cave to some of my bad habits—junk food, drinking, smoking (only occasionally mom), even dumb stuff like picking at zits. I know these things hurt me, and I’m better than I was last year—I’ve made progress and I know how to quit—but I’m still not all the way there. Moderation has been good, but it’s still not the level I want. I need more urgency. No more “tomorrows.”
 
 On the flip side, I’ve been eating healthier overall, and that matters. But weekends derail me—greasy food binges, eating whatever’s around. Balance is hard. Still, I think I’m doing okay—probably in the top 20% of people in terms of taking care of myself. But I want to be in the top 5%—mentally, physically, spiritually.
 
