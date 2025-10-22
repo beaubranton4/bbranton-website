@@ -1,49 +1,73 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import Image from 'next/image';
+import ProfileSidebar from '../../components/ProfileSidebar';
 
 // My projects
 const projects = [
   {
     id: 'dugout-edge',
     title: 'Dugout Edge',
-    description: 'A SaaS platform for baseball and softball coaches with lineup generators, practice planners, and drill libraries. Currently at $120 MRR with 30+ paying customers and growing. Working on expanding features like the practice planner and drill library to provide more value to coaches.',
+    description: 'A SaaS platform for baseball and softball coaches with lineup generators, practice planners, and drill libraries.',
     tags: ['SaaS', 'Sports Tech', 'Subscription', 'Baseball'],
-    image: '/images/projects/dugout-edge.jpg',
+    image: '/images/dugout_edge_logo_transparent.png',
     link: 'https://dugoutedge.com',
+    revenue: '$1.2k+/mo',
     status: 'active',
   },
   {
     id: 'spend-my-stipend',
     title: 'Spend My Stipend',
-    description: 'An affiliate blog that helps employees figure out what to spend their employer-provided stipends on, including professional development, health and wellness, and remote work stipends. Built with SEO in mind to capture search traffic from people looking to use their company benefits.',
+    description: 'An affiliate blog that helps employees figure out what to spend their employer-provided stipends on.',
     tags: ['Affiliate Marketing', 'Blog', 'Employee Benefits', 'SEO'],
-    image: '/images/projects/spend-my-stipend.jpg',
+    image: '/images/spend-my-stipend-logo.png',
     link: 'https://spendmystipend.com',
+    revenue: '$30k+ total',
     status: 'completed',
   },
   {
     id: 'personal-website',
-    title: 'Personal Website',
-    description: 'My personal website built with Next.js and Tailwind CSS. A hub for my thoughts, writings, and projects where I document my journey building in public. Features a journal section with daily entries about entrepreneurship, personal growth, and building products.',
+    title: 'bbranton.com',
+    description: 'My personal website built with Next.js and Tailwind CSS. A hub for my thoughts, writings, and projects where I document my journey building in public.',
     tags: ['Next.js', 'React', 'Tailwind CSS', 'Personal Brand'],
-    image: '/images/projects/website.jpg',
+    image: '/images/Beau Emoji.jpeg',
     link: 'https://beaubranton.com',
     github: 'https://github.com/beaubranton/beaubranton.com',
+    revenue: 'Just started',
     status: 'active',
   },
   {
     id: 'startup-seeds',
     title: 'Startup Seeds',
-    description: 'A platform that uses LLMs to transcribe and summarize business ideas from top entrepreneurial podcasts, storing them in a searchable database. Designed to help entrepreneurs find inspiration and stay updated on emerging trends and opportunities.',
+    description: 'A platform that uses LLMs to transcribe and summarize business ideas from top entrepreneurial podcasts.',
     tags: ['AI', 'LLM', 'Podcast Transcription', 'Entrepreneurship'],
-    image: '/images/projects/startup-seeds.jpg',
+    image: '/images/startup-seeds.jpg',
     link: 'https://startupseeds.io',
+    revenue: 'Not revenue generating',
     status: 'planned',
   },
 ];
 
 // Project ideas from journal entries
 const projectIdeas = [
+  {
+    id: 'data-efficiency',
+    title: 'Data Efficiency Platform',
+    description: 'A platform that identifies and solves inefficiencies in modern data analytics workflows. Focus on streamlining data preparation, analysis automation, and making insights more accessible to non-technical stakeholders.',
+    tags: ['Data Analytics', 'SaaS', 'Automation', 'Business Intelligence'],
+  },
+  {
+    id: 'pacific-heights-social-club',
+    title: 'Pacific Heights Social Club',
+    description: 'An exclusive social club and co-working space in Pacific Heights, San Francisco. Combining workspace, wellness, and community in a beautiful historic building. Think Soho House meets modern tech workspace.',
+    tags: ['Physical Business', 'Real Estate', 'Community', 'San Francisco'],
+  },
+  {
+    id: 'wedding-planner-agent',
+    title: 'AI Wedding Planner',
+    description: 'An AI agent that handles wedding planning correspondence, vendor booking, budgeting, and communication to streamline the wedding planning process.',
+    tags: ['AI', 'Wedding Planning', 'Automation', 'SaaS'],
+  },
   {
     id: 'baseball-resort',
     title: 'Hawaii Baseball Resort',
@@ -72,115 +96,111 @@ export default function Projects() {
         <meta name="description" content="Projects and work by Beau Branton" />
       </Head>
 
-      <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold mb-8">Projects</h1>
-        <p className="text-xl mb-12">
-          Here's what I'm building and working on. I'm focused on creating useful tools that solve real problems.
-        </p>
+      <div className="min-h-screen bg-white dark:bg-gray-900">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="grid lg:grid-cols-3 gap-8 lg:gap-12 py-8 lg:py-16">
+            
+            {/* Left Column - Profile */}
+            <ProfileSidebar />
 
-        <h2 className="text-2xl font-bold mb-6">Active & Completed Projects</h2>
-        <div className="grid md:grid-cols-2 gap-8 mb-16">
-          {projects.map((project) => (
-            <div key={project.id} className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden border border-gray-100 dark:border-gray-700">
-              <div className="h-48 bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-blue-900/30 dark:to-indigo-900/30 flex items-center justify-center relative">
-                <span className="text-gray-500 dark:text-gray-400 font-medium">{project.title}</span>
-                {project.status && (
-                  <div className="absolute top-4 right-4">
-                    {project.status === 'active' && (
-                      <span className="bg-green-500 text-white text-xs px-2 py-1 rounded-full">ACTIVE</span>
-                    )}
-                    {project.status === 'completed' && (
-                      <span className="bg-blue-500 text-white text-xs px-2 py-1 rounded-full">COMPLETED</span>
-                    )}
-                    {project.status === 'planned' && (
-                      <span className="bg-purple-500 text-white text-xs px-2 py-1 rounded-full">PLANNED</span>
-                    )}
-                  </div>
-                )}
-              </div>
-              <div className="p-6">
-                <h2 className="text-2xl font-semibold mb-2">{project.title}</h2>
-                <p className="text-gray-600 dark:text-gray-400 mb-4">{project.description}</p>
-                
-                <div className="flex flex-wrap gap-2 mb-4">
-                  {project.tags.map((tag) => (
-                    <span 
-                      key={tag} 
-                      className="bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-gray-300 px-3 py-1 text-sm rounded-full"
-                    >
-                      {tag}
-                    </span>
-                  ))}
-                </div>
-                
-                <div className="flex space-x-4">
-                  <a 
-                    href={project.link} 
-                    target="_blank" 
-                    rel="noopener noreferrer" 
-                    className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 inline-flex items-center"
-                  >
-                    View Project
-                    <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                    </svg>
-                  </a>
-                  {project.github && (
-                    <a 
-                      href={project.github} 
-                      target="_blank" 
-                      rel="noopener noreferrer" 
-                      className="text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 inline-flex items-center"
-                    >
-                      GitHub
-                      <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
-                      </svg>
-                    </a>
-                  )}
-                </div>
-              </div>
-            </div>
-          ))}
-        </div>
-        
-        <h2 className="text-2xl font-bold mb-6">Project Ideas & Future Explorations</h2>
-        <div className="grid md:grid-cols-2 gap-6 mb-16">
-          {projectIdeas.map((idea) => (
-            <div key={idea.id} className="bg-white dark:bg-gray-800 rounded-lg p-6 border border-gray-100 dark:border-gray-700">
-              <div className="flex items-center mb-3">
-                <span className="bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-200 text-xs px-2 py-1 rounded-full">IDEA</span>
-                <h3 className="text-xl font-semibold ml-2">{idea.title}</h3>
-              </div>
-              <p className="text-gray-600 dark:text-gray-400 mb-4">{idea.description}</p>
+            {/* Right Column - Projects */}
+            <div className="lg:col-span-2">
               
-              <div className="flex flex-wrap gap-2">
-                {idea.tags.map((tag) => (
-                  <span 
-                    key={tag} 
-                    className="bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-gray-300 px-3 py-1 text-sm rounded-full"
-                  >
-                    {tag}
-                  </span>
+              {/* Projects List */}
+              <div className="space-y-6 mb-16">
+                {projects.map((project) => (
+                  <div key={project.id} className="group">
+                    <div className="flex items-start space-x-4 p-4 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-all duration-200">
+                      
+                      {/* Project Logo */}
+                      <div className="flex-shrink-0">
+                        <div className="w-16 h-16 rounded-lg overflow-hidden bg-gray-100 dark:bg-gray-800 flex items-center justify-center">
+                          <Image 
+                            src={project.image} 
+                            alt={project.title} 
+                            width={64} 
+                            height={64}
+                            className="w-full h-full object-cover rounded-lg"
+                          />
+                        </div>
+                      </div>
+                      
+                      {/* Project Info */}
+                      <div className="flex-grow min-w-0">
+                        <div className="flex items-center justify-between mb-2">
+                          <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                            {project.title}
+                          </h3>
+                          <span className="text-sm font-medium text-gray-900 dark:text-white bg-gray-100 dark:bg-gray-800 px-2 py-1 rounded">
+                            {project.revenue}
+                          </span>
+                        </div>
+                        
+                        <p className="text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed">
+                          {project.description}
+                        </p>
+                        
+                        {/* Tags */}
+                        <div className="flex flex-wrap gap-2 mb-3">
+                          {project.tags.slice(0, 3).map((tag) => (
+                            <span 
+                              key={tag} 
+                              className="text-xs px-2 py-1 bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400 rounded"
+                            >
+                              {tag}
+                            </span>
+                          ))}
+                        </div>
+                        
+                        {/* Links */}
+                        <div className="flex items-center space-x-4">
+                          <a 
+                            href={project.link} 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="text-blue-500 hover:text-blue-600 text-sm font-medium transition-colors"
+                          >
+                            Visit →
+                          </a>
+                          {project.github && (
+                            <a 
+                              href={project.github} 
+                              target="_blank" 
+                              rel="noopener noreferrer"
+                              className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 text-sm transition-colors"
+                            >
+                              GitHub
+                            </a>
+                          )}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 ))}
               </div>
+
+              {/* Project Ideas Section */}
+              <div>
+                <h2 className="text-2xl font-bold mb-8 text-gray-900 dark:text-white">
+                  Ideas I'd like to build
+                </h2>
+                
+                <div className="grid gap-4">
+                  {projectIdeas.map((idea) => (
+                    <div key={idea.id} className="p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-colors">
+                      <h3 className="font-semibold text-gray-900 dark:text-white mb-2">
+                        {idea.title}
+                      </h3>
+                      <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed">
+                        {idea.description}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+              
             </div>
-          ))}
-        </div>
-        
-        <div className="mt-12 bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 p-8 rounded-lg border border-blue-100 dark:border-blue-800">
-          <h2 className="text-2xl font-semibold mb-4">Have a project idea?</h2>
-          <p className="mb-4">
-            I'm always open to collaborating on interesting projects. Feel free to reach out if you have an idea you'd like to discuss!
-          </p>
-          <Link href="/about">
-            <span className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium inline-flex items-center">
-              Contact me
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-              </svg>
-            </span>
-          </Link>
+          </div>
         </div>
       </div>
     </>

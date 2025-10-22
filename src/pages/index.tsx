@@ -1,8 +1,65 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
+import ProfileSidebar from '../components/ProfileSidebar';
+import { useState, useEffect } from 'react';
+
+// Types
+interface PostData {
+  id: string;
+  date: string;
+  title: string;
+  excerpt: string;
+  contentHtml?: string;
+}
+
+// My active projects
+const activeProjects = [
+  {
+    id: 'dugout-edge',
+    title: 'Dugout Edge',
+    description: 'A SaaS platform for baseball and softball coaches with lineup generators, practice planners, and drill libraries.',
+    image: '/images/dugout_edge_logo_transparent.png',
+    link: 'https://dugoutedge.com',
+    revenue: '$1.2k+/mo',
+    status: 'active',
+  },
+  {
+    id: 'personal-website',
+    title: 'bbranton.com',
+    description: 'My personal website built with Next.js and Tailwind CSS. A hub for my thoughts, writings, and projects.',
+    image: '/images/Beau Emoji.jpeg',
+    link: 'https://beaubranton.com',
+    revenue: 'Just started',
+    status: 'active',
+  },
+];
 
 export default function Home() {
+  const [recentPosts, setRecentPosts] = useState<PostData[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchRecentPosts = async () => {
+      try {
+        const response = await fetch('/api/posts?page=1');
+        if (response.ok) {
+          const data = await response.json();
+          // Get the 3 most recent posts
+          const allPosts = Object.values(data.postsByMonth || {}).flat() as PostData[];
+          const sortedPosts = allPosts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+          setRecentPosts(sortedPosts.slice(0, 3));
+        }
+      } catch (error) {
+        console.error('Error fetching recent posts:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchRecentPosts();
+  }, []);
+
   return (
     <>
       <Head>
@@ -11,178 +68,133 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="max-w-3xl mx-auto py-12 px-4">
-        <div className="flex flex-col md:flex-row items-center md:items-start gap-6 mb-12">
-          {/* Profile image */}
-          <div className="w-32 h-32 rounded-full overflow-hidden bg-gray-200 flex-shrink-0">
-            <Image 
-              src="/images/Beau Emoji.jpeg"
-              alt="Beau Branton emoji"
-              width={128}
-              height={128}
-              className="w-full h-full object-cover"
-              priority
-            />
-          </div>
-          
-          <div>
-            <h1 className="text-3xl md:text-4xl font-bold mb-1">Beau Branton</h1>
-            <div className="flex items-center text-gray-600 dark:text-gray-400 mb-6">
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-              </svg>
-              San Francisco
-            </div>
-          </div>
-        </div>
+      <div className="min-h-screen bg-white dark:bg-gray-900">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="grid lg:grid-cols-3 gap-8 lg:gap-12 py-8 lg:py-16">
+            
+            {/* Left Column - Profile */}
+            <ProfileSidebar />
 
-        {/* Social links */}
-        <div className="flex flex-wrap gap-3 mb-8">
-          <a 
-            href="https://twitter.com/beaubranton" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            className="flex items-center gap-2 px-4 py-2 rounded-full border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-twitter" viewBox="0 0 16 16">
-              <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
-            </svg>
-            beaubranton
-          </a>
-          
-          <a 
-            href="https://github.com/beaubranton" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            className="flex items-center gap-2 px-4 py-2 rounded-full border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
-              <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
-            </svg>
-            beaubranton
-          </a>
-          
-          <a 
-            href="https://linkedin.com/in/beaubranton" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            className="flex items-center gap-2 px-4 py-2 rounded-full border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-linkedin" viewBox="0 0 16 16">
-              <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/>
-            </svg>
-            beaubranton
-          </a>
-          
-          <a 
-            href="mailto:hello@beaubranton.com" 
-            className="flex items-center gap-2 px-4 py-2 rounded-full border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-envelope" viewBox="0 0 16 16">
-              <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/>
-            </svg>
-            Email
-          </a>
-          
-          <Link href="/blog" className="flex items-center gap-2 px-4 py-2 rounded-full border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-journal-text" viewBox="0 0 16 16">
-              <path d="M5 10.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/>
-              <path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2z"/>
-              <path d="M1 5v-.5a.5.5 0 0 1 1 0V5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0V8h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0v.5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1z"/>
-            </svg>
-            Blog
-          </Link>
-        </div>
-
-        {/* Main call to actions */}
-        <div className="grid md:grid-cols-2 gap-6 mb-12">
-          <Link href="/blog" className="block">
-            <div className="bg-blue-50 dark:bg-blue-900/20 p-6 rounded-lg hover:bg-blue-100 dark:hover:bg-blue-900/30 transition-colors border-2 border-transparent hover:border-blue-300 dark:hover:border-blue-700 group">
-              <div className="flex justify-between items-center mb-2">
-                <h2 className="text-2xl font-bold">Read My Writing</h2>
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-blue-500 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-                </svg>
+            {/* Right Column - Content */}
+            <div className="lg:col-span-2">
+              
+              {/* Currently Working On */}
+              <div className="mb-12">
+                <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">
+                  Currently Working On
+                </h2>
+                
+                <div className="space-y-4">
+                  {activeProjects.map((project) => (
+                    <div key={project.id} className="group">
+                      <div className="flex items-start space-x-4 p-4 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-all duration-200">
+                        
+                        {/* Project Logo */}
+                        <div className="flex-shrink-0">
+                          <div className="w-16 h-16 rounded-lg overflow-hidden bg-gray-100 dark:bg-gray-800 flex items-center justify-center">
+                            <Image 
+                              src={project.image} 
+                              alt={project.title} 
+                              width={64} 
+                              height={64}
+                              className="w-full h-full object-cover rounded-lg"
+                            />
+                          </div>
+                        </div>
+                        
+                        {/* Project Info */}
+                        <div className="flex-grow min-w-0">
+                          <div className="flex items-center justify-between mb-2">
+                            <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                              {project.title}
+                            </h3>
+                            <span className="text-sm font-medium text-gray-900 dark:text-white bg-gray-100 dark:bg-gray-800 px-2 py-1 rounded">
+                              {project.revenue}
+                            </span>
+                          </div>
+                          
+                          <p className="text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed">
+                            {project.description}
+                          </p>
+                          
+                          <a 
+                            href={project.link} 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="text-blue-500 hover:text-blue-600 text-sm font-medium transition-colors"
+                          >
+                            Visit →
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+                
+                <div className="mt-6">
+                  <Link href="/projects" className="text-blue-500 hover:text-blue-600 text-sm font-medium">
+                    View all projects →
+                  </Link>
+                </div>
               </div>
-            </div>
-          </Link>
-          
-          <Link href="/projects" className="block">
-            <div className="bg-purple-50 dark:bg-purple-900/20 p-6 rounded-lg hover:bg-purple-100 dark:hover:bg-purple-900/30 transition-colors border-2 border-transparent hover:border-purple-300 dark:hover:border-purple-700 group">
-              <div className="flex justify-between items-center mb-2">
-                <h2 className="text-2xl font-bold">View My Projects</h2>
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-purple-500 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-                </svg>
-              </div>
-            </div>
-          </Link>
-        </div>
 
-        {/* Brief bio */}
-        <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
-          <p>
-            Hi, my name is Beau Branton. I'm a data dude by day and wannabe entrepreneur by night. Former Professional Baseball Player. This website serves as a place to share for my thoughts, writings, and projects. Using AI to build products and share my journey in public.
-          </p>
-        </div>
-        
-        {/* Currently Working On */}
-        <div className="mb-12">
-          <h2 className="text-2xl font-bold mb-4">Currently Working On</h2>
-          <div className="bg-gradient-to-r from-blue-50 to-cyan-50 dark:from-blue-900/20 dark:to-cyan-900/20 p-6 rounded-lg border border-blue-100 dark:border-blue-800">
-            <div className="flex items-center mb-3">
-              <div className="bg-blue-500 text-white text-xs px-2 py-1 rounded-full mr-2">ACTIVE</div>
-              <h3 className="text-xl font-semibold">Dugout Edge</h3>
+              {/* Latest Journal Entries */}
+              <div className="mb-12">
+                <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">
+                  Latest Journal Entries
+                </h2>
+                
+                {loading ? (
+                  <div className="space-y-4">
+                    {[1, 2, 3].map((i) => (
+                      <div key={i} className="p-4 border border-gray-200 dark:border-gray-700 rounded-lg animate-pulse">
+                        <div className="h-4 bg-gray-200 dark:bg-gray-700 rounded w-24 mb-2"></div>
+                        <div className="h-5 bg-gray-200 dark:bg-gray-700 rounded w-48 mb-2"></div>
+                        <div className="h-4 bg-gray-200 dark:bg-gray-700 rounded w-full"></div>
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <div className="space-y-4">
+                    {recentPosts.map((post) => (
+                      <Link key={post.id} href={`/blog/${post.id}`} className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+                        <time className="text-sm text-gray-500 dark:text-gray-400">
+                          {(() => {
+                            try {
+                              // Parse the date string manually to avoid timezone issues
+                              const [year, month, day] = post.date.split('-').map(Number);
+                              const date = new Date(year, month - 1, day);
+                              return date.toLocaleDateString('en-US', {
+                                year: 'numeric',
+                                month: 'long',
+                                day: 'numeric'
+                              });
+                            } catch (error) {
+                              return post.date; // Fallback to the raw date string if formatting fails
+                            }
+                          })()}
+                        </time>
+                        <h3 className="font-medium mt-1 mb-1 text-gray-900 dark:text-white">
+                          {post.title}
+                        </h3>
+                        {post.excerpt && (
+                          <p className="text-gray-600 dark:text-gray-400 text-sm line-clamp-2">
+                            {post.excerpt}
+                          </p>
+                        )}
+                      </Link>
+                    ))}
+                  </div>
+                )}
+                
+                <div className="mt-6">
+                  <Link href="/blog" className="text-blue-500 hover:text-blue-600 text-sm font-medium">
+                    Read more →
+                  </Link>
+                </div>
+              </div>
+              
             </div>
-            <p className="mb-4 text-gray-700 dark:text-gray-300">
-              A SaaS platform for baseball and softball coaches with lineup generators, practice planners, and drill libraries. 
-              Currently building out the practice planner feature and expanding the drill library.
-            </p>
-            <a 
-              href="https://dugoutedge.com" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium inline-flex items-center"
-            >
-              View Project
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-              </svg>
-            </a>
-          </div>
-        </div>
-        
-        {/* Latest Journal Entries */}
-        <div className="mb-12">
-          <div className="flex justify-between items-center mb-4">
-            <h2 className="text-2xl font-bold">Latest Journal Entries</h2>
-            <Link href="/blog" className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium">
-              View All
-            </Link>
-          </div>
-          <div className="space-y-4">
-            <Link href="/blog" className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
-              <time className="text-sm text-gray-500 dark:text-gray-400">October 20, 2025</time>
-              <h3 className="font-medium mt-1 mb-1">Sick Day</h3>
-              <p className="text-gray-600 dark:text-gray-400 text-sm line-clamp-2">
-                Taking a day off with Abby and reflecting on building in public with Dugout Edge.
-              </p>
-            </Link>
-            <Link href="/blog" className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
-              <time className="text-sm text-gray-500 dark:text-gray-400">October 19, 2025</time>
-              <h3 className="font-medium mt-1 mb-1">Under the Weather</h3>
-              <p className="text-gray-600 dark:text-gray-400 text-sm line-clamp-2">
-                Dealing with sickness, reflecting on work habits, and reminiscing about Stanford baseball memories.
-              </p>
-            </Link>
-            <Link href="/blog" className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
-              <time className="text-sm text-gray-500 dark:text-gray-400">October 18, 2025</time>
-              <h3 className="font-medium mt-1 mb-1">Reconnecting and Reflections</h3>
-              <p className="text-gray-600 dark:text-gray-400 text-sm line-clamp-2">
-                Catching up with Stanford baseball alumni, missing my dad's birthday, and making progress on Dugout Edge's practice plan feature.
-              </p>
-            </Link>
           </div>
         </div>
       </div>
