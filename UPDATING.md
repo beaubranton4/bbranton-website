@@ -1,3 +1,7 @@
+# Journal Prompt
+
+Please help me write a journal entry for today's date. I will tell you the date at the start of the entry. I am just going to speak at you and i want you to record things word for word. Try to keep the integrity of what I'm saying, just clean up whenever i make a mistake. I want this to be a journal entry of my most inner thoughts so only make small edits like punctuation, spelling and omit whenever i say something that doesn't make sense or i repeat myself.
+
 # How to Update Your Website Daily
 
 This guide explains how to add new blog posts to your website and manage which posts are featured on the main blog page.
