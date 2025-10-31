@@ -1,7 +1,7 @@
 import Image from 'next/image';
 
 interface ProfileSidebarProps {
-  className?: string;
+  className?: string;https
 }
 
 const ProfileSidebar = ({ className = '' }: ProfileSidebarProps) => {
@@ -24,16 +24,20 @@ const ProfileSidebar = ({ className = '' }: ProfileSidebarProps) => {
           </h1>
           
           <p className="text-lg text-gray-600 dark:text-gray-400 mb-8 leading-relaxed">
-            <em>solving my own little problems and sharing solutions with the world. can't code.</em>
+            <em>
+              solving my own little problems and sharing with the world. wasn't always a nerd.
+              <br /> <br />
+              former pro baseball player who retired with a <a href="https://www.milb.com/player/beau-branton-682092" target="_blank" rel="noopener noreferrer" className="underline text-blue-500 hover:text-blue-700">career batting average over .300</a>.
+            </em>
           </p>
           
           {/* Social Links */}
           <div className="space-y-3">
             <a 
-              href="https://twitter.com/beaubuildz" 
+              href="https://twitter.com/beaubranton" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="block text-blue-500 hover:text-blue-600 transition-colors"
+              className="block text-gray-600 hover:text-blue-600 transition-colors"
             >
               • twitter
             </a>

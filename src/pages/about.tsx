@@ -20,7 +20,9 @@ export default function About() {
           
           <h2>Background</h2>
           <p>
-            I'm a former Stanford baseball player with a passion for entrepreneurship, technology, and building useful products. 
+            I'm a former Stanford baseball player who went on to play professional baseball, retiring with a career batting average over .300. 
+            You can check out my stats on my <a href="https://www.mlb.com/player/beau-branton-682092?stats=career-r-hitting-minors" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300">MLB player page</a>. 
+            I have a passion for entrepreneurship, technology, and building useful products. 
             I currently work remotely in a role that gives me the flexibility to pursue my side projects and personal interests.
             I've always been drawn to the intersection of sports and technology, which has led me to create tools that solve 
             real problems for coaches and players.
