@@ -1,7 +1,7 @@
 import Image from 'next/image';
 
 interface ProfileSidebarProps {
-  className?: string;https
+  className?: string;
 }
 
 const ProfileSidebar = ({ className = '' }: ProfileSidebarProps) => {
