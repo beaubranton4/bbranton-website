@@ -5,7 +5,7 @@ excerpt: 'Reflections on a Halloween party, Meta Glasses ideas, Dugout Edge succ
 featured: true
 ---
 
-Third take's the charm.
+Third take's the charm. Wasted 20 minutes on this journal entry because Chat GPT "couldn't catch what i was saying". There must be some sort of limit on its audio capture mode.
 
 Had an incredible Halloween party last night — a Harry Potter–themed murder mystery with an electric outcome. Everyone was all in. The costumes were amazing, the energy was perfect, and the Meta Glasses made it even better. We captured some great POV videos that I'd love to share later — it really felt like stepping into another world for a night.
 
