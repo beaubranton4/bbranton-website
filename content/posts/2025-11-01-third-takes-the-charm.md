@@ -1,5 +1,5 @@
 ---
-title: 'Third Take's the Charm'
+title: 'Holy Shit it is November'
 date: '2025-11-01'
 excerpt: 'Reflections on a Halloween party, Meta Glasses ideas, Dugout Edge success, and the next wave of business opportunities — from smart glasses for baseball to AI-powered BI tools.'
 featured: true

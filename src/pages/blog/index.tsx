@@ -215,7 +215,7 @@ export default function Blog({}: BlogProps) {
                 
                 {/* All posts in a continuous timeline */}
                 <div className="flex-grow">
-                  <h1 className="text-3xl font-bold mb-6 text-gray-900 dark:text-white">Daily Entries</h1>
+                  <h1 className="text-3xl font-bold mb-6 text-gray-900 dark:text-white">Daily Journal Entries</h1>
                   
                   {loading ? (
                     <div className="py-12 text-center">

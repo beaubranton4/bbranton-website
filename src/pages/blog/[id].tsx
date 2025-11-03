@@ -65,7 +65,7 @@ export default function Post() {
         <p className="mb-8">Sorry, the post you're looking for doesn't exist.</p>
         <Link href="/blog">
           <span className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300">
-            ← Back to blog
+            ← Back to journal
           </span>
         </Link>
       </div>
@@ -76,14 +76,14 @@ export default function Post() {
     <>
       <Head>
         <title>{postData.title} | Beau Branton</title>
-        <meta name="description" content={`${postData.title} - Blog post by Beau Branton`} />
+        <meta name="description" content={`${postData.title} - Journal entry by Beau Branton`} />
       </Head>
 
       <article className="max-w-3xl mx-auto">
         <header className="mb-12">
           <Link href="/blog">
             <span className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 mb-6 inline-block">
-              ← Back to blog
+              ← Back to journal
             </span>
           </Link>
           <h1 className="text-4xl font-bold mb-4">{postData.title}</h1>

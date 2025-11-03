@@ -26,17 +26,6 @@ const projects = [
     status: 'completed',
   },
   {
-    id: 'personal-website',
-    title: 'bbranton.com',
-    description: 'My personal website built with Next.js and Tailwind CSS. A hub for my thoughts, writings, and projects where I document my journey building in public.',
-    tags: ['Next.js', 'React', 'Tailwind CSS', 'Personal Brand'],
-    image: '/images/Beau Emoji.jpeg',
-    link: 'https://beaubranton.com',
-    github: 'https://github.com/beaubranton/beaubranton.com',
-    revenue: 'Just started',
-    status: 'active',
-  },
-  {
     id: 'startup-seeds',
     title: 'Startup Seeds',
     description: 'A platform that uses LLMs to transcribe and summarize business ideas from top entrepreneurial podcasts.',
@@ -114,13 +103,21 @@ export default function Projects() {
                       
                       {/* Project Logo */}
                       <div className="flex-shrink-0">
-                        <div className="w-16 h-16 rounded-lg overflow-hidden bg-gray-100 dark:bg-gray-800 flex items-center justify-center">
+                        <div className={`w-16 h-16 rounded-lg overflow-hidden flex items-center justify-center ${
+                          project.id === 'dugout-edge' 
+                            ? 'bg-white dark:bg-gray-900' 
+                            : 'bg-gray-100 dark:bg-gray-800'
+                        }`}>
                           <Image 
                             src={project.image} 
                             alt={project.title} 
                             width={64} 
                             height={64}
-                            className="w-full h-full object-cover rounded-lg"
+                            className={`${
+                              project.id === 'dugout-edge' 
+                                ? 'w-12 h-12 object-contain p-1' 
+                                : 'w-full h-full object-cover'
+                            } rounded-lg`}
                           />
                         </div>
                       </div>
