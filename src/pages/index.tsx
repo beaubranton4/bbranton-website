@@ -21,7 +21,7 @@ const activeProjects = [
     description: 'A SaaS platform for baseball and softball coaches with lineup generators, practice planners, and drill libraries.',
     image: '/images/dugout_edge_logo_transparent.png',
     link: 'https://dugoutedge.com',
-    revenue: '$1.2k+/mo',
+    revenue: '$150+/mo',
     status: 'active',
   },
 ];
@@ -75,15 +75,15 @@ export default function Home() {
                   Currently Working On
                 </h2>
                 
-                <div className="space-y-4">
+                <div className="space-y-6">
                   {activeProjects.map((project) => (
                     <div key={project.id} className="group">
-                      <div className="flex items-start space-x-4 p-4 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-all duration-200">
+                      <div className="flex items-start space-x-4 p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 hover:shadow-sm transition-all duration-200">
                         
                         {/* Project Logo */}
                         <div className="flex-shrink-0">
                           <div className={`w-16 h-16 rounded-lg overflow-hidden flex items-center justify-center ${
-                            project.id === 'dugout-edge' 
+                            ['dugout-edge', 'spend-my-stipend', 'startup-seeds'].includes(project.id)
                               ? 'bg-white dark:bg-gray-900' 
                               : 'bg-gray-100 dark:bg-gray-800'
                           }`}>
@@ -93,7 +93,7 @@ export default function Home() {
                               width={64} 
                               height={64}
                               className={`${
-                                project.id === 'dugout-edge' 
+                                ['dugout-edge', 'spend-my-stipend', 'startup-seeds'].includes(project.id)
                                   ? 'w-12 h-12 object-contain p-1' 
                                   : 'w-full h-full object-cover'
                               } rounded-lg`}
@@ -156,11 +156,10 @@ export default function Home() {
                 ) : (
                   <div className="space-y-4">
                     {recentPosts.map((post) => (
-                      <Link key={post.id} href={`/blog/${post.id}`} className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
-                        <time className="text-sm text-gray-500 dark:text-gray-400">
+                      <Link key={post.id} href={`/blog/${post.id}`} className="block p-6 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800/50 hover:border-gray-300 dark:hover:border-gray-600 transition-all duration-200 group">
+                        <time className="text-sm text-gray-500 dark:text-gray-400 font-medium">
                           {(() => {
                             try {
-                              // Parse the date string manually to avoid timezone issues
                               const [year, month, day] = post.date.split('-').map(Number);
                               const date = new Date(year, month - 1, day);
                               return date.toLocaleDateString('en-US', {
@@ -169,15 +168,15 @@ export default function Home() {
                                 day: 'numeric'
                               });
                             } catch (error) {
-                              return post.date; // Fallback to the raw date string if formatting fails
+                              return post.date;
                             }
                           })()}
                         </time>
-                        <h3 className="font-medium mt-1 mb-1 text-gray-900 dark:text-white">
+                        <h3 className="font-semibold text-lg mt-2 mb-2 text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
                           {post.title}
                         </h3>
                         {post.excerpt && (
-                          <p className="text-gray-600 dark:text-gray-400 text-sm line-clamp-2">
+                          <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed line-clamp-2">
                             {post.excerpt}
                           </p>
                         )}

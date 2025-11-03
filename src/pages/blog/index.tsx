@@ -230,69 +230,80 @@ export default function Blog({}: BlogProps) {
                           </h3>
                           
                           {postsByMonth[month].map((post) => (
-                            <article key={post.id} id={post.id} className="mb-16 pb-16 border-b last:border-0">
-                              <h2 className="text-2xl font-bold mb-3 text-gray-900 dark:text-white">
-                                {post.title}
-                              </h2>
-                              <div className="flex items-center mb-4">
-                                <time className="text-gray-600 dark:text-gray-400 text-base">
+                            <article key={post.id} id={post.id} className="mb-16 pb-16 border-b border-gray-200 dark:border-gray-700 last:border-0">
+                              <Link href={`/blog/${post.id}`} className="group">
+                                <h2 className="text-2xl lg:text-3xl font-bold mb-3 text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                                  {post.title}
+                                </h2>
+                              </Link>
+                              <div className="flex items-center mb-5">
+                                <time className="text-gray-600 dark:text-gray-400 text-base font-medium">
                                   {(() => {
                                     try {
-                                      // Use the date directly from the frontmatter
                                       const dateStr = post.date;
-                                      // Parse the date string manually to avoid timezone issues
                                       const [year, month, day] = dateStr.split('-').map(Number);
                                       const date = new Date(year, month - 1, day);
                                       return format(date, 'MMMM d, yyyy');
                                     } catch (error) {
-                                      return post.date; // Fallback to the raw date string if formatting fails
+                                      return post.date;
                                     }
                                   })()}
                                 </time>
                                 {post.featured && (
-                                  <span className="ml-3 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 text-xs px-2 py-1 rounded-full">
-                                    Featured
-                                  </span>
+                                  <>
+                                    <span className="mx-3 text-gray-400 dark:text-gray-500">•</span>
+                                    <span className="bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 text-xs font-medium px-3 py-1 rounded-full">
+                                      Featured
+                                    </span>
+                                  </>
                                 )}
                               </div>
                               
                               {post.excerpt && (
-                                <p className="text-gray-600 dark:text-gray-400 mb-4 italic">
+                                <p className="text-gray-600 dark:text-gray-400 mb-6 italic text-lg leading-relaxed">
                                   {post.excerpt}
                                 </p>
                               )}
                               
-                              <div className="blog-content mb-6 prose prose-lg dark:prose-invert max-w-none">
+                              <div className="blog-content mb-6 prose prose-lg dark:prose-invert max-w-none prose-headings:text-gray-900 dark:prose-headings:text-white prose-p:text-gray-700 dark:prose-p:text-gray-300 prose-p:leading-relaxed line-clamp-3">
                                 <div dangerouslySetInnerHTML={{ __html: post.contentHtml || '' }} />
                               </div>
                               
-                              <div className="flex flex-wrap gap-2 mt-6">
-                                {/* Extract topics from content for tags */}
-                                {(post.contentHtml || '').includes('Dugout Edge') && (
-                                  <span className="bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 px-3 py-1 text-sm rounded-full">
-                                    Dugout Edge
-                                  </span>
-                                )}
-                                {(post.contentHtml || '').includes('baseball') && (
-                                  <span className="bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-200 px-3 py-1 text-sm rounded-full">
-                                    Baseball
-                                  </span>
-                                )}
-                                {(post.contentHtml || '').includes('entrepreneur') && (
-                                  <span className="bg-purple-100 dark:bg-purple-900/30 text-purple-800 dark:text-purple-200 px-3 py-1 text-sm rounded-full">
-                                    Entrepreneurship
-                                  </span>
-                                )}
-                                {(post.contentHtml || '').includes('health') && (
-                                  <span className="bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-200 px-3 py-1 text-sm rounded-full">
-                                    Health
-                                  </span>
-                                )}
-                                {(post.contentHtml || '').includes('habit') && (
-                                  <span className="bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-200 px-3 py-1 text-sm rounded-full">
-                                    Habits
-                                  </span>
-                                )}
+                              <div className="flex items-center justify-between mt-6">
+                                <div className="flex flex-wrap gap-2">
+                                  {/* Extract topics from content for tags */}
+                                  {(post.contentHtml || '').includes('Dugout Edge') && (
+                                    <span className="bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 px-3 py-1 text-sm rounded-full font-medium">
+                                      Dugout Edge
+                                    </span>
+                                  )}
+                                  {(post.contentHtml || '').includes('baseball') && (
+                                    <span className="bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-200 px-3 py-1 text-sm rounded-full font-medium">
+                                      Baseball
+                                    </span>
+                                  )}
+                                  {(post.contentHtml || '').includes('entrepreneur') && (
+                                    <span className="bg-purple-100 dark:bg-purple-900/30 text-purple-800 dark:text-purple-200 px-3 py-1 text-sm rounded-full font-medium">
+                                      Entrepreneurship
+                                    </span>
+                                  )}
+                                  {(post.contentHtml || '').includes('health') && (
+                                    <span className="bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-200 px-3 py-1 text-sm rounded-full font-medium">
+                                      Health
+                                    </span>
+                                  )}
+                                  {(post.contentHtml || '').includes('habit') && (
+                                    <span className="bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-200 px-3 py-1 text-sm rounded-full font-medium">
+                                      Habits
+                                    </span>
+                                  )}
+                                </div>
+                                <Link 
+                                  href={`/blog/${post.id}`}
+                                  className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium text-sm transition-colors"
+                                >
+                                  Read more →
+                                </Link>
                               </div>
                             </article>
                           ))}

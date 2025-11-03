@@ -12,7 +12,7 @@ const projects = [
     tags: ['SaaS', 'Sports Tech', 'Subscription', 'Baseball'],
     image: '/images/dugout_edge_logo_transparent.png',
     link: 'https://dugoutedge.com',
-    revenue: '$1.2k+/mo',
+    revenue: '$150+/mo',
     status: 'active',
   },
   {
@@ -96,15 +96,15 @@ export default function Projects() {
             <div className="lg:col-span-2">
               
               {/* Projects List */}
-              <div className="space-y-6 mb-16">
+              <div className="space-y-8 mb-16">
                 {projects.map((project) => (
                   <div key={project.id} className="group">
-                    <div className="flex items-start space-x-4 p-4 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-all duration-200">
+                    <div className="flex items-start space-x-4 p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 hover:shadow-md transition-all duration-200">
                       
                       {/* Project Logo */}
                       <div className="flex-shrink-0">
                         <div className={`w-16 h-16 rounded-lg overflow-hidden flex items-center justify-center ${
-                          project.id === 'dugout-edge' 
+                          ['dugout-edge', 'spend-my-stipend', 'startup-seeds'].includes(project.id)
                             ? 'bg-white dark:bg-gray-900' 
                             : 'bg-gray-100 dark:bg-gray-800'
                         }`}>
@@ -114,7 +114,7 @@ export default function Projects() {
                             width={64} 
                             height={64}
                             className={`${
-                              project.id === 'dugout-edge' 
+                              ['dugout-edge', 'spend-my-stipend', 'startup-seeds'].includes(project.id)
                                 ? 'w-12 h-12 object-contain p-1' 
                                 : 'w-full h-full object-cover'
                             } rounded-lg`}
