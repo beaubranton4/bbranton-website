@@ -176,7 +176,7 @@ export default function Home() {
                           {post.title}
                         </h3>
                         {post.excerpt && (
-                          <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed line-clamp-2">
+                          <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed overflow-hidden" style={{ display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical' }}>
                             {post.excerpt}
                           </p>
                         )}

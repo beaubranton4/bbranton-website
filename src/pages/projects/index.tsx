@@ -3,8 +3,21 @@ import Link from 'next/link';
 import Image from 'next/image';
 import ProfileSidebar from '../../components/ProfileSidebar';
 
+// Project type
+interface Project {
+  id: string;
+  title: string;
+  description: string;
+  tags: string[];
+  image: string;
+  link: string;
+  revenue: string;
+  status: string;
+  github?: string;
+}
+
 // My projects
-const projects = [
+const projects: Project[] = [
   {
     id: 'dugout-edge',
     title: 'Dugout Edge',

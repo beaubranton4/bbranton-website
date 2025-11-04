@@ -265,7 +265,7 @@ export default function Blog({}: BlogProps) {
                                 </p>
                               )}
                               
-                              <div className="blog-content mb-6 prose prose-lg dark:prose-invert max-w-none prose-headings:text-gray-900 dark:prose-headings:text-white prose-p:text-gray-700 dark:prose-p:text-gray-300 prose-p:leading-relaxed line-clamp-3">
+                              <div className="blog-content mb-6 prose prose-lg dark:prose-invert max-w-none prose-headings:text-gray-900 dark:prose-headings:text-white prose-p:text-gray-700 dark:prose-p:text-gray-300 prose-p:leading-relaxed overflow-hidden" style={{ display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical' }}>
                                 <div dangerouslySetInnerHTML={{ __html: post.contentHtml || '' }} />
                               </div>
                               
