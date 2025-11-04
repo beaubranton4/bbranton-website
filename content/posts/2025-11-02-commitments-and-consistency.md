@@ -47,7 +47,49 @@ WHAT I USE CURSOR FOR:
 - Querying data via MCP's
     - Use the supabase mcp to figure out
     - Use the stripe mcp to figure out
-    
+
+
+I'm committing to use this as my notepad. 
+
+Take all notes in notepad, and organize them into a site for you that you can share or keep secret. But it's a publicized log of your deepest inner thoughts. For the public and for you. There's a business idea in there...
+
+
+anyways - i'm I'm going to Switzerland at the end of this month with my family.  I used chatGPT to help me plan this and I asked it what the weather is going to be like in November because it needs context about what time so it can tell me what sort of weather I'm going to be facing. I asked it.
+
+"Help me plan for my trip to Switzerland. What are some things that I need to bring? I'm going to be going on the day after Thanksgiving, so end of April, first week of December 2025. Please tell me what I need to know, what I need to pack. We're going to be going to Zurich, um, Interlochen, Grindelwald, Lucerne"
+
+it responded:
+
+Base layer
+	•	Thermal top and leggings (merino or synthetic)
+	•	Wool or moisture-wicking socks
+
+Middle layer
+	•	Fleece or lightweight down jacket
+	•	Sweaters (merino wool if possible)
+
+Outer layer
+	•	Insulated waterproof jacket (essential)
+	•	Waterproof pants or snow pants (if hiking or skiing)
+	•	Beanie, gloves, scarf
+	•	Warm, waterproof boots with traction
+
+City casual (Zurich/Lucerne)
+	•	Jeans or warm pants
+	•	Casual sweater + peacoat or down jacket
+	•	Stylish sneakers or boots for walking
+
+Extras
+	•	Warm pajamas
+	•	Swimsuit (some hotels have spas or hot springs)
+	•	Compact umbrella
 
 
 
+
+Sot hen with that list i'm saying what do i already own. Then what's remaining is my shopping list. So here are the things that I need to bring based on the weather that I don't yet own.
+
+- Merino Wool Base Layer
+- Wool Socks for cold (base layer)
+- Water proof pants and jacket,
+- Heavy Jacket
