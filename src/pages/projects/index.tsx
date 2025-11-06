@@ -48,6 +48,17 @@ const projects: Project[] = [
     revenue: 'Not revenue generating',
     status: 'planned',
   },
+  {
+    id: 'vwap-short-spike-strategy',
+    title: 'Autonomous Trading Bot',
+    description: 'A fully autonomous stock trading bot that identified an edge in shorting low-float stocks after VWAP price spikes. Successfully backtested but shut down due to inability to borrow the extremely low float stocks required for execution in live trading.',
+    tags: ['Algorithmic Trading', 'Stock Trading', 'Backtesting', 'Python'],
+    image: '/images/Beau Emoji Blue.png',
+    link: 'https://github.com/beaubranton/vwap_short_spike_strategy',
+    revenue: 'Not revenue generating',
+    status: 'completed',
+    github: 'https://github.com/beaubranton/vwap_short_spike_strategy',
+  },
 ];
 
 // Project ideas from journal entries
@@ -117,7 +128,7 @@ export default function Projects() {
                       {/* Project Logo */}
                       <div className="flex-shrink-0">
                         <div className={`w-16 h-16 rounded-lg overflow-hidden flex items-center justify-center ${
-                          ['dugout-edge', 'spend-my-stipend', 'startup-seeds'].includes(project.id)
+                          ['dugout-edge', 'spend-my-stipend', 'startup-seeds', 'vwap-short-spike-strategy'].includes(project.id)
                             ? 'bg-white dark:bg-gray-900' 
                             : 'bg-gray-100 dark:bg-gray-800'
                         }`}>
@@ -127,7 +138,7 @@ export default function Projects() {
                             width={64} 
                             height={64}
                             className={`${
-                              ['dugout-edge', 'spend-my-stipend', 'startup-seeds'].includes(project.id)
+                              ['dugout-edge', 'spend-my-stipend', 'startup-seeds', 'vwap-short-spike-strategy'].includes(project.id)
                                 ? 'w-12 h-12 object-contain p-1' 
                                 : 'w-full h-full object-cover'
                             } rounded-lg`}
