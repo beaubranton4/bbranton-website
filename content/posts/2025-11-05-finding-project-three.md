@@ -56,6 +56,9 @@ I like being presented with a problem with a simple clear cut objective and solv
 ### Big AI Ideas That Can Change Industries
 
 *To be filled in...*
+Churn Agent. Collects data from stripe on which users are churning. Proactively emails them and collects data on how to save these users. Offers free months, discount offers.
+
+Another huge issue I face is when I have something related to my house or my car that's slightly complicated in nature that I need to hire an expert or professional to come check out. They have to come do an inspection, provide a quote, figure out what's wrong, and then they often quote on parts and labor. There's absolutely no way for me to know if they're scamming me or if they're telling the truth. And I'm sure this happens to a lot of different homeowners. How can I fix that problem? What is the solution here?
 
 Self Fulfilling To-Do List
 
@@ -66,6 +69,7 @@ Something related to data and analytics.
 Something to help indiehackers and vibe coders
 Something related to baseball
 Something related to in person businesses near pac heights or honolulu
+    - ice chest coolers. For $50 deliver a cooler full of ice in a big yeti cooler at a specified time. Upsell if you want items, we can put anything perishable in there for you.
 Something for homeowners
 Something for people to wear on their head.
 
@@ -88,6 +92,7 @@ Start mefa needles in the U.S.
 Analog store
 Another Trading Bot
 Save Money Bot (chinesejew.com) - knows what you buy. if it goes on sale before the return window, it will get the refund for you. only pay us, 25% of what you save.
+Analyze the optimal swing path and bat angle for every pitch location using data. Then create a machine or a software that will provide feedback or force you to create that swing path
 
 
 
