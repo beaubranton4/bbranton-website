@@ -86,6 +86,11 @@ In No particular order:
 
 1. Funny cards e-commerce store
 2. Workout Hats
-3.lymphatic massage directory site
+3. lymphatic massage directory site (https://booksy.com/)
 4. Cooler Rental
-5. Financing For Emergency Servies (10% lift in volume. You get paid. That's it. We deal with the customer)
+
+
+Additional Ideas:
+
+5. Financing For Emergency Services (10% lift in volume. You get paid. That's it. We deal with the customer)
+6. Use Go High Level and build CRM's/Scheduling Software for people in specific niches like baseball batting cage rentals.
