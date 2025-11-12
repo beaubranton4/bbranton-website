@@ -48,4 +48,11 @@ Should I pick any of these ideas? I know workout hats is a personal pain point o
 I'm also kind of struggling with the question, should I take many small swings? Build little internet tools like the lineup generator, maybe some of these other websites and just let them ride. They're almost like little businesses on autopilot. Or do I build something bigger where I have real customers paying me real money and my ass is on the line, but the potential for profit is way larger. I don't know. I don't know. Hit singles or hit dingers?
 
 
+2 Final Thoughts from Listening to My First Million Episode with Andrew Wilkinson:
+
+Productize myself like Jesse Eitzler (don't feel the need to put myself in a box - you can reinvent yourself as many times as you need or want)
+
+Do interesting things that fill the soul.
+
+
 
