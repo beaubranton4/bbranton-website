@@ -29,6 +29,14 @@ So here's that section for that:
 2. To-Do List/Journal/AI Agent
 3. Saving costs on data refresh and maintaining data pipelines
 
+
+And then one last attempt at - problems i face as a data analyst/professional:
+
+1.
+2.
+3.
+
+
 Once I have this final list of items and ideas to work on, I should do a little bit of research and then that'll help me pick, you know, which one to really focus on here. I think I should also ultimately just, I think I should just go for one really. I can keep the others on the back burner, maybe by the website, maybe spin it up just to see if it starts ranking for any articles. But I think I should really have an order and focus on one.
 
 I'm still really struggling with whether or not I need to just focus on dugout edge. If I need to expand and kind of hedge my bets, just try out some of these other ideas. A lot of these ideas are simpler ideas where the product is not necessarily as difficult to build, although they, a lot of them do have more of a real life component to them. So I will need to eventually create a card or eventually create a hat or contact real massage partners that do lymphatic massages or actually have a cooler and store those coolers and load those coolers with ice. Although I can partner with companies like REI, Sports Basement, etc. to store or supply those. Yeah, I'm not 100% sure. Do I pick one? Do I pick few? Do I go for them all? It's the paradox of choice, right? Should I pick any of these ideas? I know workout hats is a personal pain point of mine. It's like good looking, good fitting, hats created and designed for working out. So maybe that's where I start. Maybe I just go all in on dugout edge, right? All of this time that I'm putting into some of these other websites, I could definitely be putting into dugout edge.
