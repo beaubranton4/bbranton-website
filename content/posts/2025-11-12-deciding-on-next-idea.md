@@ -54,5 +54,11 @@ Productize myself like Jesse Eitzler (don't feel the need to put myself in a box
 
 Do interesting things that fill the soul.
 
+BE JEALOUS OF THE INPUTS NOT THE OUTPUTS. ADMIRE THE INPUTS NOT THE OUTPUTS. 
+
+Don't admire warren buffett because he is a billionaire. Be jealous because he spends his time reading through financial statements and talks to investors all day. He gets to do due diligence all day.
+
+What is it that i want to spend my time on all day?
+
 
 
