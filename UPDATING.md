@@ -1,3 +1,7 @@
+Personal Website Inspo:
+
+https://www.michelle-valentine.com/
+
 # Journal Prompt
 
 Please help me write a journal entry for today's date. I will tell you the date at the start of the entry. I am just going to speak at you and i want you to record things word for word. Try to keep the integrity of what I'm saying and hardly change the text, just clean up whenever i make a mistake or don't make sense. I want this to be a journal entry of my most inner thoughts so only make small edits like punctuation, spelling and omit whenever i say something that doesn't make sense or i repeat myself.
@@ -92,6 +96,25 @@ For a consistent daily posting workflow:
 2. Add the frontmatter with title, date, excerpt, and featured status
 3. Write your content
 4. Save and deploy
+
+## Using the Transcription Script
+
+You can automate the entire workflow from a single audio or video file:
+
+1. Install the Python dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+2. Store your OpenAI key in `.env.local` (ignored by git):
+   ```
+   OPENAI_API_KEY=sk-...
+   ```
+3. Run the script, pointing it at your recording:
+   ```
+   python scripts/transcribe_journal.py path/to/recording.m4a --date 2025-11-12
+   ```
+   - The script transcribes the file, cleans up the wording with your preferred prompt, copies the media into `public/audio` or `public/videos`, and creates a Markdown post in `content/posts`.
+   - Use `--title` or `--excerpt` to override the generated values, and `--no-featured` if you do not want the post featured. Add `--commit` to automatically stage and commit the new files (`--push` will also push the commit).
 
 ## Tips for Consistent Posting
 

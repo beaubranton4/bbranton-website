@@ -27,6 +27,10 @@ export default function About() {
             I've always been drawn to the intersection of sports and technology, which has led me to create tools that solve 
             real problems for coaches and players.
           </p>
+          <p>
+            I was born in Saudi Arabia while my parents worked for Aramco, spent my formative years running around Honolulu, and graduated from Punahou School before heading to Stanford. 
+            Those different environments taught me how to adapt, stay curious, and mix island calm with Silicon Valley pace. These days I call San Francisco home.
+          </p>
           
           <h2>What I Do</h2>
           <p>
