@@ -4,7 +4,7 @@ https://www.michelle-valentine.com/
 
 # Journal Prompt
 
-Please help me write a journal entry for today's date. I will tell you the date at the start of the entry. I am just going to speak at you and i want you to record things word for word. Try to keep the integrity of what I'm saying and hardly change the text, just clean up whenever i make a mistake or don't make sense. I want this to be a journal entry of my most inner thoughts so only make small edits like punctuation, spelling and omit whenever i say something that doesn't make sense or i repeat myself.
+Please help me write a journal entry for today's date. I will tell you the date at the start of the entry. I am just going to speak at you and i want you to record things word for word. Try to keep the integrity and nearly use what i write word for word. just clean up whenever i make a mistake or whatever i said doesn't make sense. I want this to be a journal entry of my most inner thoughts so only make small edits like punctuation, spelling and omit whenever i say something that doesn't make sense or i repeat myself or if sentence structure could be improved.
 
 # How to Update Your Website Daily
 
