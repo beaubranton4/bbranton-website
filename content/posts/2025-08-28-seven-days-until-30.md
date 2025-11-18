@@ -26,31 +26,3 @@ And I know myself—I thrive when I have a singular focus. I don't stop until th
 If I do, I already have a plan in mind. The smart thing would be to make an announcement on social media—let people know I'm taking the leap. From there, I'd start building in public. Every day I'd share something: maybe a picture of me writing, maybe a snippet of these journal entries, maybe just raw thoughts on what I'm learning or what I'm building. I'd put it all out there for people to follow along.
 
 I think it would resonate. There are so many people out there who dream of making the jump but are too scared, and I'd be someone they could root for—someone in the middle of it, not polished or "made" yet, but striving. It's relatable. It's real. And being in that uncomfortable position, fully exposed, would force me to succeed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
