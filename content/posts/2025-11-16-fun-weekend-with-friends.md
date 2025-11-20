@@ -5,7 +5,7 @@ excerpt: 'A weekend of socializing, drinking, and reflection on balance — cele
 featured: true
 ---
 
-The date is November 16th, 2025. Sunday. Really fun weekend with friends. Went to encasements Friday night and hung out in the Mission, got a Boosties. Saturday night went to Camp's housewarming. Then hung out at Alex and Giovi's house. Again, really just too much drinking, but it's also so darn fun.
+The date is November 16th, 2025. Sunday. Really fun weekend with friends. Went to encasements Friday night and hung out in the Mission, got pupusas. Saturday night went to Cam's housewarming. Then hung out at Alex and Jodie's house. Again, really just too much drinking, but it's also so darn fun.
 
 At a crossroads here. One of our other friends is doing a half month sober on everything. Two years off of nicotine. Six months off of hard stuff. In any case, a little bit of a waste of a weekend outside of the social aspect, but you pick and choose your battles.
 

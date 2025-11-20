@@ -1,0 +1,21 @@
+---
+title: 'Getting Into the Flow'
+date: '2025-11-20'
+excerpt: 'Reflecting on enjoying entrepreneurial work, the importance of direction over just movement, and how past "wasteful" projects are connecting the dots in my story.'
+featured: true
+---
+
+The date is November 20th, 2025. I'm starting to really get into the habit and the flow of working on these entrepreneurial projects. I really get lost in them. I really enjoy working on them. I like thinking about these different problems, how we're going to make decisions, how we can collect data to inform those decisions, and then how easy it is to implement using AI. But the implementation, the actual coding of it is not that fun. It's never appealed to me. But it's the building of this like living, growing, breathing creation, which is a project is what really, really excites me and what I really enjoy doing. It's been a lot of fun. It helps when you work 1 or 2 hours a day on your real job.
+
+But I still need to improve on certain things. I can't just — I need to take this, I think, a little bit more seriously. I need to be a little bit more regimented in how I approach things. For example, I need to direct my time in an efficient manner. I can't just work on Dugout Edge, work on it and work on it, open my laptop and just start working on whatever comes to my mind. I think I really need to create a plan when I'm doing these sorts of things.
+
+I'm starting to really see Dugout Edge to be like a full fledged website. And as I build, right, I think that's the crazy thing about these projects. It's like, sometimes you don't know what it's going to look like three months from now. But as you build, that vision becomes clearer and clearer. And you might pivot. You might go 180 degrees. You might go 150 degrees. You might do a jumping jack, do a back flip, and then spin around five times, and then keep walking forward. But what matters is that you keep walking forward.
+
+Now, you need to be sure that you're going on the right path, right? If you're faced in the opposite direction and you start walking forward away from your goal, that's actually — you're worse off than if you just would have stood still and looked for the right direction.
+
+I think back to when I was training for baseball and I was a gym rat. I was one of the smallest guys on the team, height-wise, but to make up for it I went to the gym almost every single day and got strong. And that I did, I got strong, I built big muscles, and I worked harder than anyone else in the weight room, but I was not training to become a baseball player. I was training to get bigger muscles, which I think ultimately ended up — I don't know if it hurt me in the sense of like it made me a worse baseball player, but I think that if I would have specifically put all that time into training and developing strength towards baseball specific strength, then I would have been a much better baseball player. If I would have focused on my speed and my core and my quick twitch muscles, that would have made me a better baseball player. Who knows where it would have taken me.
+
+Those are just some of my thoughts. Another thought that I had was kind of related to that point. If you think that you're putting time into something that's valuable, that's important, and many times you don't know what's valuable and important until you do it and you're able to connect the dots later on. I think there's a Steve Jobs quote on connecting the dots. You can only connect the dots looking backwards. You can't connect the dots looking forward. And I'm starting to find that more and more true.
+
+Things that I thought were maybe wastes of time, like the data engineering project, maybe my coding project, my trading bot project, learning how to code in Python, I thought maybe those were useless, fruitless, efforts. But now looking back, it's kind of leading me to this point and maybe right now that feels a little bit useless as well. I'm not making a ton of money, but I'm starting to see how all the pieces fit together and how it's kind of telling my story in reverse. It's hard to tell the story at this point in time, but I think as time goes on, the story unfolds, the story unravels, and the pages get written on their own.
+
