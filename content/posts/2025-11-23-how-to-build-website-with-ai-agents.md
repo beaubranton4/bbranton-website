@@ -136,3 +136,9 @@ The bottleneck is no longer technical implementation - it's having a clear visio
 *Traditional Estimated Time: 40-60 hours of development*
 
 The revolution is here. The question isn't whether you should use AI agents for web development - it's how quickly you can adapt your workflow to leverage them effectively.
+
+
+TO DO
+
+-- need to get better at applying leverage via capital. I have a system i think could work for validating next ideas, but it's taking too long to build. i should pay 10,000 to make it happen in a few weeks.
+
