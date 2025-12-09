@@ -1,5 +1,11 @@
+---
+title: '2025-11-11'
+date: '2025-11-11'
+excerpt: 'Keyword Research i did on topics of interest'
+featured: true
+---
 
-
+Some keyword research that I did using SEMrush on topics of interest to figure out what I should work on next.
 
 Cooler Rental (590 Volume, 10 KD%, $4 CPC) x
 Cooler Rental Near Me (320, 4%, $3.18)

@@ -1,4 +1,9 @@
-
+---
+title: 'Thoughts on Thinking and Random Ones I had Today'
+date: '2025-11-26'
+excerpt: 'Am I wasting my time with recording my thoughts in a daily journal?'
+featured: true
+---
 
 I wonder often, if I'm using my time properly. After all, I am an optimizer.
 
