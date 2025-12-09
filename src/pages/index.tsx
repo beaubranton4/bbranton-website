@@ -202,6 +202,12 @@ export default function Home() {
                   Latest Journal Entries
                 </h2>
                 
+                <div className="mb-6 p-4 bg-gray-50 dark:bg-gray-800 border-l-4 border-blue-500 rounded-r-lg">
+                  <p className="text-sm text-gray-600 dark:text-gray-400 italic leading-relaxed">
+                  These entries aren't proofread or polished in any meaningful way. I literally whip out my phone, talk for a few minutes a day, and then upload it here. So please don't use this as a gauge of who I am as a writer or a thinker. But they are my thoughts and they are me.
+                  </p>
+                </div>
+                
                 {loading ? (
                   <div className="space-y-4">
                     {[1, 2, 3].map((i) => (

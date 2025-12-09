@@ -219,7 +219,7 @@ export default function Blog({}: BlogProps) {
                   
                   <div className="mb-8 p-4 bg-gray-50 dark:bg-gray-800 border-l-4 border-blue-500 rounded-r-lg">
                     <p className="text-sm text-gray-600 dark:text-gray-400 italic leading-relaxed">
-                      These journal entries are in no way proofread or edited to make any meaningful sense. I literally whip out a voice recording and just talk for a few minutes every single day. And these are the results. So please don't use this as a gauge of who I am as a writer or a thinker. But they are my thoughts and they are me.
+                      These entries aren't proofread or polished in any meaningful way. I literally whip out my phone, talk for a few minutes a day, and then upload it here. So please don't use this as a gauge of who I am as a writer or a thinker. But they are my thoughts and they are me.
                     </p>
                   </div>
                   

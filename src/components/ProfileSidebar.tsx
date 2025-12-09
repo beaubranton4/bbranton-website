@@ -19,18 +19,18 @@ const ProfileSidebar = ({ className = '' }: ProfileSidebarProps) => {
             />
           </div>
           
-          <h1 className="text-3xl lg:text-4xl font-bold mb-2 text-gray-900 dark:text-white">
-            Beau Branton
+          <h1 className="text-3xl lg:text-4xl font-bold mb-6 text-gray-900 dark:text-white">
+            Yo!
           </h1>
           
           <p className="text-lg text-gray-600 dark:text-gray-400 mb-8 leading-relaxed">
-            <em>
-              Born and raised in Saudi Arabia, spent my formative years in Hawaii. Graduated from Punahou then Stanford, and now live in San Francisco.
-              <br /> <br />
-              Former pro baseball player who retired with a <a href="https://www.milb.com/player/beau-branton-682092" target="_blank" rel="noopener noreferrer" className="underline text-blue-500 hover:text-blue-700">career batting average over .300</a>.
-              <br /> <br />
-              <a href="/about" className="underline text-blue-500 hover:text-blue-700">More about me →</a>
-            </em>
+            My name is Beau Branton.
+            <br /><br />
+            I'm an entrepreneur, data analyst, and former pro baseball player.
+            <br /><br />
+            Stanford Alum.
+            <br /><br />
+            <a href="/about" className="underline text-blue-500 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 transition-colors">More about me →</a>
           </p>
           
           {/* Social Links */}
