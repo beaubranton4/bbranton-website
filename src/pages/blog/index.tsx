@@ -3,7 +3,6 @@ import Link from 'next/link';
 import { format } from 'date-fns';
 import { useRouter } from 'next/router';
 import { useState, useEffect } from 'react';
-import ProfileSidebar from '../../components/ProfileSidebar';
 
 // Types
 interface PostData {
@@ -130,13 +129,7 @@ export default function Blog({}: BlogProps) {
 
       <div className="min-h-screen bg-white dark:bg-gray-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid lg:grid-cols-3 gap-8 lg:gap-12 py-8 lg:py-16">
-            
-            {/* Left Column - Profile */}
-            <ProfileSidebar />
-
-            {/* Right Column - Blog Content */}
-            <div className="lg:col-span-2">
+          <div className="max-w-4xl mx-auto py-8 lg:py-16">
               <h1 className="text-4xl font-bold mb-8 text-gray-900 dark:text-white">Journal</h1>
               
               {/* Search bar */}
@@ -326,7 +319,6 @@ export default function Blog({}: BlogProps) {
                   {/* No pagination - all posts are shown in the timeline */}
                 </div>
               </div>
-            </div>
           </div>
         </div>
       </div>

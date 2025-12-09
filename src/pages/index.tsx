@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
-import ProfileSidebar from '../components/ProfileSidebar';
 import { useState, useEffect } from 'react';
 
 // Types
@@ -61,13 +60,70 @@ export default function Home() {
 
       <div className="min-h-screen bg-white dark:bg-gray-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid lg:grid-cols-3 gap-8 lg:gap-12 py-8 lg:py-16">
+          
+          {/* Profile Section - Centered at Top */}
+          <div className="py-12 text-center">
+            <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden">
+              <Image 
+                src="/images/Beau Emoji.jpeg" 
+                alt="Beau Branton" 
+                width={128} 
+                height={128}
+                className="w-full h-full object-cover"
+              />
+            </div>
             
-            {/* Left Column - Profile */}
-            <ProfileSidebar />
+            <h1 className="text-4xl lg:text-5xl font-bold mb-6 text-gray-900 dark:text-white">
+              Yo!
+            </h1>
+            
+            <p className="text-lg text-gray-600 dark:text-gray-400 mb-6 leading-relaxed max-w-2xl mx-auto">
+              My name is Beau Branton.
+              <br /><br />
+              I'm an entrepreneur, data analyst, and former pro baseball player.
+              <br /><br />
+              Stanford Alum.
+              <br /><br />
+              <a href="/about" className="underline text-blue-500 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 transition-colors">More about me →</a>
+            </p>
+            
+            {/* Social Links */}
+            <div className="flex justify-center space-x-6 mb-12">
+              <a 
+                href="https://twitter.com/beaubranton" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
+              >
+                twitter
+              </a>
+              <a 
+                href="https://github.com/beaubranton4" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+              >
+                github
+              </a>
+              <a 
+                href="https://linkedin.com/in/beaubranton" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+              >
+                linkedin
+              </a>
+              <a 
+                href="mailto:bbranton@gmail.com" 
+                className="text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+              >
+                email
+              </a>
+            </div>
+          </div>
 
-            {/* Right Column - Content */}
-            <div className="lg:col-span-2">
+          {/* Content Section - Full Width */}
+          <div className="max-w-4xl mx-auto pb-16">
               
               {/* Currently Working On */}
               <div className="mb-12">
@@ -256,8 +312,6 @@ export default function Home() {
                   </Link>
                 </div>
               </div>
-              
-            </div>
           </div>
         </div>
       </div>

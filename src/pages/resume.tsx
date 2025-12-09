@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
-import ProfileSidebar from '../components/ProfileSidebar';
 
 interface WorkExperience {
   company: string;
@@ -103,13 +102,7 @@ export default function Resume() {
 
       <div className="min-h-screen bg-white dark:bg-gray-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid lg:grid-cols-3 gap-8 lg:gap-12 py-8 lg:py-16">
-            
-            {/* Left Column - Profile */}
-            <ProfileSidebar />
-
-            {/* Right Column - Resume Content */}
-            <div className="lg:col-span-2">
+          <div className="max-w-4xl mx-auto py-8 lg:py-16">
               
               {/* Header */}
               <div className="mb-8">
@@ -293,8 +286,6 @@ export default function Resume() {
                   ))}
                 </div>
               </div>
-              
-            </div>
           </div>
         </div>
       </div>

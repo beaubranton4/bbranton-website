@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
-import ProfileSidebar from '../../components/ProfileSidebar';
 
 // Project type
 interface Project {
@@ -111,13 +110,7 @@ export default function Projects() {
 
       <div className="min-h-screen bg-white dark:bg-gray-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid lg:grid-cols-3 gap-8 lg:gap-12 py-8 lg:py-16">
-            
-            {/* Left Column - Profile */}
-            <ProfileSidebar />
-
-            {/* Right Column - Projects */}
-            <div className="lg:col-span-2">
+          <div className="max-w-4xl mx-auto py-8 lg:py-16">
               
               {/* Projects List */}
               <div className="space-y-8 mb-16">
@@ -219,8 +212,6 @@ export default function Projects() {
                   ))}
                 </div>
               </div>
-              
-            </div>
           </div>
         </div>
       </div>

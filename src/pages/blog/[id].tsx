@@ -3,7 +3,6 @@ import Link from 'next/link';
 import { format } from 'date-fns';
 import { useRouter } from 'next/router';
 import { useState, useEffect } from 'react';
-import ProfileSidebar from '../../components/ProfileSidebar';
 
 interface PostData {
   id: string;
@@ -88,13 +87,7 @@ export default function Post() {
 
       <div className="min-h-screen bg-white dark:bg-gray-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid lg:grid-cols-3 gap-8 lg:gap-12 py-8 lg:py-16">
-            
-            {/* Left Column - Profile */}
-            <ProfileSidebar />
-
-            {/* Right Column - Content */}
-            <div className="lg:col-span-2">
+          <div className="max-w-4xl mx-auto py-8 lg:py-16">
               <article className="max-w-3xl">
                 <header className="mb-10">
                   <Link href="/blog">
@@ -150,7 +143,6 @@ export default function Post() {
                   dangerouslySetInnerHTML={{ __html: postData.contentHtml }} 
                 />
               </article>
-            </div>
           </div>
         </div>
       </div>
