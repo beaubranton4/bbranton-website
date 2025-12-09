@@ -19,3 +19,4 @@ My task is figuring out which one I resonate with more, and planning my life acc
 
 Another exercise I should actually sit down and think through: if I had $50M in the bank, what would I do on a daily basis?
 
+

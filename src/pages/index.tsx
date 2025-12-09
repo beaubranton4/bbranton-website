@@ -137,6 +137,65 @@ export default function Home() {
                 </div>
               </div>
 
+              {/* Currently Working At */}
+              <div className="mb-12">
+                <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">
+                  Currently Working At
+                </h2>
+                
+                <div className="group">
+                  <div className="flex items-start space-x-4 p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 hover:shadow-sm transition-all duration-200">
+                    
+                    {/* Company Logo */}
+                    <div className="flex-shrink-0">
+                      <div className="w-16 h-16 rounded-lg bg-white dark:bg-gray-900 flex items-center justify-center border border-gray-200 dark:border-gray-700">
+                        <Image 
+                          src="/images/usertesting-logo.png" 
+                          alt="UserTesting" 
+                          width={48} 
+                          height={48}
+                          className="w-12 h-12 object-contain"
+                        />
+                      </div>
+                    </div>
+                    
+                    {/* Company Info */}
+                    <div className="flex-grow min-w-0">
+                      <div className="flex items-center space-x-2 mb-2">
+                        <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                          UserTesting
+                        </h3>
+                        <span className="bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-200 text-xs font-medium px-2 py-1 rounded-full">
+                          Current
+                        </span>
+                      </div>
+                      
+                      <p className="text-gray-600 dark:text-gray-400 text-sm mb-2">
+                        Senior Business Intelligence Analyst
+                      </p>
+                      
+                      <p className="text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed">
+                        Building data models and business intelligence solutions using SQL, dbt, Snowflake, and Tableau. Leading company-wide analytics adoption and driving measurable business outcomes across Product, RevOps, Finance, and Operations.
+                      </p>
+                      
+                      <div className="flex items-center space-x-4">
+                        <a 
+                          href="https://www.usertesting.com" 
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="text-blue-500 hover:text-blue-600 text-sm font-medium transition-colors"
+                        >
+                          Visit UserTesting →
+                        </a>
+                        <Link href="/resume" className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 text-sm transition-colors">
+                          see where I've worked
+                        </Link>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
               {/* Latest Journal Entries */}
               <div className="mb-12">
                 <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">

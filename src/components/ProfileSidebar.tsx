@@ -25,11 +25,11 @@ const ProfileSidebar = ({ className = '' }: ProfileSidebarProps) => {
           
           <p className="text-lg text-gray-600 dark:text-gray-400 mb-8 leading-relaxed">
             <em>
-              solving my own little problems and sharing with the world. wasn't always a nerd.
+              Born and raised in Saudi Arabia, spent my formative years in Hawaii. Graduated from Punahou then Stanford, and now live in San Francisco.
               <br /> <br />
-              born and raised in saudi arabia, spent my formative years in hawaii. graduated from punahou then stanford, and now live in san francisco.
+              Former pro baseball player who retired with a <a href="https://www.milb.com/player/beau-branton-682092" target="_blank" rel="noopener noreferrer" className="underline text-blue-500 hover:text-blue-700">career batting average over .300</a>.
               <br /> <br />
-              former pro baseball player who retired with a <a href="https://www.milb.com/player/beau-branton-682092" target="_blank" rel="noopener noreferrer" className="underline text-blue-500 hover:text-blue-700">career batting average over .300</a>.
+              <a href="/about" className="underline text-blue-500 hover:text-blue-700">More about me →</a>
             </em>
           </p>
           

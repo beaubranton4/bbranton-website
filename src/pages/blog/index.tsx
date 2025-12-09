@@ -217,6 +217,12 @@ export default function Blog({}: BlogProps) {
                 <div className="flex-grow">
                   <h1 className="text-3xl font-bold mb-6 text-gray-900 dark:text-white">Daily Journal Entries</h1>
                   
+                  <div className="mb-8 p-4 bg-gray-50 dark:bg-gray-800 border-l-4 border-blue-500 rounded-r-lg">
+                    <p className="text-sm text-gray-600 dark:text-gray-400 italic leading-relaxed">
+                      These journal entries are in no way proofread or edited to make any meaningful sense. I literally whip out a voice recording and just talk for a few minutes every single day. And these are the results. So please don't use this as a gauge of who I am as a writer or a thinker. But they are my thoughts and they are me.
+                    </p>
+                  </div>
+                  
                   {loading ? (
                     <div className="py-12 text-center">
                       <p>Loading posts...</p>
