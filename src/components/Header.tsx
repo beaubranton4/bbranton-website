@@ -13,8 +13,8 @@ const Header = () => {
   ];
 
   return (
-    <header className="py-6 mb-12 border-b">
-      <div className="container mx-auto px-4 flex flex-col sm:flex-row justify-between items-center">
+    <header className="sticky top-0 z-50 bg-white dark:bg-gray-900 border-b backdrop-blur-sm bg-opacity-95 dark:bg-opacity-95">
+      <div className="container mx-auto px-4 py-6 flex flex-col sm:flex-row justify-between items-center">
         <div className="mb-4 sm:mb-0">
           <Link href="/">
             <span className="text-2xl font-bold no-underline hover:text-gray-700 dark:hover:text-gray-300">

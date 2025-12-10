@@ -28,7 +28,7 @@ const ProfileSidebar = ({ className = '' }: ProfileSidebarProps) => {
             <br /><br />
             I'm an entrepreneur, data analyst, and former pro baseball player.
             <br /><br />
-            Stanford Alum.
+            Stanford Alum. Hawaii &rarr; SF
             <br /><br />
             <a href="/about" className="underline text-blue-500 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 transition-colors">More about me →</a>
           </p>

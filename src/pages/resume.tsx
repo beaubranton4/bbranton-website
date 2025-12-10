@@ -107,9 +107,26 @@ export default function Resume() {
               {/* Header */}
               <div className="mb-8">
                 <h1 className="text-4xl font-bold mb-4 text-gray-900 dark:text-white">Resume</h1>
-                <p className="text-gray-600 dark:text-gray-400 mb-4">
-                  $7+ years of experience architecting, building and managing data models and business intelligence using the modern data stack.
+                <p className="text-gray-600 dark:text-gray-400 mb-6 leading-relaxed">
+                  7+ years of experience architecting, building and managing data models and business intelligence using the modern data stack (SQL, dbt, Snowflake, Tableau, Python). Proven ability to partner with various business units to impact measurable business outcomes across Product, RevOps, Finance and Operations. Strong desire to learn and apply AI solutions and automations at scale to solve problems with interesting people (and not always with data).
                 </p>
+                
+                {/* Technical Skills */}
+                <div className="mb-6">
+                  <h2 className="text-xl font-semibold mb-4 text-gray-900 dark:text-white">Technical Skills</h2>
+                  
+                  <div className="flex flex-wrap gap-2">
+                    {technicalSkills.map((skill, index) => (
+                      <span
+                        key={index}
+                        className="px-3 py-1.5 bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 text-sm rounded-lg font-medium"
+                      >
+                        {skill}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+                
                 <a
                   href="/BEAU%20BRANTON%20RESUME.pdf"
                   target="_blank"
@@ -267,22 +284,6 @@ export default function Resume() {
                         </div>
                       </div>
                     </div>
-                  ))}
-                </div>
-              </div>
-
-              {/* Technical Skills */}
-              <div className="mb-12">
-                <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">Technical Skills</h2>
-                
-                <div className="flex flex-wrap gap-2">
-                  {technicalSkills.map((skill, index) => (
-                    <span
-                      key={index}
-                      className="px-3 py-1.5 bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 text-sm rounded-lg font-medium"
-                    >
-                      {skill}
-                    </span>
                   ))}
                 </div>
               </div>

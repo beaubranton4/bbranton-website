@@ -9,9 +9,6 @@ const Footer = () => {
             <p className="text-gray-600 dark:text-gray-400 mb-2">
               © {currentYear} Beau Branton. All rights reserved.
             </p>
-            <p className="text-sm text-gray-500 dark:text-gray-500">
-              Building in public, one day at a time.
-            </p>
           </div>
           
           <div className="flex flex-col space-y-4 md:space-y-0 md:flex-row md:space-x-8 items-center">

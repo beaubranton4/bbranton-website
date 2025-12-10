@@ -112,6 +112,9 @@ export default function Projects() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto py-8 lg:py-16">
               
+              {/* Page Title */}
+              <h1 className="text-4xl font-bold mb-8 text-gray-900 dark:text-white">Projects</h1>
+              
               {/* Projects List */}
               <div className="space-y-8 mb-16">
                 {projects.map((project) => (
@@ -120,21 +123,13 @@ export default function Projects() {
                       
                       {/* Project Logo */}
                       <div className="flex-shrink-0">
-                        <div className={`w-16 h-16 rounded-lg overflow-hidden flex items-center justify-center ${
-                          ['dugout-edge', 'spend-my-stipend', 'startup-seeds', 'vwap-short-spike-strategy'].includes(project.id)
-                            ? 'bg-white dark:bg-gray-900' 
-                            : 'bg-gray-100 dark:bg-gray-800'
-                        }`}>
+                        <div className="w-16 h-16 rounded-lg bg-white dark:bg-gray-900 flex items-center justify-center border border-gray-200 dark:border-gray-700">
                           <Image 
                             src={project.image} 
                             alt={project.title} 
-                            width={64} 
-                            height={64}
-                            className={`${
-                              ['dugout-edge', 'spend-my-stipend', 'startup-seeds', 'vwap-short-spike-strategy'].includes(project.id)
-                                ? 'w-12 h-12 object-contain p-1' 
-                                : 'w-full h-full object-cover'
-                            } rounded-lg`}
+                            width={48} 
+                            height={48}
+                            className="w-12 h-12 object-contain"
                           />
                         </div>
                       </div>

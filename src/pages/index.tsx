@@ -62,33 +62,31 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           
           {/* Profile Section - Centered at Top */}
-          <div className="py-12 text-center">
-            <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden">
+          <div className="pt-8 pb-6 text-center">
+            <div className="w-24 h-24 mx-auto mb-4 rounded-full overflow-hidden">
               <Image 
                 src="/images/Beau Emoji.jpeg" 
                 alt="Beau Branton" 
-                width={128} 
-                height={128}
+                width={96} 
+                height={96}
                 className="w-full h-full object-cover"
               />
             </div>
             
-            <h1 className="text-4xl lg:text-5xl font-bold mb-6 text-gray-900 dark:text-white">
+            <h1 className="text-3xl lg:text-4xl font-bold mb-4 text-gray-900 dark:text-white">
               Yo!
             </h1>
             
-            <p className="text-lg text-gray-600 dark:text-gray-400 mb-6 leading-relaxed max-w-2xl mx-auto">
+            <p className="text-base text-gray-600 dark:text-gray-400 mb-4 leading-relaxed max-w-2xl mx-auto">
               My name is Beau Branton.
-              <br /><br />
+              <br />
               I'm an entrepreneur, data analyst, and former pro baseball player.
-              <br /><br />
-              Stanford Alum.
-              <br /><br />
-              <a href="/about" className="underline text-blue-500 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 transition-colors">More about me →</a>
+              <br />
+              Stanford Alum. Hawaii &rarr; SF
             </p>
             
             {/* Social Links */}
-            <div className="flex justify-center space-x-6 mb-12">
+            <div className="flex justify-center space-x-6 mb-8">
               <a 
                 href="https://twitter.com/beaubranton" 
                 target="_blank" 
@@ -101,7 +99,7 @@ export default function Home() {
                 href="https://github.com/beaubranton4" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+                className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
               >
                 github
               </a>
@@ -109,16 +107,22 @@ export default function Home() {
                 href="https://linkedin.com/in/beaubranton" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+                className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
               >
                 linkedin
               </a>
               <a 
                 href="mailto:bbranton@gmail.com" 
-                className="text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+                className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
               >
                 email
               </a>
+              <Link 
+                href="/about"
+                className="text-blue-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
+              >
+                more about me →
+              </Link>
             </div>
           </div>
 
@@ -138,21 +142,13 @@ export default function Home() {
                         
                         {/* Project Logo */}
                         <div className="flex-shrink-0">
-                          <div className={`w-16 h-16 rounded-lg overflow-hidden flex items-center justify-center ${
-                            ['dugout-edge', 'spend-my-stipend', 'startup-seeds'].includes(project.id)
-                              ? 'bg-white dark:bg-gray-900' 
-                              : 'bg-gray-100 dark:bg-gray-800'
-                          }`}>
+                          <div className="w-16 h-16 rounded-lg bg-white dark:bg-gray-900 flex items-center justify-center border border-gray-200 dark:border-gray-700">
                             <Image 
                               src={project.image} 
                               alt={project.title} 
-                              width={64} 
-                              height={64}
-                              className={`${
-                                ['dugout-edge', 'spend-my-stipend', 'startup-seeds'].includes(project.id)
-                                  ? 'w-12 h-12 object-contain p-1' 
-                                  : 'w-full h-full object-cover'
-                              } rounded-lg`}
+                              width={48} 
+                              height={48}
+                              className="w-12 h-12 object-contain"
                             />
                           </div>
                         </div>
@@ -234,17 +230,9 @@ export default function Home() {
                         Building data models and business intelligence solutions using SQL, dbt, Snowflake, and Tableau. Leading company-wide analytics adoption and driving measurable business outcomes across Product, RevOps, Finance, and Operations.
                       </p>
                       
-                      <div className="flex items-center space-x-4">
-                        <a 
-                          href="https://www.usertesting.com" 
-                          target="_blank" 
-                          rel="noopener noreferrer"
-                          className="text-blue-500 hover:text-blue-600 text-sm font-medium transition-colors"
-                        >
-                          Visit UserTesting →
-                        </a>
-                        <Link href="/resume" className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 text-sm transition-colors">
-                          see where I've worked
+                      <div>
+                        <Link href="/resume" className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium transition-colors">
+                          see where I've worked →
                         </Link>
                       </div>
                     </div>
