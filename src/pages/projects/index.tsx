@@ -26,6 +26,15 @@ const projects: Project[] = [
     status: 'active',
   },
   {
+    id: 'startup-seeds',
+    title: 'Startup Seeds',
+    description: 'A free database of businesses and business ideas. Uses AI to automatically summarize podcasts and articles and extract business ideas.',
+    tags: ['AI', 'LLM', 'Podcast Transcription', 'Entrepreneurship'],
+    image: '/images/startup-seeds.jpg',
+    link: 'https://startupseeds.io',
+    status: 'planned',
+  },
+  {
     id: 'cha2go',
     title: 'Cha2Go',
     description: 'An affiliate blog about Asian teas, primarily used as market research to start a bottled tea company.',
@@ -44,25 +53,6 @@ const projects: Project[] = [
     status: 'completed',
   },
   {
-    id: 'startup-seeds',
-    title: 'Startup Seeds',
-    description: 'A free database of businesses and business ideas. Uses AI to automatically summarize podcasts and articles and extract business ideas.',
-    tags: ['AI', 'LLM', 'Podcast Transcription', 'Entrepreneurship'],
-    image: '/images/startup-seeds.jpg',
-    link: 'https://startupseeds.io',
-    status: 'planned',
-  },
-  {
-    id: 'vwap-short-spike-strategy',
-    title: 'Autonomous Trading Bot',
-    description: 'A fully autonomous stock trading bot that identified an edge in shorting low-float stocks after VWAP price spikes. Successfully backtested but shut down due to inability to borrow the extremely low float stocks required for execution in live trading.',
-    tags: ['Algorithmic Trading', 'Stock Trading', 'Backtesting', 'Python'],
-    image: '/images/Beau Emoji Blue.png',
-    link: 'https://github.com/beaubranton/vwap_short_spike_strategy',
-    status: 'completed',
-    github: 'https://github.com/beaubranton/vwap_short_spike_strategy',
-  },
-  {
     id: 'san-francisco-rental',
     title: 'San Francisco Rental Property',
     description: 'In 2021, I convinced my family to help chip in for a down payment on a 3 bed 2 bath top-floor unit of an old Victorian Style era home in San Francisco. Our interest rate was 2.99% (a historic decades year low) that I\'m not sure we will ever see in our lifetime again. I currently live here while renting out the other bedrooms and have quickly learned about being a landlord and how expensive upkeep of a 100+ year old house is.',
@@ -70,6 +60,16 @@ const projects: Project[] = [
     image: '/images/victorian-home-icon.png',
     link: '#',
     status: 'active',
+  },
+  {
+    id: 'vwap-short-spike-strategy',
+    title: 'Autonomous Trading Bot',
+    description: 'A fully autonomous stock trading bot that identified an edge in shorting low-float stocks after VWAP price spikes. Successfully backtested but shut down due to inability to borrow the extremely low float stocks required for execution in live trading.',
+    tags: ['Algorithmic Trading', 'Stock Trading', 'Backtesting', 'Python'],
+    image: '/images/trading-bot-icon.png',
+    link: 'https://github.com/beaubranton/vwap_short_spike_strategy',
+    status: 'completed',
+    github: 'https://github.com/beaubranton/vwap_short_spike_strategy',
   },
 ];
 
@@ -123,19 +123,19 @@ export default function Projects() {
 
       <div className="min-h-screen bg-white dark:bg-gray-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-4xl mx-auto py-8 lg:py-16">
+          <div className="max-w-7xl mx-auto py-8 lg:py-16">
               
               {/* Page Title */}
               <h1 className="text-4xl font-bold mb-8 text-gray-900 dark:text-white">Projects</h1>
               
-              {/* Projects List */}
-              <div className="space-y-8 mb-16">
+              {/* Projects Grid */}
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
                 {projects.map((project) => (
                   <div key={project.id} className="group">
-                    <div className="flex items-start space-x-4 p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 hover:shadow-md transition-all duration-200">
+                    <div className="flex flex-col h-full p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 hover:shadow-md transition-all duration-200">
                       
                       {/* Project Logo */}
-                      <div className="flex-shrink-0">
+                      <div className="flex justify-center mb-4">
                         <div className="w-16 h-16 rounded-lg bg-white dark:bg-gray-900 flex items-center justify-center border border-gray-200 dark:border-gray-700">
                           <Image 
                             src={project.image} 
@@ -148,17 +148,17 @@ export default function Projects() {
                       </div>
                       
                       {/* Project Info */}
-                      <div className="flex-grow min-w-0">
-                        <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors mb-2">
+                      <div className="flex-grow flex flex-col">
+                        <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors mb-2 text-center">
                           {project.title}
                         </h3>
                         
-                        <p className="text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed">
+                        <p className="text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed flex-grow">
                           {project.description}
                         </p>
                         
                         {/* Tags */}
-                        <div className="flex flex-wrap gap-2 mb-3">
+                        <div className="flex flex-wrap gap-2 mb-3 justify-center">
                           {project.tags.slice(0, 3).map((tag) => (
                             <span 
                               key={tag} 
@@ -170,7 +170,7 @@ export default function Projects() {
                         </div>
                         
                         {/* Links */}
-                        <div className="flex items-center space-x-4">
+                        <div className="flex items-center justify-center space-x-4">
                           <a 
                             href={project.link} 
                             target="_blank" 
