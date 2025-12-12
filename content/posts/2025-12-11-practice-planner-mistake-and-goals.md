@@ -1,7 +1,7 @@
 ---
 title: 'Practice Planner Mistake and Goals'
 date: '2025-12-11'
-excerpt: 'Woke up early, still jet-lagged but getting good sleep. Accidentally released an unfinished practice planner feature on Dugout Edge about 12 days ago. Had to roll it back after a customer pointed out it wasn't working. Learning from the mistake and planning today's goals.'
+excerpt: 'Woke up early, still jet-lagged but getting good sleep. Accidentally released an unfinished practice planner feature on Dugout Edge about 12 days ago. Had to roll it back after a customer pointed out it wasnt working. Learning from the mistake and planning today'
 ---
 
 Woke up early again this morning. Still a little bit jet-lagged, but honestly I do think I'm getting good sleep. I worked a bit on Dugout Edge first thing, and then woke up to some rude news: we accidentally released the practice planner on November 28th—so about twelve days ago. I got an email from my favorite customer, Sean Wyder, who very wisely pointed out that it wasn't working. Obviously it wasn't; it was a completely unfinished product.
