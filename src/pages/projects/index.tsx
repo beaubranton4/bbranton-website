@@ -15,6 +15,14 @@ interface Project {
   github?: string;
 }
 
+interface ProjectIdea {
+  id: string;
+  title: string;
+  description: string;
+  tags: string[];
+  items?: string[];
+}
+
 // My projects
 const projects: Project[] = [
   {
@@ -74,7 +82,7 @@ const projects: Project[] = [
 ];
 
 // Project ideas from journal entries
-const projectIdeas = [
+const projectIdeas: ProjectIdea[] = [
   {
     id: 'data-efficiency',
     title: 'Data Efficiency Platform',
@@ -82,16 +90,16 @@ const projectIdeas = [
     tags: ['Data Analytics', 'SaaS', 'Automation', 'Business Intelligence'],
   },
   {
-    id: 'pacific-heights-social-club',
-    title: 'Pacific Heights Social Club',
-    description: 'An exclusive social club and co-working space in Pacific Heights, San Francisco. Combining workspace, wellness, and community in a beautiful historic building. Think Soho House meets modern tech workspace.',
-    tags: ['Physical Business', 'Real Estate', 'Community', 'San Francisco'],
+    id: 'new-age-gym',
+    title: 'New-Age Gym',
+    description: 'Centered around community, sport and fun. Current gyms if you want a 3rd place in your life to move around a few weights. But it\'s not really great at getting people that fit. I want to build something like that.',
+    tags: ['Physical Business', 'Fitness', 'Community', 'San Francisco'],
   },
   {
-    id: 'wedding-planner-agent',
-    title: 'AI Wedding Planner',
-    description: 'An AI agent that handles wedding planning correspondence, vendor booking, budgeting, and communication to streamline the wedding planning process.',
-    tags: ['AI', 'Wedding Planning', 'Automation', 'SaaS'],
+    id: 'wiffle-ball-league',
+    title: 'Wiffle Ball League in San Francisco',
+    description: 'A community wiffle ball league in San Francisco bringing people together through fun, casual competition.',
+    tags: ['Sports', 'Community', 'San Francisco', 'Recreation'],
   },
   {
     id: 'baseball-resort',
@@ -106,10 +114,19 @@ const projectIdeas = [
     tags: ['D2C', 'Apparel', 'Fitness', 'Product Design'],
   },
   {
-    id: 'show-your-work-automation',
-    title: 'Build in Public Automation',
-    description: 'A tool that automatically documents and shares your building process. It would take commits, journal entries, and screenshots and turn them into social media content.',
-    tags: ['SaaS', 'Content Creation', 'Automation', 'Social Media'],
+    id: 'million-other-things',
+    title: 'A Million Other Things',
+    description: 'Various project ideas I\'d like to explore:',
+    tags: ['Various', 'Ideas', 'Multiple Projects'],
+    items: [
+      'Hat Company',
+      'Screenshotbot/life organizer (AI journal and to-dolist)',
+      'Sell products on tiktok shop/whop',
+      'Posture Software and Routines and Exercises',
+      'Rental Cooler Delivery Business',
+      'Funny Cards Business',
+      'A board game'
+    ],
   },
 ];
 
@@ -236,7 +253,7 @@ export default function Projects() {
               {/* Project Ideas Section */}
               <div>
                 <h2 className="text-2xl font-bold mb-8 text-gray-900 dark:text-white">
-                  Ideas I'd like to build
+                  Projects I'd Like to Build
                 </h2>
                 
                 <div className="grid gap-4">
@@ -245,9 +262,16 @@ export default function Projects() {
                       <h3 className="font-semibold text-gray-900 dark:text-white mb-2">
                         {idea.title}
                       </h3>
-                      <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed">
+                      <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed mb-2">
                         {idea.description}
                       </p>
+                      {idea.items && (
+                        <ul className="list-disc list-inside text-gray-600 dark:text-gray-400 text-sm space-y-1 ml-2">
+                          {idea.items.map((item, index) => (
+                            <li key={index}>{item}</li>
+                          ))}
+                        </ul>
+                      )}
                     </div>
                   ))}
                 </div>
