@@ -44,15 +44,6 @@ const projects: Project[] = [
     status: 'planned',
   },
   {
-    id: 'cha2go',
-    title: 'Cha2Go',
-    description: 'An affiliate blog about Asian teas, primarily used as market research to start a bottled tea company.',
-    tags: ['Affiliate Marketing', 'Tea', 'Market Research', 'D2C'],
-    image: '/images/cha2go-logo.png',
-    link: 'https://cha2go.com',
-    status: 'active',
-  },
-  {
     id: 'spend-my-stipend',
     title: 'Spend My Stipend',
     description: 'An affiliate blog that helps employees figure out what to spend their employer-provided stipends on.',
@@ -62,9 +53,18 @@ const projects: Project[] = [
     status: 'completed',
   },
   {
+    id: 'cha2go',
+    title: 'Cha2Go',
+    description: 'An affiliate blog about Asian teas, primarily used as market research to start a bottled tea company.',
+    tags: ['Affiliate Marketing', 'Tea', 'Market Research', 'D2C'],
+    image: '/images/cha2go-logo.png',
+    link: 'https://cha2go.com',
+    status: 'active',
+  },
+  {
     id: 'san-francisco-rental',
     title: 'San Francisco Rental Property',
-    description: 'In 2021, I convinced my family to help chip in for a down payment on a 3 bed 2 bath top-floor unit of an old Victorian Style era home in San Francisco. Our interest rate was 2.99% (a historic decades year low) that I\'m not sure we will ever see in our lifetime again. I currently live here while renting out the other bedrooms and have quickly learned about being a landlord and how expensive upkeep of a 100+ year old house is.',
+    description: 'Purchased a 3 bed 2 bath Victorian-style unit in San Francisco in 2021 at a 2.99% interest rate. Currently live here while renting out the other bedrooms.',
     tags: ['Real Estate', 'Investment', 'Property Management', 'San Francisco'],
     image: '/images/victorian-home-icon.png',
     link: '#',
@@ -119,7 +119,6 @@ const projectIdeas: ProjectIdea[] = [
     description: 'Various project ideas I\'d like to explore:',
     tags: ['Various', 'Ideas', 'Multiple Projects'],
     items: [
-      'Hat Company',
       'Screenshotbot/life organizer (AI journal and to-dolist)',
       'Sell products on tiktok shop/whop',
       'Posture Software and Routines and Exercises',
@@ -155,7 +154,7 @@ export default function Projects() {
               <h1 className="text-4xl font-bold mb-8 text-gray-900 dark:text-white">Projects</h1>
               
               {/* Projects Grid */}
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
+              <div className="grid grid-cols-1 gap-6 mb-16">
                 {projects.map((project) => (
                   <div key={project.id} className="group">
                     <div className="flex flex-col h-full p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 hover:shadow-md transition-all duration-200">
