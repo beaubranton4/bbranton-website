@@ -30,16 +30,6 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
   const [expandedProjects, setExpandedProjects] = useState<{ [key: string]: boolean }>({});
 
-  // Helper function to truncate description to 2 sentences
-  const truncateDescription = (text: string): { truncated: string; full: string; isTruncated: boolean } => {
-    const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
-    if (sentences.length <= 2) {
-      return { truncated: text, full: text, isTruncated: false };
-    }
-    const truncated = sentences.slice(0, 2).join(' ').trim();
-    return { truncated, full: text, isTruncated: true };
-  };
-
   const toggleProjectExpansion = (projectId: string) => {
     setExpandedProjects(prev => ({
       ...prev,
@@ -178,31 +168,33 @@ export default function Home() {
                           </h3>
                           
                           {(() => {
-                            const { truncated, full, isTruncated } = truncateDescription(project.description);
                             const isExpanded = expandedProjects[project.id];
-                            const displayText = isExpanded ? full : truncated;
                             
                             return (
                               <>
-                                <p className="text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed">
-                                  {displayText}
-                                  {isTruncated && !isExpanded && (
-                                    <button
-                                      onClick={() => toggleProjectExpansion(project.id)}
-                                      className="text-blue-500 hover:text-blue-600 ml-1 font-medium transition-colors"
-                                    >
-                                      read more
-                                    </button>
-                                  )}
-                                  {isTruncated && isExpanded && (
-                                    <button
-                                      onClick={() => toggleProjectExpansion(project.id)}
-                                      className="text-blue-500 hover:text-blue-600 ml-1 font-medium transition-colors"
-                                    >
-                                      read less
-                                    </button>
-                                  )}
+                                <p 
+                                  className={`text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed ${
+                                    !isExpanded ? 'line-clamp-3' : ''
+                                  }`}
+                                >
+                                  {project.description}
                                 </p>
+                                {!isExpanded && (
+                                  <button
+                                    onClick={() => toggleProjectExpansion(project.id)}
+                                    className="text-blue-500 hover:text-blue-600 text-sm font-medium transition-colors mb-3"
+                                  >
+                                    read more
+                                  </button>
+                                )}
+                                {isExpanded && (
+                                  <button
+                                    onClick={() => toggleProjectExpansion(project.id)}
+                                    className="text-blue-500 hover:text-blue-600 text-sm font-medium transition-colors mb-3"
+                                  >
+                                    read less
+                                  </button>
+                                )}
                               </>
                             );
                           })()}
