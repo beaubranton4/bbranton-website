@@ -10,7 +10,6 @@ interface Project {
   tags: string[];
   image: string;
   link: string;
-  revenue: string;
   status: string;
   github?: string;
 }
@@ -24,7 +23,15 @@ const projects: Project[] = [
     tags: ['SaaS', 'Sports Tech', 'Subscription', 'Baseball'],
     image: '/images/dugout_edge_logo_transparent.png',
     link: 'https://dugoutedge.com',
-    revenue: '$150+/mo',
+    status: 'active',
+  },
+  {
+    id: 'cha2go',
+    title: 'Cha2Go',
+    description: 'An affiliate blog about Asian teas, primarily used as market research to start a bottled tea company.',
+    tags: ['Affiliate Marketing', 'Tea', 'Market Research', 'D2C'],
+    image: '/images/cha2go-logo.png',
+    link: 'https://cha2go.com',
     status: 'active',
   },
   {
@@ -34,7 +41,6 @@ const projects: Project[] = [
     tags: ['Affiliate Marketing', 'Blog', 'Employee Benefits', 'SEO'],
     image: '/images/spend-my-stipend-logo.png',
     link: 'https://spendmystipend.com',
-    revenue: '$30k+ total',
     status: 'completed',
   },
   {
@@ -44,7 +50,6 @@ const projects: Project[] = [
     tags: ['AI', 'LLM', 'Podcast Transcription', 'Entrepreneurship'],
     image: '/images/startup-seeds.jpg',
     link: 'https://startupseeds.io',
-    revenue: 'Not revenue generating',
     status: 'planned',
   },
   {
@@ -54,9 +59,17 @@ const projects: Project[] = [
     tags: ['Algorithmic Trading', 'Stock Trading', 'Backtesting', 'Python'],
     image: '/images/Beau Emoji Blue.png',
     link: 'https://github.com/beaubranton/vwap_short_spike_strategy',
-    revenue: 'Not revenue generating',
     status: 'completed',
     github: 'https://github.com/beaubranton/vwap_short_spike_strategy',
+  },
+  {
+    id: 'san-francisco-rental',
+    title: 'San Francisco Rental Property',
+    description: 'In 2021, I convinced my family to help chip in for a down payment on a 3 bed 2 bath top-floor unit of an old Victorian Style era home in San Francisco. Our interest rate was 2.99% (a historic decades year low) that I\'m not sure we will ever see in our lifetime again. I currently live here while renting out the other bedrooms and have quickly learned about being a landlord and how expensive upkeep of a 100+ year old house is.',
+    tags: ['Real Estate', 'Investment', 'Property Management', 'San Francisco'],
+    image: '/images/victorian-home-icon.png',
+    link: '#',
+    status: 'active',
   },
 ];
 
@@ -136,14 +149,9 @@ export default function Projects() {
                       
                       {/* Project Info */}
                       <div className="flex-grow min-w-0">
-                        <div className="flex items-center justify-between mb-2">
-                          <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-                            {project.title}
-                          </h3>
-                          <span className="text-sm font-medium text-gray-900 dark:text-white bg-gray-100 dark:bg-gray-800 px-2 py-1 rounded">
-                            {project.revenue}
-                          </span>
-                        </div>
+                        <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors mb-2">
+                          {project.title}
+                        </h3>
                         
                         <p className="text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed">
                           {project.description}
