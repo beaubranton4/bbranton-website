@@ -23,3 +23,4 @@ My first thought of the day is that my number 1 priority is discipline. Training
 For me, journaling has been what of those good habits that is reinforcing discipline. It is therapeutic, it makes me a clearer thinker, I have a daily journal to look back on, and the list goes on. At this point, journaling feels like second nature to me. Maybe there's some science to back this, but I am reaching the 100 day mark. Is that when something becomes a habit?
 
 
+

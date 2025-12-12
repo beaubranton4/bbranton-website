@@ -28,6 +28,24 @@ const activeProjects = [
 export default function Home() {
   const [recentPosts, setRecentPosts] = useState<PostData[]>([]);
   const [loading, setLoading] = useState(true);
+  const [expandedProjects, setExpandedProjects] = useState<{ [key: string]: boolean }>({});
+
+  // Helper function to truncate description to 2 sentences
+  const truncateDescription = (text: string): { truncated: string; full: string; isTruncated: boolean } => {
+    const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
+    if (sentences.length <= 2) {
+      return { truncated: text, full: text, isTruncated: false };
+    }
+    const truncated = sentences.slice(0, 2).join(' ').trim();
+    return { truncated, full: text, isTruncated: true };
+  };
+
+  const toggleProjectExpansion = (projectId: string) => {
+    setExpandedProjects(prev => ({
+      ...prev,
+      [projectId]: !prev[projectId]
+    }));
+  };
 
   useEffect(() => {
     const fetchRecentPosts = async () => {
@@ -155,18 +173,39 @@ export default function Home() {
                         
                         {/* Project Info */}
                         <div className="flex-grow min-w-0">
-                          <div className="flex items-center justify-between mb-2">
-                            <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-                              {project.title}
-                            </h3>
-                            <span className="text-sm font-medium text-gray-900 dark:text-white bg-gray-100 dark:bg-gray-800 px-2 py-1 rounded">
-                              {project.revenue}
-                            </span>
-                          </div>
+                          <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors mb-2">
+                            {project.title}
+                          </h3>
                           
-                          <p className="text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed">
-                            {project.description}
-                          </p>
+                          {(() => {
+                            const { truncated, full, isTruncated } = truncateDescription(project.description);
+                            const isExpanded = expandedProjects[project.id];
+                            const displayText = isExpanded ? full : truncated;
+                            
+                            return (
+                              <>
+                                <p className="text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed">
+                                  {displayText}
+                                  {isTruncated && !isExpanded && (
+                                    <button
+                                      onClick={() => toggleProjectExpansion(project.id)}
+                                      className="text-blue-500 hover:text-blue-600 ml-1 font-medium transition-colors"
+                                    >
+                                      read more
+                                    </button>
+                                  )}
+                                  {isTruncated && isExpanded && (
+                                    <button
+                                      onClick={() => toggleProjectExpansion(project.id)}
+                                      className="text-blue-500 hover:text-blue-600 ml-1 font-medium transition-colors"
+                                    >
+                                      read less
+                                    </button>
+                                  )}
+                                </p>
+                              </>
+                            );
+                          })()}
                           
                           <a 
                             href={project.link} 

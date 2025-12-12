@@ -13,3 +13,4 @@ Mistakes like that are just part of the learning curve when building a little mi
 Goals for today: finish up the practice planner functionality, get in a 45-minute swim, get Fitness Caps up and running, and then also start the "spend my stipend" migration. I love having CloudMax planned. It makes me feel rich.
 
 
+
