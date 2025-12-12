@@ -46,7 +46,7 @@ const projects: Project[] = [
   {
     id: 'startup-seeds',
     title: 'Startup Seeds',
-    description: 'A platform that uses LLMs to transcribe and summarize business ideas from top entrepreneurial podcasts.',
+    description: 'A free database of businesses and business ideas. Uses AI to automatically summarize podcasts and articles and extract business ideas.',
     tags: ['AI', 'LLM', 'Podcast Transcription', 'Entrepreneurship'],
     image: '/images/startup-seeds.jpg',
     link: 'https://startupseeds.io',
