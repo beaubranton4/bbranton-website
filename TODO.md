@@ -1,0 +1,1 @@
+use the journal and create an LLM. it will be like a chatbot. eventually it will be trained on my voice too. maybe use superwhisper?
