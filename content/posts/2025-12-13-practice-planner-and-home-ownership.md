@@ -12,3 +12,4 @@ Anyways, maybe just venting here, but home ownership is no joke. These are the h
 
 Overall, not bad. Have a nice full Saturday ahead of me. Going to go for a run, cook a nice big breakfast, work on Dugout Edge, migrate Spend my Stipend off of wordpress, and see how much time i have. Then I'm gonna hang with the boys and do secret santa tonight.
 
+
