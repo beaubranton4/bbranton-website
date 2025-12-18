@@ -18,3 +18,4 @@ Automation, automation, automation. That's the theme. The goal is to create some
 
 For now, I'm just looking forward to having a healthy, focused day and staying intentional with how I move through it.
 
+
