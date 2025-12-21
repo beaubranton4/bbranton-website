@@ -29,3 +29,4 @@ I wanted to write about what is better than an MVP or how to really develop an M
 
 You need to test the funnels that you're going to use once you actually do have a product. Don't build first, test your acquisition channel first.
 
+

@@ -30,3 +30,4 @@ And then he's got his own values that he's created. 11 values for banana ball. F
 
 5. If going down this path with a tea brand, I need to take into consideration 80% of viewers are Or people interested are female. They're really interested in the health benefits The number one way to grow would be to start a social media channel again just talking about maybe specifically barley tea or Korean teas again see what resonates with people Get market research So if I want to start a tea brand if I want to start a hat brand I need to get on socials, you know Know if answer butts I Need to build the audience another thing that Jesse said was Something like lines like you know if you don't have attention good luck
 
+
