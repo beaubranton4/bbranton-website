@@ -12,3 +12,11 @@ I can take it as validation or shy away from the competition. In any case, it's 
 
 Onwards.
 
+5 Ideas:
+
+1) A device that helps you breathe. Like forme but for breathing. Not sure how to make that work biomechanically. But i always forget to breathe when i'm working.
+2) Oahu needs a south shore wedding venue that is affordable. Doesn't need ocean views
+3) A group that meets weekly and plays different sports for free
+4) Past college and outside of work, there is no concept of cohorts. It would be nice to be a part of a cohort or a class of like minded but diverse people striving towards some similar goal that enables social interactions and community
+5) A food truck for dogs in the city like we saw in santiago
+6) Need a cooking, dishes and laundry robot (majority of wasted time)
