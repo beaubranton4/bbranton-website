@@ -22,5 +22,6 @@ That does lead me to question. If i've built Dugout Edge, this website and any f
 
 1) Mass produce cricut templates on etsy
 2) systems > goals
+3) i would like to generate an image by asking my coding agent and it would insert it directly into my project locally. would require some sort of MCP server. 
 
 

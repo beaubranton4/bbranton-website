@@ -15,3 +15,5 @@ It just goes to show that the world's we all live in are so different. Just beca
 I'm going to Archimedes Banya today with some of the guys. It's basically what I was thinking should exist like the spa I went to on Mt. Rigi in Switzerland. It's barely in SF though but excited to check it out.
 
 
+
+
