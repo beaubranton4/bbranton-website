@@ -23,3 +23,4 @@ I think i just answered my own question in that the demand for software inevitab
 These answers will lead to the most valuable creations.
 
 
+

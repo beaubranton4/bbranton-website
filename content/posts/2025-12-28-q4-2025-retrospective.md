@@ -123,7 +123,7 @@ Eight insights I want to carry into 2026:
 
 2. **Create before you consume.** The first hour of my day should be creative work, not podcasts or Twitter. Inputs shape outputs.
 
-3. **Write 10 ideas daily.** Jesse Cole's framework. Most ideas are bad. But the muscle of generating them reveals patterns and occasionally surfaces gold.
+3. **Write 5 ideas daily.** Jesse Cole's framework. Most ideas are bad. But the muscle of generating them reveals patterns and occasionally surfaces gold.
 
 4. **Inputs affect outputs.** What I consume shapes what I create. Garbage in, garbage out. Curate ruthlessly.
 
