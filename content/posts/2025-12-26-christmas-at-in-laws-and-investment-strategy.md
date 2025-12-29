@@ -1,7 +1,7 @@
 ---
 title: 'Christmas at In-Laws and Investment Strategy'
 date: '2025-12-26'
-excerpt: 'After 7 years, finally had my first Christmas at the in-laws. Scrolling through 5 year stock charts - wild to think it's been nearly 5 years since the 2020 tech highs. Reflecting on investment strategy looking for resilient tech businesses at local minima.'
+excerpt: "After 7 years, finally had my first Christmas at the in-laws. Scrolling through 5 year stock charts - wild to think it's been nearly 5 years since the 2020 tech highs. Reflecting on investment strategy looking for resilient tech businesses at local minima."
 ---
 
 After 7 years, I finally had my first Christmas at the in-laws. It's nice to have a second family that has different traditions, different personalities, and different priorities. The family gatherings are mostly small talk and breathing sighs of reliefs when it comes game time or the Warriors game gets thrown on the TV, but it's never a bad time.
@@ -17,4 +17,6 @@ OKLO, NNE: Purely speculative based on the major headwinds of AI and the need fo
 NKE/LULU: Both these stocks are at 2018-2020 levels. They are household brands and signs of luxury. I think people have
 
 NKE, LULU, UPWK, RH, COIN, MELI, ZS
+
+
 
