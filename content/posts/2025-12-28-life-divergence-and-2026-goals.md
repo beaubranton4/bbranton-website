@@ -24,3 +24,4 @@ When I wake up each morning i need to "Be", "Become", "Begin".
 Each morning needs to start slow, 10-15 minutes to simply be. Feel your body and move and awaken your mind and spirti. Then we can start thinking about what we want to become. There's no changing who we are in that very moment, but a vision of where we want to go and who we want to become can help inform your actions of the day. Once that is set, then we can begin.
 
 
+
