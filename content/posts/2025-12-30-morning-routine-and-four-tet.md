@@ -38,3 +38,7 @@ I'm not quite sure i like doing that part of my journal digitally. It's much mor
 1 Story:
 
 A mindful morning of good intentional movement and breathing calmed me. i could finally sit in the sauna in peach without struggling to breathe or feeling my body wound up with stress
+
+I write this retroactively. Four Tet and Skrillex was a good time fueled by things we don't speak of publicly. I love the squad and dancing and singing. The best moments are when the circle opens up and everyone has their arms around each other and you just see smiles.
+
+Admittedly, i recognize that these sorts of cheap (or rather expensive) thrills of mobbing in a concert doesn't appeal to me like it once did. I'll still go and get after it with friends but I know deep down I'd rather be in the back sitting down or frankly at home in bed sleeping by 10pm.
