@@ -51,6 +51,8 @@ Now that I've spent 1 year honing the skills of vibe coding. I feel unstoppable 
 
 Some other fun highlights: Tahoe trip with the hawaii squad, Jackie and Brennan's wedding on Oahu, B2B open, 2 camping trips up north of SF. Seaweed foraging, Warriors game, Sharks game, SF Unicorns game! 
 
+Threw a banger harry potter themed murder mystery halloween party. Got it on tape with the Rayban Metas.
+
 Golf took a backseat this year in comparison to other years. I still played and those are still some of the best days, but it's expensive, eats up a whole day, and when you're plateauing in skilll it starts to get old. Hope I can bring that back next year.
 
 I started journaling this year. Nearly 90 straight days. I built my personal website and am documenting everything there.
