@@ -164,8 +164,8 @@ export default function Home() {
                         {/* Project Info */}
                         <div className="flex-grow min-w-0">
                           <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors mb-2">
-                            {project.title}
-                          </h3>
+                              {project.title}
+                            </h3>
                           
                           {(() => {
                             const isExpanded = expandedProjects[project.id];
@@ -177,8 +177,8 @@ export default function Home() {
                                     !isExpanded ? 'line-clamp-3' : ''
                                   }`}
                                 >
-                                  {project.description}
-                                </p>
+                            {project.description}
+                          </p>
                                 {!isExpanded && (
                                   <button
                                     onClick={() => toggleProjectExpansion(project.id)}
@@ -330,7 +330,7 @@ export default function Home() {
                     Read more →
                   </Link>
                 </div>
-              </div>
+            </div>
           </div>
         </div>
       </div>
