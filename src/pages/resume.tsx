@@ -19,16 +19,16 @@ const workExperience: WorkExperience[] = [
   {
     company: 'UserTesting',
     roles: [
-      { title: 'Senior Business Intelligence Analyst', period: 'Present', current: true },
-      { title: 'Business Intelligence Analyst', period: '' },
-      { title: 'Associate Business Analyst', period: '' },
+      { title: 'Senior Business Intelligence Analyst', period: 'Oct. 2023 – Present', current: true },
+      { title: 'Business Intelligence Analyst', period: 'Feb. 2022 – Oct. 2023' },
+      { title: 'Associate Business Analyst', period: 'Dec. 2020 – Feb. 2022' },
     ],
     description: [
-      'Built and maintained executive-level Tableau dashboards and monthly KPI packet for C-suite and Board leadership, synthesizing insights across Finance, Sales, Operations, Product, and People functions.',
-      'Developed a centralized metrics layer in dbt and Snowflake to standardize business logic across teams, reduce redundant SQL by hundreds of queries, and improve performance and consistency across reporting assets.',
-      'Established automated data quality framework using dbt tests and Tableau-driven alerting, enabling early detection of data issues and saving 100+ hours of manual QA and rework each month across multiple teams.',
-      'Led company-wide adoption of self-service analytics through reusable Tableau dashboards, training initiatives, and consistent metric definitions—driving 3 consecutive years of 200%+ annual growth in Tableau adoption.',
-      'Identified upsell opportunities through deep product usage analysis and customer segmentation, directly contributing to a $10M+ year-over-year increase in net dollar retention.',
+      'Serve as primary analytics partner to Sales, Post-Sales, Finance, and Product teams. Translate competing requirements into analytics-ready data models and ensuring stakeholder alignment on metric definitions.',
+      'Architect centralized reporting data layer in dbt/Snowflake to eliminate conflicting business logic, cutting data warehousing compute costs 25% and establishing single-source-of-truth definitions used company-wide.',
+      'Built automated data quality framework using dbt tests and Tableau-driven alerts, catching upstream issues before they reached stakeholders and saving 20+ hours/month in manual QA.',
+      'Own C-suite and Board reporting, including monthly KPI packets synthesizing company performance.',
+      'Developed customer health dashboard to support new usage-based pricing model, analyzing historical usage patterns to flag churn risk and upsell targets—contributing to 10%+ YoY improvement in net dollar retention.',
     ],
     logo: '/images/usertesting-logo.png',
     website: 'https://www.usertesting.com',
@@ -37,7 +37,7 @@ const workExperience: WorkExperience[] = [
   {
     company: 'The Walt Disney Company',
     roles: [
-      { title: 'Associate Industrial Engineer', period: '' },
+      { title: 'Associate Industrial Engineer', period: 'Oct. 2018 – Dec. 2020' },
     ],
     description: [
       'Supported 40+ ride operation teams at Disneyland as a data analyst and operations consultant.',
@@ -52,7 +52,7 @@ const workExperience: WorkExperience[] = [
   {
     company: 'Seattle Mariners',
     roles: [
-      { title: 'Professional Baseball Player', period: '2018' },
+      { title: 'Professional Baseball Player', period: 'Jun. 2018 – Sep. 2018' },
     ],
     description: [
       'Drafted by the Seattle Mariners in the 2018 MLB draft and played one season before voluntarily retiring.',
@@ -66,30 +66,39 @@ const workExperience: WorkExperience[] = [
 const education = [
   {
     school: 'Stanford University',
-    degree: 'Bachelor of Science: Management Science and Engineering',
-    minor: 'Minor in Computer Science',
-    period: 'Sep. 2014 - Jun. 2018',
+    degree: 'Bachelor of Science: Management Science and Engineering w/ Minor in Computer Science',
+    period: 'Sep. 2014 – Jun. 2018',
     location: 'Stanford, CA',
     logo: '/images/stanford-logo.png',
     achievements: [
       '4-year member of Stanford Baseball team with Pac-12 All-Conference and All-Academic Honors',
     ],
   },
-  {
-    school: 'Punahou School',
-    degree: 'High School Diploma',
-    period: '2010 - 2014',
-    location: 'Honolulu, HI',
-    logo: '/images/punahou-logo.png',
-    achievements: [
-      'Varsity Baseball team member',
-    ],
-  },
 ];
 
 const technicalSkills = [
-  'SQL', 'dbt', 'Tableau', 'Looker', 'Snowflake', 'BigQuery', 'Excel', 'Python', 
-  'ChatGPT', 'Cursor', 'Claude Code', 'Next.js', 'TypeScript', 'Supabase', 'Stripe'
+  'SQL', 'dbt', 'Tableau', 'Looker', 'Snowflake', 'BigQuery', 'Excel', 'Python',
+  'ChatGPT', 'Cursor', 'Claude Code'
+];
+
+const projects = [
+  {
+    title: 'Dugout Edge – Baseball Team Management Platform',
+    year: '2025',
+    description: 'Launched a full-stack web application for youth baseball coaches (25+ paying users in first month) to generate optimized lineups and track player statistics across seasons. Developed constraint-based algorithms ensuring equal playing time distribution, position rotation fairness, and statistical tracking for setting lineups throughout the season. Self-taught Next.js, TypeScript, Supabase (PostgreSQL/Auth), Stripe, and Google Analytics using Claude Code as primary development tool.',
+    link: 'https://dugoutedge.com',
+  },
+  {
+    title: 'Autonomous Trading Bot',
+    year: '2025',
+    description: 'Built a fully automated trading system that screens, monitors and executes strategy based on statistical outliers using Python scripts, real-time data streaming and the Charles Schwab API. Built using Cursor to learn about how to use AI coding agents to build practical (and slightly too ambitious) data applications.',
+  },
+  {
+    title: 'Data Engineering Zoomcamp Capstone Project',
+    year: '2024',
+    description: 'Built cloud-based data pipeline for NCAA D1 Baseball stats, integrating web scraping, data warehousing (BigQuery), dbt transformations, and a Looker dashboard to deliver enhanced college baseball statistics.',
+    link: 'https://github.com/bbranton/ncaa-baseball-stats',
+  },
 ];
 
 export default function Resume() {
@@ -263,14 +272,9 @@ export default function Resume() {
                           <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
                             {edu.school}
                           </h3>
-                          <p className="text-gray-600 dark:text-gray-400 mb-1">
+                          <p className="text-gray-600 dark:text-gray-400 mb-2">
                             {edu.degree}
                           </p>
-                          {edu.minor && (
-                            <p className="text-gray-600 dark:text-gray-400 mb-2">
-                              {edu.minor}
-                            </p>
-                          )}
                           <p className="text-sm text-gray-500 dark:text-gray-400 mb-3">
                             {edu.period} • {edu.location}
                           </p>
@@ -283,6 +287,40 @@ export default function Resume() {
                           </ul>
                         </div>
                       </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Projects */}
+              <div className="mb-12">
+                <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">Projects</h2>
+
+                <div className="space-y-6">
+                  {projects.map((project, index) => (
+                    <div key={index} className="p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-all duration-200">
+                      <div className="flex items-start justify-between mb-2">
+                        <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                          {project.link ? (
+                            <a
+                              href={project.link}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+                            >
+                              {project.title}
+                            </a>
+                          ) : (
+                            project.title
+                          )}
+                        </h3>
+                        <span className="text-sm text-gray-500 dark:text-gray-400 ml-4 flex-shrink-0">
+                          {project.year}
+                        </span>
+                      </div>
+                      <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed">
+                        {project.description}
+                      </p>
                     </div>
                   ))}
                 </div>
