@@ -8,9 +8,12 @@ interface LayoutProps {
 
 const Layout = ({ children }: LayoutProps) => {
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen bg-slate-950">
+      {/* Scanline overlay */}
+      <div className="scanlines" />
+      
       <Header />
-      <main className="container mx-auto px-4 sm:px-6 lg:px-8 flex-grow py-8 md:py-12">
+      <main className="container mx-auto px-4 sm:px-6 lg:px-8 flex-grow py-8 md:py-12 relative z-0">
         <div className="fade-in">
           {children}
         </div>

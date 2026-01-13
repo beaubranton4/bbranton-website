@@ -2,11 +2,12 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
   
   return (
-    <footer className="py-8 mt-12 border-t bg-gray-50 dark:bg-gray-800/50">
+    <footer className="py-8 mt-12 border-t border-slate-800/50 bg-slate-950">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="arcade-divider mb-8" />
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <p className="text-gray-600 dark:text-gray-400 mb-2">
+            <p className="text-gray-400 text-sm mb-0">
               © {currentYear} Beau Branton. All rights reserved.
             </p>
           </div>
@@ -17,7 +18,7 @@ const Footer = () => {
                 href="https://twitter.com/beaubranton" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="text-gray-600 hover:text-blue-500 dark:text-gray-400 dark:hover:text-blue-400"
+                className="text-gray-400 hover:text-cyan-400 transition-colors"
                 aria-label="Twitter"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
@@ -28,7 +29,7 @@ const Footer = () => {
                 href="https://linkedin.com/in/beaubranton" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="text-gray-600 hover:text-blue-700 dark:text-gray-400 dark:hover:text-blue-400"
+                className="text-gray-400 hover:text-pink-400 transition-colors"
                 aria-label="LinkedIn"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
@@ -39,7 +40,7 @@ const Footer = () => {
                 href="https://github.com/beaubranton" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
+                className="text-gray-400 hover:text-cyan-400 transition-colors"
                 aria-label="GitHub"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
@@ -51,24 +52,30 @@ const Footer = () => {
             <div className="flex space-x-4">
               <a 
                 href="/now" 
-                className="text-sm text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400"
+                className="text-sm text-gray-400 hover:text-cyan-400 transition-colors"
               >
                 Now
               </a>
               <a 
                 href="/projects" 
-                className="text-sm text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400"
+                className="text-sm text-gray-400 hover:text-cyan-400 transition-colors"
               >
                 Projects
               </a>
               <a 
                 href="/blog" 
-                className="text-sm text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400"
+                className="text-sm text-gray-400 hover:text-cyan-400 transition-colors"
               >
                 Journal
               </a>
             </div>
           </div>
+        </div>
+        
+        <div className="mt-8 text-center">
+          <p className="text-gray-700 text-xs tracking-wider" style={{ fontFamily: "'Press Start 2P', monospace", fontSize: '8px' }}>
+            PLAYER 1 • HIGH SCORE PENDING
+          </p>
         </div>
       </div>
     </footer>

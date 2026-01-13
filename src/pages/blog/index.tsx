@@ -14,9 +14,7 @@ interface PostData {
   featured?: boolean;
 }
 
-interface BlogProps {}
-
-export default function Blog({}: BlogProps) {
+export default function Blog() {
   const router = useRouter();
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
@@ -25,7 +23,6 @@ export default function Blog({}: BlogProps) {
   const [selectedMonth, setSelectedMonth] = useState<string>('');
   const [expandedMonth, setExpandedMonth] = useState<string | null>(null);
 
-  // Get current month in YYYY-MM format
   const getCurrentMonth = () => {
     const now = new Date();
     const year = now.getFullYear();
@@ -33,24 +30,18 @@ export default function Blog({}: BlogProps) {
     return `${year}-${month}`;
   };
 
-  // Get months for the sidebar - Only call Object.keys if postsByMonth is defined
   const months = Object.keys(filteredPostsByMonth || {}).sort().reverse();
 
-  // Fetch posts data
   useEffect(() => {
     const fetchPosts = async () => {
       setLoading(true);
-
       try {
         const response = await fetch(`/api/posts?page=1`);
-        if (!response.ok) {
-          throw new Error(`Error: ${response.status}`);
-        }
+        if (!response.ok) throw new Error(`Error: ${response.status}`);
         const data = await response.json();
         setPostsByMonth(data.postsByMonth || {});
         setFilteredPostsByMonth(data.postsByMonth || {});
 
-        // Set selected month from query param or default to current month
         const monthFromQuery = router.query.month as string;
         const currentMonth = getCurrentMonth();
         const allMonths = Object.keys(data.postsByMonth || {}).sort().reverse();
@@ -60,7 +51,6 @@ export default function Blog({}: BlogProps) {
         } else if (allMonths.includes(currentMonth)) {
           setSelectedMonth(currentMonth);
         } else if (allMonths.length > 0) {
-          // If current month has no posts, show the most recent month
           setSelectedMonth(allMonths[0]);
         }
       } catch (error) {
@@ -75,7 +65,6 @@ export default function Blog({}: BlogProps) {
     fetchPosts();
   }, [router.query.month]);
   
-  // Filter posts based on search query
   useEffect(() => {
     if (!searchQuery.trim()) {
       setFilteredPostsByMonth(postsByMonth);
@@ -100,45 +89,27 @@ export default function Blog({}: BlogProps) {
     setFilteredPostsByMonth(filtered);
   }, [searchQuery, postsByMonth]);
 
-  // Navigate to a specific month
   const navigateToMonth = (month: string) => {
-    router.push({
-      pathname: '/blog',
-      query: { month }
-    }, undefined, { shallow: true });
+    router.push({ pathname: '/blog', query: { month } }, undefined, { shallow: true });
   };
 
-  // Get the previous month
   const getPreviousMonth = (currentMonth: string): string | null => {
     const currentIndex = months.indexOf(currentMonth);
-    if (currentIndex < months.length - 1) {
-      return months[currentIndex + 1];
-    }
+    if (currentIndex < months.length - 1) return months[currentIndex + 1];
     return null;
   };
 
-  // Helper function to get month name
   const getMonthName = (monthYear: string) => {
-    if (monthYear === 'future-posts') {
-      return 'Future Posts';
-    }
-    
+    if (monthYear === 'future-posts') return 'Future Posts';
     try {
       const [year, month] = monthYear.split('-');
-      // Create a date object with the first day of the month
-      // Use the constructor that takes year, month, day to avoid timezone issues
       const date = new Date(parseInt(year), parseInt(month) - 1, 1);
-      
       if (!isNaN(date.getTime())) {
-        // Format using the browser's locale
-        return new Intl.DateTimeFormat('en-US', { 
-          month: 'long',
-          year: 'numeric'
-        }).format(date);
+        return new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric' }).format(date);
       }
-      return monthYear; // Fallback to the raw string
-    } catch (error) {
-      return monthYear; // Fallback to the raw string if parsing fails
+      return monthYear;
+    } catch {
+      return monthYear;
     }
   };
 
@@ -149,233 +120,204 @@ export default function Blog({}: BlogProps) {
         <meta name="description" content="Daily journal entries, thoughts, and reflections by Beau Branton" />
       </Head>
 
-      <div className="min-h-screen bg-white dark:bg-gray-900">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-4xl mx-auto py-8 lg:py-16">
-              <h1 className="text-4xl font-bold mb-8 text-gray-900 dark:text-white">Journal</h1>
-              
-              {/* Search bar */}
-              <div className="mb-8">
-                <div className="relative">
-                  <input
-                    type="text"
-                    placeholder="Search journal entries..."
-                    value={searchQuery}
-                    onChange={(e) => setSearchQuery(e.target.value)}
-                    className="w-full px-4 py-2 pl-10 border border-gray-300 dark:border-gray-700 rounded-lg bg-white dark:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-blue-500"
-                  />
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    className="h-5 w-5 absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-                    />
-                  </svg>
-                  {searchQuery && (
+      <div className="max-w-6xl mx-auto">
+        <h1 
+          className="text-3xl font-bold mb-8 text-cyan-400"
+          style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '18px' }}
+        >
+          JOURNAL
+        </h1>
+        
+        {/* Search bar */}
+        <div className="mb-8">
+          <div className="relative">
+            <input
+              type="text"
+              placeholder="Search entries..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="arcade-input pl-10"
+            />
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="h-5 w-5 absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+            </svg>
+            {searchQuery && (
+              <button
+                onClick={() => setSearchQuery('')}
+                className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-white"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+            )}
+          </div>
+        </div>
+        
+        <div className="flex flex-col md:flex-row gap-8">
+          {/* Sidebar with monthly archives */}
+          <div className="md:w-56 flex-shrink-0">
+            <div className="sticky top-24">
+              <h2 
+                className="text-sm font-bold mb-4 text-pink-400 tracking-wider"
+                style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '10px' }}
+              >
+                ARCHIVES
+              </h2>
+              <p className="text-xs text-gray-400 mb-4">Select a month</p>
+              {loading ? (
+                <p className="text-gray-400 text-sm">Loading...</p>
+              ) : months.length > 0 ? (
+                <div className="max-h-[calc(100vh-250px)] overflow-y-auto pr-2 space-y-1">
+                  {months.map((month) => (
+                    <div key={month} className="space-y-1">
+                      <button
+                        onClick={() => {
+                          navigateToMonth(month);
+                          setExpandedMonth(expandedMonth === month ? null : month);
+                        }}
+                        className={`text-sm flex items-center justify-between w-full text-left py-1 transition-colors ${
+                          selectedMonth === month 
+                            ? 'text-cyan-400' 
+                            : 'text-gray-400 hover:text-white'
+                        }`}
+                      >
+                        <div className="flex items-center">
+                          <span className={`mr-2 transition-transform ${expandedMonth === month ? 'rotate-90' : ''}`}>▸</span>
+                          <span>{getMonthName(month)}</span>
+                        </div>
+                        <span className="text-gray-600 text-xs">({filteredPostsByMonth[month].length})</span>
+                      </button>
+
+                      {expandedMonth === month && (
+                        <ul className="ml-4 space-y-1 border-l border-gray-800 pl-3">
+                          {filteredPostsByMonth[month].map((post) => (
+                            <li key={post.id}>
+                              <a
+                                href={`#${post.id}`}
+                                className="text-xs text-gray-600 hover:text-cyan-400 block py-0.5"
+                              >
+                                {(() => {
+                                  try {
+                                    const [year, month, day] = post.date.split('-').map(Number);
+                                    const date = new Date(year, month - 1, day);
+                                    return format(date, 'MMM d');
+                                  } catch {
+                                    return post.date;
+                                  }
+                                })()}
+                              </a>
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <p className="text-gray-400 text-sm">No archives</p>
+              )}
+
+              {searchQuery && months.length === 0 && (
+                <div className="mt-4 p-3 bg-pink-500/10 border border-pink-500/30 text-pink-400 text-xs">
+                  No entries match your search.
+                </div>
+              )}
+            </div>
+          </div>
+          
+          {/* Posts */}
+          <div className="flex-grow">
+            <h2 className="text-xl font-bold mb-6 text-white">
+              {selectedMonth && getMonthName(selectedMonth)}
+            </h2>
+
+            <div className="mb-6 p-4 bg-slate-800/50 border-l-2 border-pink-500">
+              <p className="text-sm text-gray-300 italic leading-relaxed">
+                These entries aren&apos;t proofread or polished. I whip out my phone, talk for a few minutes, and upload. They are my thoughts and they are me.
+              </p>
+            </div>
+
+            {loading ? (
+              <div className="py-12 text-center">
+                <p className="text-gray-400">Loading posts...</p>
+              </div>
+            ) : selectedMonth && filteredPostsByMonth[selectedMonth] ? (
+              <div className="space-y-8">
+                {filteredPostsByMonth[selectedMonth].map((post) => (
+                  <article key={post.id} id={post.id} className="arcade-card p-6 scroll-mt-24">
+                    <Link href={`/blog/${post.id}`} className="group">
+                      <h3 className="text-xl font-bold mb-2 text-white group-hover:text-cyan-400 transition-colors">
+                        {post.title}
+                      </h3>
+                    </Link>
+                    <div className="flex items-center gap-3 mb-4">
+                      <time className="text-gray-400 text-sm">
+                        {(() => {
+                          try {
+                            const [year, month, day] = post.date.split('-').map(Number);
+                            const date = new Date(year, month - 1, day);
+                            return format(date, 'MMMM d, yyyy');
+                          } catch {
+                            return post.date;
+                          }
+                        })()}
+                      </time>
+                      {post.featured && (
+                        <span className="text-[10px] px-2 py-0.5 bg-cyan-500/20 text-cyan-400 border border-cyan-500/30">
+                          FEATURED
+                        </span>
+                      )}
+                    </div>
+
+                    {post.excerpt && (
+                      <p className="text-gray-300 mb-4 italic text-sm leading-relaxed">
+                        {post.excerpt}
+                      </p>
+                    )}
+
+                    <div className="blog-content text-sm">
+                      <div dangerouslySetInnerHTML={{ __html: post.contentHtml || '' }} />
+                    </div>
+
+                    <div className="flex flex-wrap gap-2 mt-4 pt-4 border-t border-gray-800">
+                      {(post.contentHtml || '').includes('Dugout Edge') && (
+                        <span className="arcade-chip">Dugout Edge</span>
+                      )}
+                      {(post.contentHtml || '').includes('baseball') && (
+                        <span className="arcade-chip">Baseball</span>
+                      )}
+                      {(post.contentHtml || '').includes('entrepreneur') && (
+                        <span className="arcade-chip">Entrepreneurship</span>
+                      )}
+                    </div>
+                  </article>
+                ))}
+
+                {/* Month navigation */}
+                <div className="flex justify-end mt-8 pt-6 border-t border-gray-800">
+                  {getPreviousMonth(selectedMonth) && (
                     <button
-                      onClick={() => setSearchQuery('')}
-                      className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300"
+                      onClick={() => navigateToMonth(getPreviousMonth(selectedMonth)!)}
+                      className="text-gray-400 hover:text-pink-400 transition-colors text-sm"
                     >
-                      <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-                      </svg>
+                      Read {getMonthName(getPreviousMonth(selectedMonth)!)} →
                     </button>
                   )}
                 </div>
               </div>
-              
-              <div className="flex flex-col md:flex-row gap-8">
-                {/* Sidebar with monthly archives */}
-                <div className="md:w-64 flex-shrink-0">
-                  <div className="sticky top-8">
-                    <h2 className="text-xl font-semibold mb-4 text-gray-900 dark:text-white">Archives</h2>
-                    <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">Click a month to view entries</p>
-                    {loading ? (
-                      <p>Loading archives...</p>
-                    ) : months.length > 0 ? (
-                      <div className="max-h-[calc(100vh-200px)] overflow-y-auto pr-2">
-                        <ul className="space-y-2">
-                          {months.map((month) => (
-                            <li key={month} className="space-y-1">
-                              <button
-                                onClick={() => {
-                                  navigateToMonth(month);
-                                  setExpandedMonth(expandedMonth === month ? null : month);
-                                }}
-                                className={`text-gray-700 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 cursor-pointer flex items-center justify-between w-full text-left ${
-                                  selectedMonth === month ? 'font-semibold text-blue-600 dark:text-blue-400' : ''
-                                }`}
-                              >
-                                <div className="flex items-center">
-                                  <svg
-                                    xmlns="http://www.w3.org/2000/svg"
-                                    className={`h-4 w-4 mr-1 transition-transform ${expandedMonth === month ? 'transform rotate-90' : ''}`}
-                                    fill="none"
-                                    viewBox="0 0 24 24"
-                                    stroke="currentColor"
-                                  >
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                                  </svg>
-                                  <span>{getMonthName(month)}</span>
-                                </div>
-                                <span className="ml-2 text-gray-500 dark:text-gray-500">({filteredPostsByMonth[month].length})</span>
-                              </button>
-
-                              {/* Submenu of individual entries */}
-                              {expandedMonth === month && (
-                                <ul className="ml-5 space-y-1 mt-2">
-                                  {filteredPostsByMonth[month].map((post) => (
-                                    <li key={post.id}>
-                                      <a
-                                        href={`#${post.id}`}
-                                        className="text-sm text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 block py-1"
-                                      >
-                                        {(() => {
-                                          try {
-                                            const [year, month, day] = post.date.split('-').map(Number);
-                                            const date = new Date(year, month - 1, day);
-                                            return format(date, 'MMM d, yyyy');
-                                          } catch (error) {
-                                            return post.date;
-                                          }
-                                        })()}
-                                      </a>
-                                    </li>
-                                  ))}
-                                </ul>
-                              )}
-                            </li>
-                          ))}
-                        </ul>
-                      </div>
-                    ) : (
-                      <p>No archives available</p>
-                    )}
-
-                    {searchQuery && months.length === 0 && (
-                      <div className="mt-4 p-3 bg-yellow-50 dark:bg-yellow-900/20 text-yellow-800 dark:text-yellow-200 rounded-lg">
-                        <p>No entries match your search.</p>
-                      </div>
-                    )}
-                  </div>
-                </div>
-                
-                {/* All posts in a continuous timeline */}
-                <div className="flex-grow">
-                  <h1 className="text-3xl font-bold mb-6 text-gray-900 dark:text-white">
-                    {selectedMonth && getMonthName(selectedMonth)}
-                  </h1>
-
-                  <div className="mb-8 p-4 bg-gray-50 dark:bg-gray-800 border-l-4 border-blue-500 rounded-r-lg">
-                    <p className="text-sm text-gray-600 dark:text-gray-400 italic leading-relaxed">
-                      These entries aren't proofread or polished in any meaningful way. I literally whip out my phone, talk for a few minutes a day, and then upload it here. So please don't use this as a gauge of who I am as a writer or a thinker. But they are my thoughts and they are me.
-                    </p>
-                  </div>
-
-                  {loading ? (
-                    <div className="py-12 text-center">
-                      <p>Loading posts...</p>
-                    </div>
-                  ) : selectedMonth && filteredPostsByMonth[selectedMonth] ? (
-                    <div className="space-y-16">
-                      {filteredPostsByMonth[selectedMonth].map((post) => (
-                        <article key={post.id} id={post.id} className="mb-16 pb-16 border-b border-gray-200 dark:border-gray-700 last:border-0 scroll-mt-16">
-                          <Link href={`/blog/${post.id}`} className="group">
-                            <h2 className="text-2xl lg:text-3xl font-bold mb-3 text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-                              {post.title}
-                            </h2>
-                          </Link>
-                          <div className="flex items-center mb-5">
-                            <time className="text-gray-600 dark:text-gray-400 text-base font-medium">
-                              {(() => {
-                                try {
-                                  const dateStr = post.date;
-                                  const [year, month, day] = dateStr.split('-').map(Number);
-                                  const date = new Date(year, month - 1, day);
-                                  return format(date, 'MMMM d, yyyy');
-                                } catch (error) {
-                                  return post.date;
-                                }
-                              })()}
-                            </time>
-                            {post.featured && (
-                              <>
-                                <span className="mx-3 text-gray-400 dark:text-gray-500">•</span>
-                                <span className="bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 text-xs font-medium px-3 py-1 rounded-full">
-                                  Featured
-                                </span>
-                              </>
-                            )}
-                          </div>
-
-                          {post.excerpt && (
-                            <p className="text-gray-600 dark:text-gray-400 mb-6 italic text-lg leading-relaxed">
-                              {post.excerpt}
-                            </p>
-                          )}
-
-                          <div className="blog-content mb-6 prose prose-lg dark:prose-invert max-w-none prose-headings:text-gray-900 dark:prose-headings:text-white prose-p:text-gray-700 dark:prose-p:text-gray-300 prose-p:leading-relaxed">
-                            <div dangerouslySetInnerHTML={{ __html: post.contentHtml || '' }} />
-                          </div>
-
-                          <div className="flex flex-wrap gap-2 mt-6">
-                            {/* Extract topics from content for tags */}
-                            {(post.contentHtml || '').includes('Dugout Edge') && (
-                              <span className="bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 px-3 py-1 text-sm rounded-full font-medium">
-                                Dugout Edge
-                              </span>
-                            )}
-                            {(post.contentHtml || '').includes('baseball') && (
-                              <span className="bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-200 px-3 py-1 text-sm rounded-full font-medium">
-                                Baseball
-                              </span>
-                            )}
-                            {(post.contentHtml || '').includes('entrepreneur') && (
-                              <span className="bg-purple-100 dark:bg-purple-900/30 text-purple-800 dark:text-purple-200 px-3 py-1 text-sm rounded-full font-medium">
-                                Entrepreneurship
-                              </span>
-                            )}
-                            {(post.contentHtml || '').includes('health') && (
-                              <span className="bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-200 px-3 py-1 text-sm rounded-full font-medium">
-                                Health
-                              </span>
-                            )}
-                            {(post.contentHtml || '').includes('habit') && (
-                              <span className="bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-200 px-3 py-1 text-sm rounded-full font-medium">
-                                Habits
-                              </span>
-                            )}
-                          </div>
-                        </article>
-                      ))}
-
-                      {/* Month navigation */}
-                      <div className="flex justify-end mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
-                        {getPreviousMonth(selectedMonth) && (
-                          <button
-                            onClick={() => navigateToMonth(getPreviousMonth(selectedMonth)!)}
-                            className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium transition-colors"
-                          >
-                            Read {getMonthName(getPreviousMonth(selectedMonth)!)} →
-                          </button>
-                        )}
-                      </div>
-                    </div>
-                  ) : (
-                    <div className="bg-gray-50 dark:bg-gray-800 p-8 rounded-lg text-center">
-                      <h3 className="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">No posts yet</h3>
-                      <p className="mb-0 text-gray-600 dark:text-gray-400">Check back soon for new content!</p>
-                    </div>
-                  )}
-                </div>
+            ) : (
+              <div className="arcade-card p-8 text-center">
+                <h3 className="text-xl font-semibold mb-2 text-white">No posts yet</h3>
+                <p className="text-gray-400">Check back soon for new content!</p>
               </div>
+            )}
           </div>
         </div>
       </div>

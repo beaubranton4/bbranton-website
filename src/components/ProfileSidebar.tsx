@@ -7,11 +7,11 @@ interface ProfileSidebarProps {
 const ProfileSidebar = ({ className = '' }: ProfileSidebarProps) => {
   return (
     <div className={`lg:col-span-1 ${className}`}>
-      <div className="sticky top-8">
+      <div className="sticky top-24">
         <div className="text-center lg:text-left">
-          <div className="w-24 h-24 lg:w-32 lg:h-32 mx-auto lg:mx-0 mb-6 rounded-full overflow-hidden">
+          <div className="w-24 h-24 lg:w-32 lg:h-32 mx-auto lg:mx-0 mb-6 overflow-hidden border-2 border-pink-500/60" style={{ boxShadow: '0 0 20px rgba(236, 72, 153, 0.4)' }}>
             <Image 
-              src="/images/Beau Emoji.jpeg" 
+              src="/images/themed-selfie.png" 
               alt="Beau Branton" 
               width={128} 
               height={128}
@@ -19,51 +19,45 @@ const ProfileSidebar = ({ className = '' }: ProfileSidebarProps) => {
             />
           </div>
           
-          <h1 className="text-3xl lg:text-4xl font-bold mb-6 text-gray-900 dark:text-white">
-            Yo!
-          </h1>
-          
-          <p className="text-lg text-gray-600 dark:text-gray-400 mb-8 leading-relaxed">
-            My name is Beau Branton.
+          <p className="text-gray-300 mb-8 leading-relaxed">
+            My name is <span className="text-white font-medium">Beau Branton</span>.
             <br /><br />
-            I'm an entrepreneur, data analyst, and former pro baseball player.
+            I&apos;m an entrepreneur, data nerd, and former pro baseball player.
             <br /><br />
-            Stanford Alum. Hawaii &rarr; SF
-            <br /><br />
-            <a href="/about" className="underline text-blue-500 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 transition-colors">More about me →</a>
+            <span className="text-cyan-400">Stanford Alum</span> • <span className="text-pink-400">Hawaii → SF</span>
           </p>
           
           {/* Social Links */}
-          <div className="space-y-3">
+          <div className="space-y-2">
             <a 
               href="https://twitter.com/beaubranton" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="block text-gray-600 hover:text-blue-600 transition-colors"
+              className="block text-gray-400 hover:text-cyan-400 transition-colors text-sm"
             >
-              • twitter
+              ▸ twitter
             </a>
             <a 
               href="https://github.com/beaubranton4" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="block text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+              className="block text-gray-400 hover:text-pink-400 transition-colors text-sm"
             >
-              • github
+              ▸ github
             </a>
             <a 
               href="https://linkedin.com/in/beaubranton" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="block text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+              className="block text-gray-400 hover:text-pink-400 transition-colors text-sm"
             >
-              • linkedin
+              ▸ linkedin
             </a>
             <a 
               href="mailto:bbranton@gmail.com" 
-              className="block text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+              className="block text-gray-400 hover:text-cyan-400 transition-colors text-sm"
             >
-              • email
+              ▸ email
             </a>
           </div>
         </div>

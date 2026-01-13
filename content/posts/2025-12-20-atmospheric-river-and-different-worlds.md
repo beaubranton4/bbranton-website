@@ -1,7 +1,7 @@
 ---
 title: 'Atmospheric River and Different Worlds'
 date: '2025-12-20'
-excerpt: 'The atmospheric river storm has started in SF with rain forecasted for the next week. Went to Family Billiards with a friend, had inspiring conversations about AI and careers. Realized I'm ahead of the curve on AI technology even though it doesn't feel like it - we all live in different worlds with different algorithms.'
+excerpt: "The atmospheric river storm has started in SF with rain forecasted for the next week. Went to Family Billiards with a friend, had inspiring conversations about AI and careers. Realized I'm ahead of the curve on AI technology even though it doesn't feel like it - we all live in different worlds with different algorithms."
 ---
 
 I now remember why I spend every December in Hawaii with my parents. The atmospheric river storm has started in SF and it doesn't seem like it's going to be stopping anytime soon. There's rain on the forecast for the next week or so and so it's looking like a rainy Christmas.

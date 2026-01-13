@@ -5,6 +5,9 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
         <meta name="description" content="Beau Branton's personal website - thoughts, writings, projects, and more" />
         <meta property="og:title" content="Beau Branton" />
         <meta property="og:description" content="Beau Branton's personal website - thoughts, writings, projects, and more" />

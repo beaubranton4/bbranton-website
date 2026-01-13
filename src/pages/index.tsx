@@ -28,14 +28,6 @@ const activeProjects = [
 export default function Home() {
   const [recentPosts, setRecentPosts] = useState<PostData[]>([]);
   const [loading, setLoading] = useState(true);
-  const [expandedProjects, setExpandedProjects] = useState<{ [key: string]: boolean }>({});
-
-  const toggleProjectExpansion = (projectId: string) => {
-    setExpandedProjects(prev => ({
-      ...prev,
-      [projectId]: !prev[projectId]
-    }));
-  };
 
   useEffect(() => {
     const fetchRecentPosts = async () => {
@@ -43,7 +35,6 @@ export default function Home() {
         const response = await fetch('/api/posts?page=1');
         if (response.ok) {
           const data = await response.json();
-          // Get the 3 most recent posts
           const allPosts = Object.values(data.postsByMonth || {}).flat() as PostData[];
           const sortedPosts = allPosts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
           setRecentPosts(sortedPosts.slice(0, 3));
@@ -66,272 +57,257 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="min-h-screen bg-white dark:bg-gray-900">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          
-          {/* Profile Section - Centered at Top */}
-          <div className="pt-8 pb-6 text-center">
-            <div className="w-24 h-24 mx-auto mb-4 rounded-full overflow-hidden">
-              <Image 
-                src="/images/Beau Emoji.jpeg" 
-                alt="Beau Branton" 
-                width={96} 
-                height={96}
-                className="w-full h-full object-cover"
-              />
-            </div>
-            
-            <h1 className="text-3xl lg:text-4xl font-bold mb-4 text-gray-900 dark:text-white">
-              Yo!
+      <div className="max-w-6xl mx-auto">
+        {/* Hero Section - Stacked Layout */}
+        <div className="pt-12 pb-16">
+          <div className="max-w-2xl mx-auto text-center">
+            <h1 
+              className="text-4xl font-bold mb-6 text-cyan-400"
+              style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '24px', lineHeight: '1.6' }}
+            >
+              Welcome
             </h1>
             
-            <p className="text-base text-gray-600 dark:text-gray-400 mb-4 leading-relaxed max-w-2xl mx-auto">
-              My name is Beau Branton.
-              <br />
-              I'm an entrepreneur, data analyst, and former pro baseball player.
-              <br />
-              Stanford Alum. Hawaii &rarr; SF
-            </p>
-            
+            <div className="space-y-3 mb-8">
+              <p className="text-gray-200 leading-relaxed text-lg">
+                My name is <span className="text-white font-semibold">Beau Branton</span>.
+              </p>
+              
+              <p className="text-gray-200 leading-relaxed text-lg">
+                I&apos;m an entrepreneur, data nerd, and former pro baseball player.
+              </p>
+              
+              <p className="text-gray-200 leading-relaxed text-lg">
+                <span className="text-cyan-400">Stanford Alum</span>. <span className="text-pink-400">Hawaii → SF</span>
+              </p>
+            </div>
+
+            {/* Profile Image */}
+            <div className="flex justify-center mb-8">
+              <div 
+                className="w-48 border-2 border-cyan-500/50 flex items-center justify-center"
+                style={{ boxShadow: '0 0 25px rgba(6, 182, 212, 0.5)' }}
+              >
+                <Image 
+                  src="/images/selfie.jpeg" 
+                  alt="Beau Branton" 
+                  width={192} 
+                  height={256}
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+            </div>
+          
             {/* Social Links */}
-            <div className="flex justify-center space-x-6 mb-8">
+            <div className="flex flex-wrap items-center justify-center gap-2 text-sm">
               <a 
                 href="https://twitter.com/beaubranton" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
+                className="text-gray-400 hover:text-cyan-400 transition-colors"
               >
-                twitter
+                Twitter
               </a>
+              <span className="text-gray-600">|</span>
               <a 
                 href="https://github.com/beaubranton4" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
+                className="text-gray-400 hover:text-cyan-400 transition-colors"
               >
-                github
+                GitHub
               </a>
+              <span className="text-gray-600">|</span>
               <a 
                 href="https://linkedin.com/in/beaubranton" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
+                className="text-gray-400 hover:text-pink-400 transition-colors"
               >
-                linkedin
+                LinkedIn
               </a>
+              <span className="text-gray-600">|</span>
               <a 
                 href="mailto:bbranton@gmail.com" 
-                className="text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
+                className="text-gray-400 hover:text-pink-400 transition-colors"
               >
-                email
+                Email
               </a>
-              <Link 
-                href="/about"
-                className="text-blue-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
-              >
-                more about me →
-              </Link>
             </div>
           </div>
+        </div>
 
-          {/* Content Section - Full Width */}
-          <div className="max-w-4xl mx-auto pb-16">
-              
-              {/* Currently Working On */}
-              <div className="mb-12">
-                <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">
-                  Currently Working On
-                </h2>
-                
-                <div className="space-y-6">
-                  {activeProjects.map((project) => (
-                    <div key={project.id} className="group">
-                      <div className="flex items-start space-x-4 p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 hover:shadow-sm transition-all duration-200">
-                        
-                        {/* Project Logo */}
-                        <div className="flex-shrink-0">
-                          <div className="w-16 h-16 rounded-lg bg-white dark:bg-gray-900 flex items-center justify-center border border-gray-200 dark:border-gray-700">
-                            <Image 
-                              src={project.image} 
-                              alt={project.title} 
-                              width={48} 
-                              height={48}
-                              className="w-12 h-12 object-contain"
-                            />
-                          </div>
-                        </div>
-                        
-                        {/* Project Info */}
-                        <div className="flex-grow min-w-0">
-                          <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors mb-2">
-                              {project.title}
-                            </h3>
-                          
-                          {(() => {
-                            const isExpanded = expandedProjects[project.id];
-                            
-                            return (
-                              <>
-                                <p 
-                                  className={`text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed ${
-                                    !isExpanded ? 'line-clamp-3' : ''
-                                  }`}
-                                >
-                            {project.description}
-                          </p>
-                                {!isExpanded && (
-                                  <button
-                                    onClick={() => toggleProjectExpansion(project.id)}
-                                    className="text-blue-500 hover:text-blue-600 text-sm font-medium transition-colors mb-3"
-                                  >
-                                    read more
-                                  </button>
-                                )}
-                                {isExpanded && (
-                                  <button
-                                    onClick={() => toggleProjectExpansion(project.id)}
-                                    className="text-blue-500 hover:text-blue-600 text-sm font-medium transition-colors mb-3"
-                                  >
-                                    read less
-                                  </button>
-                                )}
-                              </>
-                            );
-                          })()}
-                          
-                          <a 
-                            href={project.link} 
-                            target="_blank" 
-                            rel="noopener noreferrer"
-                            className="text-blue-500 hover:text-blue-600 text-sm font-medium transition-colors"
-                          >
-                            Visit →
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-                
-                <div className="mt-6">
-                  <Link href="/projects" className="text-blue-500 hover:text-blue-600 text-sm font-medium">
-                    View all projects →
-                  </Link>
-                </div>
-              </div>
+        <div className="arcade-divider mb-12" />
 
-              {/* Currently Working At */}
-              <div className="mb-12">
-                <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">
-                  Currently Working At
-                </h2>
-                
-                <div className="group">
-                  <div className="flex items-start space-x-4 p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 hover:shadow-sm transition-all duration-200">
-                    
-                    {/* Company Logo */}
+        {/* Content Grid */}
+        <div className="max-w-4xl mx-auto pb-16 space-y-12">
+            
+          {/* Currently Working On */}
+          <section>
+            <h2 
+              className="text-lg font-bold mb-6 text-cyan-400 tracking-wider"
+              style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '12px' }}
+            >
+              CURRENTLY BUILDING
+            </h2>
+            
+            <div className="space-y-4">
+              {activeProjects.map((project) => (
+                <a
+                  key={project.id}
+                  href={project.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block group"
+                >
+                  <div className="arcade-card p-5 flex items-start space-x-4">
                     <div className="flex-shrink-0">
-                      <div className="w-16 h-16 rounded-lg bg-white dark:bg-gray-900 flex items-center justify-center border border-gray-200 dark:border-gray-700">
+                      <div className="w-14 h-14 bg-white/90 rounded flex items-center justify-center p-1.5">
                         <Image 
-                          src="/images/usertesting-logo.png" 
-                          alt="UserTesting" 
-                          width={48} 
-                          height={48}
-                          className="w-12 h-12 object-contain"
+                          src={project.image} 
+                          alt={project.title} 
+                          width={44} 
+                          height={44}
+                          className="w-full h-full object-contain"
                         />
                       </div>
                     </div>
                     
-                    {/* Company Info */}
                     <div className="flex-grow min-w-0">
-                      <div className="flex items-center space-x-2 mb-2">
-                        <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-                          UserTesting
-                        </h3>
-                        <span className="bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-200 text-xs font-medium px-2 py-1 rounded-full">
-                          Current
-                        </span>
-                      </div>
-                      
-                      <p className="text-gray-600 dark:text-gray-400 text-sm mb-2">
-                        Senior Business Intelligence Analyst
+                      <h3 className="text-white font-semibold group-hover:text-cyan-400 transition-colors mb-1">
+                        {project.title}
+                      </h3>
+                      <p className="text-gray-300 text-sm leading-relaxed mb-2">
+                        {project.description}
                       </p>
-                      
-                      <p className="text-gray-600 dark:text-gray-400 text-sm mb-3 leading-relaxed">
-                        Building data models and business intelligence solutions using SQL, dbt, Snowflake, and Tableau. Leading company-wide analytics adoption and driving measurable business outcomes across Product, RevOps, Finance, and Operations.
-                      </p>
-                      
-                      <div>
-                        <Link href="/resume" className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium transition-colors">
-                          see where I've worked →
-                        </Link>
-                      </div>
+                      <span className="text-cyan-400 text-sm">Visit →</span>
                     </div>
                   </div>
+                </a>
+              ))}
+            </div>
+            
+            <div className="mt-4">
+              <Link href="/projects" className="text-sm text-gray-400 hover:text-pink-400 transition-colors">
+                View all projects →
+              </Link>
+            </div>
+          </section>
+
+          {/* Currently Working At */}
+          <section>
+            <h2 
+              className="text-lg font-bold mb-6 text-pink-400 tracking-wider"
+              style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '12px' }}
+            >
+              DAY JOB
+            </h2>
+            
+            <div className="arcade-card p-5 flex items-start space-x-4 group">
+              <div className="flex-shrink-0">
+                <div className="w-14 h-14 bg-white/90 rounded flex items-center justify-center p-1.5">
+                  <Image 
+                    src="/images/usertesting-logo.png" 
+                    alt="UserTesting" 
+                    width={44} 
+                    height={44}
+                    className="w-full h-full object-contain"
+                  />
                 </div>
               </div>
-
-              {/* Latest Journal Entries */}
-              <div className="mb-12">
-                <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">
-                  Latest Journal Entries
-                </h2>
-                
-                <div className="mb-6 p-4 bg-gray-50 dark:bg-gray-800 border-l-4 border-blue-500 rounded-r-lg">
-                  <p className="text-sm text-gray-600 dark:text-gray-400 italic leading-relaxed">
-                  These entries aren't proofread or polished in any meaningful way. I literally whip out my phone, talk for a few minutes a day, and then upload it here. So please don't use this as a gauge of who I am as a writer or a thinker. But they are my thoughts and they are me.
-                  </p>
+              
+              <div className="flex-grow min-w-0">
+                <div className="flex items-center gap-2 mb-1">
+                  <h3 className="text-white font-semibold">
+                    UserTesting
+                  </h3>
+                  <span className="text-[10px] px-2 py-0.5 bg-green-500/20 text-green-400 border border-green-500/30">
+                    ACTIVE
+                  </span>
                 </div>
                 
-                {loading ? (
-                  <div className="space-y-4">
-                    {[1, 2, 3].map((i) => (
-                      <div key={i} className="p-4 border border-gray-200 dark:border-gray-700 rounded-lg animate-pulse">
-                        <div className="h-4 bg-gray-200 dark:bg-gray-700 rounded w-24 mb-2"></div>
-                        <div className="h-5 bg-gray-200 dark:bg-gray-700 rounded w-48 mb-2"></div>
-                        <div className="h-4 bg-gray-200 dark:bg-gray-700 rounded w-full"></div>
-                      </div>
-                    ))}
-                  </div>
-                ) : (
-                  <div className="space-y-4">
-                    {recentPosts.map((post) => (
-                      <Link key={post.id} href={`/blog/${post.id}`} className="block p-6 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800/50 hover:border-gray-300 dark:hover:border-gray-600 transition-all duration-200 group">
-                        <time className="text-sm text-gray-500 dark:text-gray-400 font-medium">
-                          {(() => {
-                            try {
-                              const [year, month, day] = post.date.split('-').map(Number);
-                              const date = new Date(year, month - 1, day);
-                              return date.toLocaleDateString('en-US', {
-                                year: 'numeric',
-                                month: 'long',
-                                day: 'numeric'
-                              });
-                            } catch (error) {
-                              return post.date;
-                            }
-                          })()}
-                        </time>
-                        <h3 className="font-semibold text-lg mt-2 mb-2 text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-                          {post.title}
-                        </h3>
-                        {post.excerpt && (
-                          <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed overflow-hidden" style={{ display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical' }}>
-                            {post.excerpt}
-                          </p>
-                        )}
-                      </Link>
-                    ))}
-                  </div>
-                )}
+                <p className="text-cyan-400 text-sm mb-2">
+                  Senior Business Intelligence Analyst
+                </p>
                 
-                <div className="mt-6">
-                  <Link href="/blog" className="text-blue-500 hover:text-blue-600 text-sm font-medium">
-                    Read more →
-                  </Link>
-                </div>
+                <p className="text-gray-300 text-sm leading-relaxed mb-3">
+                  Building data models and business intelligence solutions using SQL, dbt, Snowflake, and Tableau. Leading company-wide analytics adoption.
+                </p>
+                
+                <Link href="/resume" className="text-sm text-gray-400 hover:text-cyan-400 transition-colors">
+                  see where I&apos;ve worked →
+                </Link>
+              </div>
             </div>
-          </div>
+          </section>
+
+          {/* Latest Journal Entries */}
+          <section>
+            <h2 
+              className="text-lg font-bold mb-6 text-pink-400 tracking-wider"
+              style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '12px' }}
+            >
+              JOURNAL
+            </h2>
+            
+            <div className="mb-6 p-4 bg-slate-800/50 border-l-2 border-pink-500">
+              <p className="text-sm text-gray-300 italic leading-relaxed">
+                These entries aren&apos;t proofread or polished. I whip out my phone, talk for a few minutes, and upload. But they are my thoughts and they are me.
+              </p>
+            </div>
+            
+            {loading ? (
+              <div className="space-y-3">
+                {[1, 2, 3].map((i) => (
+                  <div key={i} className="arcade-card p-4 animate-pulse">
+                    <div className="h-3 bg-gray-800 rounded w-24 mb-2"></div>
+                    <div className="h-4 bg-gray-800 rounded w-48 mb-2"></div>
+                    <div className="h-3 bg-gray-800 rounded w-full"></div>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <div className="space-y-3">
+                {recentPosts.map((post) => (
+                  <Link 
+                    key={post.id} 
+                    href={`/blog/${post.id}`} 
+                    className="block arcade-card p-4 group"
+                  >
+                    <time className="text-xs text-gray-400 font-medium">
+                      {(() => {
+                        try {
+                          const [year, month, day] = post.date.split('-').map(Number);
+                          const date = new Date(year, month - 1, day);
+                          return date.toLocaleDateString('en-US', {
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric'
+                          });
+                        } catch {
+                          return post.date;
+                        }
+                      })()}
+                    </time>
+                    <h3 className="font-semibold mt-1 mb-1 text-white group-hover:text-cyan-400 transition-colors">
+                      {post.title}
+                    </h3>
+                    {post.excerpt && (
+                      <p className="text-gray-300 text-sm leading-relaxed line-clamp-2">
+                        {post.excerpt}
+                      </p>
+                    )}
+                  </Link>
+                ))}
+              </div>
+            )}
+            
+            <div className="mt-4">
+              <Link href="/blog" className="text-sm text-gray-400 hover:text-pink-400 transition-colors">
+                Read more entries →
+              </Link>
+            </div>
+          </section>
         </div>
       </div>
     </>

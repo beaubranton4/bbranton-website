@@ -1,5 +1,4 @@
 import Head from 'next/head';
-import Link from 'next/link';
 import Image from 'next/image';
 
 interface WorkExperience {
@@ -24,10 +23,10 @@ const workExperience: WorkExperience[] = [
       { title: 'Associate Business Analyst', period: 'Dec. 2020 – Feb. 2022' },
     ],
     description: [
-      'Serve as primary analytics partner to Sales, Post-Sales, Finance, and Product teams. Translate competing requirements into analytics-ready data models and ensuring stakeholder alignment on metric definitions.',
-      'Architect centralized reporting data layer in dbt/Snowflake to eliminate conflicting business logic, cutting data warehousing compute costs 25% and establishing single-source-of-truth definitions used company-wide.',
-      'Built automated data quality framework using dbt tests and Tableau-driven alerts, catching upstream issues before they reached stakeholders and saving 20+ hours/month in manual QA.',
-      'Own C-suite and Board reporting, including monthly KPI packets synthesizing company performance.',
+      'Serve as primary analytics partner to Product, Finance and GTM teams. Translate competing requirements into analytics-ready data models and ensuring stakeholder alignment on metric definitions',
+      'Architect centralized reporting data layer in dbt/Snowflake to eliminate conflicting business logic, cutting data warehousing compute costs 25% and establishing single-source-of-truth definitions used company-wide',
+      'Built automated data quality framework using dbt tests and Tableau-driven alerts, catching upstream issues before they reached stakeholders and saving 20+ hours/month in manual QA',
+      'Own C-suite and Board reporting, including monthly KPI packets synthesizing company performance',
       'Developed customer health dashboard to support new usage-based pricing model, analyzing historical usage patterns to flag churn risk and upsell targets—contributing to 10%+ YoY improvement in net dollar retention.',
     ],
     logo: '/images/usertesting-logo.png',
@@ -40,10 +39,10 @@ const workExperience: WorkExperience[] = [
       { title: 'Associate Industrial Engineer', period: 'Oct. 2018 – Dec. 2020' },
     ],
     description: [
-      'Supported 40+ ride operation teams at Disneyland as a data analyst and operations consultant.',
-      'Increased number of guests riding attractions by 500K+ annually through dedicated data analysis and process improvement at high traffic rides and attractions.',
-      'Saved team 20+ hours of work per month by developing department\'s first suite of Tableau dashboards powered by SQL queries to consolidate and automate all attraction reporting at Disneyland Resort.',
-      'Developed multiple linear regression model using Python to forecast park capacity and influence decisions on setting park hours, supportable attendance, and other strategic priorities during Covid-19 Pandemic.',
+      'Supported 40+ ride operation teams at Disneyland as a data analyst and operations consultant',
+      'Increased number of guests riding attractions by 500K+ annually through dedicated data analysis and process improvement at high traffic rides and attractions',
+      'Saved team 20+ hours of work per month by developing department\'s first suite of Tableau dashboards powered by SQL queries to consolidate and automate all attraction reporting at Disneyland Resort',
+      'Developed multiple linear regression model using Python to forecast park capacity and influence decisions on setting park hours, supportable attendance, and other strategic priorities during Covid-19 Pandemic',
     ],
     logo: '/images/disney-logo.png',
     website: 'https://www.disney.com',
@@ -55,7 +54,7 @@ const workExperience: WorkExperience[] = [
       { title: 'Professional Baseball Player', period: 'Jun. 2018 – Sep. 2018' },
     ],
     description: [
-      'Drafted by the Seattle Mariners in the 2018 MLB draft and played one season before voluntarily retiring.',
+      'Drafted by the Seattle Mariners in the 2018 MLB draft and played one season before voluntarily retiring',
     ],
     logo: '/images/seattle-mariners-logo.png',
     website: 'https://www.mlb.com/mariners',
@@ -77,7 +76,7 @@ const education = [
 ];
 
 const technicalSkills = [
-  'SQL', 'dbt', 'Tableau', 'Looker', 'Snowflake', 'BigQuery', 'Excel', 'Python',
+  'SQL', 'dbt', 'Tableau', 'Looker', 'Fivetran', 'Snowflake', 'Excel', 'Python',
   'ChatGPT', 'Cursor', 'Claude Code'
 ];
 
@@ -109,226 +108,233 @@ export default function Resume() {
         <meta name="description" content="Professional resume and work experience of Beau Branton" />
       </Head>
 
-      <div className="min-h-screen bg-white dark:bg-gray-900">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-4xl mx-auto py-8 lg:py-16">
-              
-              {/* Header */}
-              <div className="mb-8">
-                <h1 className="text-4xl font-bold mb-4 text-gray-900 dark:text-white">Resume</h1>
-                <p className="text-gray-600 dark:text-gray-400 mb-6 leading-relaxed">
-                  7+ years of experience architecting, building and managing data models and business intelligence using the modern data stack (SQL, dbt, Snowflake, Tableau, Python). Proven ability to partner with various business units to impact measurable business outcomes across Product, RevOps, Finance and Operations. Strong desire to learn and apply AI solutions and automations at scale to solve problems with interesting people (and not always with data).
-                </p>
-                
-                {/* Technical Skills */}
-                <div className="mb-6">
-                  <h2 className="text-xl font-semibold mb-4 text-gray-900 dark:text-white">Technical Skills</h2>
+      <div className="max-w-4xl mx-auto">
+        {/* Header */}
+        <div className="mb-10">
+          <h1 
+            className="text-3xl font-bold mb-4 text-cyan-400"
+            style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '18px' }}
+          >
+            RESUME
+          </h1>
+          <p className="text-gray-300 mb-6 leading-relaxed text-sm">
+            7+ years of experience architecting, building and managing data models and business intelligence pipelines using the modern data stack (SQL, dbt, Fivetran, Snowflake, Tableau). 
+            Proven ability to partner with various business units to impact measurable business outcomes across Product, Finance and GTM & Operations. 
+            Strong desire to learn and apply AI solutions and automations at scale to solve hard problems with fun and interesting people.
+          </p>
+          
+          {/* Technical Skills */}
+          <div className="mb-6">
+            <h2 
+              className="text-sm font-bold mb-4 text-cyan-400 tracking-wider"
+              style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '10px' }}
+            >
+              SKILLS
+            </h2>
+            
+            <div className="flex flex-wrap gap-2">
+              {technicalSkills.map((skill, index) => (
+                <span key={index} className="arcade-chip">
+                  {skill}
+                </span>
+              ))}
+            </div>
+          </div>
+          
+          <a
+            href="/BEAU BRANTON RESUME.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center text-gray-400 hover:text-cyan-400 transition-colors text-sm"
+          >
+            <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+            </svg>
+            Download PDF
+          </a>
+        </div>
+
+        <div className="arcade-divider mb-10" />
+
+        {/* Work Experience */}
+        <section className="mb-12">
+          <h2 
+            className="text-sm font-bold mb-6 text-pink-400 tracking-wider"
+            style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '10px' }}
+          >
+            EXPERIENCE
+          </h2>
+          
+          <div className="space-y-4">
+            {workExperience.map((work, index) => (
+              <div key={index} className="arcade-card p-5 group">
+                <div className="flex items-start space-x-4">
+                  {/* Company Logo */}
+                  <div className="flex-shrink-0">
+                    <div className="w-12 h-12 bg-gray-800 border border-gray-700 flex items-center justify-center">
+                      {work.logo ? (
+                        <Image 
+                          src={work.logo} 
+                          alt={work.company} 
+                          width={40} 
+                          height={40}
+                          className="w-10 h-10 object-contain"
+                        />
+                      ) : (
+                        <span className="text-lg font-bold text-gray-400">
+                          {work.company.charAt(0)}
+                        </span>
+                      )}
+                    </div>
+                  </div>
                   
-                  <div className="flex flex-wrap gap-2">
-                    {technicalSkills.map((skill, index) => (
-                      <span
-                        key={index}
-                        className="px-3 py-1.5 bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 text-sm rounded-lg font-medium"
-                      >
-                        {skill}
-                      </span>
-                    ))}
+                  {/* Company Info */}
+                  <div className="flex-grow min-w-0">
+                    <div className="flex items-center gap-2 mb-1">
+                      <h3 className="text-white font-semibold">
+                        <a
+                          href={work.website}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="hover:text-cyan-400 transition-colors"
+                        >
+                          {work.company}
+                        </a>
+                      </h3>
+                      {work.roles.some(r => r.current) && (
+                        <span className="text-[10px] px-2 py-0.5 bg-green-500/20 text-green-400 border border-green-500/30">
+                          ACTIVE
+                        </span>
+                      )}
+                    </div>
+                    
+                    {work.location && (
+                      <p className="text-xs text-gray-400 mb-2">
+                        {work.location}
+                      </p>
+                    )}
+                    
+                    {/* Roles */}
+                    <div className="space-y-1 mb-3">
+                      {work.roles.map((role, roleIndex) => (
+                        <div key={roleIndex} className="flex items-center gap-2 text-sm">
+                          <span className="text-cyan-400">
+                            {role.title}
+                          </span>
+                          <span className="text-gray-500">•</span>
+                          <span className="text-gray-400 text-xs">
+                            {role.period}
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                    
+                    {/* Description */}
+                    <ul className="space-y-1">
+                      {work.description.map((item, itemIndex) => (
+                        <li key={itemIndex} className="text-gray-300 text-xs leading-relaxed flex items-start">
+                          <span className="text-pink-500 mr-2">▸</span>
+                          <span>{item}</span>
+                        </li>
+                      ))}
+                    </ul>
                   </div>
                 </div>
-                
-                <a
-                  href="/BEAU%20BRANTON%20RESUME.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium transition-colors"
-                >
-                  <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                  </svg>
-                  Download PDF Resume
-                </a>
               </div>
-
-              {/* Work Experience */}
-              <div className="mb-12">
-                <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">Experience</h2>
-                
-                <div className="space-y-8">
-                  {workExperience.map((work, index) => (
-                    <div key={index} className="group">
-                      <div className="p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 hover:shadow-md transition-all duration-200">
-                        
-                        {/* Company Header */}
-                        <div className="flex items-start justify-between mb-4">
-                          <div className="flex items-start space-x-4 flex-grow">
-                            {/* Company Logo */}
-                            <div className="flex-shrink-0">
-                              <div className="w-16 h-16 rounded-lg bg-white dark:bg-gray-900 flex items-center justify-center border border-gray-200 dark:border-gray-700">
-                                {work.logo ? (
-                                  <Image 
-                                    src={work.logo} 
-                                    alt={work.company} 
-                                    width={48} 
-                                    height={48}
-                                    className="w-12 h-12 object-contain"
-                                  />
-                                ) : (
-                                  <span className="text-xl font-bold text-gray-400 dark:text-gray-500">
-                                    {work.company.charAt(0)}
-                                  </span>
-                                )}
-                              </div>
-                            </div>
-                            
-                            {/* Company Info */}
-                            <div className="flex-grow min-w-0">
-                              <div className="flex items-center space-x-2 mb-2">
-                                <h3 className="text-xl font-semibold text-gray-900 dark:text-white">
-                                  {work.company}
-                                </h3>
-                                {work.roles.some(r => r.current) && (
-                                  <span className="bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-200 text-xs font-medium px-2 py-1 rounded-full">
-                                    Current
-                                  </span>
-                                )}
-                              </div>
-                              
-                              {work.location && (
-                                <p className="text-sm text-gray-500 dark:text-gray-400 mb-2">
-                                  {work.location}
-                                </p>
-                              )}
-                              
-                              {/* Roles */}
-                              <div className="space-y-1 mb-3">
-                                {work.roles.map((role, roleIndex) => (
-                                  <div key={roleIndex} className="flex items-center space-x-2">
-                                    <span className="text-gray-700 dark:text-gray-300 font-medium">
-                                      {role.title}
-                                    </span>
-                                    {role.period && (
-                                      <>
-                                        <span className="text-gray-400 dark:text-gray-500">•</span>
-                                        <span className="text-sm text-gray-500 dark:text-gray-400">
-                                          {role.period}
-                                        </span>
-                                      </>
-                                    )}
-                                  </div>
-                                ))}
-                              </div>
-                              
-                              {/* Company Link */}
-                              <a
-                                href={work.website}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="text-blue-500 hover:text-blue-600 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium transition-colors inline-flex items-center"
-                              >
-                                Visit {work.company} →
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        
-                        {/* Description */}
-                        <ul className="space-y-2 mt-4">
-                          {work.description.map((item, itemIndex) => (
-                            <li key={itemIndex} className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed flex items-start">
-                              <span className="text-blue-500 mr-2 mt-1.5">•</span>
-                              <span>{item}</span>
-                            </li>
-                          ))}
-                        </ul>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              {/* Education */}
-              <div className="mb-12">
-                <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">Education</h2>
-                
-                <div className="space-y-6">
-                  {education.map((edu, index) => (
-                    <div key={index} className="p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-all duration-200">
-                      <div className="flex items-start space-x-4">
-                        {/* School Logo */}
-                        <div className="flex-shrink-0">
-                          <div className="w-16 h-16 rounded-lg bg-white dark:bg-gray-900 flex items-center justify-center border border-gray-200 dark:border-gray-700">
-                            <Image 
-                              src={edu.logo} 
-                              alt={edu.school} 
-                              width={48} 
-                              height={48}
-                              className="w-12 h-12 object-contain"
-                            />
-                          </div>
-                        </div>
-                        
-                        {/* School Info */}
-                        <div className="flex-grow">
-                          <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
-                            {edu.school}
-                          </h3>
-                          <p className="text-gray-600 dark:text-gray-400 mb-2">
-                            {edu.degree}
-                          </p>
-                          <p className="text-sm text-gray-500 dark:text-gray-400 mb-3">
-                            {edu.period} • {edu.location}
-                          </p>
-                          <ul className="space-y-1">
-                            {edu.achievements.map((achievement, achievementIndex) => (
-                              <li key={achievementIndex} className="text-sm text-gray-600 dark:text-gray-400">
-                                • {achievement}
-                              </li>
-                            ))}
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              {/* Projects */}
-              <div className="mb-12">
-                <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">Projects</h2>
-
-                <div className="space-y-6">
-                  {projects.map((project, index) => (
-                    <div key={index} className="p-6 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-all duration-200">
-                      <div className="flex items-start justify-between mb-2">
-                        <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
-                          {project.link ? (
-                            <a
-                              href={project.link}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
-                            >
-                              {project.title}
-                            </a>
-                          ) : (
-                            project.title
-                          )}
-                        </h3>
-                        <span className="text-sm text-gray-500 dark:text-gray-400 ml-4 flex-shrink-0">
-                          {project.year}
-                        </span>
-                      </div>
-                      <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed">
-                        {project.description}
-                      </p>
-                    </div>
-                  ))}
-                </div>
-              </div>
+            ))}
           </div>
-        </div>
+        </section>
+
+        {/* Education */}
+        <section className="mb-12">
+          <h2 
+            className="text-sm font-bold mb-6 text-cyan-400 tracking-wider"
+            style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '10px' }}
+          >
+            EDUCATION
+          </h2>
+          
+          <div className="space-y-4">
+            {education.map((edu, index) => (
+              <div key={index} className="arcade-card p-5">
+                <div className="flex items-start space-x-4">
+                  {/* School Logo */}
+                  <div className="flex-shrink-0">
+                    <div className="w-12 h-12 bg-gray-800 border border-gray-700 flex items-center justify-center">
+                      <Image 
+                        src={edu.logo} 
+                        alt={edu.school} 
+                        width={40} 
+                        height={40}
+                        className="w-10 h-10 object-contain"
+                      />
+                    </div>
+                  </div>
+                  
+                  {/* School Info */}
+                  <div className="flex-grow">
+                    <h3 className="text-white font-semibold mb-1">
+                      {edu.school}
+                    </h3>
+                    <p className="text-cyan-400 text-sm mb-1">
+                      {edu.degree}
+                    </p>
+                    <p className="text-xs text-gray-400 mb-2">
+                      {edu.period} • {edu.location}
+                    </p>
+                    <ul className="space-y-1">
+                      {edu.achievements.map((achievement, achievementIndex) => (
+                        <li key={achievementIndex} className="text-xs text-gray-300 flex items-start">
+                          <span className="text-cyan-500 mr-2">▸</span>
+                          {achievement}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* Projects */}
+        <section className="mb-12">
+          <h2 
+            className="text-sm font-bold mb-6 text-cyan-400 tracking-wider"
+            style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '10px' }}
+          >
+            SIDE QUESTS
+          </h2>
+
+          <div className="space-y-3">
+            {projects.map((project, index) => (
+              <div key={index} className="arcade-card p-4 group">
+                <div className="flex items-start justify-between mb-2">
+                  <h3 className="text-white font-semibold text-sm group-hover:text-cyan-400 transition-colors">
+                    {project.link ? (
+                      <a
+                        href={project.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {project.title}
+                      </a>
+                    ) : (
+                      project.title
+                    )}
+                  </h3>
+                  <span className="text-xs text-gray-400 ml-4 flex-shrink-0">
+                    {project.year}
+                  </span>
+                </div>
+                <p className="text-gray-300 text-xs leading-relaxed">
+                  {project.description}
+                </p>
+              </div>
+            ))}
+          </div>
+        </section>
       </div>
     </>
   );
 }
-

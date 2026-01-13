@@ -1,7 +1,7 @@
 ---
 title: 'Test Your Funnel First'
 date: '2025-12-17'
-excerpt: 'What is better than an MVP? Test your marketing or sales funnel first. Before building your product, test the acquisition channels you plan to use. Whether it's social media for D2C, SEO for informational products, or outreach for B2B SaaS, test the funnel before you build.'
+excerpt: "What is better than an MVP? Test your marketing or sales funnel first. Before building your product, test the acquisition channels you plan to use. Whether it's social media for D2C, SEO for informational products, or outreach for B2B SaaS, test the funnel before you build."
 ---
 
 # MVP Development: Testing Your Funnel First
