@@ -3,6 +3,7 @@ title: 'Reflecting on Formats and Purpose'
 date: '2025-11-04'
 excerpt: 'Trying voice instead of video, a fatal Dugout Edge mistake, automating my daily habits, and questioning what I really want.'
 featured: true
+draft: true
 ---
 
 Okay, the date is November 4th, 2025, it's Tuesday. Have a lot to discuss here on this daily journal. I've already attempted to record myself on video. But my fear is that with video, I'm a lot more concerned with how I look. How I sound. And it detracts from the message and the actual content and meaning of what I'm trying to get across in these daily journals. Both to whoever's reading, listening, watching. And then to myself. So maybe going back to voice is maybe that's the optimal form for me. Don't know yet. Mostly, maybe I'll try a couple of these. See how it goes. I think video is definitely more memory intensive. And these tend to last 5 minutes, 6 minutes, and I don't think anybody's going to watch that.

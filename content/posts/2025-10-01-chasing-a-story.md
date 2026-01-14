@@ -2,6 +2,7 @@
 title: "Chasing a Story"
 date: "2025-10-01"
 excerpt: "Reflecting on my restless mind, the value of showing your work, and searching for a project worth sharing."
+draft: true
 ---
 
 It's incredible how fast time is flying. It's already October, and I swear it was just the new year. Last night I had trouble sleeping—my mind was racing with thoughts about everything I need to get done for Dugout Edge, plus small annoyances like the blinking fire alarm I just installed. Now that I know it's blinking, it's going to bug me until I replace it.

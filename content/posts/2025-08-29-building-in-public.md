@@ -2,6 +2,7 @@
 title: 'Building in Public: A Daily Practice'
 date: '2025-08-29'
 excerpt: 'Thoughts on consistency, content creation, and finding what I enjoy doing every day.'
+draft: true
 ---
 
 Second day of journaling, and this feels like a continuation of yesterday's entry—thinking about quitting my job and what comes next. I've been running through a plan in my head, and honestly, I have no doubt that if I spent just one hour a day in each of the following areas—working out, building, marketing, and learning—that by the end of 20 years I'd succeed in becoming an entrepreneur or solopreneur. The math feels simple, but the consistency would be the challenge.

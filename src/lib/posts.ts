@@ -12,6 +12,7 @@ export interface PostData {
   title: string;
   excerpt: string;
   featured?: boolean;
+  draft?: boolean;
   contentHtml?: string;
 }
 
@@ -53,18 +54,20 @@ export function getSortedPostsData(): PostData[] {
     // Combine the data with the id
     return {
       id,
-      ...(matterResult.data as { date: string; title: string; excerpt: string; featured?: boolean }),
+      ...(matterResult.data as { date: string; title: string; excerpt: string; featured?: boolean; draft?: boolean }),
     };
   });
   
-  // Sort posts by date
-  return allPostsData.sort((a: PostData, b: PostData) => {
-    if (a.date < b.date) {
-      return 1;
-    } else {
-      return -1;
-    }
-  });
+  // Filter out drafts and sort posts by date
+  return allPostsData
+    .filter((post: PostData) => !post.draft)
+    .sort((a: PostData, b: PostData) => {
+      if (a.date < b.date) {
+        return 1;
+      } else {
+        return -1;
+      }
+    });
 }
 
 // Function to get featured posts with pagination

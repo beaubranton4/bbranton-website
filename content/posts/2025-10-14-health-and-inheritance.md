@@ -2,6 +2,7 @@
 title: "Health and Inheritance"
 date: "2025-10-14"
 excerpt: "Reflecting on the importance of physical health after a knee injury and recognizing inherited traits from parents."
+draft: true
 ---
 
 Man, the craziest thing about journaling every single day is watching how fast time flies. It's been 45 days since I started, and it feels like it was just yesterday.

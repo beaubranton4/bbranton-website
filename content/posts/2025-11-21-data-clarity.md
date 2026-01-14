@@ -3,6 +3,7 @@ title: 'Data Clarity'
 date: '2025-11-21'
 excerpt: 'Thinking through the challenges of bespoke SQL, metric confusion, and ownership when building analytics for small businesses.'
 featured: true
+draft: true
 ---
 
 The date is November 21st, 2025. I think it'd be wise to start thinking about the problems that I see on a day-to-day basis as a business intelligence analyst, as someone who works with data on a daily basis, as someone who has been building small companies and needs to start building out analytics to inform decision-making on a very small scale, but similar in context to problems that small businesses, million-dollar businesses might face on a day-to-day basis when building out analytics.

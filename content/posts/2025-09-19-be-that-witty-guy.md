@@ -2,6 +2,7 @@
 title: 'Being the Funny Guy'
 date: '2025-09-19'
 excerpt: "I keep circling back to the idea of being a comedian. There’s something in me that lights up when I come across a hilarious video and think, “I could’ve made that.” Nothing gives me as much joy as making a witty wise crack comment."
+draft: true
 ---
 
 The word of the day for me is grateful. I think I often feel grateful, but right now it’s especially strong. The past month or two of my life has been incredible—getting to go to Chile, spending a wild weekend in Las Vegas with 27 friends, working hard on Dugout Edge, and actually seeing that effort pay off. I’ve made $350 so far, nearly $100 in monthly recurring revenue, in under a month. That’s insane for such a tiny little vibe-coded app.

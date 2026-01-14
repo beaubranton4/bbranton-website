@@ -2,6 +2,7 @@
 title: "Under the Weather"
 date: "2025-10-19"
 excerpt: "Dealing with sickness, reflecting on work habits, and reminiscing about Stanford baseball memories."
+draft: true
 ---
 
 Feeling a little under the weather today — sore throat, low energy, just generally sick. Two straight days of drinking definitely didn't help. I ended up sleeping most of the day, which I guess my body needed. I didn't have much motivation to do anything, but I still managed to get a few small things done. Every bit counts, even if it's not the most productive day. I'd love to make weekends more productive, but sometimes you just have to accept it and let yourself rest.

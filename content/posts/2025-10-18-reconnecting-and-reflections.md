@@ -2,6 +2,7 @@
 title: "Reconnecting and Reflections"
 date: "2025-10-18"
 excerpt: "Catching up with Stanford baseball alumni, missing my dad's birthday, and making progress on Dugout Edge's practice plan feature."
+draft: true
 ---
 
 It's a beautiful Saturday, and I'm a little bit hungover from last night. Got dinner and drinks with the Stanford baseball alum squad — about 15 to 20 of us. It was great to see so many familiar faces and catch up after years apart. There was real star power at the table — four big leaguers, one WNBA player, and even a social media star. Just a good crew. The whole night had that easy, fun energy that makes you forget about time for a bit.

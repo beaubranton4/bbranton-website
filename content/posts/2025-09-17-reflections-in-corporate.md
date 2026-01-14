@@ -2,6 +2,7 @@
 title: 'Reflection on working in tech'
 date: '2025-09-17'
 excerpt: 'Im not cut out for the corporate world'
+draft: true
 ---
 
 I keep finding myself thinking about my place in the world and how I can best contribute to the economy—how I can make the most of my abilities to earn an income, not just for myself, but for my family. The more time I spend in the corporate world, the more I realize I’m not suited for it.

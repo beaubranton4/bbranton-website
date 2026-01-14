@@ -2,6 +2,7 @@
 title: "Stacking Habits"
 date: "2025-09-28"
 excerpt: "Reflecting on how habits stack, both good and bad, and the importance of taking action without delay."
+draft: true
 ---
 
 This morning I'm thinking about how my body might hate me. I've drank pretty heavily for the last decade—probably twice a week on average—and that just cannot be good for my body, my liver, or my internal organs. I really need to cut back. The issue is that my friends love to drink, and truthfully, I love it too. It's fun, it's social. But I need to find a way to have that kind of fun without drinking.

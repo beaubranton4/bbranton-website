@@ -3,6 +3,7 @@ title: 'Thoughts on Thinking and Random Ones I had Today'
 date: '2025-11-25'
 excerpt: 'I am a much better writer than I am a speaker, and I’m an even better thinker than I am a writer. I want to close the gap between those three areas of expression as much as I can.'
 featured: true
+draft: true
 ---
 
 Today I write my journal entry because the output is much clearer when I have time to collect my thoughts. The time between thinking a thought, letting it marinate, and then typing it out on a keyboard gives my brain a chance to structure it. When I’m speaking out loud, that buffer doesn’t exist. I am a much better writer than I am a speaker, and I’m an even better thinker than I am a writer. I want to close the gap between those three areas of expression as much as I can.
