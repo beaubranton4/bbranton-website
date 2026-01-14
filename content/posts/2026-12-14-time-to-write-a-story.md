@@ -32,6 +32,8 @@ IDEAS:
 
 2) de San Francisco Sausages, a semi-professional baseball team with a twist.
 
+3) Start a travelball club or baseball team/brand like the hawaii tigers
+
 
 ---
 
