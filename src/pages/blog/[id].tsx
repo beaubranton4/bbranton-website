@@ -109,7 +109,7 @@ export default function Post() {
           
           <div className="mb-8 p-4 bg-slate-800/50 border-l-2 border-pink-500">
             <p className="text-sm text-gray-300 italic leading-relaxed">
-              These entries aren&apos;t proofread or polished. I whip out my phone, talk for a few minutes, and upload. They are my thoughts and they are me.
+            These entries aren&apos;t proofread or polished in any meaningful way. I whip out my phone, talk for a few minutes, and upload (with the help of AI).
             </p>
           </div>
           
