@@ -1,6 +1,6 @@
 ---
 title: 'Time to Write a Story?'
-date: '2026-12-14'
+date: '2026-01-14'
 excerpt: "Story ideas and potential topics to explore: marathon day with my dad and my airpods, the day coach Marquess offered me a scholarship to play baseball at Stanford, my Stanford Baseball career, and working the rides at Disneyland as an IE."
 ---
 
@@ -30,7 +30,7 @@ IDEAS:
 
 1) Time to write a story? talkstory.ai
 
-
+2) de San Francisco Sausages, a semi-professional baseball team with a twist.
 
 
 ---
