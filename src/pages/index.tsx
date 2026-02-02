@@ -1,16 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
-import { useState, useEffect } from 'react';
-
-// Types
-interface PostData {
-  id: string;
-  date: string;
-  title: string;
-  excerpt: string;
-  contentHtml?: string;
-}
 
 // My active projects
 const activeProjects = [
@@ -26,29 +16,6 @@ const activeProjects = [
 ];
 
 export default function Home() {
-  const [recentPosts, setRecentPosts] = useState<PostData[]>([]);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    const fetchRecentPosts = async () => {
-      try {
-        const response = await fetch('/api/posts?page=1');
-        if (response.ok) {
-          const data = await response.json();
-          const allPosts = Object.values(data.postsByMonth || {}).flat() as PostData[];
-          const sortedPosts = allPosts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
-          setRecentPosts(sortedPosts.slice(0, 3));
-        }
-      } catch (error) {
-        console.error('Error fetching recent posts:', error);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchRecentPosts();
-  }, []);
-
   return (
     <>
       <Head>
@@ -241,70 +208,36 @@ export default function Home() {
             </div>
           </section>
 
-          {/* Latest Journal Entries */}
+          {/* Essays Section */}
           <section>
             <h2 
               className="text-lg font-bold mb-6 text-pink-400 tracking-wider"
               style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '12px' }}
             >
-              JOURNAL
+              ESSAYS
             </h2>
             
-            <div className="mb-6 p-4 bg-slate-800/50 border-l-2 border-pink-500">
-              <p className="text-sm text-gray-300 italic leading-relaxed">
-                These entries aren&apos;t proofread or polished in any meaningful way. I whip out my phone, talk for a few minutes, and upload (with the help of AI).
+            <div className="arcade-card p-8 text-center">
+              <div 
+                className="text-4xl mb-4"
+                style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif" }}
+              >
+                ✍️
+              </div>
+              
+              <h3 
+                className="text-sm font-bold mb-3 text-cyan-400"
+                style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '10px' }}
+              >
+                COMING SOON
+              </h3>
+              
+              <p className="text-gray-300 text-sm leading-relaxed mb-4">
+                Curated essays on entrepreneurship, baseball, technology, and life.
               </p>
-            </div>
-            
-            {loading ? (
-              <div className="space-y-3">
-                {[1, 2, 3].map((i) => (
-                  <div key={i} className="arcade-card p-4 animate-pulse">
-                    <div className="h-3 bg-gray-800 rounded w-24 mb-2"></div>
-                    <div className="h-4 bg-gray-800 rounded w-48 mb-2"></div>
-                    <div className="h-3 bg-gray-800 rounded w-full"></div>
-                  </div>
-                ))}
-              </div>
-            ) : (
-              <div className="space-y-3">
-                {recentPosts.map((post) => (
-                  <Link 
-                    key={post.id} 
-                    href={`/blog/${post.id}`} 
-                    className="block arcade-card p-4 group"
-                  >
-                    <time className="text-xs text-gray-400 font-medium">
-                      {(() => {
-                        try {
-                          const [year, month, day] = post.date.split('-').map(Number);
-                          const date = new Date(year, month - 1, day);
-                          return date.toLocaleDateString('en-US', {
-                            year: 'numeric',
-                            month: 'long',
-                            day: 'numeric'
-                          });
-                        } catch {
-                          return post.date;
-                        }
-                      })()}
-                    </time>
-                    <h3 className="font-semibold mt-1 mb-1 text-white group-hover:text-cyan-400 transition-colors">
-                      {post.title}
-                    </h3>
-                    {post.excerpt && (
-                      <p className="text-gray-300 text-sm leading-relaxed line-clamp-2">
-                        {post.excerpt}
-                      </p>
-                    )}
-                  </Link>
-                ))}
-              </div>
-            )}
-            
-            <div className="mt-4">
+              
               <Link href="/blog" className="text-sm text-gray-400 hover:text-pink-400 transition-colors">
-                Read more entries →
+                View essays →
               </Link>
             </div>
           </section>
