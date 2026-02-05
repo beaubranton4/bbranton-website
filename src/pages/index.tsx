@@ -230,11 +230,11 @@ export default function Home() {
                 style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '10px' }}
               >
                 COMING SOON
-              </h3>
+                    </h3>
               
               <p className="text-gray-300 text-sm leading-relaxed mb-4">
                 Curated essays on entrepreneurship, baseball, technology, and life.
-              </p>
+                      </p>
               
               <Link href="/blog" className="text-sm text-gray-400 hover:text-pink-400 transition-colors">
                 View essays →

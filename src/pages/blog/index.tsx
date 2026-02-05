@@ -20,7 +20,7 @@ export default function Blog() {
           <div 
             className="text-6xl mb-6"
             style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif" }}
-          >
+              >
             ✍️
           </div>
           
@@ -29,8 +29,8 @@ export default function Blog() {
             style={{ fontFamily: "'Press Start 2P', system-ui, sans-serif", fontSize: '14px' }}
           >
             COMING SOON
-          </h2>
-          
+            </h2>
+
           <p className="text-gray-300 leading-relaxed max-w-md mx-auto mb-6">
             I&apos;m working on a collection of well-crafted essays—thoughts that have been refined, edited, and polished into something worth reading.
           </p>
