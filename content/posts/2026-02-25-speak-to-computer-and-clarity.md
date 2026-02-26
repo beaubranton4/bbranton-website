@@ -22,3 +22,20 @@ Yes, there are processes that can be automated. Yes, there are workflows that ca
 It's direction.
 
 It's taste.
+
+"
+Aakash Gupta
+@aakashgupta
+·
+7h
+When building costs drop 90% but distribution costs stay flat, you get a gold rush where everyone digs and nobody sells.
+
+That’s what this chart actually shows. New websites up 40%. iOS apps up 50%. GitHub pushes up 35%. Everyone read “barrier to building disappeared” and heard opportunity. The correct read is that 557,000 new apps hit the App Store last year, a 24% spike, flooding a discovery channel that was already dead on arrival. 90% of senior mobile professionals surveyed said organic App Store discovery was effectively over before this wave even hit. Half of all App Store searches are just people typing in brands they already know.
+
+The supply side hockey-sticked. The demand side didn’t move.
+
+This is why tech layoffs doubled to 264,000 in 2025 while code output simultaneously exploded. Companies don’t need more builders. They need people who can get the thing in front of someone who’ll pay for it. Distribution, positioning, audience, brand. The functions that never got the AI productivity boost.
+
+Nicholas nails the conclusion that taste and knowing what to build are what matter now. But taste is only half of it. You also need the channel. The unsexy reality is that a mediocre app with 100,000 newsletter subscribers will outperform a beautiful app with zero distribution every single time. The apps winning in 2026 aren’t the best-built ones. They’re the ones attached to someone who already has an audience.
+
+Building software used to be the moat. Now building software is the commodity. Distribution is the new moat, and unlike code, it doesn’t get cheaper with AI." - Aakash Gupta
