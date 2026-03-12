@@ -1,0 +1,7 @@
+# March 11, 2026
+
+Another day another dollar. Worked a bunch on some new Dugout Edge tools. Right now, I'm just increasing the surface area of Dugout Edge. It's funny, because my initial instinct, to build the lineup generator was the right one. It still drives 80-90% of my signups and it was the first thing I built. I've built dozens of other tools, but none of them convert like the lineup generator. To be fair, it's the only one other than the practice planner, that really has a true funnel. I guess we will see if March will be my biggest month yet. It undoubtedly will be. We are only 1/3rd through and I'm at 75% of customer signups (70).
+
+Maybe I need to be doing more research on how people are currently making money in the baseball space. I think I've done that, I'm just too afraid to take them on. I'm shying away from the competition. Where can I build that has bad UI? What are some of the most popular youth baseball and softball businesses out there? I've built a ton of new pages - let's see which ones hit.
+
+Been working hard on my fitness and my eating habits lately. Down 2% BFP and gained some muscle mass. I want to get to 12-14% body fat if at all possible. InBody scan at the gym is a pretty big game changer.
