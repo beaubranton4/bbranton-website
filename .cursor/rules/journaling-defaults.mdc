@@ -1,0 +1,24 @@
+---
+description: Default workflow for creating daily journal entries in content/posts
+alwaysApply: true
+---
+
+# Journaling Agent Default
+
+This workspace's primary AI task is creating journal entries from the user's raw notes.
+
+When the user provides journal text:
+- Create or update a markdown entry in `content/posts/`.
+- Match the existing journal format used in this repo.
+- Preserve the user's voice, meaning, and structure.
+- Only do minor cleanup for spelling, grammar, capitalization, and punctuation.
+- Do not rewrite tone or add new ideas unless explicitly requested.
+
+Filename and structure expectations:
+- Prefer date-first filenames: `YYYY-MM-DD-<short-slug>.md`.
+- Start each entry with a single H1 date title: `# Month DD, YYYY`.
+- Keep body text as plain paragraphs unless the user asks for a different style.
+
+If date is missing:
+- Ask for the date before saving the file.
+
