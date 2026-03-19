@@ -3,7 +3,7 @@
 Skipped the last 5 days of journaling. I need to be better about my habit. At minimum, it only will take a minute or two.
 
 I was in Vegas from Friday to Monday. Got the chance to see how the rich live. Was either in Chao's dad's penthouse suite or at Summit Club or eating a meal that I can't afford. Great times with great friends. Thankful to be a part of that group of guys.
-
+ 
 Absolutely no motivation upon getting back home. Slept for 3 hours mid-day Monday and had a near perfect sleep score the night after. Another great sleep last night but my mind still feels fried. Such a stark difference compared to how I felt coming back from Switzerland.
 
 I'm looking forward to getting back into the routine of life and good habits and discipline.
