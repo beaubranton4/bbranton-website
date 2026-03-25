@@ -36,3 +36,6 @@ UPDATING.md
 
 # personal notes - never publish
 content/apple-notes/
+
+# voice data - too large for git, used for future voice training
+content/voice-data/
