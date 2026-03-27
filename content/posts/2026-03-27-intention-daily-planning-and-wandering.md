@@ -24,3 +24,4 @@ All that to say, I need to continue with this daily meditation, this daily pract
 
 Sometimes I'll stray from that path. Most of the time I don't accomplish what I want to get done. But all in all, it's one of the most important things for me.
 
+THINGS I NEED TO FOCUS ON: INVESTING MY $30-50K SOMEWHERE. JOINING COMMUNITY. LOSING BODY FAT. AVOIDING DISTRACTIONS. POSTURE.
