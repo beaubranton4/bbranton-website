@@ -1,0 +1,17 @@
+# April 2, 2026
+
+The date is April 2nd, 2026. That's a hard word for me to pronounce. Sixth. Sixth. It's tough. In any case, completely forgot what I was going to talk about.
+
+But one of the number one things on my mind right now is how I'm getting a little bit of a belly. I've always kind of had a bit of a pot belly, I guess you could say, but I think it's really a result of body fat. Meaning, I've always had a bit of body fat. If I had to guess, I'm at around 16, 17% body fat. I really should be around closer to 11, 12%. That should be my goal. I think I can get to 15 by the end of April. But I need to be tracking my calories. That's the advice that I've been giving Abby and I should take my own advice. That's truly my goal. I think I'm willing to sacrifice a little bit of muscle to get there at this point. But I think I've built up enough muscle where rigorously cutting for two, three months is not going to really impact me. But I can still do strength training in the meantime.
+
+It's just crazy how when you get older, your metabolism is a little bit slower. Two factors working together there and working against me: one, I work from home, and two, just getting older. I feel like I work out a ton. I'm going to the gym daily, working out daily. And I think I'm working out harder than most, but I think it doesn't really make up for the fact that I don't leave my house. I'm not walking around being out and about in the real world. So I've really got to make it a point to go outside, walk more, take more steps. 10k steps a day will be a huge, huge win for me. And then tracking, right? It's just limiting my eating because I love to eat. I love protein. I love salty food. So I've just got to eat a little bit more intentionally and limit my portion sizes. And I'm not that far gone where two, three months I can't kind of achieve the body that I want to.
+
+On the side of that, I've been really working minimal hours. I've been putting in a ton of time on my side projects on Dugout Edge. And I've been proud of that because it's been showing. One of the coolest things that has been unlocked—not coolest, it was kind of obvious—but one of the big things that was unlocked for me was a WordPress MCP server. And I'm planning to test that out on Spend My Stipend, see what I can do to improve Spend My Stipend via the WordPress MCP server, which is going to be a huge unlock for productivity. But it also means that a lot of other companies and customers are going to have that same unlock.
+
+I'm thinking that this is one potential opportunity. Actually, I know it's an opportunity because people who have WordPress sites aren't that technical and they have no idea where to start setting these things up. So I'm wondering: do I try and be that authority to help people do that? Can I start a business around that? Or is that all just a distraction? Should I just leverage it and buy up WordPress sites, starting with Spend My Stipend and seeing how that works?
+
+I'm curious to see if I can really build like I have, like as if the project was Claude Code, just a GitHub, Vercel deployment versus being hosted by WordPress and just editing it via the MCP server.
+
+Things are just going by way too fast. Time is just moving and I think I need more adventure. I need more newness. I need to be dreaming again.
+
+P.S. Need to exclude "you know" and "right" from my vocabulary when speaking...
