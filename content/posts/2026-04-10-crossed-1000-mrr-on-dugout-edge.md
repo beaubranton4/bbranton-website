@@ -22,3 +22,6 @@ Because I can start over again, but why start over when I've put so much time in
 
 But at the moment, I don't see why I should stop working, stop grinding on this thing when I've got momentum. I don't think I should quit and stop the momentum from building.
 
+This is the biggest opportunity in the SEO space today. Previously, all search terms on Google were mostly filled and won by articles. Articles with keywords written by someone who has a blog. They put 2,000 words on the page, stuff it with long-tail keywords for that search term. Now, this isn't necessarily the most useful thing to surface to the user who has asked this question. Most of the time, they're looking for tools or something more helpful. Reading about things is great, but things that actually help me get the thing done that I'm trying to accomplish are more valuable.
+
+So this is where I think vibe coding wins, right? People will just need to be building out things that people are searching for. Plain text doesn't answer that question. A tool or an image or a video solves it better for them.
