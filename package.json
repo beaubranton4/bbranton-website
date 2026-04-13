@@ -9,7 +9,8 @@
     "lint": "next lint",
     "import:apple-note": "python3 scripts/import_apple_note.py",
     "export:apple-notes": "osascript scripts/export_apple_notes.applescript \"$PWD/content/apple-notes\"",
-    "sync:voice-data": "bash scripts/sync_voice_data.sh"
+    "sync:voice-data": "bash scripts/sync_voice_data.sh",
+    "refresh": "bash scripts/refresh-all.sh"
   },
   "keywords": [],
   "author": "",
