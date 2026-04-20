@@ -10,3 +10,7 @@ This tool would surface all the things it would recommend A/B testing. It would 
 
 It's as simple as just multiple-choice choosing what you want. Interesting concept...
 
+I am really fascinated with how people express themselves. It makes me emotional.
+
+Baseball for me was actually just an expression of who I was through movement.
+

@@ -1,0 +1,31 @@
+keyword,search_volume,cpc,competition,competition_index,opportunity_score,cluster
+personal finance app,135000,9.84,LOW,0,321.408,investing
+investing for beginners,14800,8.68,LOW,33,22.2277,investing
+run club near me,9900,3.33,LOW,13,13.7774,fitness_community
+how to invest money,9900,7.93,MEDIUM,65,9.3191,investing
+digital detox,5400,0.91,LOW,2,6.9283,screen_time
+screen time app,2900,2.99,LOW,18,3.7068,screen_time
+index fund investing,2400,9.76,MEDIUM,49,3.6279,investing
+passive investing,1900,5.11,LOW,10,3.1006,investing
+reduce screen time,720,3.33,LOW,10,1.0365,screen_time
+desk stretches,1000,0.29,LOW,20,0.9878,posture_pain_2
+digital detox app,720,0,LOW,0,0.864,screen_time
+fitness accountability app,320,6.24,MEDIUM,35,0.5067,fitness_community
+founder sales,320,3.47,LOW,12,0.4552,founder_sales
+workout partner app,260,5.39,LOW,8,0.4418,fitness_community
+phone addiction app,260,4.08,LOW,21,0.347,screen_time
+content creation workflow,260,0,LOW,3,0.3026,content_creation
+text neck exercises,260,0.34,MEDIUM,37,0.2541,posture_pain_2
+repurpose content,170,1.93,LOW,15,0.2069,content_creation
+how to sell your product,110,13.92,MEDIUM,49,0.2013,founder_sales
+content repurposing tool,110,6.02,LOW,6,0.1988,content_creation
+find workout partner,70,5,LOW,20,0.1008,fitness_community
+content atomization,70,0,LOW,2,0.0823,content_creation
+startup sales,70,0,LOW,11,0.0748,founder_sales
+fitness accountability partner,50,7.11,LOW,32,0.0698,fitness_community
+neck pain desk job,90,0.34,MEDIUM,65,0.0489,posture_pain_2
+sales for founders,10,0,LOW,17,0.01,founder_sales
+solopreneur sales,0,0,,0,0.0,founder_sales
+content repurposing app,0,0,,0,0.0,content_creation
+posture exercises for desk workers,0,0,,0,0.0,posture_pain_2
+upper back pain from sitting,0,0,,0,0.0,posture_pain_2

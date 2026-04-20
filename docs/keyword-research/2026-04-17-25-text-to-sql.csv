@@ -1,0 +1,22 @@
+keyword,search_volume,keyword_difficulty,cpc,main_intent,opportunity_score,cluster
+text to sql,720,38,7.03,unknown,0.76,25-text-to-sql
+text-to sql,720,23,10.89,unknown,1.158,25-text-to-sql
+text-to-sql,720,38,10.89,unknown,0.933,25-text-to-sql
+sql convert text to date,590,15,0,unknown,0.501,25-text-to-sql
+convert text to date sql,590,14,0,unknown,0.507,25-text-to-sql
+sql convert int to text,390,8,0,unknown,0.359,25-text-to-sql
+convert text to date sql server,320,14,0,unknown,0.275,25-text-to-sql
+convert text to int sql server,170,11,0,unknown,0.151,25-text-to-sql
+sql server convert int to text,170,14,0,unknown,0.146,25-text-to-sql
+text-to-sql llm,170,23,11.74,unknown,0.285,25-text-to-sql
+sql date to text,140,23,0,unknown,0.108,25-text-to-sql
+text to date sql,140,15,0,unknown,0.119,25-text-to-sql
+text to sql llm,140,23,11.33,unknown,0.23,25-text-to-sql
+sql convert text to number,140,5,0,unknown,0.133,25-text-to-sql
+sql server how to search stored procedures text,110,0,0,unknown,0.11,25-text-to-sql
+text to sql agent,90,15,17.62,unknown,0.211,25-text-to-sql
+text-to-sql agent,90,19,13.18,unknown,0.169,25-text-to-sql
+sql convert number to text,70,7,0,unknown,0.065,25-text-to-sql
+text-to sql conversion,70,18,0,unknown,0.057,25-text-to-sql
+sql convert to text,70,3,0,unknown,0.068,25-text-to-sql
+text to sql conversion,70,20,0,unknown,0.056,25-text-to-sql
