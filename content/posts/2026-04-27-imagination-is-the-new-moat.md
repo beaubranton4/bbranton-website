@@ -4,6 +4,8 @@ Had a really nice time camping in Half Moon Bay over the weekend with Jeff, Ash,
 
 Looking forward to just locking back in, being well disciplined before I head off to Hawaii — and you know, once I'm there all that goes out the window. I really need to stick to my goals, being disciplined. I think that is the key for me because I don't realize it in the moment, but those consumables — in the moment it feels good and I don't think the effects are that bad, but it just makes me not really care. Makes me lazy.
 
+Remember the feeling back from Switzerland, those first two mornings? All it took was two weeks clean, time with family, no stress to put me in a position where I had 100% motivation.
+
 In today's day and age, where AI can help you do anything, can help you build anything, create anything, code anything — technical skills are not really a moat anymore. Using a brush as a painter is not a skill anymore. Writing code as a coder is not a skill anymore.
 
 What is the most valuable thing in the world right now is understanding what is possible. What is possible to do with the paintbrush? What is possible to do with code? What has been built by other humans in the world of code? Because once you know what's possible, then you can imagine something and describe it in words and bring it to life. But if you don't have that imagination, you don't have that vision, you can't express what you want to accomplish.
