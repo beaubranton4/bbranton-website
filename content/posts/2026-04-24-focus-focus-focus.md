@@ -1,0 +1,3 @@
+# April 24, 2026
+
+I really need to focus, focus, focus, focus. I keep — I think it's just natural for me to want to try many different things, put out feelers, see what sticks. But I kind of take that as I'm losing focus and I don't know, maybe my brain needs that. Maybe I need to kind of get distracted in order to lock in. But that's something that I've noticed is I'm spending a lot of time building out random things for Dugout Edge that I think are cool, think are fun, and I enjoy building them. But I kind of know what I need to work on, but I keep procrastinating by doing these other slightly related things. And most of them are not actually paying off. So I need to spend more time doing high ROI activities.
