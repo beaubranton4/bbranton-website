@@ -1,0 +1,3133 @@
+{
+  "id": "05230512-1663-0399-0000-57ae68ccd15d",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "items": [
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 08:51:30 +00:00",
+        "competition": 0.62,
+        "competition_level": "MEDIUM",
+        "cpc": 19.15,
+        "search_volume": 5400,
+        "low_top_of_page_bid": 6.5,
+        "high_top_of_page_bid": 22.63,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 3600,
+          "2026-03": 5400,
+          "2026-02": 4400,
+          "2026-01": 5400,
+          "2025-12": 3600,
+          "2025-11": 4400,
+          "2025-10": 5400,
+          "2025-09": 6600,
+          "2025-08": 6600,
+          "2025-07": 5400,
+          "2025-06": 5400,
+          "2025-05": 3600
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "quarterly": -18,
+          "yearly": 50
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 57,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 871.2,
+        "dofollow": 610.1,
+        "referring_pages": 705.6,
+        "referring_domains": 341.1,
+        "referring_main_domains": 329.5,
+        "rank": 276.9,
+        "main_domain_rank": 667.5,
+        "last_updated_time": "2026-05-16 17:46:04 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 22:03:55 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization geo",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 05:01:50 +00:00",
+        "competition": 0.27,
+        "competition_level": "LOW",
+        "cpc": 21.15,
+        "search_volume": 1300,
+        "low_top_of_page_bid": 9.01,
+        "high_top_of_page_bid": 24.9,
+        "categories": [
+          10004,
+          10273,
+          13732
+        ],
+        "monthly_searches": {
+          "2026-04": 1600,
+          "2026-03": 1900,
+          "2026-02": 2900,
+          "2026-01": 1600,
+          "2025-12": 1300,
+          "2025-11": 1000,
+          "2025-10": 1000,
+          "2025-09": 1000,
+          "2025-08": 1000,
+          "2025-07": 880,
+          "2025-06": 720,
+          "2025-05": 390
+        },
+        "search_volume_trend": {
+          "monthly": -16,
+          "quarterly": -45,
+          "yearly": 841
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "geo: generative engine optimization",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 57,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 476.2,
+        "dofollow": 344,
+        "referring_pages": 391.3,
+        "referring_domains": 205.2,
+        "referring_main_domains": 198.3,
+        "rank": 232.1,
+        "main_domain_rank": 683,
+        "last_updated_time": "2026-05-19 01:40:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 13:39:16 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "geo generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 08:14:37 +00:00",
+        "competition": 0.55,
+        "competition_level": "MEDIUM",
+        "cpc": 16.1,
+        "search_volume": 720,
+        "low_top_of_page_bid": 6.62,
+        "high_top_of_page_bid": 19.52,
+        "categories": [
+          10004,
+          10273,
+          13732
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 880,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 880,
+          "2025-09": 1000,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 720,
+          "2025-05": 390,
+          "2025-04": 260
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": 238
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "geo: generative engine optimization",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 71,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1217.4,
+        "dofollow": 792.7,
+        "referring_pages": 998.7,
+        "referring_domains": 417.3,
+        "referring_main_domains": 403.5,
+        "rank": 291.8,
+        "main_domain_rank": 628.9,
+        "last_updated_time": "2026-05-20 21:14:00 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 19:41:54 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "what is generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 03:45:07 +00:00",
+        "competition": 0.17,
+        "competition_level": "LOW",
+        "cpc": 5.71,
+        "search_volume": 720,
+        "low_top_of_page_bid": 1.65,
+        "high_top_of_page_bid": 9.05,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 2400,
+          "2026-01": 590,
+          "2025-12": 590,
+          "2025-11": 480,
+          "2025-10": 480,
+          "2025-09": 880,
+          "2025-08": 590,
+          "2025-07": 720,
+          "2025-06": 590,
+          "2025-05": 390,
+          "2025-04": 260
+        },
+        "search_volume_trend": {
+          "monthly": -63,
+          "quarterly": 49,
+          "yearly": 319
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 57,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 594.7,
+        "dofollow": 390.1,
+        "referring_pages": 467.5,
+        "referring_domains": 242.8,
+        "referring_main_domains": 229.7,
+        "rank": 221.6,
+        "main_domain_rank": 655.2,
+        "last_updated_time": "2026-05-20 05:48:38 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 04:16:46 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "geo: generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 20:20:51 +00:00",
+        "competition": 0.6,
+        "competition_level": "MEDIUM",
+        "cpc": 19.43,
+        "search_volume": 720,
+        "low_top_of_page_bid": 6.59,
+        "high_top_of_page_bid": 22.38,
+        "categories": [
+          10004,
+          10273,
+          13732
+        ],
+        "monthly_searches": {
+          "2026-04": 720,
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 880,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 880,
+          "2025-09": 1000,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 720,
+          "2025-05": 390
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "yearly": 177
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 53,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 438.9,
+        "dofollow": 325.7,
+        "referring_pages": 361.9,
+        "referring_domains": 156.2,
+        "referring_main_domains": 152.4,
+        "rank": 243.4,
+        "main_domain_rank": 583.5,
+        "last_updated_time": "2025-12-14 08:25:20 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 21:10:00 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization geo services",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 07:05:14 +00:00",
+        "competition": 0.02,
+        "competition_level": "LOW",
+        "cpc": 114.05,
+        "search_volume": 480,
+        "low_top_of_page_bid": 23.34,
+        "high_top_of_page_bid": 85.43,
+        "categories": [
+          10108,
+          10756,
+          13600,
+          13601
+        ],
+        "monthly_searches": {
+          "2026-03": 2400,
+          "2026-02": 1300,
+          "2026-01": 1000,
+          "2025-12": 1000,
+          "2025-11": 140,
+          "2025-10": 110,
+          "2025-09": 20,
+          "2025-08": 30,
+          "2025-07": 30
+        },
+        "search_volume_trend": {
+          "monthly": 85,
+          "quarterly": 140
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 13,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 102.7,
+        "dofollow": 71,
+        "referring_pages": 85.1,
+        "referring_domains": 42,
+        "referring_main_domains": 40.2,
+        "rank": 95.1,
+        "main_domain_rank": 493.4,
+        "last_updated_time": "2026-05-22 03:09:53 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-02 18:50:25 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization tools",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-22 20:16:33 +00:00",
+        "competition": 0.13,
+        "competition_level": "LOW",
+        "cpc": 27.1,
+        "search_volume": 480,
+        "low_top_of_page_bid": 11.73,
+        "high_top_of_page_bid": 33.35,
+        "categories": [
+          10019,
+          10168,
+          10296,
+          10885,
+          11274,
+          12209
+        ],
+        "monthly_searches": {
+          "2026-04": 320,
+          "2026-03": 2400,
+          "2026-02": 170,
+          "2026-01": 480,
+          "2025-12": 390,
+          "2025-11": 390,
+          "2025-10": 390,
+          "2025-09": 720,
+          "2025-08": 210,
+          "2025-07": 320,
+          "2025-06": 210,
+          "2025-05": 170
+        },
+        "search_volume_trend": {
+          "monthly": -87,
+          "quarterly": 88,
+          "yearly": 357
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 4,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 48.8,
+        "dofollow": 21.8,
+        "referring_pages": 39.9,
+        "referring_domains": 26.8,
+        "referring_main_domains": 21.7,
+        "rank": 80.2,
+        "main_domain_rank": 461.8,
+        "last_updated_time": "2026-04-21 11:05:22 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 22:21:05 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization services",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 18:23:54 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 50,
+        "search_volume": 480,
+        "low_top_of_page_bid": 14.05,
+        "high_top_of_page_bid": 34.94,
+        "categories": [
+          10019,
+          10168,
+          10296,
+          10885,
+          11274,
+          12209
+        ],
+        "monthly_searches": {
+          "2026-04": 720,
+          "2026-03": 1000,
+          "2026-02": 590,
+          "2026-01": 480,
+          "2025-12": 480,
+          "2025-11": 480,
+          "2025-10": 590,
+          "2025-09": 720,
+          "2025-08": 260,
+          "2025-07": 260,
+          "2025-06": 390,
+          "2025-05": 210
+        },
+        "search_volume_trend": {
+          "monthly": -28,
+          "quarterly": 22,
+          "yearly": 177
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 6,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 182.6,
+        "dofollow": 135.3,
+        "referring_pages": 163.1,
+        "referring_domains": 84.3,
+        "referring_main_domains": 81.3,
+        "rank": 86.7,
+        "main_domain_rank": 473.2,
+        "last_updated_time": "2026-05-22 03:10:28 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-27 21:55:17 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization service",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 12:33:31 +00:00",
+        "competition": 0.07,
+        "competition_level": "LOW",
+        "cpc": 47.98,
+        "search_volume": 480,
+        "low_top_of_page_bid": 15.24,
+        "high_top_of_page_bid": 36.9,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 1000,
+          "2026-02": 590,
+          "2026-01": 480,
+          "2025-12": 480,
+          "2025-11": 480,
+          "2025-10": 590,
+          "2025-09": 720,
+          "2025-08": 260,
+          "2025-07": 260,
+          "2025-06": 390,
+          "2025-05": 210,
+          "2025-04": 260
+        },
+        "search_volume_trend": {
+          "monthly": 69,
+          "quarterly": 108,
+          "yearly": 614
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "generative engine optimization services",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 2,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-03 20:49:54 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization tool",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 06:53:10 +00:00",
+        "competition": 0.13,
+        "competition_level": "LOW",
+        "cpc": 27.1,
+        "search_volume": 480,
+        "low_top_of_page_bid": 11.73,
+        "high_top_of_page_bid": 33.35,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 320,
+          "2026-03": 2400,
+          "2026-02": 170,
+          "2026-01": 480,
+          "2025-12": 390,
+          "2025-11": 390,
+          "2025-10": 390,
+          "2025-09": 720,
+          "2025-08": 210,
+          "2025-07": 320,
+          "2025-06": 210,
+          "2025-05": 170
+        },
+        "search_volume_trend": {
+          "monthly": -87,
+          "quarterly": 88,
+          "yearly": 357
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "generative engine optimization tools",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 6,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 45.4,
+        "dofollow": 20.7,
+        "referring_pages": 38.3,
+        "referring_domains": 26.2,
+        "referring_main_domains": 21.2,
+        "rank": 72.9,
+        "main_domain_rank": 501.2,
+        "last_updated_time": "2026-04-21 11:05:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-28 00:33:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "profound generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 11:55:51 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 320,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 260,
+          "2026-03": 590,
+          "2026-02": 880,
+          "2026-01": 590,
+          "2025-12": 1000,
+          "2025-11": 320,
+          "2025-10": 40,
+          "2025-09": 70,
+          "2025-08": 20,
+          "2025-07": 20
+        },
+        "search_volume_trend": {
+          "monthly": -56,
+          "quarterly": -70
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 20,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 453.5,
+        "dofollow": 316,
+        "referring_pages": 400.5,
+        "referring_domains": 170,
+        "referring_main_domains": 162.9,
+        "rank": 132.5,
+        "main_domain_rank": 617.1,
+        "last_updated_time": "2026-03-19 12:31:11 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 03:37:48 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "leading software for ai visibility and generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 02:02:44 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 320,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 1900,
+          "2026-02": 90,
+          "2026-01": 110,
+          "2025-12": 90,
+          "2025-11": 10,
+          "2025-10": 50,
+          "2025-09": 590,
+          "2025-08": 70,
+          "2025-07": 390,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": 2011,
+          "quarterly": 1627
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 9
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 13.4,
+        "dofollow": 5,
+        "referring_pages": 10.5,
+        "referring_domains": 4.2,
+        "referring_main_domains": 4.2,
+        "rank": 38.3,
+        "main_domain_rank": 386.6,
+        "last_updated_time": "2026-04-04 23:39:15 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 00:20:43 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization agency",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 21:23:13 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 41.81,
+        "search_volume": 260,
+        "low_top_of_page_bid": 16.86,
+        "high_top_of_page_bid": 35.12,
+        "categories": [
+          10019,
+          10168,
+          10882
+        ],
+        "monthly_searches": {
+          "2026-04": 590,
+          "2026-03": 720,
+          "2026-02": 320,
+          "2026-01": 320,
+          "2025-12": 170,
+          "2025-11": 110,
+          "2025-10": 170,
+          "2025-09": 390,
+          "2025-08": 170,
+          "2025-07": 210,
+          "2025-06": 110,
+          "2025-05": 50
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": 84,
+          "yearly": 743
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 18,
+        "dofollow": 5.9,
+        "referring_pages": 12.2,
+        "referring_domains": 1.8,
+        "referring_main_domains": 1.8,
+        "rank": 47.4,
+        "main_domain_rank": 384.2,
+        "last_updated_time": "2026-04-25 03:12:27 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "navigational"
+        ],
+        "last_updated_time": "2026-04-27 20:14:57 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "ai tools with best generative engine optimization features",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 21:56:00 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 260,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 1900,
+          "2026-02": 90,
+          "2026-01": 50,
+          "2025-12": 90,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 70,
+          "2025-07": 390,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": 2011,
+          "quarterly": 3700
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 8
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 15.2,
+        "dofollow": 6.2,
+        "referring_pages": 9.3,
+        "referring_domains": 4.2,
+        "referring_main_domains": 4.1,
+        "rank": 46.4,
+        "main_domain_rank": 398.8,
+        "last_updated_time": "2026-03-23 14:25:15 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 09:08:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization statistics",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 10:39:46 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 7.78,
+        "search_volume": 210,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 10,
+          "2026-03": 50,
+          "2026-02": 10,
+          "2026-01": 260,
+          "2025-12": 320,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 390,
+          "2025-08": 50,
+          "2025-07": 10
+        },
+        "search_volume_trend": {
+          "monthly": -80
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 28,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 283,
+        "dofollow": 179.6,
+        "referring_pages": 217.4,
+        "referring_domains": 82.8,
+        "referring_main_domains": 76.8,
+        "rank": 188.6,
+        "main_domain_rank": 460,
+        "last_updated_time": "2026-03-20 00:50:16 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 00:33:59 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "ai visibility solutions with best generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-22 02:19:27 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 140,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 170,
+          "2026-03": 320,
+          "2026-02": 70,
+          "2026-01": 70,
+          "2025-12": 70,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 70,
+          "2025-07": 390,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": -47,
+          "quarterly": 143
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 8
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9.8,
+        "dofollow": 5.4,
+        "referring_pages": 8,
+        "referring_domains": 4.1,
+        "referring_main_domains": 4.1,
+        "rank": 29.8,
+        "main_domain_rank": 380.9,
+        "last_updated_time": "2026-05-04 05:38:52 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 06:12:03 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization course",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 02:03:41 +00:00",
+        "competition": 0.56,
+        "competition_level": "MEDIUM",
+        "cpc": 7.99,
+        "search_volume": 140,
+        "low_top_of_page_bid": 4.14,
+        "high_top_of_page_bid": 10.83,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 70,
+          "2026-03": 170,
+          "2026-02": 110,
+          "2026-01": 110,
+          "2025-12": 70,
+          "2025-11": 90,
+          "2025-10": 140,
+          "2025-09": 110,
+          "2025-08": 210,
+          "2025-07": 140,
+          "2025-06": 140,
+          "2025-05": 110
+        },
+        "search_volume_trend": {
+          "monthly": -59,
+          "quarterly": -36
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 19.6,
+        "dofollow": 2.1,
+        "referring_pages": 19.1,
+        "referring_domains": 18.6,
+        "referring_main_domains": 12.6,
+        "rank": 28.8,
+        "main_domain_rank": 551.6,
+        "last_updated_time": "2026-05-01 23:52:53 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 19:47:36 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "top solutions for ai visibility and generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 16:16:31 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 140,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 170,
+          "2026-03": 260,
+          "2026-02": 70,
+          "2026-01": 50,
+          "2025-12": 40,
+          "2025-11": 10,
+          "2025-10": 20,
+          "2025-09": 90,
+          "2025-08": 50,
+          "2025-07": 480,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": -35,
+          "quarterly": 143
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 9
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 6.3,
+        "dofollow": 3.4,
+        "referring_pages": 4.8,
+        "referring_domains": 2.2,
+        "referring_main_domains": 2.2,
+        "rank": 52.4,
+        "main_domain_rank": 442.3,
+        "last_updated_time": "2026-05-02 19:27:44 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 21:29:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization courses",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 18:17:37 +00:00",
+        "competition": 0.56,
+        "competition_level": "MEDIUM",
+        "cpc": 7.99,
+        "search_volume": 140,
+        "low_top_of_page_bid": 4.14,
+        "high_top_of_page_bid": 10.83,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 70,
+          "2026-03": 170,
+          "2026-02": 110,
+          "2026-01": 110,
+          "2025-12": 70,
+          "2025-11": 90,
+          "2025-10": 140,
+          "2025-09": 110,
+          "2025-08": 210,
+          "2025-07": 140,
+          "2025-06": 140,
+          "2025-05": 110
+        },
+        "search_volume_trend": {
+          "monthly": -59,
+          "quarterly": -36
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "generative engine optimization course",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1.5,
+        "dofollow": 1.4,
+        "referring_pages": 1.4,
+        "referring_domains": 1.3,
+        "referring_main_domains": 0.7,
+        "rank": 12.9,
+        "main_domain_rank": 408.8,
+        "last_updated_time": "2025-08-30 14:21:57 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 14:26:41 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "what is generative engine optimization geo",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 04:50:34 +00:00",
+        "competition": 0.19,
+        "competition_level": "LOW",
+        "cpc": 10.36,
+        "search_volume": 140,
+        "low_top_of_page_bid": 1.73,
+        "high_top_of_page_bid": 10,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 140,
+          "2026-02": 140,
+          "2026-01": 170,
+          "2025-12": 90,
+          "2025-11": 50,
+          "2025-10": 70,
+          "2025-09": 210,
+          "2025-08": 140,
+          "2025-07": 140,
+          "2025-06": 320,
+          "2025-05": 90,
+          "2025-04": 20
+        },
+        "search_volume_trend": {
+          "quarterly": -18,
+          "yearly": 600
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "what is geo generative engine optimization",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 57,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 770.9,
+        "dofollow": 531,
+        "referring_pages": 615.4,
+        "referring_domains": 314.5,
+        "referring_main_domains": 304.4,
+        "rank": 248.1,
+        "main_domain_rank": 571.4,
+        "last_updated_time": "2026-05-01 08:31:25 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 14:37:34 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "recommended generative engine optimization software",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 21:31:03 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 29.45,
+        "search_volume": 110,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 170,
+          "2026-02": 90,
+          "2026-01": 110,
+          "2025-12": 110,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 40,
+          "2025-07": 480,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": 89,
+          "quarterly": 55
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 7.7,
+        "dofollow": 3.7,
+        "referring_pages": 5.3,
+        "referring_domains": 2.2,
+        "referring_main_domains": 2.2,
+        "rank": 26.4,
+        "main_domain_rank": 407.4,
+        "last_updated_time": "2026-05-03 01:00:55 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 21:37:02 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "leading generative engine optimization services for ai products",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-22 23:06:56 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 110,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 90,
+          "2026-03": 90,
+          "2026-02": 40,
+          "2026-01": 40,
+          "2025-12": 50,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 70,
+          "2025-07": 480,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "quarterly": 125
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 6,
+        "detected_language": "en",
+        "words_count": 8
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 45.3,
+        "dofollow": 10.7,
+        "referring_pages": 41.5,
+        "referring_domains": 22.2,
+        "referring_main_domains": 19.5,
+        "rank": 84.7,
+        "main_domain_rank": 350.2,
+        "last_updated_time": "2026-05-03 07:31:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-03 13:39:02 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization companies",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 14:15:41 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 48.63,
+        "search_volume": 110,
+        "low_top_of_page_bid": 13.18,
+        "high_top_of_page_bid": 40.68,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 170,
+          "2026-03": 260,
+          "2026-02": 90,
+          "2026-01": 70,
+          "2025-12": 90,
+          "2025-11": 90,
+          "2025-10": 110,
+          "2025-09": 140,
+          "2025-08": 110,
+          "2025-07": 90,
+          "2025-06": 70,
+          "2025-05": 20
+        },
+        "search_volume_trend": {
+          "monthly": -35,
+          "quarterly": 89
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "generative engine optimization company",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 2,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 98.4,
+        "dofollow": 68.5,
+        "referring_pages": 82.9,
+        "referring_domains": 22.8,
+        "referring_main_domains": 22.5,
+        "rank": 79.7,
+        "main_domain_rank": 376.6,
+        "last_updated_time": "2026-05-05 09:04:01 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 03:47:29 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization geo tools",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 02:24:34 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 40.13,
+        "search_volume": 110,
+        "low_top_of_page_bid": 5,
+        "high_top_of_page_bid": 18.65,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 260,
+          "2026-02": 170,
+          "2026-01": 170,
+          "2025-12": 140,
+          "2025-11": 30,
+          "2025-10": 50,
+          "2025-09": 590,
+          "2025-08": 10,
+          "2025-07": 10
+        },
+        "search_volume_trend": {
+          "monthly": 53,
+          "quarterly": 53
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 6,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 24.4,
+        "dofollow": 12.6,
+        "referring_pages": 16.4,
+        "referring_domains": 8.4,
+        "referring_main_domains": 8.2,
+        "rank": 69.2,
+        "main_domain_rank": 453.3,
+        "last_updated_time": "2026-05-03 13:46:18 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 11:41:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "most effective ai visibility tools with generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 14:47:21 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 110,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 140,
+          "2026-02": 70,
+          "2026-01": 50,
+          "2025-12": 90,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 50,
+          "2025-07": 480,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": 100,
+          "quarterly": 180
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 3,
+        "detected_language": "en",
+        "words_count": 9
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 14.7,
+        "dofollow": 6.4,
+        "referring_pages": 10.6,
+        "referring_domains": 5,
+        "referring_main_domains": 5,
+        "rank": 53.6,
+        "main_domain_rank": 437.6,
+        "last_updated_time": "2026-05-03 05:03:47 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 13:43:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "top generative engine optimization strategies for ai visibility",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 00:51:13 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 110,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 140,
+          "2026-02": 40,
+          "2026-01": 50,
+          "2025-12": 70,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 20,
+          "2025-08": 70,
+          "2025-07": 480,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": 250,
+          "quarterly": 180
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 8
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9.7,
+        "dofollow": 5.8,
+        "referring_pages": 7.3,
+        "referring_domains": 4,
+        "referring_main_domains": 3.9,
+        "rank": 38.5,
+        "main_domain_rank": 391.1,
+        "last_updated_time": "2026-05-02 19:39:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-03 12:57:12 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "leading generative engine optimization services in ai industry",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 11:52:32 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 110,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 110,
+          "2026-02": 50,
+          "2026-01": 40,
+          "2025-12": 40,
+          "2025-11": 20,
+          "2025-10": 10,
+          "2025-09": 70,
+          "2025-08": 50,
+          "2025-07": 390,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": 120,
+          "quarterly": 175
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 8
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 13.8,
+        "dofollow": 7.7,
+        "referring_pages": 10.2,
+        "referring_domains": 4.3,
+        "referring_main_domains": 4.3,
+        "rank": 55.7,
+        "main_domain_rank": 292.8,
+        "last_updated_time": "2026-05-03 07:31:20 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-02 17:57:28 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "top generative engine optimization companies in ai",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 19:44:25 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 110,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 170,
+          "2026-02": 30,
+          "2026-01": 70,
+          "2025-12": 50,
+          "2025-11": 10,
+          "2025-10": 30,
+          "2025-09": 110,
+          "2025-08": 50,
+          "2025-07": 390,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": 467,
+          "quarterly": 143
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 13.4,
+        "dofollow": 7.6,
+        "referring_pages": 9.9,
+        "referring_domains": 4.1,
+        "referring_main_domains": 4.1,
+        "rank": 57.7,
+        "main_domain_rank": 346.4,
+        "last_updated_time": "2026-05-02 19:29:13 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 08:36:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best ai visibility products with generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 08:23:43 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 110,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 90,
+          "2026-03": 210,
+          "2026-02": 50,
+          "2026-01": 50,
+          "2025-12": 90,
+          "2025-10": 20,
+          "2025-09": 10,
+          "2025-08": 50,
+          "2025-07": 390,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": -57,
+          "quarterly": 80
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 8
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4.5,
+        "dofollow": 2.6,
+        "referring_pages": 3.7,
+        "referring_domains": 1.5,
+        "referring_main_domains": 1.5,
+        "rank": 17.9,
+        "main_domain_rank": 578.6,
+        "last_updated_time": "2026-05-04 01:10:51 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 22:01:36 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "what's the best generative engine optimization strategy for ai",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 18:33:52 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 110,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 70,
+          "2026-03": 170,
+          "2026-02": 30,
+          "2026-01": 50,
+          "2025-12": 50,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 50,
+          "2025-07": 390,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": -59,
+          "quarterly": 133
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 12,
+        "detected_language": "en",
+        "words_count": 9
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 95.3,
+        "dofollow": 54.9,
+        "referring_pages": 66,
+        "referring_domains": 40.7,
+        "referring_main_domains": 39.3,
+        "rank": 111.3,
+        "main_domain_rank": 498.3,
+        "last_updated_time": "2026-05-04 09:30:26 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-05-03 07:57:03 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization company",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 02:44:12 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 48.63,
+        "search_volume": 110,
+        "low_top_of_page_bid": 13.18,
+        "high_top_of_page_bid": 40.68,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 170,
+          "2026-03": 260,
+          "2026-02": 90,
+          "2026-01": 70,
+          "2025-12": 90,
+          "2025-11": 90,
+          "2025-10": 110,
+          "2025-09": 140,
+          "2025-08": 110,
+          "2025-07": 90,
+          "2025-06": 70,
+          "2025-05": 20
+        },
+        "search_volume_trend": {
+          "monthly": -35,
+          "quarterly": 89
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 4,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 28.8,
+        "dofollow": 23.1,
+        "referring_pages": 25.8,
+        "referring_domains": 7.3,
+        "referring_main_domains": 6.5,
+        "rank": 83.5,
+        "main_domain_rank": 423.6,
+        "last_updated_time": "2025-11-03 01:29:22 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 22:27:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "semrush generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 18:12:59 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 110,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 90,
+          "2026-02": 40,
+          "2026-01": 30,
+          "2025-12": 390,
+          "2025-11": 320,
+          "2025-10": 140,
+          "2025-09": 50,
+          "2025-08": 20,
+          "2025-07": 170,
+          "2025-06": 90,
+          "2025-05": 10
+        },
+        "search_volume_trend": {
+          "monthly": 125,
+          "quarterly": 200
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 16,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 216.7,
+        "dofollow": 95.5,
+        "referring_pages": 139.6,
+        "referring_domains": 43.4,
+        "referring_main_domains": 41.3,
+        "rank": 117.5,
+        "main_domain_rank": 613,
+        "last_updated_time": "2026-05-02 23:07:56 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-06 07:01:13 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "top rated generative engine optimization for ai",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 01:15:33 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 90,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 50,
+          "2026-03": 170,
+          "2026-02": 20,
+          "2026-01": 20,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 30,
+          "2025-07": 320,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": -71,
+          "quarterly": 150
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 33.2,
+        "dofollow": 11.7,
+        "referring_pages": 23.4,
+        "referring_domains": 7.1,
+        "referring_main_domains": 6.6,
+        "rank": 45.6,
+        "main_domain_rank": 337.2,
+        "last_updated_time": "2026-05-04 15:29:44 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-08 03:41:25 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization strategy",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 04:58:41 +00:00",
+        "competition": 0.16,
+        "competition_level": "LOW",
+        "cpc": 14.19,
+        "search_volume": 90,
+        "low_top_of_page_bid": 4.64,
+        "high_top_of_page_bid": 13.4,
+        "categories": [
+          10019,
+          10019,
+          10168,
+          10168,
+          10885,
+          10885,
+          12197,
+          12197,
+          12211,
+          12211,
+          13111
+        ],
+        "monthly_searches": {
+          "2026-03": 140,
+          "2026-02": 50,
+          "2026-01": 70,
+          "2025-12": 50,
+          "2025-11": 50,
+          "2025-10": 110,
+          "2025-09": 260,
+          "2025-08": 140,
+          "2025-07": 140,
+          "2025-06": 110,
+          "2025-05": 50,
+          "2025-04": 50
+        },
+        "search_volume_trend": {
+          "monthly": 180,
+          "quarterly": 100,
+          "yearly": 56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 54,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 467,
+        "dofollow": 336.1,
+        "referring_pages": 383.5,
+        "referring_domains": 204.6,
+        "referring_main_domains": 197.6,
+        "rank": 223.4,
+        "main_domain_rank": 647.7,
+        "last_updated_time": "2026-05-05 09:15:09 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 00:21:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "which generative engine optimization is best for ai",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 00:59:05 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 90,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 50,
+          "2026-03": 170,
+          "2026-02": 30,
+          "2026-01": 40,
+          "2025-12": 30,
+          "2025-11": 10,
+          "2025-10": 20,
+          "2025-09": 10,
+          "2025-08": 50,
+          "2025-07": 390,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": -71,
+          "quarterly": 67
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 3,
+        "detected_language": "en",
+        "words_count": 8
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 61.8,
+        "dofollow": 21.1,
+        "referring_pages": 43.4,
+        "referring_domains": 13.1,
+        "referring_main_domains": 11.8,
+        "rank": 71,
+        "main_domain_rank": 419.9,
+        "last_updated_time": "2026-05-04 08:54:10 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 17:50:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best rated generative engine optimization for ai",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 17:06:44 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 90,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 50,
+          "2026-03": 170,
+          "2026-02": 10,
+          "2026-01": 40,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 50,
+          "2025-07": 390,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": -71,
+          "quarterly": 400
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4.5,
+        "dofollow": 2.9,
+        "referring_pages": 3.8,
+        "referring_domains": 1.6,
+        "referring_main_domains": 1.6,
+        "rank": 17.9,
+        "main_domain_rank": 671.1,
+        "last_updated_time": "2026-05-05 19:36:58 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-02 21:40:54 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization strategies",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 15:43:26 +00:00",
+        "competition": 0.16,
+        "competition_level": "LOW",
+        "cpc": 14.19,
+        "search_volume": 90,
+        "low_top_of_page_bid": 4.64,
+        "high_top_of_page_bid": 13.4,
+        "categories": [
+          10004,
+          10295,
+          11263
+        ],
+        "monthly_searches": {
+          "2026-03": 140,
+          "2026-02": 50,
+          "2026-01": 70,
+          "2025-12": 50,
+          "2025-11": 50,
+          "2025-10": 110,
+          "2025-09": 260,
+          "2025-08": 140,
+          "2025-07": 140,
+          "2025-06": 110,
+          "2025-05": 50,
+          "2025-04": 50
+        },
+        "search_volume_trend": {
+          "monthly": 180,
+          "quarterly": 100,
+          "yearly": 56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "generative engine optimization strategy",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 39,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 342,
+        "dofollow": 227.6,
+        "referring_pages": 273.4,
+        "referring_domains": 148.8,
+        "referring_main_domains": 138.9,
+        "rank": 203.5,
+        "main_domain_rank": 578.5,
+        "last_updated_time": "2026-05-05 09:03:56 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 13:19:51 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "what is geo generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 01:20:47 +00:00",
+        "competition": 0.54,
+        "competition_level": "MEDIUM",
+        "cpc": 23.14,
+        "search_volume": 90,
+        "low_top_of_page_bid": 5.61,
+        "high_top_of_page_bid": 24.71,
+        "categories": [
+          10004,
+          10295,
+          11263
+        ],
+        "monthly_searches": {
+          "2026-04": 70,
+          "2026-03": 70,
+          "2026-02": 110,
+          "2026-01": 170,
+          "2025-12": 70,
+          "2025-11": 50,
+          "2025-10": 90,
+          "2025-09": 90,
+          "2025-08": 110,
+          "2025-07": 90,
+          "2025-06": 50,
+          "2025-05": 30
+        },
+        "search_volume_trend": {
+          "quarterly": -36,
+          "yearly": 250
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 54,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 699.8,
+        "dofollow": 478.1,
+        "referring_pages": 558.1,
+        "referring_domains": 289.2,
+        "referring_main_domains": 280.3,
+        "rank": 247,
+        "main_domain_rank": 597.4,
+        "last_updated_time": "2026-05-04 10:03:40 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 14:44:21 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best generative engine optimization for ai focused businesses",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 15:54:18 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 90,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 110,
+          "2026-02": 30,
+          "2026-01": 40,
+          "2025-12": 10,
+          "2025-10": 10,
+          "2025-09": 20,
+          "2025-08": 50,
+          "2025-07": 480,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": 267,
+          "quarterly": 175
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 8
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 13,
+        "dofollow": 7.8,
+        "referring_pages": 10,
+        "referring_domains": 4.2,
+        "referring_main_domains": 4.2,
+        "rank": 60.3,
+        "main_domain_rank": 396.2,
+        "last_updated_time": "2026-05-05 19:47:52 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 18:14:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative search engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 20:38:22 +00:00",
+        "competition": 0.19,
+        "competition_level": "LOW",
+        "cpc": 7.82,
+        "search_volume": 70,
+        "low_top_of_page_bid": 7.7,
+        "high_top_of_page_bid": 22.7,
+        "categories": [
+          10004,
+          10276,
+          11088,
+          12376,
+          13152
+        ],
+        "monthly_searches": {
+          "2026-03": 90,
+          "2026-02": 20,
+          "2026-01": 40,
+          "2025-12": 20,
+          "2025-11": 20,
+          "2025-10": 40,
+          "2025-09": 320,
+          "2025-08": 40,
+          "2025-07": 40,
+          "2025-06": 30,
+          "2025-05": 40,
+          "2025-04": 50
+        },
+        "search_volume_trend": {
+          "monthly": 350,
+          "quarterly": 125,
+          "yearly": 29
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 55,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 737.1,
+        "dofollow": 479.8,
+        "referring_pages": 581.7,
+        "referring_domains": 276.1,
+        "referring_main_domains": 263.4,
+        "rank": 258.1,
+        "main_domain_rank": 595.5,
+        "last_updated_time": "2026-05-07 19:20:53 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-27 21:16:49 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative ai search engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 09:34:45 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 11.25,
+        "search_volume": 70,
+        "low_top_of_page_bid": 7.36,
+        "high_top_of_page_bid": 18.2,
+        "categories": [
+          10004,
+          10276,
+          11088,
+          12376,
+          13152
+        ],
+        "monthly_searches": {
+          "2026-04": 70,
+          "2026-03": 70,
+          "2026-02": 20,
+          "2026-01": 50,
+          "2025-12": 30,
+          "2025-11": 20,
+          "2025-10": 40,
+          "2025-09": 260,
+          "2025-08": 30,
+          "2025-07": 40,
+          "2025-06": 40,
+          "2025-05": 70
+        },
+        "search_volume_trend": {
+          "quarterly": 250,
+          "yearly": -50
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 39,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 585.1,
+        "dofollow": 385.5,
+        "referring_pages": 468.7,
+        "referring_domains": 247.6,
+        "referring_main_domains": 235.1,
+        "rank": 204.9,
+        "main_domain_rank": 631.2,
+        "last_updated_time": "2026-05-07 20:34:08 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-28 14:27:08 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization software",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 19:21:03 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "search_volume": 50,
+        "low_top_of_page_bid": 13.82,
+        "high_top_of_page_bid": 25.79,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 50,
+          "2026-03": 70,
+          "2026-02": 20,
+          "2026-01": 50,
+          "2025-12": 30,
+          "2025-11": 40,
+          "2025-10": 30,
+          "2025-09": 260,
+          "2025-08": 30,
+          "2025-07": 30,
+          "2025-06": 30
+        },
+        "search_volume_trend": {
+          "monthly": -29,
+          "quarterly": 150
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 2,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 45.8,
+        "dofollow": 18.8,
+        "referring_pages": 39.7,
+        "referring_domains": 27.4,
+        "referring_main_domains": 20.8,
+        "rank": 62.9,
+        "main_domain_rank": 514.2,
+        "last_updated_time": "2026-05-09 17:40:06 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 16:21:30 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative ai engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 13:55:52 +00:00",
+        "competition": 0.27,
+        "competition_level": "LOW",
+        "cpc": 31.3,
+        "search_volume": 50,
+        "low_top_of_page_bid": 8.14,
+        "high_top_of_page_bid": 25,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 70,
+          "2026-02": 30,
+          "2026-01": 30,
+          "2025-12": 30,
+          "2025-11": 50,
+          "2025-10": 50,
+          "2025-09": 110,
+          "2025-08": 40,
+          "2025-07": 30,
+          "2025-06": 30,
+          "2025-05": 20,
+          "2025-04": 20
+        },
+        "search_volume_trend": {
+          "monthly": 133,
+          "quarterly": 133,
+          "yearly": 250
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 55,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 361.9,
+        "dofollow": 235.4,
+        "referring_pages": 288.9,
+        "referring_domains": 158,
+        "referring_main_domains": 148.7,
+        "rank": 194.3,
+        "main_domain_rank": 658.7,
+        "last_updated_time": "2026-05-09 17:35:22 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 22:21:04 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization checklist",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 18:09:53 +00:00",
+        "competition": 0.13,
+        "competition_level": "LOW",
+        "search_volume": 50,
+        "low_top_of_page_bid": 6.11,
+        "high_top_of_page_bid": 15.4,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 30,
+          "2026-02": 10,
+          "2026-01": 70,
+          "2025-12": 90,
+          "2025-11": 110,
+          "2025-10": 170,
+          "2025-09": 90,
+          "2025-08": 20,
+          "2025-07": 20
+        },
+        "search_volume_trend": {
+          "monthly": 200,
+          "quarterly": -57
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 27.7,
+        "dofollow": 17.9,
+        "referring_pages": 21.2,
+        "referring_domains": 12.3,
+        "referring_main_domains": 12.3,
+        "rank": 61.1,
+        "main_domain_rank": 472,
+        "last_updated_time": "2026-05-09 17:35:32 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 20:30:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best generative engine optimization tools",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 18:22:19 +00:00",
+        "competition": 0.1,
+        "competition_level": "LOW",
+        "cpc": 20.91,
+        "search_volume": 50,
+        "low_top_of_page_bid": 10,
+        "high_top_of_page_bid": 31.11,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 90,
+          "2026-02": 40,
+          "2026-01": 90,
+          "2025-12": 90,
+          "2025-11": 30,
+          "2025-10": 30,
+          "2025-09": 50,
+          "2025-08": 70,
+          "2025-07": 110,
+          "2025-06": 40
+        },
+        "search_volume_trend": {
+          "monthly": 125
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1697.5,
+        "dofollow": 1590.3,
+        "referring_pages": 1605.3,
+        "referring_domains": 43.7,
+        "referring_main_domains": 35.9,
+        "rank": 81.5,
+        "main_domain_rank": 623.2,
+        "last_updated_time": "2026-05-10 07:07:03 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-06 15:35:45 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative engine optimization best practices",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 11:15:43 +00:00",
+        "competition": 0.24,
+        "competition_level": "LOW",
+        "cpc": 20.96,
+        "search_volume": 50,
+        "low_top_of_page_bid": 4.95,
+        "high_top_of_page_bid": 13.63,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 70,
+          "2026-02": 50,
+          "2026-01": 50,
+          "2025-12": 30,
+          "2025-11": 20,
+          "2025-10": 20,
+          "2025-09": 40,
+          "2025-08": 40,
+          "2025-07": 90,
+          "2025-06": 140,
+          "2025-05": 90
+        },
+        "search_volume_trend": {
+          "monthly": 40,
+          "quarterly": 40
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 11,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 120.8,
+        "dofollow": 69,
+        "referring_pages": 80.4,
+        "referring_domains": 34,
+        "referring_main_domains": 33.2,
+        "rank": 100.8,
+        "main_domain_rank": 562.4,
+        "last_updated_time": "2026-05-09 17:35:30 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-06 06:23:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "how does generative engine optimization work",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 02:24:30 +00:00",
+        "competition": 0.06,
+        "competition_level": "LOW",
+        "cpc": 12.37,
+        "search_volume": 50,
+        "low_top_of_page_bid": 2.77,
+        "high_top_of_page_bid": 14.83,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 140,
+          "2026-03": 140,
+          "2026-02": 90,
+          "2026-01": 110,
+          "2025-12": 90,
+          "2025-11": 30,
+          "2025-10": 20,
+          "2025-09": 10,
+          "2025-08": 20,
+          "2025-07": 30,
+          "2025-06": 10
+        },
+        "search_volume_trend": {
+          "quarterly": 56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 30,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 290.1,
+        "dofollow": 204.5,
+        "referring_pages": 234.9,
+        "referring_domains": 122,
+        "referring_main_domains": 117.1,
+        "rank": 173.1,
+        "main_domain_rank": 538.2,
+        "last_updated_time": "2026-05-12 05:11:15 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-05-03 18:59:11 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "how to do generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 06:23:55 +00:00",
+        "competition": 0.24,
+        "competition_level": "LOW",
+        "cpc": 24.41,
+        "search_volume": 50,
+        "low_top_of_page_bid": 4.62,
+        "high_top_of_page_bid": 13.98,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 40,
+          "2026-02": 30,
+          "2026-01": 20,
+          "2025-12": 40,
+          "2025-11": 40,
+          "2025-10": 50,
+          "2025-09": 90,
+          "2025-08": 50,
+          "2025-07": 40,
+          "2025-06": 50,
+          "2025-05": 40,
+          "2025-04": 30
+        },
+        "search_volume_trend": {
+          "monthly": 33,
+          "quarterly": 100
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 21,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 171.1,
+        "dofollow": 93.6,
+        "referring_pages": 110.4,
+        "referring_domains": 48.2,
+        "referring_main_domains": 46.7,
+        "rank": 130.9,
+        "main_domain_rank": 547.2,
+        "last_updated_time": "2026-05-09 13:57:44 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 20:42:00 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "answer engine optimization vs generative engine optimization",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 15:03:00 +00:00",
+        "competition": 0.06,
+        "competition_level": "LOW",
+        "search_volume": 50,
+        "low_top_of_page_bid": 0.64,
+        "high_top_of_page_bid": 9.09,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 90,
+          "2026-03": 170,
+          "2026-02": 70,
+          "2026-01": 70,
+          "2025-12": 70,
+          "2025-11": 30,
+          "2025-10": 30,
+          "2025-09": 30,
+          "2025-08": 20,
+          "2025-07": 40
+        },
+        "search_volume_trend": {
+          "monthly": -47,
+          "quarterly": 29
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 6,
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 25.4,
+        "dofollow": 14.8,
+        "referring_pages": 17.7,
+        "referring_domains": 11.7,
+        "referring_main_domains": 11.3,
+        "rank": 78.3,
+        "main_domain_rank": 518.3,
+        "last_updated_time": "2026-04-16 17:19:37 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 08:31:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "generative optimization engine",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 11:26:36 +00:00",
+        "competition": 0.74,
+        "competition_level": "HIGH",
+        "cpc": 9.79,
+        "search_volume": 50,
+        "low_top_of_page_bid": 6.02,
+        "high_top_of_page_bid": 24.02,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-04": 40,
+          "2026-03": 70,
+          "2026-02": 70,
+          "2026-01": 50,
+          "2025-12": 70,
+          "2025-11": 70,
+          "2025-10": 70,
+          "2025-09": 70,
+          "2025-08": 50,
+          "2025-07": 10,
+          "2025-06": 20,
+          "2025-05": 10
+        },
+        "search_volume_trend": {
+          "monthly": -43,
+          "quarterly": -43,
+          "yearly": 300
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "generative engine optimization",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 55,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 561.8,
+        "dofollow": 397.2,
+        "referring_pages": 462.5,
+        "referring_domains": 223.7,
+        "referring_main_domains": 216.8,
+        "rank": 233.4,
+        "main_domain_rank": 636.1,
+        "last_updated_time": "2026-05-09 17:43:46 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-06 08:59:23 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "compare top generative engine optimization platforms for ai visibility",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 06:41:32 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 40,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211
+        ],
+        "monthly_searches": {
+          "2026-03": 140,
+          "2026-02": 10,
+          "2026-01": 10,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-07": 10,
+          "2025-05": 260
+        },
+        "search_volume_trend": {
+          "monthly": 1300,
+          "quarterly": 1300
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 9
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4.4,
+        "dofollow": 2.8,
+        "referring_pages": 3.7,
+        "referring_domains": 1.5,
+        "referring_main_domains": 1.5,
+        "rank": 17.3,
+        "main_domain_rank": 342.9,
+        "last_updated_time": "2026-05-12 17:53:18 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 15:01:49 +00:00"
+      }
+    }
+  ]
+}

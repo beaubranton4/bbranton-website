@@ -40,3 +40,9 @@ data/
 15 files. Covered the Calorie Cart product, fitness tools cluster, data/AI tools cluster, personal finance cluster. See:
 
 - [`2026-05-21/INDEX.md`](./2026-05-21/INDEX.md) — per-file summary of what each one validates
+
+### 2026-05-22 — Apple Notes mining follow-up
+Validating the two wedges surfaced by the notes-mining pass: subfloor renovation cost calculator entry point + GEO (generative engine optimization) category.
+
+- `renovation_subfloor-cost_2026-05-22.csv` — subfloor cluster
+- `geo_generative-engine-optimization_2026-05-22.csv` — GEO cluster
