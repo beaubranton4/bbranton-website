@@ -1,0 +1,3142 @@
+{
+  "id": "05220405-1663-0399-0000-418b83706e51",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "items": [
+    {
+      "se_type": "google",
+      "keyword": "marathon running training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 07:18:02 +00:00",
+        "competition": 0.07,
+        "competition_level": "LOW",
+        "cpc": 2.74,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.56,
+        "high_top_of_page_bid": 3.94,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 74000,
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": 49
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon run training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 15,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 218.3,
+        "dofollow": 169.8,
+        "referring_pages": 201.5,
+        "referring_domains": 105.7,
+        "referring_main_domains": 102.3,
+        "rank": 243.4,
+        "main_domain_rank": 496.6,
+        "last_updated_time": "2025-04-12 13:49:34 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:36:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan for marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 14:54:18 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 3.84,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.59,
+        "high_top_of_page_bid": 5.24,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000,
+          "2025-04": 74000
+        },
+        "search_volume_trend": {
+          "monthly": 83,
+          "quarterly": 50,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 12,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 237.8,
+        "dofollow": 164.8,
+        "referring_pages": 226.1,
+        "referring_domains": 92.9,
+        "referring_main_domains": 89.3,
+        "rank": 190.3,
+        "main_domain_rank": 514,
+        "last_updated_time": "2024-10-04 13:10:19 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 03:40:33 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training marathon plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 05:46:48 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 3.84,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.59,
+        "high_top_of_page_bid": 5.24,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000,
+          "2025-04": 74000
+        },
+        "search_volume_trend": {
+          "monthly": 83,
+          "quarterly": 50,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 11,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 118.8,
+        "dofollow": 55.7,
+        "referring_pages": 113.2,
+        "referring_domains": 87.6,
+        "referring_main_domains": 86.5,
+        "rank": 104.7,
+        "main_domain_rank": 515.1,
+        "last_updated_time": "2026-03-11 23:08:00 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 21:42:13 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan to run a marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 23:02:53 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 3.84,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.59,
+        "high_top_of_page_bid": 5.24,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000,
+          "2025-04": 74000
+        },
+        "search_volume_trend": {
+          "monthly": 83,
+          "quarterly": 50,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon run training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 16,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 135,
+        "dofollow": 64.7,
+        "referring_pages": 108.6,
+        "referring_domains": 70.1,
+        "referring_main_domains": 68.6,
+        "rank": 131.7,
+        "main_domain_rank": 462.6,
+        "last_updated_time": "2026-05-14 19:08:58 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 22:47:09 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 18:33:48 +00:00",
+        "competition": 0.07,
+        "competition_level": "LOW",
+        "cpc": 2.74,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.56,
+        "high_top_of_page_bid": 3.94,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 74000,
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": 49
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 12,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 111.8,
+        "dofollow": 52.1,
+        "referring_pages": 105.3,
+        "referring_domains": 77.1,
+        "referring_main_domains": 75.9,
+        "rank": 102.2,
+        "main_domain_rank": 447.6,
+        "last_updated_time": "2026-05-14 19:13:51 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 13:24:38 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan for a marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 05:52:41 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 3.84,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.59,
+        "high_top_of_page_bid": 5.24,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000,
+          "2025-04": 74000
+        },
+        "search_volume_trend": {
+          "monthly": 83,
+          "quarterly": 50,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 12,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 262.4,
+        "dofollow": 174.4,
+        "referring_pages": 239,
+        "referring_domains": 94.2,
+        "referring_main_domains": 90.6,
+        "rank": 193.6,
+        "main_domain_rank": 504,
+        "last_updated_time": "2024-09-14 21:49:01 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-05-03 04:53:32 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan for the marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 14:49:07 +00:00",
+        "competition": 0.07,
+        "competition_level": "LOW",
+        "cpc": 2.74,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.56,
+        "high_top_of_page_bid": 3.94,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 74000,
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": 49
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 12,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 266.8,
+        "dofollow": 179.7,
+        "referring_pages": 243,
+        "referring_domains": 96.6,
+        "referring_main_domains": 92.8,
+        "rank": 193.8,
+        "main_domain_rank": 504.8,
+        "last_updated_time": "2024-10-04 13:10:26 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 22:25:52 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "plan for marathon training",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 08:00:25 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 3.84,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.59,
+        "high_top_of_page_bid": 5.24,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000,
+          "2025-04": 74000
+        },
+        "search_volume_trend": {
+          "monthly": 83,
+          "quarterly": 50,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 12,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 217.9,
+        "dofollow": 144.6,
+        "referring_pages": 195.3,
+        "referring_domains": 83.8,
+        "referring_main_domains": 80.8,
+        "rank": 184.5,
+        "main_domain_rank": 510.4,
+        "last_updated_time": "2024-10-04 13:10:49 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:07:58 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan for running a marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 18:55:52 +00:00",
+        "competition": 0.07,
+        "competition_level": "LOW",
+        "cpc": 2.74,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.56,
+        "high_top_of_page_bid": 3.94,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 74000,
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": 49
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon run training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 15,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 219.4,
+        "dofollow": 154.1,
+        "referring_pages": 187.1,
+        "referring_domains": 98.5,
+        "referring_main_domains": 95.7,
+        "rank": 219.2,
+        "main_domain_rank": 481.7,
+        "last_updated_time": "2025-11-09 02:42:48 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 23:48:11 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon runners training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 05:51:02 +00:00",
+        "competition": 0.07,
+        "competition_level": "LOW",
+        "cpc": 2.74,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.56,
+        "high_top_of_page_bid": 3.94,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 74000,
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": 49
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon runner training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 14,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 127.9,
+        "dofollow": 60.6,
+        "referring_pages": 122.4,
+        "referring_domains": 89.3,
+        "referring_main_domains": 88.1,
+        "rank": 124.2,
+        "main_domain_rank": 449.9,
+        "last_updated_time": "2026-05-14 19:13:45 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 15:45:51 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 14:07:31 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 3.84,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.59,
+        "high_top_of_page_bid": 5.24,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000,
+          "2025-04": 74000
+        },
+        "search_volume_trend": {
+          "monthly": 83,
+          "quarterly": 50,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 12,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 261.1,
+        "dofollow": 170,
+        "referring_pages": 227.4,
+        "referring_domains": 93.7,
+        "referring_main_domains": 90.5,
+        "rank": 213.9,
+        "main_domain_rank": 471.3,
+        "last_updated_time": "2024-12-14 14:18:07 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 03:45:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon run training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 12:24:42 +00:00",
+        "competition": 0.07,
+        "competition_level": "LOW",
+        "cpc": 2.74,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.56,
+        "high_top_of_page_bid": 3.94,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 74000,
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": 49
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 15,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 163.8,
+        "dofollow": 73.9,
+        "referring_pages": 125.2,
+        "referring_domains": 80.1,
+        "referring_main_domains": 78.3,
+        "rank": 124.5,
+        "main_domain_rank": 492.7,
+        "last_updated_time": "2026-03-28 16:02:26 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:25:23 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon race training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 08:26:23 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 3.84,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.59,
+        "high_top_of_page_bid": 5.24,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000,
+          "2025-04": 74000
+        },
+        "search_volume_trend": {
+          "monthly": 83,
+          "quarterly": 50,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon practice schedule",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 43,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 282.9,
+        "dofollow": 183.1,
+        "referring_pages": 265.1,
+        "referring_domains": 107.4,
+        "referring_main_domains": 100.2,
+        "rank": 215.2,
+        "main_domain_rank": 503.9,
+        "last_updated_time": "2024-10-12 13:37:32 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 17:18:26 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training for marathon plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 16:26:04 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 3.84,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.59,
+        "high_top_of_page_bid": 5.24,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000,
+          "2025-04": 74000
+        },
+        "search_volume_trend": {
+          "monthly": 83,
+          "quarterly": 50,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 12,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 262.4,
+        "dofollow": 174.4,
+        "referring_pages": 239,
+        "referring_domains": 94.2,
+        "referring_main_domains": 90.6,
+        "rank": 193.6,
+        "main_domain_rank": 504,
+        "last_updated_time": "2024-09-14 21:48:56 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 22:50:01 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon plan training",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 01:18:26 +00:00",
+        "competition": 0.07,
+        "competition_level": "LOW",
+        "cpc": 2.74,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.56,
+        "high_top_of_page_bid": 3.94,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 74000,
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": 49
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 12,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 263,
+        "dofollow": 174.8,
+        "referring_pages": 239.6,
+        "referring_domains": 94.7,
+        "referring_main_domains": 91.1,
+        "rank": 199.7,
+        "main_domain_rank": 466.2,
+        "last_updated_time": "2024-09-14 21:55:05 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:34:52 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon runner training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-18 22:45:30 +00:00",
+        "competition": 0.07,
+        "competition_level": "LOW",
+        "cpc": 2.74,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.56,
+        "high_top_of_page_bid": 3.94,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 74000,
+          "2026-03": 90500,
+          "2026-02": 49500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 110000,
+          "2025-10": 110000,
+          "2025-09": 74000,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 74000
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": 49
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 13,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 90.2,
+        "dofollow": 41.7,
+        "referring_pages": 87.5,
+        "referring_domains": 72.4,
+        "referring_main_domains": 71.7,
+        "rank": 110.7,
+        "main_domain_rank": 527.3,
+        "last_updated_time": "2026-03-11 23:11:39 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:00:41 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "half marathon running training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 15:00:30 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.85,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 3.07,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 60500,
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 127,
+        "dofollow": 54.7,
+        "referring_pages": 112.6,
+        "referring_domains": 86.1,
+        "referring_main_domains": 85,
+        "rank": 125.4,
+        "main_domain_rank": 516.1,
+        "last_updated_time": "2025-12-24 23:33:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 20:31:27 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training for a half marathon plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 12:17:37 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.85,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 3.07,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 60500,
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 10,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 130.3,
+        "dofollow": 51.3,
+        "referring_pages": 119.9,
+        "referring_domains": 98.4,
+        "referring_main_domains": 93,
+        "rank": 105.1,
+        "main_domain_rank": 457.2,
+        "last_updated_time": "2026-03-28 16:05:37 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 22:35:32 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "half marathon plan training",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 04:12:16 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.85,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 3.07,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 60500,
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 3,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 142.8,
+        "dofollow": 114.8,
+        "referring_pages": 132,
+        "referring_domains": 66.4,
+        "referring_main_domains": 63.3,
+        "rank": 194.8,
+        "main_domain_rank": 490,
+        "last_updated_time": "2025-04-12 13:43:06 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 22:21:39 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan for half marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 16:32:41 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.85,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 3.07,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 60500,
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 3,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 75,
+        "dofollow": 48.3,
+        "referring_pages": 67.4,
+        "referring_domains": 42.2,
+        "referring_main_domains": 41,
+        "rank": 102.4,
+        "main_domain_rank": 486.8,
+        "last_updated_time": "2025-11-09 02:42:36 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 00:12:17 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "semi marathon training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 19:43:47 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.85,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 3.07,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 60500,
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 33,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 130,
+        "dofollow": 86.7,
+        "referring_pages": 119.1,
+        "referring_domains": 60.1,
+        "referring_main_domains": 54.5,
+        "rank": 159.4,
+        "main_domain_rank": 511,
+        "last_updated_time": "2024-10-12 13:27:50 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 20:37:43 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan for running a half marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 08:02:03 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.85,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 3.07,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 60500,
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon running training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 9,
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 115.4,
+        "dofollow": 48.6,
+        "referring_pages": 106.3,
+        "referring_domains": 83.6,
+        "referring_main_domains": 79.2,
+        "rank": 102.6,
+        "main_domain_rank": 454.7,
+        "last_updated_time": "2026-03-28 16:15:45 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 23:29:45 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "half marathon training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 21:27:03 +00:00",
+        "competition": 0.12,
+        "competition_level": "LOW",
+        "cpc": 2.23,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 4.05,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -18,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 3,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 102.4,
+        "dofollow": 63.1,
+        "referring_pages": 97.1,
+        "referring_domains": 52.4,
+        "referring_main_domains": 47.8,
+        "rank": 69.9,
+        "main_domain_rank": 521.5,
+        "last_updated_time": "2026-05-14 19:35:18 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 20:49:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "half marathon run training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 20:20:40 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.85,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 3.07,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 60500,
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon running training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 11,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 142.9,
+        "dofollow": 49.1,
+        "referring_pages": 107.5,
+        "referring_domains": 81.6,
+        "referring_main_domains": 77.1,
+        "rank": 107.2,
+        "main_domain_rank": 478.8,
+        "last_updated_time": "2026-04-18 03:32:19 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 20:33:23 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "half a marathon training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 05:03:34 +00:00",
+        "competition": 0.12,
+        "competition_level": "LOW",
+        "cpc": 2.23,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 4.05,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -18,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 3,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 162.6,
+        "dofollow": 109.5,
+        "referring_pages": 151.7,
+        "referring_domains": 81,
+        "referring_main_domains": 74.7,
+        "rank": 163.5,
+        "main_domain_rank": 458.4,
+        "last_updated_time": "2024-10-04 13:06:59 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 22:35:13 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "plan for training for a half marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 19:09:25 +00:00",
+        "competition": 0.12,
+        "competition_level": "LOW",
+        "cpc": 2.23,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 4.05,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -18,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 3,
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 118.8,
+        "dofollow": 79.6,
+        "referring_pages": 109.8,
+        "referring_domains": 56.7,
+        "referring_main_domains": 51.3,
+        "rank": 153.5,
+        "main_domain_rank": 457.6,
+        "last_updated_time": "2024-09-19 10:34:59 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:43:54 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan to run a half marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 08:34:26 +00:00",
+        "competition": 0.12,
+        "competition_level": "LOW",
+        "cpc": 2.23,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 4.05,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -18,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon running training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 4,
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 95.6,
+        "dofollow": 38.5,
+        "referring_pages": 88.3,
+        "referring_domains": 71.2,
+        "referring_main_domains": 67.2,
+        "rank": 74.6,
+        "main_domain_rank": 513.3,
+        "last_updated_time": "2026-05-14 19:22:57 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 21:27:33 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan half marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 03:29:29 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.85,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 3.07,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 60500,
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 3,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 176.6,
+        "dofollow": 122,
+        "referring_pages": 166.3,
+        "referring_domains": 74.5,
+        "referring_main_domains": 68.2,
+        "rank": 163.6,
+        "main_domain_rank": 506,
+        "last_updated_time": "2024-10-04 13:05:11 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 01:09:27 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "plan for half marathon training",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 15:14:18 +00:00",
+        "competition": 0.12,
+        "competition_level": "LOW",
+        "cpc": 2.23,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 4.05,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -18,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 3,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:35:41 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan for a half marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 21:03:27 +00:00",
+        "competition": 0.12,
+        "competition_level": "LOW",
+        "cpc": 2.23,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 4.05,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -18,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 3,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 176.6,
+        "dofollow": 122,
+        "referring_pages": 166.3,
+        "referring_domains": 74.5,
+        "referring_main_domains": 68.2,
+        "rank": 163.6,
+        "main_domain_rank": 465.3,
+        "last_updated_time": "2024-10-04 13:03:42 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 22:43:32 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "half marathon to marathon training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 11:50:06 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.85,
+        "search_volume": 60500,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 3.07,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 60500,
+          "2026-03": 60500,
+          "2026-02": 49500,
+          "2026-01": 74000,
+          "2025-12": 49500,
+          "2025-11": 74000,
+          "2025-10": 74000,
+          "2025-09": 60500,
+          "2025-08": 60500,
+          "2025-07": 74000,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "half marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 3,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 597.2,
+        "dofollow": 127.5,
+        "referring_pages": 157.6,
+        "referring_domains": 63.4,
+        "referring_main_domains": 61.7,
+        "rank": 117.2,
+        "main_domain_rank": 448.3,
+        "last_updated_time": "2026-01-27 03:05:45 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 19:57:11 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "5k marathon training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 05:45:47 +00:00",
+        "competition": 0.07,
+        "competition_level": "LOW",
+        "cpc": 2.31,
+        "search_volume": 18100,
+        "low_top_of_page_bid": 0.06,
+        "high_top_of_page_bid": 3.03,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 12100,
+          "2026-01": 14800,
+          "2025-12": 12100,
+          "2025-11": 22200,
+          "2025-10": 27100,
+          "2025-09": 27100,
+          "2025-08": 22200,
+          "2025-07": 22200,
+          "2025-06": 22200,
+          "2025-05": 22200,
+          "2025-04": 18100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 33,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 329.5,
+        "dofollow": 195.6,
+        "referring_pages": 309.9,
+        "referring_domains": 97.4,
+        "referring_main_domains": 89.3,
+        "rank": 194.3,
+        "main_domain_rank": 547.1,
+        "last_updated_time": "2024-10-04 14:09:13 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-05-02 12:51:31 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "10k marathon training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 19:53:21 +00:00",
+        "competition": 0.1,
+        "competition_level": "LOW",
+        "cpc": 1.89,
+        "search_volume": 14800,
+        "low_top_of_page_bid": 0.05,
+        "high_top_of_page_bid": 4.2,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 14800,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 9900,
+          "2025-11": 12100,
+          "2025-10": 14800,
+          "2025-09": 14800,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 18100,
+          "2025-04": 18100
+        },
+        "search_volume_trend": {
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 26,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 70.9,
+        "dofollow": 36.5,
+        "referring_pages": 67.6,
+        "referring_domains": 32.1,
+        "referring_main_domains": 31.7,
+        "rank": 139.8,
+        "main_domain_rank": 454.4,
+        "last_updated_time": "2024-10-04 14:09:19 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-25 05:19:30 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "beginner marathon training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 22:00:08 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 9,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 135.3,
+        "dofollow": 77.5,
+        "referring_pages": 128.9,
+        "referring_domains": 85.7,
+        "referring_main_domains": 83.8,
+        "rank": 106.3,
+        "main_domain_rank": 427.2,
+        "last_updated_time": "2026-04-18 14:16:03 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 10:32:39 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "beginners training plan for marathon",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 16:56:37 +00:00",
+        "competition": 0.17,
+        "competition_level": "LOW",
+        "cpc": 3.24,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.53,
+        "high_top_of_page_bid": 6.65,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 5400,
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "yearly": -55
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 5,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 105.3,
+        "dofollow": 72.5,
+        "referring_pages": 99.1,
+        "referring_domains": 56.9,
+        "referring_main_domains": 55.1,
+        "rank": 86.3,
+        "main_domain_rank": 448.9,
+        "last_updated_time": "2026-05-15 12:18:13 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 02:38:59 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "beginners marathon training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 22:41:37 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 328.2,
+        "dofollow": 207,
+        "referring_pages": 279.4,
+        "referring_domains": 121.8,
+        "referring_main_domains": 114.5,
+        "rank": 217.7,
+        "main_domain_rank": 476.6,
+        "last_updated_time": "2024-12-05 10:21:26 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 09:02:13 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "beginner to marathon training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 21:30:57 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 202.4,
+        "dofollow": 130.1,
+        "referring_pages": 180.4,
+        "referring_domains": 74.8,
+        "referring_main_domains": 71.9,
+        "rank": 182.8,
+        "main_domain_rank": 461.4,
+        "last_updated_time": "2024-09-15 07:57:32 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 04:23:04 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon training plan for beginner",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 00:07:55 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 219.5,
+        "dofollow": 138.7,
+        "referring_pages": 194.2,
+        "referring_domains": 82.9,
+        "referring_main_domains": 79.9,
+        "rank": 205.1,
+        "main_domain_rank": 472.5,
+        "last_updated_time": "2024-09-15 07:01:32 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:19:44 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon training plan for beginners",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 09:58:22 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 79.9,
+        "dofollow": 42.7,
+        "referring_pages": 76,
+        "referring_domains": 57.1,
+        "referring_main_domains": 56.1,
+        "rank": 95.5,
+        "main_domain_rank": 484.9,
+        "last_updated_time": "2026-05-15 11:27:40 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 15:12:04 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon beginners training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-22 00:27:07 +00:00",
+        "competition": 0.17,
+        "competition_level": "LOW",
+        "cpc": 3.24,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.53,
+        "high_top_of_page_bid": 6.65,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 5400,
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "yearly": -55
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 150.2,
+        "dofollow": 75.9,
+        "referring_pages": 119.5,
+        "referring_domains": 88.3,
+        "referring_main_domains": 86.5,
+        "rank": 125.8,
+        "main_domain_rank": 453.9,
+        "last_updated_time": "2026-01-27 10:47:09 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:10:31 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon training beginner plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 04:28:26 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 230.2,
+        "dofollow": 145.9,
+        "referring_pages": 200.6,
+        "referring_domains": 85.8,
+        "referring_main_domains": 82.7,
+        "rank": 213.9,
+        "main_domain_rank": 419.2,
+        "last_updated_time": "2024-10-12 16:11:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:13:47 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon for beginners training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 14:07:35 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 216.3,
+        "dofollow": 138.3,
+        "referring_pages": 193.1,
+        "referring_domains": 82.5,
+        "referring_main_domains": 79.4,
+        "rank": 200.7,
+        "main_domain_rank": 488.7,
+        "last_updated_time": "2024-09-22 22:55:08 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:51:06 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon training plan beginners",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 14:42:01 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 219.5,
+        "dofollow": 138.7,
+        "referring_pages": 194.2,
+        "referring_domains": 82.9,
+        "referring_main_domains": 79.9,
+        "rank": 205.1,
+        "main_domain_rank": 441.2,
+        "last_updated_time": "2024-09-15 07:01:31 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 20:22:37 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon beginner training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 22:25:18 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 218.9,
+        "dofollow": 141,
+        "referring_pages": 196.4,
+        "referring_domains": 81.3,
+        "referring_main_domains": 78.1,
+        "rank": 198.6,
+        "main_domain_rank": 472.3,
+        "last_updated_time": "2024-10-04 15:35:48 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:08:12 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan for marathon beginner",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 15:52:45 +00:00",
+        "competition": 0.17,
+        "competition_level": "LOW",
+        "cpc": 3.24,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.53,
+        "high_top_of_page_bid": 6.65,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 5400,
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "yearly": -55
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 86,
+        "dofollow": 68.8,
+        "referring_pages": 79.5,
+        "referring_domains": 53.6,
+        "referring_main_domains": 52.1,
+        "rank": 121.2,
+        "main_domain_rank": 455.9,
+        "last_updated_time": "2025-11-09 07:24:34 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 23:32:28 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon training plan novice",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 07:45:24 +00:00",
+        "competition": 0.17,
+        "competition_level": "LOW",
+        "cpc": 3.24,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.53,
+        "high_top_of_page_bid": 6.65,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 5400,
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "yearly": -55
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 45,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 176.7,
+        "dofollow": 119.6,
+        "referring_pages": 165.8,
+        "referring_domains": 74,
+        "referring_main_domains": 71.2,
+        "rank": 196.4,
+        "main_domain_rank": 472.4,
+        "last_updated_time": "2024-10-12 16:10:54 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:51:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "marathon training plan beginner",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 00:02:48 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 222.8,
+        "dofollow": 141.5,
+        "referring_pages": 197.3,
+        "referring_domains": 84.2,
+        "referring_main_domains": 81.2,
+        "rank": 223.7,
+        "main_domain_rank": 395.5,
+        "last_updated_time": "2024-09-15 07:01:30 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 15:11:16 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan for marathon for beginners",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 01:41:14 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 177.9,
+        "dofollow": 116.3,
+        "referring_pages": 167.5,
+        "referring_domains": 72.4,
+        "referring_main_domains": 69.5,
+        "rank": 174,
+        "main_domain_rank": 483.1,
+        "last_updated_time": "2024-10-04 15:25:31 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 22:43:47 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "training plan marathon beginner",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 06:32:05 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 4.4,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 0.5,
+        "high_top_of_page_bid": 7.93,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 5400,
+          "2026-01": 6600,
+          "2025-12": 8100,
+          "2025-11": 12100,
+          "2025-10": 9900,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "marathon training plan for beginners",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 222.9,
+        "dofollow": 142.1,
+        "referring_pages": 197.1,
+        "referring_domains": 84.8,
+        "referring_main_domains": 81.6,
+        "rank": 204.6,
+        "main_domain_rank": 473.4,
+        "last_updated_time": "2024-10-04 15:25:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 22:53:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "beginners half marathon training plan",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 19:42:18 +00:00",
+        "competition": 0.32,
+        "competition_level": "LOW",
+        "cpc": 2.06,
+        "search_volume": 8100,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 3.38,
+        "categories": [
+          10014,
+          13605,
+          13616
+        ],
+        "monthly_searches": {
+          "2026-04": 4400,
+          "2026-03": 5400,
+          "2026-02": 5400,
+          "2026-01": 8100,
+          "2025-12": 6600,
+          "2025-11": 5400,
+          "2025-10": 8100,
+          "2025-09": 9900,
+          "2025-08": 9900,
+          "2025-07": 9900,
+          "2025-06": 12100,
+          "2025-05": 12100
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": -19,
+          "yearly": -46
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "beginner to half marathon training plan",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 34,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 159.1,
+        "dofollow": 113.1,
+        "referring_pages": 146.4,
+        "referring_domains": 68,
+        "referring_main_domains": 64.8,
+        "rank": 128.6,
+        "main_domain_rank": 429.5,
+        "last_updated_time": "2024-10-04 15:52:56 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:55:54 +00:00"
+      }
+    }
+  ]
+}

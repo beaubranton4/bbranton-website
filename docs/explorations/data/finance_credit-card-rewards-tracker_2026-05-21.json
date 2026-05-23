@@ -1,0 +1,9 @@
+{
+  "_note": "Extracted from inline DataForSEO MCP response 2026-05-21. Seed: 'credit card rewards tracker', US, en, min vol 50. Only one result returned — the seed is genuinely narrow.",
+  "_seed": "credit card rewards tracker",
+  "_date": "2026-05-21",
+  "_session_id": "05220405-1663-0399-0000-98158a1b5335",
+  "items": [
+    {"keyword": "credit card rewards tracker", "search_volume": 170, "kd": 21, "cpc": 4.20, "yearly_trend": 133, "quarterly_trend": -34, "intent": "commercial"}
+  ]
+}

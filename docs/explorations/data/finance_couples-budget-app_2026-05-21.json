@@ -1,0 +1,16 @@
+{
+  "_note": "Extracted from inline DataForSEO MCP response 2026-05-21. Seed: 'couples budget app', US, en, min vol 50.",
+  "_seed": "couples budget app",
+  "_date": "2026-05-21",
+  "_session_id": "05220405-1663-0399-0000-0af03ebbb4ca",
+  "items": [
+    {"keyword": "budget app couples", "search_volume": 1900, "kd": 37, "cpc": 6.82, "yearly_trend": -19, "quarterly_trend": -32, "intent": "commercial"},
+    {"keyword": "budget app for couples", "search_volume": 1900, "kd": 32, "cpc": 6.82, "yearly_trend": -19, "quarterly_trend": -32, "intent": "commercial"},
+    {"keyword": "couples budget app", "search_volume": 1900, "kd": 37, "cpc": 6.15, "yearly_trend": -32, "intent": "commercial"},
+    {"keyword": "app for couples budget", "search_volume": 1900, "kd": 37, "cpc": 6.82, "yearly_trend": -19, "intent": "informational"},
+    {"keyword": "best budget app for couples", "search_volume": 880, "kd": 53, "cpc": 7.06, "yearly_trend": -41, "intent": "commercial"},
+    {"keyword": "best couples budget app", "search_volume": 880, "kd": 53, "cpc": 6.17, "yearly_trend": -41, "intent": "commercial"},
+    {"keyword": "free budget app for couples", "search_volume": 320, "kd": 29, "cpc": 3.89, "yearly_trend": 52, "intent": "informational"},
+    {"keyword": "best free budget app for couples", "search_volume": 170, "kd": 62, "cpc": 4.79, "monthly_trend": 50, "intent": "commercial"}
+  ]
+}

@@ -1,0 +1,2571 @@
+{
+  "id": "05220405-1663-0399-0000-2279667aebe4",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "items": [
+    {
+      "se_type": "google",
+      "keyword": "rocket money subscription tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 08:29:37 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 5.38,
+        "search_volume": 5400,
+        "low_top_of_page_bid": 1.64,
+        "high_top_of_page_bid": 8.28,
+        "categories": [
+          10108,
+          11866
+        ],
+        "monthly_searches": {
+          "2026-04": 8100,
+          "2026-03": 9900,
+          "2026-02": 8100,
+          "2026-01": 12100,
+          "2025-12": 5400,
+          "2025-11": 2900,
+          "2025-10": 2900,
+          "2025-09": 2900,
+          "2025-08": 2900,
+          "2025-07": 3600,
+          "2025-06": 3600,
+          "2025-05": 1900
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "yearly": 406
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 51,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1898.6,
+        "dofollow": 1218.9,
+        "referring_pages": 1495.1,
+        "referring_domains": 428.6,
+        "referring_main_domains": 402,
+        "rank": 222.9,
+        "main_domain_rank": 682.9,
+        "last_updated_time": "2026-05-17 08:48:49 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 20:01:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "rocket money subscription tracker app",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 13:50:44 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 1900,
+        "categories": [
+          10012,
+          10094
+        ],
+        "monthly_searches": {
+          "2026-04": 1900,
+          "2026-03": 2900,
+          "2026-02": 2900,
+          "2026-01": 5400,
+          "2025-12": 3600,
+          "2025-11": 1000,
+          "2025-10": 1600,
+          "2025-09": 880,
+          "2025-08": 720,
+          "2025-07": 1300,
+          "2025-06": 1000,
+          "2025-05": 1000
+        },
+        "search_volume_trend": {
+          "monthly": -34,
+          "quarterly": -34,
+          "yearly": 222
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 27,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 40003.3,
+        "dofollow": 38016.9,
+        "referring_pages": 38792.5,
+        "referring_domains": 370.2,
+        "referring_main_domains": 345.4,
+        "rank": 152.3,
+        "main_domain_rank": 722.9,
+        "last_updated_time": "2026-03-15 00:36:50 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "navigational",
+          "informational"
+        ],
+        "last_updated_time": "2026-04-28 22:25:35 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "no subscription gps tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 07:56:39 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.98,
+        "search_volume": 1900,
+        "low_top_of_page_bid": 0.49,
+        "high_top_of_page_bid": 2.96,
+        "categories": [
+          10019,
+          10019,
+          10167,
+          10167,
+          10880,
+          10880,
+          12177
+        ],
+        "monthly_searches": {
+          "2026-04": 1300,
+          "2026-03": 1600,
+          "2026-02": 1300,
+          "2026-01": 1600,
+          "2025-12": 1600,
+          "2025-11": 1900,
+          "2025-10": 1900,
+          "2025-09": 1900,
+          "2025-08": 2900,
+          "2025-07": 2400,
+          "2025-06": 1900,
+          "2025-05": 1900
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "yearly": -32
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "gps tracker no subscription",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 13.7,
+        "dofollow": 11.1,
+        "referring_pages": 12.5,
+        "referring_domains": 8.6,
+        "referring_main_domains": 8.2,
+        "rank": 37.8,
+        "main_domain_rank": 410.7,
+        "last_updated_time": "2026-03-14 15:13:10 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 15:42:59 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "gps tracker no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 23:23:03 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.75,
+        "search_volume": 1900,
+        "low_top_of_page_bid": 0.39,
+        "high_top_of_page_bid": 2.45,
+        "categories": [
+          10019,
+          10019,
+          10019,
+          10167,
+          10167,
+          10167,
+          10880,
+          10880,
+          10880,
+          12177,
+          12177,
+          13056
+        ],
+        "monthly_searches": {
+          "2026-03": 1600,
+          "2026-02": 1300,
+          "2026-01": 1600,
+          "2025-12": 1600,
+          "2025-11": 1900,
+          "2025-10": 1900,
+          "2025-09": 1900,
+          "2025-08": 2900,
+          "2025-07": 2400,
+          "2025-06": 1900,
+          "2025-05": 1900,
+          "2025-04": 1900
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 14.5,
+        "dofollow": 10.1,
+        "referring_pages": 13.6,
+        "referring_domains": 8.2,
+        "referring_main_domains": 7.9,
+        "rank": 40.8,
+        "main_domain_rank": 475.8,
+        "last_updated_time": "2026-04-19 13:29:07 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-27 21:18:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "non subscription gps tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 12:17:35 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.75,
+        "search_volume": 1900,
+        "low_top_of_page_bid": 0.39,
+        "high_top_of_page_bid": 2.45,
+        "categories": [
+          10019,
+          10019,
+          10167,
+          10167,
+          10880,
+          10880,
+          12177
+        ],
+        "monthly_searches": {
+          "2026-03": 1600,
+          "2026-02": 1300,
+          "2026-01": 1600,
+          "2025-12": 1600,
+          "2025-11": 1900,
+          "2025-10": 1900,
+          "2025-09": 1900,
+          "2025-08": 2900,
+          "2025-07": 2400,
+          "2025-06": 1900,
+          "2025-05": 1900,
+          "2025-04": 1900
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "gps tracker without subscription",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "detected_language": "it",
+        "is_another_language": true,
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 54.4,
+        "dofollow": 14.5,
+        "referring_pages": 51.5,
+        "referring_domains": 13.3,
+        "referring_main_domains": 13.1,
+        "rank": 42.4,
+        "main_domain_rank": 457.2,
+        "last_updated_time": "2024-10-04 17:51:18 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 16:34:49 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "gps tracker without subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 11:07:22 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.75,
+        "search_volume": 1900,
+        "low_top_of_page_bid": 0.39,
+        "high_top_of_page_bid": 2.45,
+        "categories": [
+          10019,
+          10019,
+          10019,
+          10167,
+          10167,
+          10167,
+          10880,
+          10880,
+          10880,
+          12177,
+          12177,
+          13056
+        ],
+        "monthly_searches": {
+          "2026-03": 1600,
+          "2026-02": 1300,
+          "2026-01": 1600,
+          "2025-12": 1600,
+          "2025-11": 1900,
+          "2025-10": 1900,
+          "2025-09": 1900,
+          "2025-08": 2900,
+          "2025-07": 2400,
+          "2025-06": 1900,
+          "2025-05": 1900,
+          "2025-04": 1900
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 13.9,
+        "dofollow": 11.2,
+        "referring_pages": 12.7,
+        "referring_domains": 8.8,
+        "referring_main_domains": 8.4,
+        "rank": 41,
+        "main_domain_rank": 431.3,
+        "last_updated_time": "2026-03-14 17:42:58 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-27 23:03:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "subscription tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 10:00:41 +00:00",
+        "competition": 0.6,
+        "competition_level": "MEDIUM",
+        "cpc": 13.43,
+        "search_volume": 1600,
+        "low_top_of_page_bid": 2.88,
+        "high_top_of_page_bid": 18.52,
+        "categories": [
+          10108,
+          11866
+        ],
+        "monthly_searches": {
+          "2026-03": 1300,
+          "2026-02": 1600,
+          "2026-01": 2400,
+          "2025-12": 1600,
+          "2025-11": 1600,
+          "2025-10": 1900,
+          "2025-09": 1900,
+          "2025-08": 1600,
+          "2025-07": 1900,
+          "2025-06": 1600,
+          "2025-05": 1600,
+          "2025-04": 1900
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": -46,
+          "yearly": -32
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "subscriptions tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 45,
+        "detected_language": "en",
+        "words_count": 2
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1779.2,
+        "dofollow": 1042.8,
+        "referring_pages": 1347.2,
+        "referring_domains": 391.4,
+        "referring_main_domains": 363.9,
+        "rank": 165.8,
+        "main_domain_rank": 513.2,
+        "last_updated_time": "2026-05-17 23:02:25 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 21:58:11 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "dog tracker without subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 20:41:54 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.36,
+        "search_volume": 1300,
+        "low_top_of_page_bid": 0.51,
+        "high_top_of_page_bid": 3.42,
+        "categories": [
+          10015,
+          10130,
+          10683
+        ],
+        "monthly_searches": {
+          "2026-04": 1000,
+          "2026-03": 1000,
+          "2026-02": 1000,
+          "2026-01": 1000,
+          "2025-12": 1600,
+          "2025-11": 1300,
+          "2025-10": 1000,
+          "2025-09": 1000,
+          "2025-08": 1300,
+          "2025-07": 1300,
+          "2025-06": 1600,
+          "2025-05": 1600
+        },
+        "search_volume_trend": {
+          "yearly": -38
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4.4,
+        "dofollow": 3.2,
+        "referring_pages": 3.4,
+        "referring_domains": 1.1,
+        "referring_main_domains": 1.1,
+        "rank": 17.5,
+        "main_domain_rank": 654.6,
+        "last_updated_time": "2026-05-19 02:01:12 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational",
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-26 23:25:31 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "subscription tracker app",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 07:15:57 +00:00",
+        "competition": 0.2,
+        "competition_level": "LOW",
+        "cpc": 13.21,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 3.07,
+        "high_top_of_page_bid": 47.18,
+        "categories": [
+          10004,
+          10305
+        ],
+        "monthly_searches": {
+          "2026-03": 1300,
+          "2026-02": 1600,
+          "2026-01": 3600,
+          "2025-12": 1900,
+          "2025-11": 880,
+          "2025-10": 880,
+          "2025-09": 1000,
+          "2025-08": 590,
+          "2025-07": 720,
+          "2025-06": 590,
+          "2025-05": 720,
+          "2025-04": 590
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": -64,
+          "yearly": 48
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 45,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1879.8,
+        "dofollow": 1172.8,
+        "referring_pages": 1456.8,
+        "referring_domains": 384.1,
+        "referring_main_domains": 356.1,
+        "rank": 199.9,
+        "main_domain_rank": 587.2,
+        "last_updated_time": "2026-05-19 04:26:33 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-30 02:00:01 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best dog tracker without subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 20:45:55 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 3.3,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.93,
+        "high_top_of_page_bid": 3.77,
+        "categories": [
+          10015,
+          10130,
+          10683
+        ],
+        "monthly_searches": {
+          "2026-04": 1300,
+          "2026-03": 1300,
+          "2026-02": 1000,
+          "2026-01": 1000,
+          "2025-12": 1300,
+          "2025-11": 1300,
+          "2025-10": 1000,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1000,
+          "2025-05": 1000
+        },
+        "search_volume_trend": {
+          "quarterly": 30,
+          "yearly": 30
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 2,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 45.2,
+        "dofollow": 30.3,
+        "referring_pages": 39.4,
+        "referring_domains": 21.8,
+        "referring_main_domains": 21.2,
+        "rank": 64.8,
+        "main_domain_rank": 512.4,
+        "last_updated_time": "2026-05-19 21:17:16 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 02:56:23 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "subscription tracker apps",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 12:05:38 +00:00",
+        "competition": 0.2,
+        "competition_level": "LOW",
+        "cpc": 13.21,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 3.07,
+        "high_top_of_page_bid": 47.18,
+        "categories": [
+          10108,
+          11866
+        ],
+        "monthly_searches": {
+          "2026-03": 1300,
+          "2026-02": 1600,
+          "2026-01": 3600,
+          "2025-12": 1900,
+          "2025-11": 880,
+          "2025-10": 880,
+          "2025-09": 1000,
+          "2025-08": 590,
+          "2025-07": 720,
+          "2025-06": 590,
+          "2025-05": 720,
+          "2025-04": 590
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": -64,
+          "yearly": 48
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "subscription tracker app",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 37,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 39938.2,
+        "dofollow": 37968.4,
+        "referring_pages": 38722.7,
+        "referring_domains": 357.5,
+        "referring_main_domains": 332.4,
+        "rank": 187.8,
+        "main_domain_rank": 594.4,
+        "last_updated_time": "2026-03-15 19:53:58 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-28 22:46:35 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "cat gps tracker no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 08:22:57 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.51,
+        "search_volume": 720,
+        "low_top_of_page_bid": 0.56,
+        "high_top_of_page_bid": 3.08,
+        "categories": [
+          10019,
+          10019,
+          10019,
+          10167,
+          10167,
+          10167,
+          10880,
+          10880,
+          10880,
+          12177,
+          12177,
+          13056
+        ],
+        "monthly_searches": {
+          "2026-04": 720,
+          "2026-03": 590,
+          "2026-02": 590,
+          "2026-01": 480,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 720,
+          "2025-08": 720,
+          "2025-07": 720,
+          "2025-06": 880,
+          "2025-05": 720
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": 50
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 29.7,
+        "dofollow": 18.1,
+        "referring_pages": 22.5,
+        "referring_domains": 11.8,
+        "referring_main_domains": 10.7,
+        "rank": 40.7,
+        "main_domain_rank": 639,
+        "last_updated_time": "2026-03-31 16:28:33 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 07:03:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "subscription free fitness tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 12:32:26 +00:00",
+        "competition": 0.12,
+        "competition_level": "LOW",
+        "cpc": 1.59,
+        "search_volume": 720,
+        "low_top_of_page_bid": 0.35,
+        "high_top_of_page_bid": 1.37,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-03": 590,
+          "2026-02": 2900,
+          "2026-01": 2900,
+          "2025-12": 170,
+          "2025-11": 1300,
+          "2025-10": 320,
+          "2025-09": 720,
+          "2025-08": 260,
+          "2025-07": 40,
+          "2025-06": 20,
+          "2025-05": 20,
+          "2025-04": 10
+        },
+        "search_volume_trend": {
+          "monthly": -80,
+          "quarterly": -80,
+          "yearly": 2850
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 32,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 434.3,
+        "dofollow": 234.8,
+        "referring_pages": 369.5,
+        "referring_domains": 179.3,
+        "referring_main_domains": 169.8,
+        "rank": 164.4,
+        "main_domain_rank": 656.7,
+        "last_updated_time": "2026-05-20 06:44:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-28 22:39:33 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "free subscription tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 11:26:27 +00:00",
+        "competition": 0.74,
+        "competition_level": "HIGH",
+        "cpc": 11.73,
+        "search_volume": 720,
+        "low_top_of_page_bid": 2.49,
+        "high_top_of_page_bid": 16.91,
+        "categories": [
+          10108,
+          11866
+        ],
+        "monthly_searches": {
+          "2026-03": 720,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 880,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 880,
+          "2025-08": 720,
+          "2025-07": 880,
+          "2025-06": 720,
+          "2025-05": 720,
+          "2025-04": 720
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -28,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 32,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1681,
+        "dofollow": 990,
+        "referring_pages": 1262,
+        "referring_domains": 363.7,
+        "referring_main_domains": 337.2,
+        "rank": 149.9,
+        "main_domain_rank": 532.3,
+        "last_updated_time": "2026-05-20 23:04:49 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 13:51:23 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best fitness tracker without subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 08:27:49 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.86,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.33,
+        "high_top_of_page_bid": 2.5,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-04": 1000,
+          "2026-03": 1000,
+          "2026-02": 880,
+          "2026-01": 880,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 320,
+          "2025-09": 210,
+          "2025-08": 210,
+          "2025-07": 260,
+          "2025-06": 210,
+          "2025-05": 170
+        },
+        "search_volume_trend": {
+          "quarterly": 14,
+          "yearly": 809
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 21,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 40.5,
+        "dofollow": 16.6,
+        "referring_pages": 30.1,
+        "referring_domains": 20.6,
+        "referring_main_domains": 20.1,
+        "rank": 96.9,
+        "main_domain_rank": 554.3,
+        "last_updated_time": "2026-04-21 14:43:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 02:05:45 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "gps car tracker no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 20:09:55 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.04,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.45,
+        "high_top_of_page_bid": 2.6,
+        "categories": [
+          10019,
+          10019,
+          10167,
+          10167,
+          10880,
+          10880,
+          12177,
+          12177,
+          13056
+        ],
+        "monthly_searches": {
+          "2026-04": 590,
+          "2026-03": 590,
+          "2026-02": 480,
+          "2026-01": 590,
+          "2025-12": 590,
+          "2025-11": 480,
+          "2025-10": 590,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 720,
+          "2025-05": 590
+        },
+        "search_volume_trend": {
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "car gps tracker no subscription",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 54.4,
+        "dofollow": 14.5,
+        "referring_pages": 51.5,
+        "referring_domains": 13.3,
+        "referring_main_domains": 13.1,
+        "rank": 42.4,
+        "main_domain_rank": 542.5,
+        "last_updated_time": "2024-10-05 19:00:58 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional",
+          "informational"
+        ],
+        "last_updated_time": "2026-04-28 14:54:36 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "car gps tracker without subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 19:26:57 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.04,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.45,
+        "high_top_of_page_bid": 2.6,
+        "categories": [
+          10019,
+          10019,
+          10167,
+          10167,
+          10880,
+          10880,
+          12177,
+          12177,
+          13056
+        ],
+        "monthly_searches": {
+          "2026-04": 590,
+          "2026-03": 590,
+          "2026-02": 480,
+          "2026-01": 590,
+          "2025-12": 590,
+          "2025-11": 480,
+          "2025-10": 590,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 720,
+          "2025-05": 590
+        },
+        "search_volume_trend": {
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 30.1,
+        "dofollow": 21.4,
+        "referring_pages": 27.6,
+        "referring_domains": 8.6,
+        "referring_main_domains": 8.3,
+        "rank": 23.9,
+        "main_domain_rank": 449.7,
+        "last_updated_time": "2025-07-01 17:24:50 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 08:43:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "car gps tracker no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 20:23:50 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.04,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.45,
+        "high_top_of_page_bid": 2.6,
+        "categories": [
+          10019,
+          10019,
+          10167,
+          10167,
+          10880,
+          10880,
+          12177,
+          12177,
+          13056
+        ],
+        "monthly_searches": {
+          "2026-04": 590,
+          "2026-03": 590,
+          "2026-02": 480,
+          "2026-01": 590,
+          "2025-12": 590,
+          "2025-11": 480,
+          "2025-10": 590,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 720,
+          "2025-05": 590
+        },
+        "search_volume_trend": {
+          "quarterly": 23
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 10.4,
+        "dofollow": 8.3,
+        "referring_pages": 9.7,
+        "referring_domains": 6.6,
+        "referring_main_domains": 6.4,
+        "rank": 30.5,
+        "main_domain_rank": 513.2,
+        "last_updated_time": "2026-05-21 14:09:55 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 09:03:19 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best gps tracker for car without subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 13:31:23 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.92,
+        "search_volume": 480,
+        "low_top_of_page_bid": 0.4,
+        "high_top_of_page_bid": 2.75,
+        "categories": [
+          10019,
+          10019,
+          10019,
+          10167,
+          10167,
+          10167,
+          10880,
+          10880,
+          10880,
+          12177,
+          12177,
+          13056
+        ],
+        "monthly_searches": {
+          "2026-03": 1000,
+          "2026-02": 880,
+          "2026-01": 880,
+          "2025-12": 590,
+          "2025-11": 480,
+          "2025-10": 320,
+          "2025-09": 210,
+          "2025-08": 210,
+          "2025-07": 320,
+          "2025-06": 210,
+          "2025-05": 210,
+          "2025-04": 140
+        },
+        "search_volume_trend": {
+          "monthly": 14,
+          "quarterly": 14,
+          "yearly": 614
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "best car gps tracker without subscription",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 14.2,
+        "dofollow": 11.2,
+        "referring_pages": 13,
+        "referring_domains": 8.8,
+        "referring_main_domains": 8.4,
+        "rank": 44.3,
+        "main_domain_rank": 466.8,
+        "last_updated_time": "2026-03-18 22:57:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 03:10:55 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "bobby subscription tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 06:51:43 +00:00",
+        "competition": 0.18,
+        "competition_level": "LOW",
+        "cpc": 9.84,
+        "search_volume": 390,
+        "low_top_of_page_bid": 2.38,
+        "high_top_of_page_bid": 22.88,
+        "categories": [
+          10108,
+          11866
+        ],
+        "monthly_searches": {
+          "2026-04": 260,
+          "2026-03": 110,
+          "2026-02": 480,
+          "2026-01": 590,
+          "2025-12": 590,
+          "2025-11": 720,
+          "2025-10": 480,
+          "2025-09": 140,
+          "2025-08": 210,
+          "2025-07": 260,
+          "2025-06": 390,
+          "2025-05": 260
+        },
+        "search_volume_trend": {
+          "monthly": 136,
+          "quarterly": -46,
+          "yearly": 24
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 10,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 164.9,
+        "dofollow": 86.4,
+        "referring_pages": 132,
+        "referring_domains": 51.7,
+        "referring_main_domains": 48.9,
+        "rank": 95,
+        "main_domain_rank": 577.4,
+        "last_updated_time": "2026-04-01 16:35:15 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "navigational",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-24 18:07:41 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best subscription tracker app free",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 08:18:31 +00:00",
+        "competition": 0.72,
+        "competition_level": "HIGH",
+        "cpc": 11.05,
+        "search_volume": 390,
+        "low_top_of_page_bid": 2.29,
+        "high_top_of_page_bid": 11.39,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-03": 390,
+          "2026-02": 480,
+          "2026-01": 720,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 390,
+          "2025-09": 260,
+          "2025-08": 260,
+          "2025-07": 210,
+          "2025-06": 170,
+          "2025-05": 260,
+          "2025-04": 140
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": -46,
+          "yearly": 86
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 44,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 30141.9,
+        "dofollow": 26527.9,
+        "referring_pages": 27930.1,
+        "referring_domains": 692.2,
+        "referring_main_domains": 643,
+        "rank": 228.9,
+        "main_domain_rank": 677.5,
+        "last_updated_time": "2026-04-22 06:42:17 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-25 08:12:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best sleep tracker without subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 12:46:47 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.89,
+        "search_volume": 320,
+        "low_top_of_page_bid": 0.32,
+        "high_top_of_page_bid": 2.42,
+        "categories": [
+          10011,
+          10085,
+          10478
+        ],
+        "monthly_searches": {
+          "2026-04": 390,
+          "2026-03": 390,
+          "2026-02": 390,
+          "2026-01": 390,
+          "2025-12": 390,
+          "2025-11": 320,
+          "2025-10": 320,
+          "2025-09": 320,
+          "2025-08": 320,
+          "2025-07": 320,
+          "2025-06": 320,
+          "2025-05": 320
+        },
+        "search_volume_trend": {
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 30,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 177.2,
+        "dofollow": 120.9,
+        "referring_pages": 155.8,
+        "referring_domains": 62.6,
+        "referring_main_domains": 60.7,
+        "rank": 181.9,
+        "main_domain_rank": 600.8,
+        "last_updated_time": "2026-04-02 06:59:28 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 01:01:39 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "dog tracker subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 21:15:58 +00:00",
+        "competition": 0.02,
+        "competition_level": "LOW",
+        "cpc": 6.19,
+        "search_volume": 320,
+        "low_top_of_page_bid": 2.65,
+        "high_top_of_page_bid": 6.51,
+        "categories": [
+          10015,
+          10130,
+          11978
+        ],
+        "monthly_searches": {
+          "2026-04": 590,
+          "2026-03": 1300,
+          "2026-02": 720,
+          "2026-01": 140,
+          "2025-12": 260,
+          "2025-11": 70,
+          "2025-10": 320,
+          "2025-09": 170,
+          "2025-08": 260,
+          "2025-07": 110,
+          "2025-06": 70,
+          "2025-05": 10
+        },
+        "search_volume_trend": {
+          "monthly": -55,
+          "quarterly": -18,
+          "yearly": 2850
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9.5,
+        "dofollow": 7.4,
+        "referring_pages": 9.3,
+        "referring_domains": 2.8,
+        "referring_main_domains": 2.6,
+        "rank": 25.8,
+        "main_domain_rank": 353.2,
+        "last_updated_time": "2026-03-20 14:09:57 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-27 14:44:05 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "dog gps tracker no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 01:16:50 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 3.46,
+        "search_volume": 320,
+        "low_top_of_page_bid": 0.99,
+        "high_top_of_page_bid": 4.81,
+        "categories": [
+          10019,
+          10167,
+          10880,
+          12177
+        ],
+        "monthly_searches": {
+          "2026-04": 260,
+          "2026-03": 320,
+          "2026-02": 260,
+          "2026-01": 260,
+          "2025-12": 320,
+          "2025-11": 320,
+          "2025-10": 210,
+          "2025-09": 260,
+          "2025-08": 260,
+          "2025-07": 320,
+          "2025-06": 390,
+          "2025-05": 320
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 28,
+        "dofollow": 19.9,
+        "referring_pages": 22.4,
+        "referring_domains": 8.1,
+        "referring_main_domains": 7.5,
+        "rank": 43.2,
+        "main_domain_rank": 575.8,
+        "last_updated_time": "2026-04-02 04:00:46 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 14:22:03 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "bobby subscription tracker app",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 13:03:50 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 260,
+        "categories": [
+          10108,
+          11866
+        ],
+        "monthly_searches": {
+          "2026-03": 210,
+          "2026-02": 320,
+          "2026-01": 320,
+          "2025-12": 260,
+          "2025-11": 390,
+          "2025-10": 320,
+          "2025-09": 210,
+          "2025-08": 170,
+          "2025-07": 210,
+          "2025-06": 260,
+          "2025-05": 260,
+          "2025-04": 210
+        },
+        "search_volume_trend": {
+          "monthly": -34,
+          "quarterly": -34,
+          "yearly": -64
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 32,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 181.4,
+        "dofollow": 100.6,
+        "referring_pages": 146.8,
+        "referring_domains": 58.8,
+        "referring_main_domains": 55.7,
+        "rank": 126.7,
+        "main_domain_rank": 562.5,
+        "last_updated_time": "2026-04-26 09:56:22 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "navigational",
+        "foreign_intent": [
+          "transactional",
+          "informational"
+        ],
+        "last_updated_time": "2026-04-25 19:19:32 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "free period tracker app no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 02:59:03 +00:00",
+        "competition": 0.45,
+        "competition_level": "MEDIUM",
+        "cpc": 3.42,
+        "search_volume": 260,
+        "low_top_of_page_bid": 0.9,
+        "high_top_of_page_bid": 3.17,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-04": 210,
+          "2026-03": 260,
+          "2026-02": 260,
+          "2026-01": 320,
+          "2025-12": 210,
+          "2025-11": 210,
+          "2025-10": 260,
+          "2025-09": 320,
+          "2025-08": 390,
+          "2025-07": 320,
+          "2025-06": 260,
+          "2025-05": 260
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 33,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2132.9,
+        "dofollow": 1415.9,
+        "referring_pages": 1881.7,
+        "referring_domains": 681.8,
+        "referring_main_domains": 634.7,
+        "rank": 182.4,
+        "main_domain_rank": 563.2,
+        "last_updated_time": "2026-04-03 00:53:10 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-29 13:50:03 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best subscription tracker app",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-18 22:27:17 +00:00",
+        "competition": 0.66,
+        "competition_level": "MEDIUM",
+        "cpc": 8.83,
+        "search_volume": 260,
+        "low_top_of_page_bid": 1.99,
+        "high_top_of_page_bid": 10.12,
+        "categories": [
+          10108,
+          11866
+        ],
+        "monthly_searches": {
+          "2026-04": 140,
+          "2026-03": 140,
+          "2026-02": 170,
+          "2026-01": 260,
+          "2025-12": 170,
+          "2025-11": 140,
+          "2025-10": 140,
+          "2025-09": 140,
+          "2025-08": 210,
+          "2025-07": 480,
+          "2025-06": 590,
+          "2025-05": 720
+        },
+        "search_volume_trend": {
+          "quarterly": -18,
+          "yearly": -71
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 43,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 39934.2,
+        "dofollow": 37915.7,
+        "referring_pages": 38696.6,
+        "referring_domains": 374.5,
+        "referring_main_domains": 348.8,
+        "rank": 194.6,
+        "main_domain_rank": 550.4,
+        "last_updated_time": "2026-03-19 08:48:27 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-25 12:59:47 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "real time gps tracker no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 01:52:18 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.76,
+        "search_volume": 260,
+        "low_top_of_page_bid": 0.73,
+        "high_top_of_page_bid": 3.69,
+        "categories": [
+          10019,
+          10019,
+          10019,
+          10167,
+          10167,
+          10167,
+          10880,
+          10880,
+          10880,
+          12177,
+          12177,
+          13056
+        ],
+        "monthly_searches": {
+          "2026-03": 320,
+          "2026-02": 260,
+          "2026-01": 320,
+          "2025-12": 260,
+          "2025-11": 260,
+          "2025-10": 210,
+          "2025-09": 210,
+          "2025-08": 320,
+          "2025-07": 260,
+          "2025-06": 210,
+          "2025-05": 210,
+          "2025-04": 210
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "yearly": 52
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "real-time gps tracker no subscription",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4.9,
+        "dofollow": 2,
+        "referring_pages": 4.2,
+        "referring_domains": 2.2,
+        "referring_main_domains": 2.2,
+        "rank": 31.6,
+        "main_domain_rank": 442.7,
+        "last_updated_time": "2026-04-02 16:20:43 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional",
+          "informational"
+        ],
+        "last_updated_time": "2026-04-29 20:16:13 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "free period tracker apps no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 13:44:52 +00:00",
+        "competition": 0.48,
+        "competition_level": "MEDIUM",
+        "cpc": 3.33,
+        "search_volume": 260,
+        "low_top_of_page_bid": 0.84,
+        "high_top_of_page_bid": 3.65,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-03": 260,
+          "2026-02": 260,
+          "2026-01": 320,
+          "2025-12": 210,
+          "2025-11": 210,
+          "2025-10": 260,
+          "2025-09": 320,
+          "2025-08": 390,
+          "2025-07": 320,
+          "2025-06": 260,
+          "2025-05": 260,
+          "2025-04": 260
+        },
+        "search_volume_trend": {
+          "quarterly": -19,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "free period tracker app no subscription",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 33,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2181.1,
+        "dofollow": 1455,
+        "referring_pages": 1919.1,
+        "referring_domains": 661.7,
+        "referring_main_domains": 625.5,
+        "rank": 184.6,
+        "main_domain_rank": 629.7,
+        "last_updated_time": "2025-10-30 08:40:48 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "commercial",
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 20:35:57 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best subscription tracker apps",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 17:03:33 +00:00",
+        "competition": 0.66,
+        "competition_level": "MEDIUM",
+        "cpc": 8.83,
+        "search_volume": 260,
+        "low_top_of_page_bid": 1.99,
+        "high_top_of_page_bid": 10.12,
+        "categories": [
+          10108,
+          11866
+        ],
+        "monthly_searches": {
+          "2026-04": 140,
+          "2026-03": 140,
+          "2026-02": 170,
+          "2026-01": 260,
+          "2025-12": 170,
+          "2025-11": 140,
+          "2025-10": 140,
+          "2025-09": 140,
+          "2025-08": 210,
+          "2025-07": 480,
+          "2025-06": 590,
+          "2025-05": 720
+        },
+        "search_volume_trend": {
+          "quarterly": -18,
+          "yearly": -71
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "best subscription tracker app",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 43,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-25 04:44:51 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "real-time gps tracker no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 12:55:20 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.49,
+        "search_volume": 260,
+        "low_top_of_page_bid": 0.84,
+        "high_top_of_page_bid": 3.44,
+        "categories": [
+          10019,
+          10019,
+          10019,
+          10167,
+          10167,
+          10167,
+          10880,
+          10880,
+          10880,
+          12177,
+          12177,
+          13056
+        ],
+        "monthly_searches": {
+          "2026-04": 320,
+          "2026-03": 320,
+          "2026-02": 260,
+          "2026-01": 320,
+          "2025-12": 260,
+          "2025-11": 260,
+          "2025-10": 210,
+          "2025-09": 210,
+          "2025-08": 320,
+          "2025-07": 260,
+          "2025-06": 210,
+          "2025-05": 210
+        },
+        "search_volume_trend": {
+          "quarterly": 23,
+          "yearly": 52
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 14.4,
+        "dofollow": 10.1,
+        "referring_pages": 13.6,
+        "referring_domains": 8.2,
+        "referring_main_domains": 7.9,
+        "rank": 40.8,
+        "main_domain_rank": 448.6,
+        "last_updated_time": "2026-04-24 05:22:38 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational",
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 20:26:48 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "gps tracker for vehicle no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 00:00:55 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 3.33,
+        "search_volume": 260,
+        "low_top_of_page_bid": 0.53,
+        "high_top_of_page_bid": 5.55,
+        "categories": [
+          10019,
+          10019,
+          10019,
+          10167,
+          10167,
+          10167,
+          10880,
+          10880,
+          10880,
+          12177,
+          12177,
+          13056
+        ],
+        "monthly_searches": {
+          "2026-03": 390,
+          "2026-02": 390,
+          "2026-01": 390,
+          "2025-12": 320,
+          "2025-11": 320,
+          "2025-10": 210,
+          "2025-09": 170,
+          "2025-08": 210,
+          "2025-07": 210,
+          "2025-06": 170,
+          "2025-05": 210,
+          "2025-04": 140
+        },
+        "search_volume_trend": {
+          "yearly": 129
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "gps trackers for vehicles no subscription",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-03 00:32:25 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "gps tracker for vehicles no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 17:39:40 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 3.33,
+        "search_volume": 260,
+        "low_top_of_page_bid": 0.53,
+        "high_top_of_page_bid": 5.55,
+        "categories": [
+          10019,
+          10019,
+          10167,
+          10167,
+          10880,
+          10880,
+          12177,
+          12177,
+          13056
+        ],
+        "monthly_searches": {
+          "2026-03": 390,
+          "2026-02": 390,
+          "2026-01": 390,
+          "2025-12": 320,
+          "2025-11": 320,
+          "2025-10": 210,
+          "2025-09": 170,
+          "2025-08": 210,
+          "2025-07": 210,
+          "2025-06": 170,
+          "2025-05": 210,
+          "2025-04": 140
+        },
+        "search_volume_trend": {
+          "yearly": 129
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "gps trackers for vehicles no subscription",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 14,
+        "dofollow": 10,
+        "referring_pages": 13.1,
+        "referring_domains": 8,
+        "referring_main_domains": 7.7,
+        "rank": 34.8,
+        "main_domain_rank": 460.5,
+        "last_updated_time": "2026-04-03 00:14:19 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-27 21:10:58 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "gps tracker with subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 20:01:12 +00:00",
+        "competition": 0.92,
+        "competition_level": "HIGH",
+        "cpc": 5.01,
+        "search_volume": 210,
+        "low_top_of_page_bid": 1.84,
+        "high_top_of_page_bid": 8.93,
+        "categories": [
+          10019,
+          10019,
+          10167,
+          10167,
+          10880,
+          10880,
+          12177
+        ],
+        "monthly_searches": {
+          "2026-03": 210,
+          "2026-02": 170,
+          "2026-01": 170,
+          "2025-12": 110,
+          "2025-11": 170,
+          "2025-10": 170,
+          "2025-09": 260,
+          "2025-08": 320,
+          "2025-07": 210,
+          "2025-06": 140,
+          "2025-05": 170,
+          "2025-04": 210
+        },
+        "search_volume_trend": {
+          "monthly": 24,
+          "quarterly": 24,
+          "yearly": 50
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 20.5,
+        "dofollow": 17.3,
+        "referring_pages": 19.4,
+        "referring_domains": 8.5,
+        "referring_main_domains": 8.1,
+        "rank": 37,
+        "main_domain_rank": 405.7,
+        "last_updated_time": "2026-01-24 23:28:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-28 07:01:05 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fitness tracker subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 00:32:20 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 7.79,
+        "search_volume": 210,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494,
+          12916
+        ],
+        "monthly_searches": {
+          "2026-03": 70,
+          "2026-02": 140,
+          "2026-01": 40,
+          "2025-12": 170,
+          "2025-11": 90,
+          "2025-10": 50,
+          "2025-09": 40,
+          "2025-08": 320,
+          "2025-07": 110,
+          "2025-06": 90,
+          "2025-05": 590,
+          "2025-04": 880
+        },
+        "search_volume_trend": {
+          "monthly": -50,
+          "quarterly": 75,
+          "yearly": 40
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "subscription fitness tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 58,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 16762.7,
+        "dofollow": 5324,
+        "referring_pages": 5585,
+        "referring_domains": 355,
+        "referring_main_domains": 334.7,
+        "rank": 233.8,
+        "main_domain_rank": 584.5,
+        "last_updated_time": "2026-04-04 01:30:53 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 19:15:05 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "car tracker no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 23:32:25 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.22,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.31,
+        "high_top_of_page_bid": 1.71,
+        "categories": [
+          10019,
+          10167,
+          10880,
+          12177
+        ],
+        "monthly_searches": {
+          "2026-03": 170,
+          "2026-02": 140,
+          "2026-01": 170,
+          "2025-12": 170,
+          "2025-11": 210,
+          "2025-10": 210,
+          "2025-09": 320,
+          "2025-08": 320,
+          "2025-07": 260,
+          "2025-06": 260,
+          "2025-05": 260,
+          "2025-04": 260
+        },
+        "search_volume_trend": {
+          "monthly": 21,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "no subscription car tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 13.6,
+        "dofollow": 9.9,
+        "referring_pages": 12.8,
+        "referring_domains": 7.7,
+        "referring_main_domains": 7.4,
+        "rank": 34.2,
+        "main_domain_rank": 479.9,
+        "last_updated_time": "2026-04-29 16:07:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 05:21:53 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "no subscription car tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 09:36:55 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.22,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.31,
+        "high_top_of_page_bid": 1.71,
+        "categories": [
+          10019,
+          10167,
+          10880,
+          12177
+        ],
+        "monthly_searches": {
+          "2026-03": 170,
+          "2026-02": 140,
+          "2026-01": 170,
+          "2025-12": 170,
+          "2025-11": 210,
+          "2025-10": 210,
+          "2025-09": 320,
+          "2025-08": 320,
+          "2025-07": 260,
+          "2025-06": 260,
+          "2025-05": 260,
+          "2025-04": 260
+        },
+        "search_volume_trend": {
+          "monthly": 21,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 36.7,
+        "dofollow": 21.7,
+        "referring_pages": 33.6,
+        "referring_domains": 10.6,
+        "referring_main_domains": 10.2,
+        "rank": 30.1,
+        "main_domain_rank": 520.6,
+        "last_updated_time": "2025-07-25 07:52:54 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 15:42:59 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fitness tracker without subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 16:49:46 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.86,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.46,
+        "high_top_of_page_bid": 2.02,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-03": 260,
+          "2026-02": 210,
+          "2026-01": 260,
+          "2025-12": 260,
+          "2025-11": 260,
+          "2025-10": 260,
+          "2025-09": 260,
+          "2025-08": 210,
+          "2025-07": 260,
+          "2025-06": 140,
+          "2025-05": 140,
+          "2025-04": 140
+        },
+        "search_volume_trend": {
+          "monthly": 24,
+          "yearly": 53
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 14,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 36.9,
+        "dofollow": 14.7,
+        "referring_pages": 28,
+        "referring_domains": 19,
+        "referring_main_domains": 18.6,
+        "rank": 84.8,
+        "main_domain_rank": 641.9,
+        "last_updated_time": "2026-03-20 01:09:31 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-27 16:46:53 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "dog tracker no subscription",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-18 22:12:37 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 3.45,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.97,
+        "high_top_of_page_bid": 4.77,
+        "categories": [
+          10015,
+          10130,
+          10683
+        ],
+        "monthly_searches": {
+          "2026-04": 260,
+          "2026-03": 320,
+          "2026-02": 170,
+          "2026-01": 210,
+          "2025-12": 260,
+          "2025-11": 210,
+          "2025-10": 170,
+          "2025-09": 140,
+          "2025-08": 140,
+          "2025-07": 170,
+          "2025-06": 320,
+          "2025-05": 320
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": 53,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.9,
+        "dofollow": 0.6,
+        "referring_pages": 0.8,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 0.2,
+        "main_domain_rank": 586.4,
+        "last_updated_time": "2026-04-28 22:36:31 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-27 15:19:38 +00:00"
+      }
+    }
+  ]
+}

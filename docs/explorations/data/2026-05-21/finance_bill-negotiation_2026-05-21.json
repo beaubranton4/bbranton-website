@@ -1,0 +1,24 @@
+{
+  "_note": "Extracted from inline DataForSEO MCP response 2026-05-21. Seed: 'bill negotiation', US, en, min vol 50.",
+  "_seed": "bill negotiation",
+  "_date": "2026-05-21",
+  "_session_id": "05220406-1663-0399-0000-6e63e3103fd6",
+  "items": [
+    {"keyword": "hospital bill negotiation", "search_volume": 2400, "kd": 18, "cpc": 3.55, "monthly_trend": 26, "intent": "informational"},
+    {"keyword": "ambulance bill negotiation", "search_volume": 320, "yearly_trend": 127, "monthly_trend": 51, "intent": "informational"},
+    {"keyword": "medical bill negotiation", "search_volume": 260, "cpc": 8.60, "yearly_trend": 53, "intent": "informational"},
+    {"keyword": "cable bill negotiation", "search_volume": 260, "kd": 9, "yearly_trend": 50, "intent": "informational"},
+    {"keyword": "bill negotiation services", "search_volume": 210, "kd": 8, "cpc": 11.94, "yearly_trend": -19, "intent": "commercial"},
+    {"keyword": "rocket money bill negotiation", "search_volume": 210, "kd": 1, "cpc": 8.22, "quarterly_trend": -19, "intent": "informational"},
+    {"keyword": "medical bill negotiation lawyer", "search_volume": 170, "yearly_trend": -59, "intent": "informational"},
+    {"keyword": "bill negotiation service", "search_volume": 140, "kd": 18, "cpc": 8.70, "yearly_trend": -18, "intent": "commercial"},
+    {"keyword": "emergency room bill negotiation", "search_volume": 110, "kd": 4, "cpc": 1.60, "yearly_trend": -36, "intent": "informational"},
+    {"keyword": "medical bill negotiation services", "search_volume": 110, "cpc": 4.07, "yearly_trend": -22, "intent": "commercial"},
+    {"keyword": "experian bill negotiation", "search_volume": 90, "kd": 6, "cpc": 2.85, "yearly_trend": 29, "monthly_trend": 80, "intent": "informational"},
+    {"keyword": "bill negotiation", "search_volume": 90, "kd": 16, "cpc": 11.10, "quarterly_trend": 57, "monthly_trend": 22, "intent": "informational"},
+    {"keyword": "medical bill negotiation script", "search_volume": 90, "cpc": 4.14, "yearly_trend": -36, "intent": "informational"},
+    {"keyword": "negotiation of bill", "search_volume": 90, "kd": 12, "cpc": 9.95, "yearly_trend": -18, "intent": "informational"},
+    {"keyword": "trim bill negotiation", "search_volume": 70, "kd": 15, "cpc": 12.61, "yearly_trend": -78, "intent": "informational"},
+    {"keyword": "spectrum bill negotiation", "search_volume": 70, "yearly_trend": -72, "intent": "informational"}
+  ]
+}

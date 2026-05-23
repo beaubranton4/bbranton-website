@@ -1,0 +1,17 @@
+{
+  "_note": "Extracted from inline DataForSEO MCP response 2026-05-21. Seed: 'csv editor', US, en, min vol 100.",
+  "_seed": "csv editor",
+  "_date": "2026-05-21",
+  "_session_id": "05220405-1663-0399-0000-0af03ebbb4ca",
+  "items": [
+    {"keyword": "editor csv", "search_volume": 880, "kd": 16, "cpc": 6.21, "yearly_trend": -12, "intent": "transactional"},
+    {"keyword": "csv editor", "search_volume": 880, "kd": 10, "cpc": 9.24, "yearly_trend": -12, "intent": "transactional"},
+    {"keyword": "csv editor online", "search_volume": 390, "cpc": 6.55, "yearly_trend": -33, "intent": "informational"},
+    {"keyword": "csv online editor", "search_volume": 390, "cpc": 6.55, "yearly_trend": -33, "intent": "commercial"},
+    {"keyword": "online csv editor", "search_volume": 390, "kd": 1, "cpc": 6.55, "yearly_trend": -33, "intent": "transactional"},
+    {"keyword": "csv editor free", "search_volume": 140, "kd": 17, "cpc": 4.43, "intent": "informational"},
+    {"keyword": "freeware csv editor", "search_volume": 140, "kd": 27, "cpc": 4.43, "intent": "informational"},
+    {"keyword": "free csv editor", "search_volume": 140, "kd": 15, "cpc": 10.69, "yearly_trend": -18, "intent": "informational"},
+    {"keyword": "csv editor freeware", "search_volume": 140, "kd": 16, "cpc": 4.43, "intent": "informational"}
+  ]
+}

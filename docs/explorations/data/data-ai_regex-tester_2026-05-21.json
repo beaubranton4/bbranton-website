@@ -1,0 +1,2290 @@
+{
+  "id": "05220405-1663-0399-0000-c699d65c83b1",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "items": [
+    {
+      "se_type": "google",
+      "keyword": "regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 15:27:07 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 11.24,
+        "search_volume": 22200,
+        "low_top_of_page_bid": 3.91,
+        "high_top_of_page_bid": 26.25,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 18100,
+          "2026-01": 18100,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 27100,
+          "2025-09": 27100,
+          "2025-08": 27100,
+          "2025-07": 27100,
+          "2025-06": 27100,
+          "2025-05": 33100,
+          "2025-04": 33100
+        },
+        "search_volume_trend": {
+          "yearly": -55
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 31,
+        "detected_language": "it",
+        "is_another_language": true,
+        "words_count": 2
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 33981.2,
+        "dofollow": 8591.2,
+        "referring_pages": 31563.9,
+        "referring_domains": 1545.7,
+        "referring_main_domains": 1391.6,
+        "rank": 213.6,
+        "main_domain_rank": 352.9,
+        "last_updated_time": "2026-05-15 00:42:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:23:31 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex online tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 16:24:30 +00:00",
+        "competition": 0.02,
+        "competition_level": "LOW",
+        "cpc": 4.09,
+        "search_volume": 1600,
+        "low_top_of_page_bid": 2.02,
+        "high_top_of_page_bid": 16.07,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 1000,
+          "2026-02": 1000,
+          "2026-01": 1000,
+          "2025-12": 1000,
+          "2025-11": 1000,
+          "2025-10": 1600,
+          "2025-09": 1600,
+          "2025-08": 1600,
+          "2025-07": 1600,
+          "2025-06": 1900,
+          "2025-05": 2400,
+          "2025-04": 2400
+        },
+        "search_volume_trend": {
+          "yearly": -58
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "regex tester online",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 31,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 39938.1,
+        "dofollow": 9668.4,
+        "referring_pages": 36900.2,
+        "referring_domains": 1677,
+        "referring_main_domains": 1504.9,
+        "rank": 210,
+        "main_domain_rank": 380,
+        "last_updated_time": "2026-03-15 00:37:36 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:10:38 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "online regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 13:56:22 +00:00",
+        "competition": 0.02,
+        "competition_level": "LOW",
+        "cpc": 4.09,
+        "search_volume": 1600,
+        "low_top_of_page_bid": 2.02,
+        "high_top_of_page_bid": 16.07,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 1000,
+          "2026-02": 1000,
+          "2026-01": 1000,
+          "2025-12": 1000,
+          "2025-11": 1000,
+          "2025-10": 1600,
+          "2025-09": 1600,
+          "2025-08": 1600,
+          "2025-07": 1600,
+          "2025-06": 1900,
+          "2025-05": 2400,
+          "2025-04": 2400
+        },
+        "search_volume_trend": {
+          "yearly": -58
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "regex tester online",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 49,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 40041.7,
+        "dofollow": 9721.6,
+        "referring_pages": 36979.1,
+        "referring_domains": 1701.8,
+        "referring_main_domains": 1527.4,
+        "rank": 249.1,
+        "main_domain_rank": 371.5,
+        "last_updated_time": "2026-03-15 01:31:34 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 17:10:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "web regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 17:33:46 +00:00",
+        "competition": 0.02,
+        "competition_level": "LOW",
+        "cpc": 4.09,
+        "search_volume": 1600,
+        "low_top_of_page_bid": 2.02,
+        "high_top_of_page_bid": 16.07,
+        "categories": [
+          10007,
+          11493,
+          13418
+        ],
+        "monthly_searches": {
+          "2026-03": 1000,
+          "2026-02": 1000,
+          "2026-01": 1000,
+          "2025-12": 1000,
+          "2025-11": 1000,
+          "2025-10": 1600,
+          "2025-09": 1600,
+          "2025-08": 1600,
+          "2025-07": 1600,
+          "2025-06": 1900,
+          "2025-05": 2400,
+          "2025-04": 2400
+        },
+        "search_volume_trend": {
+          "yearly": -58
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "regex tester online",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 36,
+        "detected_language": "fr",
+        "is_another_language": true,
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 23346.4,
+        "dofollow": 9168.8,
+        "referring_pages": 20519.1,
+        "referring_domains": 1620.8,
+        "referring_main_domains": 1454.7,
+        "rank": 235.3,
+        "main_domain_rank": 327.6,
+        "last_updated_time": "2026-03-30 04:02:27 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 00:33:57 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex tester online",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 21:10:03 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 7,
+        "search_volume": 1300,
+        "low_top_of_page_bid": 3.79,
+        "high_top_of_page_bid": 10.11,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-04": 880,
+          "2026-03": 1000,
+          "2026-02": 1000,
+          "2026-01": 1000,
+          "2025-12": 1000,
+          "2025-11": 1000,
+          "2025-10": 1600,
+          "2025-09": 1600,
+          "2025-08": 1600,
+          "2025-07": 1600,
+          "2025-06": 1900,
+          "2025-05": 2400
+        },
+        "search_volume_trend": {
+          "monthly": -12,
+          "quarterly": -12,
+          "yearly": -63
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 32,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 18720.1,
+        "dofollow": 8548.6,
+        "referring_pages": 16245.9,
+        "referring_domains": 1584,
+        "referring_main_domains": 1421.1,
+        "rank": 221,
+        "main_domain_rank": 295.2,
+        "last_updated_time": "2026-05-18 05:20:17 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:08:57 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex java tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 10:43:59 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 11.51,
+        "search_volume": 590,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 390,
+          "2026-02": 390,
+          "2026-01": 390,
+          "2025-12": 480,
+          "2025-11": 390,
+          "2025-10": 480,
+          "2025-09": 590,
+          "2025-08": 590,
+          "2025-07": 1300,
+          "2025-06": 720,
+          "2025-05": 720,
+          "2025-04": 880
+        },
+        "search_volume_trend": {
+          "yearly": -56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "java regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 44,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 18479.5,
+        "dofollow": 8414.6,
+        "referring_pages": 16058.9,
+        "referring_domains": 1530.1,
+        "referring_main_domains": 1377,
+        "rank": 269.8,
+        "main_domain_rank": 349,
+        "last_updated_time": "2026-05-21 05:37:46 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 21:31:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex tester java",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 02:00:47 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 11.51,
+        "search_volume": 590,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 390,
+          "2026-02": 390,
+          "2026-01": 390,
+          "2025-12": 480,
+          "2025-11": 390,
+          "2025-10": 480,
+          "2025-09": 590,
+          "2025-08": 590,
+          "2025-07": 1300,
+          "2025-06": 720,
+          "2025-05": 720,
+          "2025-04": 880
+        },
+        "search_volume_trend": {
+          "yearly": -56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "java regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 44,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 18479.5,
+        "dofollow": 8414.6,
+        "referring_pages": 16058.9,
+        "referring_domains": 1530.1,
+        "referring_main_domains": 1377,
+        "rank": 269.8,
+        "main_domain_rank": 349,
+        "last_updated_time": "2026-05-21 05:24:56 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 20:14:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex tester for java",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 02:17:15 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 590,
+        "low_top_of_page_bid": 2.86,
+        "high_top_of_page_bid": 6.08,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211,
+          13111
+        ],
+        "monthly_searches": {
+          "2026-04": 390,
+          "2026-03": 390,
+          "2026-02": 390,
+          "2026-01": 390,
+          "2025-12": 480,
+          "2025-11": 390,
+          "2025-10": 480,
+          "2025-09": 590,
+          "2025-08": 590,
+          "2025-07": 1300,
+          "2025-06": 720,
+          "2025-05": 720
+        },
+        "search_volume_trend": {
+          "yearly": -56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "java regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 44,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 18479.5,
+        "dofollow": 8414.6,
+        "referring_pages": 16058.9,
+        "referring_domains": 1530.1,
+        "referring_main_domains": 1377,
+        "rank": 269.8,
+        "main_domain_rank": 349,
+        "last_updated_time": "2026-05-21 05:37:24 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:40:44 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "python regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 03:03:06 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 12.2,
+        "search_volume": 590,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-04": 320,
+          "2026-03": 390,
+          "2026-02": 390,
+          "2026-01": 480,
+          "2025-12": 390,
+          "2025-11": 480,
+          "2025-10": 590,
+          "2025-09": 590,
+          "2025-08": 590,
+          "2025-07": 720,
+          "2025-06": 720,
+          "2025-05": 880
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -18,
+          "yearly": -64
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 55,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 30419.3,
+        "dofollow": 12104.4,
+        "referring_pages": 23491.5,
+        "referring_domains": 1893.8,
+        "referring_main_domains": 1700.7,
+        "rank": 254.2,
+        "main_domain_rank": 410.2,
+        "last_updated_time": "2026-05-21 01:57:58 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:23:42 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "java regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 14:41:23 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 590,
+        "low_top_of_page_bid": 2.86,
+        "high_top_of_page_bid": 6.08,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211,
+          13111
+        ],
+        "monthly_searches": {
+          "2026-04": 390,
+          "2026-03": 390,
+          "2026-02": 390,
+          "2026-01": 390,
+          "2025-12": 480,
+          "2025-11": 390,
+          "2025-10": 480,
+          "2025-09": 590,
+          "2025-08": 590,
+          "2025-07": 1300,
+          "2025-06": 720,
+          "2025-05": 720
+        },
+        "search_volume_trend": {
+          "yearly": -56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 44,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 18479.5,
+        "dofollow": 8414.6,
+        "referring_pages": 16058.9,
+        "referring_domains": 1530.1,
+        "referring_main_domains": 1377,
+        "rank": 269.8,
+        "main_domain_rank": 349,
+        "last_updated_time": "2026-05-21 06:01:53 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 01:39:46 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "javascript regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 09:37:28 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 38.39,
+        "search_volume": 480,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 320,
+          "2026-02": 320,
+          "2026-01": 320,
+          "2025-12": 390,
+          "2025-11": 390,
+          "2025-10": 480,
+          "2025-09": 480,
+          "2025-08": 480,
+          "2025-07": 590,
+          "2025-06": 590,
+          "2025-05": 720,
+          "2025-04": 720
+        },
+        "search_volume_trend": {
+          "yearly": -64
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 65,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 34525.9,
+        "dofollow": 8714.4,
+        "referring_pages": 32030.1,
+        "referring_domains": 1671.6,
+        "referring_main_domains": 1502,
+        "rank": 308.8,
+        "main_domain_rank": 356.3,
+        "last_updated_time": "2026-05-21 23:45:11 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 01:11:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex tester js",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 07:20:34 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 480,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-04": 320,
+          "2026-03": 320,
+          "2026-02": 320,
+          "2026-01": 320,
+          "2025-12": 390,
+          "2025-11": 390,
+          "2025-10": 480,
+          "2025-09": 480,
+          "2025-08": 480,
+          "2025-07": 590,
+          "2025-06": 590,
+          "2025-05": 720
+        },
+        "search_volume_trend": {
+          "yearly": -56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 65,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 34525.9,
+        "dofollow": 8714.4,
+        "referring_pages": 32030.1,
+        "referring_domains": 1671.6,
+        "referring_main_domains": 1502,
+        "rank": 308.7,
+        "main_domain_rank": 356.3,
+        "last_updated_time": "2026-05-21 19:12:21 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 21:54:55 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex tester javascript",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 14:08:15 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 480,
+        "categories": [
+          10007,
+          11493,
+          13418
+        ],
+        "monthly_searches": {
+          "2026-04": 320,
+          "2026-03": 320,
+          "2026-02": 320,
+          "2026-01": 320,
+          "2025-12": 390,
+          "2025-11": 390,
+          "2025-10": 480,
+          "2025-09": 480,
+          "2025-08": 480,
+          "2025-07": 590,
+          "2025-06": 590,
+          "2025-05": 720
+        },
+        "search_volume_trend": {
+          "yearly": -56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "javascript regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 65,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 34425.6,
+        "dofollow": 8662.3,
+        "referring_pages": 31953.7,
+        "referring_domains": 1648.7,
+        "referring_main_domains": 1481.1,
+        "rank": 278.2,
+        "main_domain_rank": 405.1,
+        "last_updated_time": "2026-05-21 19:02:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:59:59 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex javascript tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 15:03:31 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 480,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 320,
+          "2026-02": 390,
+          "2026-01": 390,
+          "2025-12": 390,
+          "2025-11": 320,
+          "2025-10": 480,
+          "2025-09": 390,
+          "2025-08": 480,
+          "2025-07": 590,
+          "2025-06": 590,
+          "2025-05": 590,
+          "2025-04": 720
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -18,
+          "yearly": -64
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "javascript regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 49,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 18943.3,
+        "dofollow": 8653.4,
+        "referring_pages": 16454.6,
+        "referring_domains": 1628.8,
+        "referring_main_domains": 1462.8,
+        "rank": 269,
+        "main_domain_rank": 399.2,
+        "last_updated_time": "2026-05-21 19:02:21 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:44:37 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "csharp regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 02:15:52 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 260,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-04": 170,
+          "2026-03": 140,
+          "2026-02": 170,
+          "2026-01": 170,
+          "2025-12": 170,
+          "2025-11": 210,
+          "2025-10": 260,
+          "2025-09": 260,
+          "2025-08": 320,
+          "2025-07": 320,
+          "2025-06": 320,
+          "2025-05": 390
+        },
+        "search_volume_trend": {
+          "monthly": 21,
+          "yearly": -65
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 13,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 12971.8,
+        "dofollow": 3145.3,
+        "referring_pages": 11302.5,
+        "referring_domains": 503.3,
+        "referring_main_domains": 454,
+        "rank": 124.4,
+        "main_domain_rank": 434,
+        "last_updated_time": "2026-04-02 04:53:47 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-26 13:30:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex pattern tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 23:52:55 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 260,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 170,
+          "2026-02": 210,
+          "2026-01": 170,
+          "2025-12": 170,
+          "2025-11": 170,
+          "2025-10": 260,
+          "2025-09": 260,
+          "2025-08": 260,
+          "2025-07": 320,
+          "2025-06": 320,
+          "2025-05": 320,
+          "2025-04": 390
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "yearly": -56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 35,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 23278.2,
+        "dofollow": 9106.8,
+        "referring_pages": 20498.1,
+        "referring_domains": 1580.9,
+        "referring_main_domains": 1422.7,
+        "rank": 228.8,
+        "main_domain_rank": 373.7,
+        "last_updated_time": "2026-04-02 16:11:51 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 21:35:56 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex expression tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 21:20:19 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 260,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-04": 140,
+          "2026-03": 170,
+          "2026-02": 170,
+          "2026-01": 170,
+          "2025-12": 170,
+          "2025-11": 210,
+          "2025-10": 260,
+          "2025-09": 260,
+          "2025-08": 260,
+          "2025-07": 320,
+          "2025-06": 390,
+          "2025-05": 390
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -18,
+          "yearly": -71
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 49,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 39955.4,
+        "dofollow": 9611.1,
+        "referring_pages": 36944.9,
+        "referring_domains": 1654.8,
+        "referring_main_domains": 1489,
+        "rank": 232.4,
+        "main_domain_rank": 354.1,
+        "last_updated_time": "2026-03-19 02:35:41 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 22:25:18 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex tester c#",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 09:20:47 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 260,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-04": 170,
+          "2026-03": 140,
+          "2026-02": 170,
+          "2026-01": 170,
+          "2025-12": 170,
+          "2025-11": 210,
+          "2025-10": 260,
+          "2025-09": 260,
+          "2025-08": 320,
+          "2025-07": 320,
+          "2025-06": 320,
+          "2025-05": 390
+        },
+        "search_volume_trend": {
+          "monthly": 21,
+          "yearly": -65
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 42,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 24023.7,
+        "dofollow": 9381.1,
+        "referring_pages": 21031.1,
+        "referring_domains": 1577.2,
+        "referring_main_domains": 1418.1,
+        "rank": 208.8,
+        "main_domain_rank": 490.4,
+        "last_updated_time": "2026-03-19 02:33:39 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:07:30 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "c# regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 10:16:46 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 8.37,
+        "search_volume": 260,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 140,
+          "2026-02": 170,
+          "2026-01": 170,
+          "2025-12": 170,
+          "2025-11": 210,
+          "2025-10": 260,
+          "2025-09": 260,
+          "2025-08": 320,
+          "2025-07": 320,
+          "2025-06": 320,
+          "2025-05": 390,
+          "2025-04": 480
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -18,
+          "yearly": -71
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "regex tester c#",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 28,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 23147.7,
+        "dofollow": 9105.8,
+        "referring_pages": 20373.8,
+        "referring_domains": 1539.9,
+        "referring_main_domains": 1384.1,
+        "rank": 185,
+        "main_domain_rank": 489.1,
+        "last_updated_time": "2026-04-26 05:57:33 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 12:27:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex c# tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 06:38:29 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 8.37,
+        "search_volume": 260,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 140,
+          "2026-02": 170,
+          "2026-01": 170,
+          "2025-12": 170,
+          "2025-11": 210,
+          "2025-10": 260,
+          "2025-09": 260,
+          "2025-08": 320,
+          "2025-07": 320,
+          "2025-06": 320,
+          "2025-05": 390,
+          "2025-04": 480
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -18,
+          "yearly": -71
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "regex tester c#",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 26,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 23970.1,
+        "dofollow": 9334.5,
+        "referring_pages": 20978.9,
+        "referring_domains": 1558.1,
+        "referring_main_domains": 1399.4,
+        "rank": 174.3,
+        "main_domain_rank": 474,
+        "last_updated_time": "2026-03-19 02:34:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:31:43 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "js regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 08:11:22 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 110,
+          "2026-02": 140,
+          "2026-01": 140,
+          "2025-12": 140,
+          "2025-11": 110,
+          "2025-10": 170,
+          "2025-09": 140,
+          "2025-08": 170,
+          "2025-07": 170,
+          "2025-06": 210,
+          "2025-05": 260,
+          "2025-04": 260
+        },
+        "search_volume_trend": {
+          "monthly": -21,
+          "quarterly": -21,
+          "yearly": -66
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "regex tester js",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 66,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 54966.4,
+        "dofollow": 9674.1,
+        "referring_pages": 52136.7,
+        "referring_domains": 1748.3,
+        "referring_main_domains": 1572.9,
+        "rank": 299,
+        "main_domain_rank": 425.1,
+        "last_updated_time": "2026-04-04 12:59:57 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 20:30:46 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "java regex tester online",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 22:48:34 +00:00",
+        "competition": 0.02,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211,
+          13111
+        ],
+        "monthly_searches": {
+          "2026-04": 30,
+          "2026-03": 50,
+          "2026-02": 40,
+          "2026-01": 40,
+          "2025-12": 40,
+          "2025-11": 50,
+          "2025-10": 70,
+          "2025-09": 70,
+          "2025-08": 110,
+          "2025-07": 1000,
+          "2025-06": 90,
+          "2025-05": 140
+        },
+        "search_volume_trend": {
+          "monthly": -40,
+          "quarterly": -25,
+          "yearly": -73
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "online regex tester java",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 53,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21849,
+        "dofollow": 9136.9,
+        "referring_pages": 19097.3,
+        "referring_domains": 1662,
+        "referring_main_domains": 1490.5,
+        "rank": 317.9,
+        "main_domain_rank": 269.4,
+        "last_updated_time": "2026-04-30 09:17:32 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 14:46:08 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "online regex tester java",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 20:55:35 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211,
+          13111
+        ],
+        "monthly_searches": {
+          "2026-03": 50,
+          "2026-02": 40,
+          "2026-01": 40,
+          "2025-12": 40,
+          "2025-11": 50,
+          "2025-10": 70,
+          "2025-09": 70,
+          "2025-08": 110,
+          "2025-07": 1000,
+          "2025-06": 90,
+          "2025-05": 140,
+          "2025-04": 110
+        },
+        "search_volume_trend": {
+          "monthly": 25,
+          "quarterly": 25,
+          "yearly": -64
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 44,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21480.9,
+        "dofollow": 8918.1,
+        "referring_pages": 18792.3,
+        "referring_domains": 1556.3,
+        "referring_main_domains": 1399.3,
+        "rank": 270.3,
+        "main_domain_rank": 358.6,
+        "last_updated_time": "2026-04-30 04:22:37 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 20:12:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "perl regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 18:22:14 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-04": 110,
+          "2026-03": 140,
+          "2026-02": 140,
+          "2026-01": 110,
+          "2025-12": 110,
+          "2025-11": 140,
+          "2025-10": 170,
+          "2025-09": 170,
+          "2025-08": 170,
+          "2025-07": 210,
+          "2025-06": 210,
+          "2025-05": 260
+        },
+        "search_volume_trend": {
+          "monthly": -21,
+          "quarterly": -21,
+          "yearly": -66
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 20,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21293.7,
+        "dofollow": 8813.4,
+        "referring_pages": 18636.9,
+        "referring_domains": 1496.6,
+        "referring_main_domains": 1344.7,
+        "rank": 166.5,
+        "main_domain_rank": 316.2,
+        "last_updated_time": "2026-04-30 03:25:58 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 22:53:24 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "java regex online tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 13:18:27 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211,
+          13111
+        ],
+        "monthly_searches": {
+          "2026-03": 50,
+          "2026-02": 40,
+          "2026-01": 40,
+          "2025-12": 40,
+          "2025-11": 50,
+          "2025-10": 70,
+          "2025-09": 70,
+          "2025-08": 110,
+          "2025-07": 1000,
+          "2025-06": 90,
+          "2025-05": 140,
+          "2025-04": 110
+        },
+        "search_volume_trend": {
+          "monthly": 25,
+          "quarterly": 25,
+          "yearly": -64
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "online regex tester java",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 46,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21784.1,
+        "dofollow": 9090.6,
+        "referring_pages": 19036.4,
+        "referring_domains": 1637.3,
+        "referring_main_domains": 1468.3,
+        "rank": 282.7,
+        "main_domain_rank": 321.9,
+        "last_updated_time": "2026-04-30 09:17:26 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 07:13:16 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex tester python",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 16:45:44 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 90,
+          "2026-02": 140,
+          "2026-01": 110,
+          "2025-12": 110,
+          "2025-11": 140,
+          "2025-10": 140,
+          "2025-09": 140,
+          "2025-08": 140,
+          "2025-07": 210,
+          "2025-06": 210,
+          "2025-05": 260,
+          "2025-04": 320
+        },
+        "search_volume_trend": {
+          "monthly": -36,
+          "quarterly": -18,
+          "yearly": -72
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "python regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 54,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 33704.2,
+        "dofollow": 12703.5,
+        "referring_pages": 26438.9,
+        "referring_domains": 1927.4,
+        "referring_main_domains": 1729.8,
+        "rank": 259.7,
+        "main_domain_rank": 369.8,
+        "last_updated_time": "2026-04-30 01:57:41 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 20:47:26 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex perl tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 03:09:41 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 140,
+          "2026-02": 140,
+          "2026-01": 110,
+          "2025-12": 110,
+          "2025-11": 140,
+          "2025-10": 170,
+          "2025-09": 170,
+          "2025-08": 170,
+          "2025-07": 210,
+          "2025-06": 210,
+          "2025-05": 260,
+          "2025-04": 320
+        },
+        "search_volume_trend": {
+          "quarterly": 27,
+          "yearly": -56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "perl regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 33,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 22943.3,
+        "dofollow": 8972.9,
+        "referring_pages": 20204.3,
+        "referring_domains": 1517.8,
+        "referring_main_domains": 1364.8,
+        "rank": 214,
+        "main_domain_rank": 395.1,
+        "last_updated_time": "2026-04-03 13:04:02 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:22:52 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "online java regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 13:00:12 +00:00",
+        "competition": 0.02,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197,
+          12211,
+          13111
+        ],
+        "monthly_searches": {
+          "2026-04": 30,
+          "2026-03": 50,
+          "2026-02": 40,
+          "2026-01": 40,
+          "2025-12": 40,
+          "2025-11": 50,
+          "2025-10": 70,
+          "2025-09": 70,
+          "2025-08": 110,
+          "2025-07": 1000,
+          "2025-06": 90,
+          "2025-05": 140
+        },
+        "search_volume_trend": {
+          "monthly": -40,
+          "quarterly": -25,
+          "yearly": -73
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "online regex tester java",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 47,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21778.8,
+        "dofollow": 9089.1,
+        "referring_pages": 19030.7,
+        "referring_domains": 1635.5,
+        "referring_main_domains": 1466.9,
+        "rank": 283.9,
+        "main_domain_rank": 363.2,
+        "last_updated_time": "2026-04-30 04:22:50 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:37:21 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex tester online java",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 07:39:29 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 50,
+          "2026-02": 40,
+          "2026-01": 40,
+          "2025-12": 40,
+          "2025-11": 50,
+          "2025-10": 70,
+          "2025-09": 70,
+          "2025-08": 110,
+          "2025-07": 1000,
+          "2025-06": 90,
+          "2025-05": 140,
+          "2025-04": 110
+        },
+        "search_volume_trend": {
+          "monthly": 25,
+          "quarterly": 25,
+          "yearly": -64
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "online regex tester java",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 51,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21545.8,
+        "dofollow": 8964.4,
+        "referring_pages": 18853.2,
+        "referring_domains": 1581,
+        "referring_main_domains": 1421.5,
+        "rank": 305.5,
+        "main_domain_rank": 306.1,
+        "last_updated_time": "2026-04-30 01:48:19 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 21:07:30 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex python tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 20:49:56 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 90,
+          "2026-02": 140,
+          "2026-01": 110,
+          "2025-12": 110,
+          "2025-11": 140,
+          "2025-10": 140,
+          "2025-09": 140,
+          "2025-08": 140,
+          "2025-07": 210,
+          "2025-06": 210,
+          "2025-05": 260,
+          "2025-04": 320
+        },
+        "search_volume_trend": {
+          "monthly": -36,
+          "quarterly": -18,
+          "yearly": -72
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "python regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 55,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 23594,
+        "dofollow": 9377.4,
+        "referring_pages": 20765.2,
+        "referring_domains": 1679.3,
+        "referring_main_domains": 1508.8,
+        "rank": 239.8,
+        "main_domain_rank": 402.7,
+        "last_updated_time": "2026-04-04 10:17:20 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 20:57:11 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex tester perl",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 10:02:48 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 140,
+          "2026-02": 140,
+          "2026-01": 110,
+          "2025-12": 110,
+          "2025-11": 140,
+          "2025-10": 170,
+          "2025-09": 170,
+          "2025-08": 170,
+          "2025-07": 210,
+          "2025-06": 210,
+          "2025-05": 260,
+          "2025-04": 320
+        },
+        "search_volume_trend": {
+          "quarterly": 27,
+          "yearly": -56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "perl regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 46,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 35759,
+        "dofollow": 12018.4,
+        "referring_pages": 31376.7,
+        "referring_domains": 1978.1,
+        "referring_main_domains": 1778.3,
+        "rank": 273.2,
+        "main_domain_rank": 415.8,
+        "last_updated_time": "2026-04-03 13:01:30 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 21:47:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex online tester java",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 12:17:29 +00:00",
+        "competition": 0.02,
+        "competition_level": "LOW",
+        "search_volume": 170,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-04": 30,
+          "2026-03": 50,
+          "2026-02": 40,
+          "2026-01": 40,
+          "2025-12": 40,
+          "2025-11": 50,
+          "2025-10": 70,
+          "2025-09": 70,
+          "2025-08": 110,
+          "2025-07": 1000,
+          "2025-06": 90,
+          "2025-05": 140
+        },
+        "search_volume_trend": {
+          "monthly": -40,
+          "quarterly": -25,
+          "yearly": -73
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "online regex tester java",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 46,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21530.9,
+        "dofollow": 8954.3,
+        "referring_pages": 18840.6,
+        "referring_domains": 1576.6,
+        "referring_main_domains": 1417.3,
+        "rank": 280.6,
+        "main_domain_rank": 321.6,
+        "last_updated_time": "2026-04-30 01:47:14 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 22:32:49 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex net tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 13:48:42 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 140,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-04": 90,
+          "2026-03": 110,
+          "2026-02": 90,
+          "2026-01": 110,
+          "2025-12": 90,
+          "2025-11": 110,
+          "2025-10": 140,
+          "2025-09": 140,
+          "2025-08": 140,
+          "2025-07": 170,
+          "2025-06": 170,
+          "2025-05": 170
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "yearly": -65
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "net regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 30,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21423.3,
+        "dofollow": 8878.7,
+        "referring_pages": 18742,
+        "referring_domains": 1536.1,
+        "referring_main_domains": 1381.2,
+        "rank": 199.6,
+        "main_domain_rank": 434.5,
+        "last_updated_time": "2026-05-01 12:43:19 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 20:36:26 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex tester net",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 10:55:28 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 140,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-04": 90,
+          "2026-03": 110,
+          "2026-02": 90,
+          "2026-01": 110,
+          "2025-12": 90,
+          "2025-11": 110,
+          "2025-10": 140,
+          "2025-09": 140,
+          "2025-08": 140,
+          "2025-07": 170,
+          "2025-06": 170,
+          "2025-05": 170
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "yearly": -65
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "net regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 37,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 13282,
+        "dofollow": 3305.8,
+        "referring_pages": 11539.3,
+        "referring_domains": 579.7,
+        "referring_main_domains": 518,
+        "rank": 187.6,
+        "main_domain_rank": 392.1,
+        "last_updated_time": "2026-04-04 10:21:20 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 22:55:12 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "net regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 03:46:49 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 140,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-04": 90,
+          "2026-03": 110,
+          "2026-02": 90,
+          "2026-01": 110,
+          "2025-12": 90,
+          "2025-11": 110,
+          "2025-10": 140,
+          "2025-09": 140,
+          "2025-08": 140,
+          "2025-07": 170,
+          "2025-06": 170,
+          "2025-05": 170
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "yearly": -65
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 36,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21421.7,
+        "dofollow": 8881.2,
+        "referring_pages": 18730.7,
+        "referring_domains": 1525.9,
+        "referring_main_domains": 1371.5,
+        "rank": 213.1,
+        "main_domain_rank": 491.6,
+        "last_updated_time": "2026-05-01 15:42:20 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:37:53 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "regex tester bash",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 21:38:57 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 110,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          13114
+        ],
+        "monthly_searches": {
+          "2026-03": 70,
+          "2026-02": 70,
+          "2026-01": 70,
+          "2025-12": 90,
+          "2025-11": 90,
+          "2025-10": 110,
+          "2025-09": 110,
+          "2025-08": 110,
+          "2025-07": 110,
+          "2025-06": 90,
+          "2025-05": 140,
+          "2025-04": 170
+        },
+        "search_volume_trend": {
+          "yearly": -50
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "bash regex tester",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 11544.8,
+        "dofollow": 2997.3,
+        "referring_pages": 9976.2,
+        "referring_domains": 455.7,
+        "referring_main_domains": 409,
+        "rank": 86.8,
+        "main_domain_rank": 567.3,
+        "last_updated_time": "2026-05-03 00:43:14 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:19:53 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "php regex tester",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 19:13:30 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 110,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          12197
+        ],
+        "monthly_searches": {
+          "2026-03": 70,
+          "2026-02": 70,
+          "2026-01": 90,
+          "2025-12": 50,
+          "2025-11": 110,
+          "2025-10": 90,
+          "2025-09": 70,
+          "2025-08": 110,
+          "2025-07": 110,
+          "2025-06": 110,
+          "2025-05": 170,
+          "2025-04": 170
+        },
+        "search_volume_trend": {
+          "quarterly": -22,
+          "yearly": -67
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 43,
+        "detected_language": "it",
+        "is_another_language": true,
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21417,
+        "dofollow": 8897.4,
+        "referring_pages": 18754.9,
+        "referring_domains": 1541,
+        "referring_main_domains": 1381.6,
+        "rank": 251.9,
+        "main_domain_rank": 484.4,
+        "last_updated_time": "2026-05-03 03:14:40 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:43:00 +00:00"
+      }
+    }
+  ]
+}

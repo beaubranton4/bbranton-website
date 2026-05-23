@@ -1,0 +1,18 @@
+{
+  "_note": "Two seed queries pulled to validate the 'Calorie Cart' product name and the broader concept-search demand. Both returned ZERO results — a meaningful finding: the name is available (no incumbent owns it as a search term) AND the product-concept search demand is essentially nonexistent (classic latent-demand pattern, same shape as Honey before cashback was a category). Distribution must come via adjacent meal-planner long-tails, not via direct concept searches.",
+  "_date": "2026-05-21",
+  "_seeds_pulled": ["calorie cart", "grocery calorie tracker"],
+  "_results": {
+    "calorie cart": {
+      "session_id": "05220153-1663-0399-0000-34cd6c78548d",
+      "items_returned": 0,
+      "interpretation": "Not a searched term. Confirms name is available + concept is latent."
+    },
+    "grocery calorie tracker": {
+      "session_id": "05220153-1663-0399-0000-42e1f12f55f2",
+      "items_returned": 0,
+      "interpretation": "Not a searched term. Confirms the in-cart calorie-tracking concept has zero direct search demand. Same shape as Honey/Rakuten pre-cashback — must build the wedge via adjacent keywords."
+    }
+  },
+  "_recommendation": "Don't try to rank for 'calorie cart' — own the name as a brand, drive traffic via the meal-planner long-tails (KD 4-6) documented in calorie-cart_meal-planner_2026-05-21.json"
+}

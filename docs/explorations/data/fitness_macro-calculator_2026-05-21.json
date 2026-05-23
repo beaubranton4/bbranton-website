@@ -1,0 +1,3179 @@
+{
+  "id": "05220405-1663-0399-0000-ca2a86192b83",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "items": [
+    {
+      "se_type": "google",
+      "keyword": "macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 04:58:50 +00:00",
+        "competition": 0.25,
+        "competition_level": "LOW",
+        "cpc": 0.87,
+        "search_volume": 110000,
+        "low_top_of_page_bid": 0.07,
+        "high_top_of_page_bid": 1.49,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-04": 110000,
+          "2026-03": 110000,
+          "2026-02": 90500,
+          "2026-01": 135000,
+          "2025-12": 74000,
+          "2025-11": 74000,
+          "2025-10": 90500,
+          "2025-09": 90500,
+          "2025-08": 110000,
+          "2025-07": 110000,
+          "2025-06": 135000,
+          "2025-05": 135000
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 31,
+        "detected_language": "en",
+        "words_count": 2
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 533.3,
+        "dofollow": 336.1,
+        "referring_pages": 464.2,
+        "referring_domains": 150.4,
+        "referring_main_domains": 129.2,
+        "rank": 202.4,
+        "main_domain_rank": 442.9,
+        "last_updated_time": "2026-05-14 18:51:01 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 14:04:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "online macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 00:35:09 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 1.54,
+        "search_volume": 22200,
+        "low_top_of_page_bid": 0.16,
+        "high_top_of_page_bid": 1.95,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 14800,
+          "2026-02": 22200,
+          "2026-01": 27100,
+          "2025-12": 14800,
+          "2025-11": 27100,
+          "2025-10": 18100,
+          "2025-09": 33100,
+          "2025-08": 18100,
+          "2025-07": 22200,
+          "2025-06": 27100,
+          "2025-05": 27100,
+          "2025-04": 33100
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "quarterly": -45,
+          "yearly": -55
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "online calculator for macros",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 41,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 555.8,
+        "dofollow": 345.5,
+        "referring_pages": 513.6,
+        "referring_domains": 168.1,
+        "referring_main_domains": 149.6,
+        "rank": 208.5,
+        "main_domain_rank": 342.1,
+        "last_updated_time": "2026-05-15 00:51:26 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:24:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator online",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 02:25:40 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 1.54,
+        "search_volume": 22200,
+        "low_top_of_page_bid": 0.16,
+        "high_top_of_page_bid": 1.95,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 14800,
+          "2026-02": 22200,
+          "2026-01": 27100,
+          "2025-12": 14800,
+          "2025-11": 27100,
+          "2025-10": 18100,
+          "2025-09": 33100,
+          "2025-08": 18100,
+          "2025-07": 22200,
+          "2025-06": 27100,
+          "2025-05": 27100,
+          "2025-04": 33100
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "quarterly": -45,
+          "yearly": -55
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "online calculator for macros",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 23,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 3809.2,
+        "dofollow": 2177,
+        "referring_pages": 3560.4,
+        "referring_domains": 701,
+        "referring_main_domains": 663.2,
+        "rank": 322.5,
+        "main_domain_rank": 332.6,
+        "last_updated_time": "2024-10-06 04:29:47 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 18:54:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator for weight loss",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 12:50:16 +00:00",
+        "competition": 0.33,
+        "competition_level": "MEDIUM",
+        "cpc": 1,
+        "search_volume": 14800,
+        "low_top_of_page_bid": 0.15,
+        "high_top_of_page_bid": 1.84,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 14800,
+          "2026-02": 18100,
+          "2026-01": 14800,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 12100,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800,
+          "2025-04": 18100
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 23,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 268.8,
+        "dofollow": 165.3,
+        "referring_pages": 242.5,
+        "referring_domains": 84.2,
+        "referring_main_domains": 69.5,
+        "rank": 129.9,
+        "main_domain_rank": 373.8,
+        "last_updated_time": "2026-05-15 04:48:11 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:03:31 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator for losing weight",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 10:49:44 +00:00",
+        "competition": 0.33,
+        "competition_level": "MEDIUM",
+        "cpc": 1,
+        "search_volume": 14800,
+        "low_top_of_page_bid": 0.15,
+        "high_top_of_page_bid": 1.84,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 14800,
+          "2026-02": 18100,
+          "2026-01": 14800,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 12100,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800,
+          "2025-04": 18100
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macros to lose weight calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 23,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1525.8,
+        "dofollow": 789.4,
+        "referring_pages": 1432.9,
+        "referring_domains": 237.2,
+        "referring_main_domains": 230.1,
+        "rank": 255.9,
+        "main_domain_rank": 428.4,
+        "last_updated_time": "2024-09-15 00:39:18 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:31:56 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro fat loss calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 00:06:19 +00:00",
+        "competition": 0.33,
+        "competition_level": "MEDIUM",
+        "cpc": 1,
+        "search_volume": 14800,
+        "low_top_of_page_bid": 0.15,
+        "high_top_of_page_bid": 1.84,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 14800,
+          "2026-02": 18100,
+          "2026-01": 14800,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 12100,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800,
+          "2025-04": 18100
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calculator for fat loss",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 23,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1544.6,
+        "dofollow": 764.8,
+        "referring_pages": 1455.5,
+        "referring_domains": 226.7,
+        "referring_main_domains": 219.6,
+        "rank": 248.5,
+        "main_domain_rank": 403.6,
+        "last_updated_time": "2024-09-15 00:39:16 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:32:13 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator fat loss",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 20:50:53 +00:00",
+        "competition": 0.33,
+        "competition_level": "MEDIUM",
+        "cpc": 1,
+        "search_volume": 14800,
+        "low_top_of_page_bid": 0.15,
+        "high_top_of_page_bid": 1.84,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 14800,
+          "2026-02": 18100,
+          "2026-01": 14800,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 12100,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800,
+          "2025-04": 18100
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calculator for fat loss",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 10,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1326,
+        "dofollow": 945.9,
+        "referring_pages": 1200.9,
+        "referring_domains": 294.8,
+        "referring_main_domains": 276.2,
+        "rank": 126.6,
+        "main_domain_rank": 299.5,
+        "last_updated_time": "2026-03-12 08:04:06 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 17:35:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator myfitnesspal",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 05:21:52 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 1.59,
+        "search_volume": 12100,
+        "low_top_of_page_bid": 0.51,
+        "high_top_of_page_bid": 3.47,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 27100,
+          "2026-02": 40500,
+          "2026-01": 27100,
+          "2025-12": 3600,
+          "2025-11": 1300,
+          "2025-10": 8100,
+          "2025-09": 8100,
+          "2025-08": 2900,
+          "2025-07": 5400,
+          "2025-06": 2400,
+          "2025-05": 2400,
+          "2025-04": 2900
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "yearly": 1029
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "myfitnesspal macro calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 50,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9759.5,
+        "dofollow": 6396.4,
+        "referring_pages": 7965.2,
+        "referring_domains": 1774.2,
+        "referring_main_domains": 1660.8,
+        "rank": 271.5,
+        "main_domain_rank": 581.7,
+        "last_updated_time": "2026-03-29 05:36:14 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 20:06:13 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "mfp macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 11:57:39 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 1.59,
+        "search_volume": 12100,
+        "low_top_of_page_bid": 0.51,
+        "high_top_of_page_bid": 3.47,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 27100,
+          "2026-02": 40500,
+          "2026-01": 27100,
+          "2025-12": 3600,
+          "2025-11": 1300,
+          "2025-10": 8100,
+          "2025-09": 8100,
+          "2025-08": 2900,
+          "2025-07": 5400,
+          "2025-06": 2400,
+          "2025-05": 2400,
+          "2025-04": 2900
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "yearly": 1029
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "my fitness pal macros calculator",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 29,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 313.6,
+        "dofollow": 225.7,
+        "referring_pages": 282,
+        "referring_domains": 102.4,
+        "referring_main_domains": 94.1,
+        "rank": 191.8,
+        "main_domain_rank": 472.5,
+        "last_updated_time": "2026-03-29 05:31:17 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:04:48 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "weight loss macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 04:09:02 +00:00",
+        "competition": 0.39,
+        "competition_level": "MEDIUM",
+        "cpc": 0.99,
+        "search_volume": 12100,
+        "low_top_of_page_bid": 0.1,
+        "high_top_of_page_bid": 1.73,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 12100,
+          "2026-03": 14800,
+          "2026-02": 18100,
+          "2026-01": 14800,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 12100,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -33,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calculator for weight loss",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 23,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 497.9,
+        "dofollow": 304.1,
+        "referring_pages": 459.2,
+        "referring_domains": 145.6,
+        "referring_main_domains": 142.5,
+        "rank": 156.8,
+        "main_domain_rank": 331.8,
+        "last_updated_time": "2026-01-27 06:44:45 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 06:54:29 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator for fat loss",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 17:44:23 +00:00",
+        "competition": 0.39,
+        "competition_level": "MEDIUM",
+        "cpc": 0.99,
+        "search_volume": 12100,
+        "low_top_of_page_bid": 0.1,
+        "high_top_of_page_bid": 1.73,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 12100,
+          "2026-03": 14800,
+          "2026-02": 18100,
+          "2026-01": 14800,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 12100,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -33,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 23,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 268.8,
+        "dofollow": 165.3,
+        "referring_pages": 242.5,
+        "referring_domains": 84.2,
+        "referring_main_domains": 69.5,
+        "rank": 129.9,
+        "main_domain_rank": 373.8,
+        "last_updated_time": "2026-05-15 04:58:48 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 17:54:23 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator to lose weight",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-22 00:05:45 +00:00",
+        "competition": 0.39,
+        "competition_level": "MEDIUM",
+        "cpc": 0.99,
+        "search_volume": 12100,
+        "low_top_of_page_bid": 0.1,
+        "high_top_of_page_bid": 1.73,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-04": 12100,
+          "2026-03": 14800,
+          "2026-02": 18100,
+          "2026-01": 14800,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 12100,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -33,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macros to lose weight calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 23,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2047.1,
+        "dofollow": 981,
+        "referring_pages": 1936.9,
+        "referring_domains": 359.1,
+        "referring_main_domains": 334.5,
+        "rank": 268.6,
+        "main_domain_rank": 436.5,
+        "last_updated_time": "2024-09-15 00:39:18 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:55:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "myfitnesspal macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 14:51:15 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 1.59,
+        "search_volume": 12100,
+        "low_top_of_page_bid": 0.51,
+        "high_top_of_page_bid": 3.47,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 27100,
+          "2026-02": 40500,
+          "2026-01": 27100,
+          "2025-12": 3600,
+          "2025-11": 1300,
+          "2025-10": 8100,
+          "2025-09": 8100,
+          "2025-08": 2900,
+          "2025-07": 5400,
+          "2025-06": 2400,
+          "2025-05": 2400,
+          "2025-04": 2900
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "yearly": 1029
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 36,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9133.9,
+        "dofollow": 5964.9,
+        "referring_pages": 7399,
+        "referring_domains": 1617.4,
+        "referring_main_domains": 1515.2,
+        "rank": 210,
+        "main_domain_rank": 587.3,
+        "last_updated_time": "2026-05-15 07:08:16 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:51:53 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fat loss macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 23:23:29 +00:00",
+        "competition": 0.39,
+        "competition_level": "MEDIUM",
+        "cpc": 0.99,
+        "search_volume": 12100,
+        "low_top_of_page_bid": 0.1,
+        "high_top_of_page_bid": 1.73,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-04": 12100,
+          "2026-03": 14800,
+          "2026-02": 18100,
+          "2026-01": 14800,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 12100,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -33,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calculator for fat loss",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 23,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1544.6,
+        "dofollow": 764.8,
+        "referring_pages": 1455.5,
+        "referring_domains": 226.7,
+        "referring_main_domains": 219.6,
+        "rank": 248.5,
+        "main_domain_rank": 403.9,
+        "last_updated_time": "2024-09-19 11:10:49 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:46:24 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro weight loss calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 12:06:42 +00:00",
+        "competition": 0.39,
+        "competition_level": "MEDIUM",
+        "cpc": 0.99,
+        "search_volume": 12100,
+        "low_top_of_page_bid": 0.1,
+        "high_top_of_page_bid": 1.73,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 12100,
+          "2026-03": 14800,
+          "2026-02": 18100,
+          "2026-01": 14800,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 12100,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -33,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calculator for weight loss",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 23,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1438.3,
+        "dofollow": 752.6,
+        "referring_pages": 1349.7,
+        "referring_domains": 222.5,
+        "referring_main_domains": 215.6,
+        "rank": 234,
+        "main_domain_rank": 411.3,
+        "last_updated_time": "2024-09-15 00:39:17 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:47:32 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator weight loss",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 16:26:51 +00:00",
+        "competition": 0.39,
+        "competition_level": "MEDIUM",
+        "cpc": 0.99,
+        "search_volume": 12100,
+        "low_top_of_page_bid": 0.1,
+        "high_top_of_page_bid": 1.73,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 12100,
+          "2026-03": 14800,
+          "2026-02": 18100,
+          "2026-01": 14800,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 12100,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -33,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calculator for weight loss",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 23,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1525.8,
+        "dofollow": 789.4,
+        "referring_pages": 1432.9,
+        "referring_domains": 237.2,
+        "referring_main_domains": 230.1,
+        "rank": 255.9,
+        "main_domain_rank": 428.4,
+        "last_updated_time": "2024-09-15 00:39:14 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 15:49:37 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "lose weight macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 21:16:47 +00:00",
+        "competition": 0.39,
+        "competition_level": "MEDIUM",
+        "cpc": 0.99,
+        "search_volume": 12100,
+        "low_top_of_page_bid": 0.1,
+        "high_top_of_page_bid": 1.73,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 12100,
+          "2026-03": 14800,
+          "2026-02": 18100,
+          "2026-01": 14800,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 12100,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -33,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calculator for weight loss",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 23,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2573.5,
+        "dofollow": 1406.4,
+        "referring_pages": 2416.6,
+        "referring_domains": 475.6,
+        "referring_main_domains": 454.2,
+        "rank": 272.4,
+        "main_domain_rank": 421,
+        "last_updated_time": "2024-09-15 00:39:42 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:37:02 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator free",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 21:08:34 +00:00",
+        "competition": 0.57,
+        "competition_level": "MEDIUM",
+        "cpc": 1.12,
+        "search_volume": 8100,
+        "low_top_of_page_bid": 0.15,
+        "high_top_of_page_bid": 1.78,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 8100,
+          "2026-01": 12100,
+          "2025-12": 5400,
+          "2025-11": 5400,
+          "2025-10": 5400,
+          "2025-09": 6600,
+          "2025-08": 8100,
+          "2025-07": 8100,
+          "2025-06": 9900,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "quarterly": -33,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "free macro calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 43,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1838.9,
+        "dofollow": 1155.9,
+        "referring_pages": 1688.5,
+        "referring_domains": 451.6,
+        "referring_main_domains": 422.7,
+        "rank": 222.5,
+        "main_domain_rank": 365.2,
+        "last_updated_time": "2026-03-12 13:47:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:13:31 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "free macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 09:06:58 +00:00",
+        "competition": 0.57,
+        "competition_level": "MEDIUM",
+        "cpc": 1.12,
+        "search_volume": 8100,
+        "low_top_of_page_bid": 0.15,
+        "high_top_of_page_bid": 1.78,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 8100,
+          "2026-01": 12100,
+          "2025-12": 5400,
+          "2025-11": 5400,
+          "2025-10": 5400,
+          "2025-09": 6600,
+          "2025-08": 8100,
+          "2025-07": 8100,
+          "2025-06": 9900,
+          "2025-05": 9900,
+          "2025-04": 12100
+        },
+        "search_volume_trend": {
+          "quarterly": -33,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 30,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 408.9,
+        "dofollow": 251.9,
+        "referring_pages": 372,
+        "referring_domains": 123.4,
+        "referring_main_domains": 107.6,
+        "rank": 181.8,
+        "main_domain_rank": 427.9,
+        "last_updated_time": "2026-05-15 14:48:53 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 16:43:51 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "precision nutrition macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 09:58:01 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "cpc": 1.15,
+        "search_volume": 6600,
+        "low_top_of_page_bid": 0.63,
+        "high_top_of_page_bid": 2.62,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 880,
+          "2026-03": 1000,
+          "2026-02": 22200,
+          "2026-01": 27100,
+          "2025-12": 22200,
+          "2025-11": 1000,
+          "2025-10": 2400,
+          "2025-09": 1000,
+          "2025-08": 1300,
+          "2025-07": 1300,
+          "2025-06": 1600,
+          "2025-05": 1300
+        },
+        "search_volume_trend": {
+          "monthly": -12,
+          "quarterly": -96,
+          "yearly": -32
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 11,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 325.9,
+        "dofollow": 250.5,
+        "referring_pages": 316.1,
+        "referring_domains": 57.1,
+        "referring_main_domains": 49.1,
+        "rank": 104.7,
+        "main_domain_rank": 525.1,
+        "last_updated_time": "2026-05-15 18:36:27 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 17:32:12 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "chipotle macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 22:54:31 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 2.62,
+        "search_volume": 6600,
+        "low_top_of_page_bid": 0.94,
+        "high_top_of_page_bid": 2.18,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 9900,
+          "2026-02": 8100,
+          "2026-01": 9900,
+          "2025-12": 5400,
+          "2025-11": 4400,
+          "2025-10": 5400,
+          "2025-09": 5400,
+          "2025-08": 6600,
+          "2025-07": 6600,
+          "2025-06": 8100,
+          "2025-05": 8100,
+          "2025-04": 8100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 5,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 126.1,
+        "dofollow": 69.9,
+        "referring_pages": 93.2,
+        "referring_domains": 55,
+        "referring_main_domains": 53.2,
+        "rank": 95.3,
+        "main_domain_rank": 345.5,
+        "last_updated_time": "2026-05-16 06:23:44 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 05:43:13 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator for keto",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 23:00:46 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 4400,
+        "low_top_of_page_bid": 0.55,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "quarterly": -33,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "keto macro calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 21,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 163.5,
+        "dofollow": 89.8,
+        "referring_pages": 144.7,
+        "referring_domains": 56.5,
+        "referring_main_domains": 54.9,
+        "rank": 135.5,
+        "main_domain_rank": 323.4,
+        "last_updated_time": "2026-03-13 08:12:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:25:20 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "ketosis macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 21:46:42 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 4400,
+        "low_top_of_page_bid": 0.55,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10011,
+          10085,
+          10483
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "quarterly": -33,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macros calculator for keto diet",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 21,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 162.3,
+        "dofollow": 89.3,
+        "referring_pages": 143.8,
+        "referring_domains": 56,
+        "referring_main_domains": 54.4,
+        "rank": 120.8,
+        "main_domain_rank": 306.1,
+        "last_updated_time": "2026-03-13 08:28:02 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 08:30:51 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "bioketo macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 12:39:04 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 4400,
+        "low_top_of_page_bid": 0.55,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10004,
+          12345,
+          13491
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "quarterly": -33,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "bio keto macro calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 17,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 130.6,
+        "dofollow": 73.7,
+        "referring_pages": 118.3,
+        "referring_domains": 46.5,
+        "referring_main_domains": 45.4,
+        "rank": 106,
+        "main_domain_rank": 420.9,
+        "last_updated_time": "2026-03-13 10:59:25 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 03:47:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "keto calculator macro",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 21:40:48 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 4400,
+        "low_top_of_page_bid": 0.55,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "quarterly": -33,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "keto macro calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 21,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 163.3,
+        "dofollow": 89.6,
+        "referring_pages": 144.5,
+        "referring_domains": 56.3,
+        "referring_main_domains": 54.8,
+        "rank": 133.2,
+        "main_domain_rank": 332.2,
+        "last_updated_time": "2026-03-13 08:27:55 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 19:42:12 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro keto calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 18:36:20 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 4400,
+        "low_top_of_page_bid": 0.55,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "quarterly": -33,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "keto macro calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 17,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 130.6,
+        "dofollow": 73.7,
+        "referring_pages": 118.3,
+        "referring_domains": 46.5,
+        "referring_main_domains": 45.4,
+        "rank": 106,
+        "main_domain_rank": 334,
+        "last_updated_time": "2026-03-13 08:12:12 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:43:27 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator keto",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 06:05:45 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 4400,
+        "low_top_of_page_bid": 0.55,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "quarterly": -33,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "keto macro calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 22,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1359.6,
+        "dofollow": 919.1,
+        "referring_pages": 1111.7,
+        "referring_domains": 124.4,
+        "referring_main_domains": 118.3,
+        "rank": 278.2,
+        "main_domain_rank": 409.3,
+        "last_updated_time": "2024-12-17 02:56:41 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:29:29 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "ketogenic macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 10:29:21 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 4400,
+        "low_top_of_page_bid": 0.55,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "quarterly": -33,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "ketogenic macros calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 6,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 97.9,
+        "dofollow": 60,
+        "referring_pages": 88.2,
+        "referring_domains": 35.3,
+        "referring_main_domains": 34.3,
+        "rank": 98.1,
+        "main_domain_rank": 394.3,
+        "last_updated_time": "2026-04-18 22:38:37 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 13:58:43 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "keto diet macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 15:44:36 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 4400,
+        "low_top_of_page_bid": 0.55,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "quarterly": -33,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "keto diet macros calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 16,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 125.8,
+        "dofollow": 68.7,
+        "referring_pages": 113.4,
+        "referring_domains": 45.7,
+        "referring_main_domains": 44.3,
+        "rank": 116.4,
+        "main_domain_rank": 410,
+        "last_updated_time": "2026-05-16 17:27:26 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 12:07:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator for keto diet",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 04:56:38 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 4400,
+        "low_top_of_page_bid": 0.55,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10015,
+          10128,
+          10679,
+          11957
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "quarterly": -33,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "keto diet macros calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 21,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 163.3,
+        "dofollow": 89.6,
+        "referring_pages": 144.5,
+        "referring_domains": 56.3,
+        "referring_main_domains": 54.8,
+        "rank": 133.2,
+        "main_domain_rank": 333.2,
+        "last_updated_time": "2026-03-13 08:12:34 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:50:04 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calories calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 23:09:21 +00:00",
+        "competition": 0.27,
+        "competition_level": "LOW",
+        "cpc": 1.38,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.16,
+        "high_top_of_page_bid": 2.38,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 4400,
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 4400,
+          "2025-09": 3600,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 3600,
+          "2025-05": 4400
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calorie calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 42,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1428,
+        "dofollow": 690.8,
+        "referring_pages": 1358.8,
+        "referring_domains": 207.5,
+        "referring_main_domains": 200.9,
+        "rank": 225.5,
+        "main_domain_rank": 315.8,
+        "last_updated_time": "2024-10-04 16:15:28 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:56:24 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator keto diet",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 23:54:35 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.5,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.62,
+        "high_top_of_page_bid": 1.84,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 2900,
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": -19,
+          "yearly": -46
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "keto diet macros calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 32,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 269,
+        "dofollow": 185.4,
+        "referring_pages": 249.3,
+        "referring_domains": 63,
+        "referring_main_domains": 60.9,
+        "rank": 171.9,
+        "main_domain_rank": 493.9,
+        "last_updated_time": "2025-06-14 22:15:55 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 20:42:57 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator calories",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 10:37:16 +00:00",
+        "competition": 0.27,
+        "competition_level": "LOW",
+        "cpc": 1.38,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.16,
+        "high_top_of_page_bid": 2.38,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 4400,
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 4400,
+          "2025-09": 3600,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 3600,
+          "2025-05": 4400
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calorie calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 42,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 3070.5,
+        "dofollow": 1536.6,
+        "referring_pages": 2902.9,
+        "referring_domains": 601.3,
+        "referring_main_domains": 562.2,
+        "rank": 289.5,
+        "main_domain_rank": 429.7,
+        "last_updated_time": "2024-09-15 09:04:39 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 15:53:14 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro and calorie calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 01:36:31 +00:00",
+        "competition": 0.31,
+        "competition_level": "LOW",
+        "cpc": 1.22,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.17,
+        "high_top_of_page_bid": 1.99,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 4400,
+          "2025-09": 3600,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie and macro calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 51,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1539.7,
+        "dofollow": 721.8,
+        "referring_pages": 1457.5,
+        "referring_domains": 228.7,
+        "referring_main_domains": 221.3,
+        "rank": 282.3,
+        "main_domain_rank": 464.7,
+        "last_updated_time": "2024-09-15 09:04:39 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 15:49:37 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calories and macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 16:29:39 +00:00",
+        "competition": 0.31,
+        "competition_level": "LOW",
+        "cpc": 1.22,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.17,
+        "high_top_of_page_bid": 1.99,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 4400,
+          "2025-09": 3600,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie and macro calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 43,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1486,
+        "dofollow": 1044.3,
+        "referring_pages": 1349,
+        "referring_domains": 339.2,
+        "referring_main_domains": 319.3,
+        "rank": 171.6,
+        "main_domain_rank": 291.6,
+        "last_updated_time": "2026-03-13 10:45:07 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-26 20:09:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calorie calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 22:18:08 +00:00",
+        "competition": 0.27,
+        "competition_level": "LOW",
+        "cpc": 1.38,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.16,
+        "high_top_of_page_bid": 2.38,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 4400,
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 4400,
+          "2025-09": 3600,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 3600,
+          "2025-05": 4400
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 42,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 819.2,
+        "dofollow": 509.6,
+        "referring_pages": 753,
+        "referring_domains": 278.3,
+        "referring_main_domains": 260.3,
+        "rank": 190.7,
+        "main_domain_rank": 424.7,
+        "last_updated_time": "2026-04-19 01:51:00 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 18:54:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie and macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 19:24:14 +00:00",
+        "competition": 0.31,
+        "competition_level": "LOW",
+        "cpc": 1.22,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.17,
+        "high_top_of_page_bid": 1.99,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 4400,
+          "2025-09": 3600,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 51,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9441.7,
+        "dofollow": 6144,
+        "referring_pages": 7703.8,
+        "referring_domains": 1697.7,
+        "referring_main_domains": 1586.5,
+        "rank": 242.1,
+        "main_domain_rank": 372.2,
+        "last_updated_time": "2026-05-17 06:11:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 19:09:25 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie to macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 23:12:21 +00:00",
+        "competition": 0.31,
+        "competition_level": "LOW",
+        "cpc": 1.22,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.17,
+        "high_top_of_page_bid": 1.99,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 4400,
+          "2025-09": 3600,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calorie calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 22,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 366.2,
+        "dofollow": 234.4,
+        "referring_pages": 329.8,
+        "referring_domains": 100.7,
+        "referring_main_domains": 94.2,
+        "rank": 142.5,
+        "main_domain_rank": 386.9,
+        "last_updated_time": "2026-03-13 10:45:09 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-26 08:38:13 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calculator.net macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 15:45:04 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 1.47,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.32,
+        "high_top_of_page_bid": 1.52,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 27100,
+          "2026-03": 18100,
+          "2026-02": 210,
+          "2026-01": 90,
+          "2025-12": 110,
+          "2025-11": 390,
+          "2025-10": 50,
+          "2025-09": 50,
+          "2025-08": 50,
+          "2025-07": 50,
+          "2025-06": 50,
+          "2025-05": 110
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 12805,
+          "yearly": 8369
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 58,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2549.2,
+        "dofollow": 1881,
+        "referring_pages": 2406.5,
+        "referring_domains": 579.6,
+        "referring_main_domains": 539.3,
+        "rank": 220.7,
+        "main_domain_rank": 473.4,
+        "last_updated_time": "2026-04-19 18:53:03 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "navigational",
+        "last_updated_time": "2026-04-26 22:28:55 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator from calories",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 02:52:26 +00:00",
+        "competition": 0.27,
+        "competition_level": "LOW",
+        "cpc": 1.38,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.16,
+        "high_top_of_page_bid": 2.38,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-04": 4400,
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 4400,
+          "2025-09": 3600,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 3600,
+          "2025-05": 4400
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calorie calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 42,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1239.3,
+        "dofollow": 978,
+        "referring_pages": 1181.5,
+        "referring_domains": 218.8,
+        "referring_main_domains": 211,
+        "rank": 169.6,
+        "main_domain_rank": 325.9,
+        "last_updated_time": "2025-10-21 13:06:12 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:55:18 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator with calories",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 13:59:59 +00:00",
+        "competition": 0.31,
+        "competition_level": "LOW",
+        "cpc": 1.22,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.17,
+        "high_top_of_page_bid": 1.99,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 4400,
+          "2025-09": 3600,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calorie calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 42,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1880.8,
+        "dofollow": 960.3,
+        "referring_pages": 1752.4,
+        "referring_domains": 425.4,
+        "referring_main_domains": 407.5,
+        "rank": 225.2,
+        "main_domain_rank": 348.6,
+        "last_updated_time": "2024-10-12 16:45:02 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 18:54:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "ap macro score calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 22:27:09 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 3600,
+        "categories": [
+          10016,
+          10141,
+          11029
+        ],
+        "monthly_searches": {
+          "2026-04": 8100,
+          "2026-03": 880,
+          "2026-02": 590,
+          "2026-01": 480,
+          "2025-12": 590,
+          "2025-11": 390,
+          "2025-10": 320,
+          "2025-09": 480,
+          "2025-08": 320,
+          "2025-07": 720,
+          "2025-06": 480,
+          "2025-05": 27100
+        },
+        "search_volume_trend": {
+          "monthly": 820,
+          "quarterly": 1273,
+          "yearly": 50
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2.6,
+        "dofollow": 1.4,
+        "referring_pages": 2.6,
+        "referring_domains": 1.7,
+        "referring_main_domains": 1.6,
+        "rank": 15.7,
+        "main_domain_rank": 317.4,
+        "last_updated_time": "2026-05-17 06:22:12 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:09:56 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "keto macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 17:49:48 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.5,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.62,
+        "high_top_of_page_bid": 1.84,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-04": 2900,
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": -19,
+          "yearly": -46
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 22,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 272.5,
+        "dofollow": 172.2,
+        "referring_pages": 234.5,
+        "referring_domains": 68.5,
+        "referring_main_domains": 66.7,
+        "rank": 146,
+        "main_domain_rank": 334.7,
+        "last_updated_time": "2026-03-13 08:29:00 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 07:38:58 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 13:26:51 +00:00",
+        "competition": 0.31,
+        "competition_level": "LOW",
+        "cpc": 1.22,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.17,
+        "high_top_of_page_bid": 1.99,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 4400,
+          "2025-09": 3600,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calorie calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 31,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 446.9,
+        "dofollow": 280.8,
+        "referring_pages": 405.3,
+        "referring_domains": 139,
+        "referring_main_domains": 127,
+        "rank": 188.2,
+        "main_domain_rank": 391.8,
+        "last_updated_time": "2026-03-13 10:45:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-26 09:02:08 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie calculator macro",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 10:17:33 +00:00",
+        "competition": 0.31,
+        "competition_level": "LOW",
+        "cpc": 1.22,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.17,
+        "high_top_of_page_bid": 1.99,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 4400,
+          "2025-09": 3600,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 5400
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "macro calorie calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 42,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1549,
+        "dofollow": 730.9,
+        "referring_pages": 1462.3,
+        "referring_domains": 228.4,
+        "referring_main_domains": 221,
+        "rank": 239.2,
+        "main_domain_rank": 324.3,
+        "last_updated_time": "2024-10-04 16:31:54 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 07:26:20 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "ketogenic diet macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 13:39:02 +00:00",
+        "competition": 0.15,
+        "competition_level": "LOW",
+        "cpc": 1.5,
+        "search_volume": 3600,
+        "low_top_of_page_bid": 0.62,
+        "high_top_of_page_bid": 1.84,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 2900,
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 5400,
+          "2025-12": 2900,
+          "2025-11": 2400,
+          "2025-10": 3600,
+          "2025-09": 3600,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 4400
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": -19,
+          "yearly": -46
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 36,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 769,
+        "dofollow": 402.5,
+        "referring_pages": 609,
+        "referring_domains": 119,
+        "referring_main_domains": 112.2,
+        "rank": 231.9,
+        "main_domain_rank": 425.3,
+        "last_updated_time": "2024-10-04 15:37:41 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 17:23:41 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator for women",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 23:58:50 +00:00",
+        "competition": 0.53,
+        "competition_level": "MEDIUM",
+        "cpc": 0.88,
+        "search_volume": 1900,
+        "low_top_of_page_bid": 0.08,
+        "high_top_of_page_bid": 1.58,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-04": 1900,
+          "2026-03": 1900,
+          "2026-02": 1600,
+          "2026-01": 1900,
+          "2025-12": 1600,
+          "2025-11": 1300,
+          "2025-10": 1300,
+          "2025-09": 1300,
+          "2025-08": 1300,
+          "2025-07": 1900,
+          "2025-06": 2400,
+          "2025-05": 2900
+        },
+        "search_volume_trend": {
+          "quarterly": 19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 31,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 328.2,
+        "dofollow": 218,
+        "referring_pages": 295.4,
+        "referring_domains": 105.3,
+        "referring_main_domains": 94,
+        "rank": 145.2,
+        "main_domain_rank": 307.3,
+        "last_updated_time": "2026-03-14 16:03:48 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 13:55:05 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "athlean-x macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 17:23:11 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 1900,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 140,
+          "2026-02": 210,
+          "2026-01": 320,
+          "2025-12": 210,
+          "2025-11": 8100,
+          "2025-10": 1000,
+          "2025-09": 8100,
+          "2025-08": 210,
+          "2025-07": 170,
+          "2025-06": 590,
+          "2025-05": 1600,
+          "2025-04": 880
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "quarterly": -56,
+          "yearly": -46
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21.4,
+        "dofollow": 7,
+        "referring_pages": 9.6,
+        "referring_domains": 4.9,
+        "referring_main_domains": 4.6,
+        "rank": 57.8,
+        "main_domain_rank": 494,
+        "last_updated_time": "2026-05-17 22:15:19 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-25 02:47:37 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "macro calculator recipe",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 14:31:57 +00:00",
+        "competition": 0.05,
+        "competition_level": "LOW",
+        "cpc": 2,
+        "search_volume": 1900,
+        "low_top_of_page_bid": 0.91,
+        "high_top_of_page_bid": 2.67,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 1900,
+          "2026-03": 1900,
+          "2026-02": 1900,
+          "2026-01": 2900,
+          "2025-12": 1000,
+          "2025-11": 1300,
+          "2025-10": 1600,
+          "2025-09": 1900,
+          "2025-08": 1900,
+          "2025-07": 1900,
+          "2025-06": 1900,
+          "2025-05": 1900
+        },
+        "search_volume_trend": {
+          "yearly": -21
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "recipe macro calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 35,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 29929.3,
+        "dofollow": 29649.6,
+        "referring_pages": 29818.5,
+        "referring_domains": 213.3,
+        "referring_main_domains": 203,
+        "rank": 213.3,
+        "main_domain_rank": 410.6,
+        "last_updated_time": "2026-03-14 16:05:02 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:07:47 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "recipe macro calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 18:41:19 +00:00",
+        "competition": 0.05,
+        "competition_level": "LOW",
+        "cpc": 1.74,
+        "search_volume": 1900,
+        "low_top_of_page_bid": 0.85,
+        "high_top_of_page_bid": 2.18,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-03": 1900,
+          "2026-02": 1900,
+          "2026-01": 2900,
+          "2025-12": 1000,
+          "2025-11": 1300,
+          "2025-10": 1600,
+          "2025-09": 1900,
+          "2025-08": 1900,
+          "2025-07": 1900,
+          "2025-06": 1900,
+          "2025-05": 1900,
+          "2025-04": 2400
+        },
+        "search_volume_trend": {
+          "quarterly": -34,
+          "yearly": -34
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 35,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 29929.5,
+        "dofollow": 29649.8,
+        "referring_pages": 29818.7,
+        "referring_domains": 213.5,
+        "referring_main_domains": 203.2,
+        "rank": 221.8,
+        "main_domain_rank": 340.1,
+        "last_updated_time": "2026-03-14 14:20:33 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 21:32:00 +00:00"
+      }
+    }
+  ]
+}

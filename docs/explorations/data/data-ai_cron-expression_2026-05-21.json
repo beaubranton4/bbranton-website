@@ -1,0 +1,25 @@
+{
+  "_note": "Extracted from inline DataForSEO MCP response 2026-05-21. Seed: 'cron expression', US, en, min vol 100.",
+  "_seed": "cron expression",
+  "_date": "2026-05-21",
+  "_session_id": "05220405-1663-0399-0000-342b16592c84",
+  "items": [
+    {"keyword": "cron job expression", "search_volume": 6600, "kd": 55, "cpc": 46.59, "yearly_trend": -45, "intent": "informational"},
+    {"keyword": "cron-expression", "search_volume": 6600, "kd": 55, "cpc": 6.40, "yearly_trend": -33, "intent": "informational"},
+    {"keyword": "cron expression", "search_volume": 6600, "kd": 55, "cpc": 46.59, "yearly_trend": -45, "intent": "informational"},
+    {"keyword": "cron expression builder", "search_volume": 1600, "kd": 55, "cpc": 11.39, "yearly_trend": -46, "intent": "informational"},
+    {"keyword": "generate cron expression", "search_volume": 1600, "kd": 28, "cpc": 11.39, "yearly_trend": -46, "intent": "informational"},
+    {"keyword": "cron expression maker", "search_volume": 1600, "kd": 28, "cpc": 5.99, "yearly_trend": -55, "intent": "informational"},
+    {"keyword": "cron expression generator", "search_volume": 1600, "kd": 28, "cpc": 5.99, "yearly_trend": -55, "intent": "informational"},
+    {"keyword": "cron job expression generator", "search_volume": 1600, "kd": 55, "cpc": 5.99, "yearly_trend": -55, "intent": "informational"},
+    {"keyword": "cron expression translator", "search_volume": 1000, "kd": 55, "yearly_trend": -45, "intent": "informational"},
+    {"keyword": "cron expression evaluator", "search_volume": 480, "kd": 37, "yearly_trend": -46, "intent": "informational"},
+    {"keyword": "quartz cron expression", "search_volume": 390, "kd": 55, "yearly_trend": -56, "intent": "informational"},
+    {"keyword": "cron expression every 5 minutes", "search_volume": 320, "kd": 6, "intent": "informational", "quarterly_trend": 23},
+    {"keyword": "cron job expression every 5 minutes", "search_volume": 320, "kd": 5, "yearly_trend": -33, "intent": "informational"},
+    {"keyword": "every 5 minutes cron expression", "search_volume": 320, "kd": 2, "yearly_trend": -33, "intent": "transactional"},
+    {"keyword": "aws cron expression", "search_volume": 260, "kd": 42, "cpc": 10.18, "yearly_trend": -64, "intent": "informational"},
+    {"keyword": "salesforce cron expression", "search_volume": 110, "kd": 1, "cpc": 5.38, "yearly_trend": -35, "intent": "informational"},
+    {"keyword": "spring cron expression", "search_volume": 110, "kd": 16, "yearly_trend": -67, "intent": "informational"}
+  ]
+}

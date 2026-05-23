@@ -1,0 +1,4627 @@
+{
+  "id": "05212158-1663-0399-0000-941b466a313f",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "items": [
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker apps",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 18:33:58 +00:00",
+        "competition": 0.11,
+        "competition_level": "LOW",
+        "cpc": 3.93,
+        "search_volume": 27100,
+        "low_top_of_page_bid": 1.29,
+        "high_top_of_page_bid": 5.12,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-03": 27100,
+          "2026-02": 27100,
+          "2026-01": 33100,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 14800,
+          "2025-09": 14800,
+          "2025-08": 18100,
+          "2025-07": 40500,
+          "2025-06": 40500,
+          "2025-05": 49500,
+          "2025-04": 27100
+        },
+        "search_volume_trend": {
+          "quarterly": -18,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 64,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9868.1,
+        "dofollow": 6412.8,
+        "referring_pages": 8042,
+        "referring_domains": 1826.9,
+        "referring_main_domains": 1713.5,
+        "rank": 302.5,
+        "main_domain_rank": 660.2,
+        "last_updated_time": "2026-03-12 03:35:00 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 06:34:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best app calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 04:14:12 +00:00",
+        "competition": 0.64,
+        "competition_level": "MEDIUM",
+        "cpc": 4.56,
+        "search_volume": 27100,
+        "low_top_of_page_bid": 1.52,
+        "high_top_of_page_bid": 6.45,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-04": 33100,
+          "2026-03": 33100,
+          "2026-02": 27100,
+          "2026-01": 40500,
+          "2025-12": 22200,
+          "2025-11": 22200,
+          "2025-10": 27100,
+          "2025-09": 27100,
+          "2025-08": 33100,
+          "2025-07": 33100,
+          "2025-06": 33100,
+          "2025-05": 33100
+        },
+        "search_volume_trend": {
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "best calorie tracker app",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 20062,
+        "dofollow": 14256.6,
+        "referring_pages": 15786,
+        "referring_domains": 2113.9,
+        "referring_main_domains": 1937.1,
+        "rank": 369,
+        "main_domain_rank": 742.3,
+        "last_updated_time": "2024-10-12 13:54:34 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-29 03:18:06 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best calorie tracker app",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 06:34:54 +00:00",
+        "competition": 0.64,
+        "competition_level": "MEDIUM",
+        "cpc": 4.56,
+        "search_volume": 27100,
+        "low_top_of_page_bid": 1.52,
+        "high_top_of_page_bid": 6.45,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-04": 33100,
+          "2026-03": 33100,
+          "2026-02": 27100,
+          "2026-01": 40500,
+          "2025-12": 22200,
+          "2025-11": 22200,
+          "2025-10": 27100,
+          "2025-09": 27100,
+          "2025-08": 33100,
+          "2025-07": 33100,
+          "2025-06": 33100,
+          "2025-05": 33100
+        },
+        "search_volume_trend": {
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9243.9,
+        "dofollow": 6042.3,
+        "referring_pages": 7512.2,
+        "referring_domains": 1685,
+        "referring_main_domains": 1580.5,
+        "rank": 319.3,
+        "main_domain_rank": 699.9,
+        "last_updated_time": "2026-05-14 23:58:53 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 03:24:30 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker free app",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 17:56:46 +00:00",
+        "competition": 0.72,
+        "competition_level": "HIGH",
+        "cpc": 3.04,
+        "search_volume": 27100,
+        "low_top_of_page_bid": 1.03,
+        "high_top_of_page_bid": 3.39,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-03": 33100,
+          "2026-02": 27100,
+          "2026-01": 33100,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 27100,
+          "2025-08": 27100,
+          "2025-07": 27100,
+          "2025-06": 33100,
+          "2025-05": 33100,
+          "2025-04": 33100
+        },
+        "search_volume_trend": {
+          "monthly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9747.4,
+        "dofollow": 6380.1,
+        "referring_pages": 7965.5,
+        "referring_domains": 1792.6,
+        "referring_main_domains": 1676.8,
+        "rank": 331.9,
+        "main_domain_rank": 634.2,
+        "last_updated_time": "2026-04-18 06:02:08 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:48:06 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "app calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 19:05:00 +00:00",
+        "competition": 0.43,
+        "competition_level": "MEDIUM",
+        "cpc": 3.96,
+        "search_volume": 27100,
+        "low_top_of_page_bid": 1.24,
+        "high_top_of_page_bid": 4.45,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-04": 27100,
+          "2026-03": 33100,
+          "2026-02": 22200,
+          "2026-01": 33100,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 33100,
+          "2025-08": 22200,
+          "2025-07": 27100,
+          "2025-06": 27100,
+          "2025-05": 27100
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker apps",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9733.7,
+        "dofollow": 6368.6,
+        "referring_pages": 7948.3,
+        "referring_domains": 1786.2,
+        "referring_main_domains": 1671.9,
+        "rank": 331.2,
+        "main_domain_rank": 704.9,
+        "last_updated_time": "2026-04-18 06:07:31 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-28 23:48:39 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best calorie tracker apps",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 23:44:17 +00:00",
+        "competition": 0.67,
+        "competition_level": "HIGH",
+        "cpc": 4.33,
+        "search_volume": 27100,
+        "low_top_of_page_bid": 1.43,
+        "high_top_of_page_bid": 5.79,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-03": 33100,
+          "2026-02": 27100,
+          "2026-01": 40500,
+          "2025-12": 22200,
+          "2025-11": 22200,
+          "2025-10": 27100,
+          "2025-09": 27100,
+          "2025-08": 33100,
+          "2025-07": 33100,
+          "2025-06": 33100,
+          "2025-05": 33100,
+          "2025-04": 33100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -18,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "best calorie tracker app",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 56,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9625.1,
+        "dofollow": 6261,
+        "referring_pages": 7828.4,
+        "referring_domains": 1712,
+        "referring_main_domains": 1603.5,
+        "rank": 227,
+        "main_domain_rank": 692.2,
+        "last_updated_time": "2026-03-12 02:20:51 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-28 23:15:14 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker app best",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 21:26:34 +00:00",
+        "competition": 0.67,
+        "competition_level": "HIGH",
+        "cpc": 4.33,
+        "search_volume": 27100,
+        "low_top_of_page_bid": 1.43,
+        "high_top_of_page_bid": 5.79,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-03": 33100,
+          "2026-02": 27100,
+          "2026-01": 40500,
+          "2025-12": 22200,
+          "2025-11": 22200,
+          "2025-10": 27100,
+          "2025-09": 27100,
+          "2025-08": 33100,
+          "2025-07": 33100,
+          "2025-06": 33100,
+          "2025-05": 33100,
+          "2025-04": 33100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -18,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "best calorie tracker app",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 548.8,
+        "dofollow": 262.6,
+        "referring_pages": 494.6,
+        "referring_domains": 193.2,
+        "referring_main_domains": 178.4,
+        "rank": 325,
+        "main_domain_rank": 741.1,
+        "last_updated_time": "2024-09-14 22:54:58 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 05:33:58 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "free app calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 03:17:24 +00:00",
+        "competition": 0.72,
+        "competition_level": "HIGH",
+        "cpc": 3.04,
+        "search_volume": 27100,
+        "low_top_of_page_bid": 1.03,
+        "high_top_of_page_bid": 3.39,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-03": 33100,
+          "2026-02": 27100,
+          "2026-01": 33100,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 27100,
+          "2025-08": 27100,
+          "2025-07": 27100,
+          "2025-06": 33100,
+          "2025-05": 33100,
+          "2025-04": 33100
+        },
+        "search_volume_trend": {
+          "monthly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker free app",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 92,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9830,
+        "dofollow": 6174.1,
+        "referring_pages": 8041.7,
+        "referring_domains": 1879.9,
+        "referring_main_domains": 1765.9,
+        "rank": 392.3,
+        "main_domain_rank": 702.5,
+        "last_updated_time": "2025-09-27 17:24:08 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 07:19:51 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie and nutrient tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 05:17:52 +00:00",
+        "competition": 0.48,
+        "competition_level": "MEDIUM",
+        "cpc": 2.67,
+        "search_volume": 22200,
+        "low_top_of_page_bid": 0.83,
+        "high_top_of_page_bid": 2.82,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 27100,
+          "2026-02": 27100,
+          "2026-01": 27100,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 22200,
+          "2025-07": 22200,
+          "2025-06": 22200,
+          "2025-05": 22200,
+          "2025-04": 27100
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "tracking calories",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 79,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 37607.5,
+        "dofollow": 23699.8,
+        "referring_pages": 25708.5,
+        "referring_domains": 2667,
+        "referring_main_domains": 2432.7,
+        "rank": 376.8,
+        "main_domain_rank": 591.4,
+        "last_updated_time": "2024-09-15 00:16:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 06:32:25 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 07:24:42 +00:00",
+        "competition": 0.45,
+        "competition_level": "MEDIUM",
+        "cpc": 2.87,
+        "search_volume": 22200,
+        "low_top_of_page_bid": 0.82,
+        "high_top_of_page_bid": 2.98,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 27100,
+          "2026-03": 27100,
+          "2026-02": 27100,
+          "2026-01": 27100,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 22200,
+          "2025-07": 22200,
+          "2025-06": 22200,
+          "2025-05": 22200
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie trackers",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 84,
+        "detected_language": "it",
+        "is_another_language": true,
+        "words_count": 2
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9949.4,
+        "dofollow": 6439.9,
+        "referring_pages": 8175.6,
+        "referring_domains": 1940.5,
+        "referring_main_domains": 1819.6,
+        "rank": 360.4,
+        "main_domain_rank": 678.1,
+        "last_updated_time": "2026-05-15 01:32:03 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 04:17:24 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker to gain weight",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 13:04:21 +00:00",
+        "competition": 0.05,
+        "competition_level": "LOW",
+        "cpc": 0.5,
+        "search_volume": 14800,
+        "low_top_of_page_bid": 0.04,
+        "high_top_of_page_bid": 0.96,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 14800,
+          "2026-03": 14800,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 12100,
+          "2025-11": 14800,
+          "2025-10": 14800,
+          "2025-09": 14800,
+          "2025-08": 14800,
+          "2025-07": 18100,
+          "2025-06": 14800,
+          "2025-05": 14800
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 29,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1394.3,
+        "dofollow": 747.5,
+        "referring_pages": 1311.6,
+        "referring_domains": 327.8,
+        "referring_main_domains": 304.5,
+        "rank": 201.6,
+        "main_domain_rank": 565.4,
+        "last_updated_time": "2024-10-04 15:50:34 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "informational",
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 05:58:51 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best calorie tracker app free",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 10:30:34 +00:00",
+        "competition": 0.63,
+        "competition_level": "MEDIUM",
+        "cpc": 3.68,
+        "search_volume": 14800,
+        "low_top_of_page_bid": 0.93,
+        "high_top_of_page_bid": 4.14,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-04": 14800,
+          "2026-03": 18100,
+          "2026-02": 12100,
+          "2026-01": 22200,
+          "2025-12": 9900,
+          "2025-11": 9900,
+          "2025-10": 12100,
+          "2025-09": 14800,
+          "2025-08": 14800,
+          "2025-07": 14800,
+          "2025-06": 14800,
+          "2025-05": 14800
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9242.7,
+        "dofollow": 6052.6,
+        "referring_pages": 7517.3,
+        "referring_domains": 1687,
+        "referring_main_domains": 1582.8,
+        "rank": 329.3,
+        "main_domain_rank": 621.7,
+        "last_updated_time": "2026-05-15 05:59:46 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-29 05:23:20 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker myfitnesspal",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 20:58:17 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 2.19,
+        "search_volume": 14800,
+        "low_top_of_page_bid": 0.82,
+        "high_top_of_page_bid": 2.33,
+        "categories": [
+          10011,
+          10085,
+          10457,
+          11669
+        ],
+        "monthly_searches": {
+          "2026-04": 12100,
+          "2026-03": 27100,
+          "2026-02": 18100,
+          "2026-01": 22200,
+          "2025-12": 12100,
+          "2025-11": 6600,
+          "2025-10": 6600,
+          "2025-09": 4400,
+          "2025-08": 12100,
+          "2025-07": 14800,
+          "2025-06": 18100,
+          "2025-05": 14800
+        },
+        "search_volume_trend": {
+          "monthly": -55,
+          "quarterly": -33,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "my fitness pal calorie tracker",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 40,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 19861.2,
+        "dofollow": 14214.8,
+        "referring_pages": 15581.1,
+        "referring_domains": 2175.2,
+        "referring_main_domains": 1852.3,
+        "rank": 208.1,
+        "main_domain_rank": 758,
+        "last_updated_time": "2024-09-28 19:13:38 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 05:52:17 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker app",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 18:11:23 +00:00",
+        "competition": 0.51,
+        "competition_level": "MEDIUM",
+        "cpc": 4.52,
+        "search_volume": 9900,
+        "low_top_of_page_bid": 1.49,
+        "high_top_of_page_bid": 5.71,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-04": 8100,
+          "2026-03": 8100,
+          "2026-02": 8100,
+          "2026-01": 12100,
+          "2025-12": 8100,
+          "2025-11": 8100,
+          "2025-10": 9900,
+          "2025-09": 18100,
+          "2025-08": 8100,
+          "2025-07": 8100,
+          "2025-06": 8100,
+          "2025-05": 9900
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker apps",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9318.9,
+        "dofollow": 6097,
+        "referring_pages": 7590.6,
+        "referring_domains": 1708.6,
+        "referring_main_domains": 1603.7,
+        "rank": 319.8,
+        "main_domain_rank": 634.1,
+        "last_updated_time": "2026-05-15 11:59:01 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "navigational",
+        "foreign_intent": [
+          "transactional",
+          "informational"
+        ],
+        "last_updated_time": "2026-05-05 07:42:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "free calorie tracker app",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 19:13:45 +00:00",
+        "competition": 0.72,
+        "competition_level": "HIGH",
+        "cpc": 3.24,
+        "search_volume": 6600,
+        "low_top_of_page_bid": 1.08,
+        "high_top_of_page_bid": 3.68,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-03": 9900,
+          "2026-02": 9900,
+          "2026-01": 9900,
+          "2025-12": 5400,
+          "2025-11": 4400,
+          "2025-10": 5400,
+          "2025-09": 5400,
+          "2025-08": 5400,
+          "2025-07": 4400,
+          "2025-06": 4400,
+          "2025-05": 3600,
+          "2025-04": 4400
+        },
+        "search_volume_trend": {
+          "yearly": 83
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker free app",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 99,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9639.2,
+        "dofollow": 6291.9,
+        "referring_pages": 7858.7,
+        "referring_domains": 1789,
+        "referring_main_domains": 1672.2,
+        "rank": 342.8,
+        "main_domain_rank": 727,
+        "last_updated_time": "2026-04-18 17:55:57 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:37:12 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker free",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 20:04:21 +00:00",
+        "competition": 0.67,
+        "competition_level": "HIGH",
+        "cpc": 2.72,
+        "search_volume": 6600,
+        "low_top_of_page_bid": 0.93,
+        "high_top_of_page_bid": 2.98,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          13816
+        ],
+        "monthly_searches": {
+          "2026-03": 8100,
+          "2026-02": 6600,
+          "2026-01": 12100,
+          "2025-12": 4400,
+          "2025-11": 4400,
+          "2025-10": 5400,
+          "2025-09": 6600,
+          "2025-08": 6600,
+          "2025-07": 6600,
+          "2025-06": 8100,
+          "2025-05": 8100,
+          "2025-04": 9900
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": -33,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 25383.2,
+        "dofollow": 7021.3,
+        "referring_pages": 23388.3,
+        "referring_domains": 1994.3,
+        "referring_main_domains": 1861,
+        "rank": 339.3,
+        "main_domain_rank": 533.8,
+        "last_updated_time": "2026-05-16 06:28:10 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 08:47:20 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker to lose weight",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 01:07:23 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.62,
+        "search_volume": 5400,
+        "low_top_of_page_bid": 0.79,
+        "high_top_of_page_bid": 3.77,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 5400,
+          "2026-02": 4400,
+          "2026-01": 3600,
+          "2025-12": 5400,
+          "2025-11": 8100,
+          "2025-10": 12100,
+          "2025-09": 8100,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 5400,
+          "2025-05": 5400,
+          "2025-04": 6600
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": 50,
+          "yearly": -70
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 88,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 17137.8,
+        "dofollow": 11946.4,
+        "referring_pages": 14338.8,
+        "referring_domains": 2790.6,
+        "referring_main_domains": 2605.5,
+        "rank": 374,
+        "main_domain_rank": 685.4,
+        "last_updated_time": "2025-02-18 19:19:54 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:47:20 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker weight loss",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 12:57:27 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 3.08,
+        "search_volume": 5400,
+        "low_top_of_page_bid": 0.71,
+        "high_top_of_page_bid": 4.02,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 5400,
+          "2026-03": 5400,
+          "2026-02": 4400,
+          "2026-01": 3600,
+          "2025-12": 5400,
+          "2025-11": 8100,
+          "2025-10": 12100,
+          "2025-09": 8100,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 5400,
+          "2025-05": 5400
+        },
+        "search_volume_trend": {
+          "quarterly": 23,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 84,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 10772.2,
+        "dofollow": 6776.4,
+        "referring_pages": 8859.6,
+        "referring_domains": 2133.3,
+        "referring_main_domains": 2013.8,
+        "rank": 339.5,
+        "main_domain_rank": 625.7,
+        "last_updated_time": "2026-01-27 16:00:42 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:38:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker for weight loss",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 01:24:45 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.62,
+        "search_volume": 5400,
+        "low_top_of_page_bid": 0.79,
+        "high_top_of_page_bid": 3.77,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 5400,
+          "2026-02": 4400,
+          "2026-01": 3600,
+          "2025-12": 5400,
+          "2025-11": 8100,
+          "2025-10": 12100,
+          "2025-09": 8100,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 5400,
+          "2025-05": 5400,
+          "2025-04": 6600
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": 50,
+          "yearly": -70
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker weight loss",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 84,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 10715.7,
+        "dofollow": 6866.1,
+        "referring_pages": 8854.1,
+        "referring_domains": 2087.8,
+        "referring_main_domains": 1956,
+        "rank": 349.6,
+        "main_domain_rank": 648.3,
+        "last_updated_time": "2026-04-18 18:20:54 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 05:44:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "free calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 05:30:06 +00:00",
+        "competition": 0.66,
+        "competition_level": "MEDIUM",
+        "cpc": 2.95,
+        "search_volume": 2900,
+        "low_top_of_page_bid": 0.98,
+        "high_top_of_page_bid": 2.72,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 4400,
+          "2025-12": 1900,
+          "2025-11": 1900,
+          "2025-10": 2400,
+          "2025-09": 2400,
+          "2025-08": 2400,
+          "2025-07": 2900,
+          "2025-06": 2900,
+          "2025-05": 2900,
+          "2025-04": 2900
+        },
+        "search_volume_trend": {
+          "quarterly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker free",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9788.4,
+        "dofollow": 6338,
+        "referring_pages": 8026.7,
+        "referring_domains": 1898.6,
+        "referring_main_domains": 1780,
+        "rank": 313,
+        "main_domain_rank": 610,
+        "last_updated_time": "2026-05-17 09:46:26 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 17:22:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 07:20:40 +00:00",
+        "competition": 0.63,
+        "competition_level": "MEDIUM",
+        "cpc": 4.63,
+        "search_volume": 2900,
+        "low_top_of_page_bid": 1.45,
+        "high_top_of_page_bid": 5.71,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 2900,
+          "2025-12": 1600,
+          "2025-11": 1600,
+          "2025-10": 1900,
+          "2025-09": 2900,
+          "2025-08": 3600,
+          "2025-07": 3600,
+          "2025-06": 4400,
+          "2025-05": 4400,
+          "2025-04": 4400
+        },
+        "search_volume_trend": {
+          "quarterly": 24,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 50,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9103.5,
+        "dofollow": 5962.9,
+        "referring_pages": 7393.3,
+        "referring_domains": 1629.5,
+        "referring_main_domains": 1522,
+        "rank": 242.3,
+        "main_domain_rank": 637.7,
+        "last_updated_time": "2026-05-17 10:56:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 07:35:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker for free",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 05:07:28 +00:00",
+        "competition": 0.66,
+        "competition_level": "MEDIUM",
+        "cpc": 2.95,
+        "search_volume": 2900,
+        "low_top_of_page_bid": 0.98,
+        "high_top_of_page_bid": 2.72,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          13816
+        ],
+        "monthly_searches": {
+          "2026-03": 3600,
+          "2026-02": 3600,
+          "2026-01": 4400,
+          "2025-12": 1900,
+          "2025-11": 1900,
+          "2025-10": 2400,
+          "2025-09": 2400,
+          "2025-08": 2400,
+          "2025-07": 2900,
+          "2025-06": 2900,
+          "2025-05": 2900,
+          "2025-04": 2900
+        },
+        "search_volume_trend": {
+          "quarterly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker free",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 85,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 11162.7,
+        "dofollow": 7066.7,
+        "referring_pages": 9262.4,
+        "referring_domains": 2247.6,
+        "referring_main_domains": 2104.7,
+        "rank": 368.4,
+        "main_domain_rank": 583.3,
+        "last_updated_time": "2026-03-14 02:45:11 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 05:51:19 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker app free",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 19:11:37 +00:00",
+        "competition": 0.73,
+        "competition_level": "HIGH",
+        "cpc": 3.91,
+        "search_volume": 1900,
+        "low_top_of_page_bid": 1.2,
+        "high_top_of_page_bid": 4.35,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-04": 2400,
+          "2026-03": 2400,
+          "2026-02": 1900,
+          "2026-01": 2400,
+          "2025-12": 1300,
+          "2025-11": 1300,
+          "2025-10": 1600,
+          "2025-09": 1600,
+          "2025-08": 1600,
+          "2025-07": 1600,
+          "2025-06": 1900,
+          "2025-05": 1900
+        },
+        "search_volume_trend": {
+          "quarterly": 26,
+          "yearly": 26
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker free app",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 46,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9184.5,
+        "dofollow": 5980.7,
+        "referring_pages": 7455.4,
+        "referring_domains": 1685.1,
+        "referring_main_domains": 1578.8,
+        "rank": 256.4,
+        "main_domain_rank": 548.5,
+        "last_updated_time": "2026-05-18 16:35:28 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 15:47:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "online calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 17:13:39 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.5,
+        "search_volume": 1600,
+        "low_top_of_page_bid": 0.66,
+        "high_top_of_page_bid": 2.8,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 880,
+          "2025-12": 720,
+          "2025-11": 390,
+          "2025-10": 590,
+          "2025-09": 480,
+          "2025-08": 590,
+          "2025-07": 880,
+          "2025-06": 1300,
+          "2025-05": 2900,
+          "2025-04": 1900
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 400,
+          "yearly": 175
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker online",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 88,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 22956.2,
+        "dofollow": 16237.5,
+        "referring_pages": 19446.6,
+        "referring_domains": 3059.5,
+        "referring_main_domains": 2797.8,
+        "rank": 411.6,
+        "main_domain_rank": 555.1,
+        "last_updated_time": "2024-12-11 09:54:21 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 19:28:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "what is the best calorie tracker app",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 14:05:55 +00:00",
+        "competition": 0.64,
+        "competition_level": "MEDIUM",
+        "cpc": 4.14,
+        "search_volume": 1600,
+        "low_top_of_page_bid": 1.34,
+        "high_top_of_page_bid": 5.02,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-04": 1900,
+          "2026-03": 1900,
+          "2026-02": 1600,
+          "2026-01": 1900,
+          "2025-12": 1000,
+          "2025-11": 1000,
+          "2025-10": 1000,
+          "2025-09": 1000,
+          "2025-08": 1300,
+          "2025-07": 1300,
+          "2025-06": 1600,
+          "2025-05": 1600
+        },
+        "search_volume_trend": {
+          "quarterly": 19,
+          "yearly": 46
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "what is the best calorie tracking app",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 50,
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9591.9,
+        "dofollow": 6221.9,
+        "referring_pages": 7792.8,
+        "referring_domains": 1719.6,
+        "referring_main_domains": 1608.5,
+        "rank": 214.1,
+        "main_domain_rank": 665.8,
+        "last_updated_time": "2026-03-15 08:19:59 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-30 00:44:53 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker online",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 19:09:29 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 2.71,
+        "search_volume": 1600,
+        "low_top_of_page_bid": 0.68,
+        "high_top_of_page_bid": 2.37,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 1600,
+          "2026-03": 4400,
+          "2026-02": 3600,
+          "2026-01": 880,
+          "2025-12": 720,
+          "2025-11": 390,
+          "2025-10": 590,
+          "2025-09": 480,
+          "2025-08": 590,
+          "2025-07": 880,
+          "2025-06": 1300,
+          "2025-05": 2900
+        },
+        "search_volume_trend": {
+          "monthly": -64,
+          "quarterly": -56,
+          "yearly": -16
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 88,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 11416.5,
+        "dofollow": 7331.9,
+        "referring_pages": 9414.7,
+        "referring_domains": 2311.8,
+        "referring_main_domains": 2152.3,
+        "rank": 439.8,
+        "main_domain_rank": 494.9,
+        "last_updated_time": "2026-05-18 16:23:21 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:26:35 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best free calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 15:47:39 +00:00",
+        "competition": 0.57,
+        "competition_level": "MEDIUM",
+        "cpc": 3.33,
+        "search_volume": 1600,
+        "low_top_of_page_bid": 0.9,
+        "high_top_of_page_bid": 3.62,
+        "categories": [
+          10019,
+          10168,
+          10885,
+          13816
+        ],
+        "monthly_searches": {
+          "2026-04": 2400,
+          "2026-03": 1900,
+          "2026-02": 1900,
+          "2026-01": 1900,
+          "2025-12": 880,
+          "2025-11": 880,
+          "2025-10": 1000,
+          "2025-09": 1000,
+          "2025-08": 1300,
+          "2025-07": 1600,
+          "2025-06": 1900,
+          "2025-05": 1900
+        },
+        "search_volume_trend": {
+          "monthly": 26,
+          "quarterly": 26,
+          "yearly": 26
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 51,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9024.1,
+        "dofollow": 5894.6,
+        "referring_pages": 7315.8,
+        "referring_domains": 1615.9,
+        "referring_main_domains": 1515.1,
+        "rank": 270,
+        "main_domain_rank": 634.5,
+        "last_updated_time": "2026-05-18 16:45:07 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 05:53:55 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "chipotle calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 01:38:54 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 1300,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 1300,
+          "2026-03": 1300,
+          "2026-02": 1000,
+          "2026-01": 1000,
+          "2025-12": 720,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 1000,
+          "2025-08": 1300,
+          "2025-07": 1600,
+          "2025-06": 1900,
+          "2025-05": 1900
+        },
+        "search_volume_trend": {
+          "quarterly": 30,
+          "yearly": -46
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 5,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 126.1,
+        "dofollow": 69.9,
+        "referring_pages": 93.2,
+        "referring_domains": 55,
+        "referring_main_domains": 53.2,
+        "rank": 95.4,
+        "main_domain_rank": 348.9,
+        "last_updated_time": "2026-05-19 02:29:05 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-26 18:17:06 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie deficit tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 22:43:40 +00:00",
+        "competition": 0.36,
+        "competition_level": "MEDIUM",
+        "cpc": 1.48,
+        "search_volume": 1300,
+        "low_top_of_page_bid": 0.38,
+        "high_top_of_page_bid": 2.22,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 1300,
+          "2026-03": 1300,
+          "2026-02": 1300,
+          "2026-01": 1300,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 880,
+          "2025-08": 880,
+          "2025-07": 1000,
+          "2025-06": 5400,
+          "2025-05": 1300
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 74,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 11205,
+        "dofollow": 7080,
+        "referring_pages": 9198.9,
+        "referring_domains": 2231.3,
+        "referring_main_domains": 2084.2,
+        "rank": 325.9,
+        "main_domain_rank": 524.7,
+        "last_updated_time": "2026-05-19 02:38:05 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-26 21:26:27 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "ai calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 08:41:23 +00:00",
+        "competition": 0.59,
+        "competition_level": "MEDIUM",
+        "cpc": 3.42,
+        "search_volume": 1300,
+        "low_top_of_page_bid": 1.18,
+        "high_top_of_page_bid": 3.79,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 1300,
+          "2026-02": 1300,
+          "2026-01": 1900,
+          "2025-12": 880,
+          "2025-11": 1000,
+          "2025-10": 880,
+          "2025-09": 880,
+          "2025-08": 1300,
+          "2025-07": 1300,
+          "2025-06": 1300,
+          "2025-05": 1300,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "quarterly": -32,
+          "yearly": 48
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 63,
+        "detected_language": "it",
+        "is_another_language": true,
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 34498,
+        "dofollow": 34245.3,
+        "referring_pages": 34433.4,
+        "referring_domains": 105.5,
+        "referring_main_domains": 83.4,
+        "rank": 299.5,
+        "main_domain_rank": 717.6,
+        "last_updated_time": "2026-05-19 03:20:05 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 07:38:48 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie expenditure tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 07:19:21 +00:00",
+        "competition": 0.92,
+        "competition_level": "HIGH",
+        "cpc": 2.27,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.72,
+        "high_top_of_page_bid": 2.75,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-03": 720,
+          "2026-02": 590,
+          "2026-01": 720,
+          "2025-12": 480,
+          "2025-11": 880,
+          "2025-10": 1600,
+          "2025-09": 1900,
+          "2025-08": 1600,
+          "2025-07": 1300,
+          "2025-06": 1300,
+          "2025-05": 1000,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie loss tracker",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 27,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1589.7,
+        "dofollow": 963.6,
+        "referring_pages": 1471.3,
+        "referring_domains": 318.8,
+        "referring_main_domains": 295.4,
+        "rank": 201.3,
+        "main_domain_rank": 615.9,
+        "last_updated_time": "2024-10-13 04:52:34 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-26 22:53:46 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie burner tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 21:50:29 +00:00",
+        "competition": 0.92,
+        "competition_level": "HIGH",
+        "cpc": 2.27,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.72,
+        "high_top_of_page_bid": 2.75,
+        "categories": [
+          10011,
+          10085,
+          10457
+        ],
+        "monthly_searches": {
+          "2026-03": 720,
+          "2026-02": 590,
+          "2026-01": 720,
+          "2025-12": 480,
+          "2025-11": 880,
+          "2025-10": 1600,
+          "2025-09": 1900,
+          "2025-08": 1600,
+          "2025-07": 1300,
+          "2025-06": 1300,
+          "2025-05": 1000,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie loss tracker",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 36,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 10020.5,
+        "dofollow": 6340.6,
+        "referring_pages": 8194,
+        "referring_domains": 1845.4,
+        "referring_main_domains": 1728.8,
+        "rank": 196.4,
+        "main_domain_rank": 607.9,
+        "last_updated_time": "2026-03-16 03:35:56 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-25 22:31:54 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "burn calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 10:21:05 +00:00",
+        "competition": 0.89,
+        "competition_level": "HIGH",
+        "cpc": 2.3,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.58,
+        "high_top_of_page_bid": 3.04,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 720,
+          "2026-03": 720,
+          "2026-02": 590,
+          "2026-01": 720,
+          "2025-12": 480,
+          "2025-11": 880,
+          "2025-10": 1600,
+          "2025-09": 1900,
+          "2025-08": 1600,
+          "2025-07": 1300,
+          "2025-06": 1300,
+          "2025-05": 1000
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -28
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie burn tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 27,
+        "detected_language": "it",
+        "is_another_language": true,
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1444.1,
+        "dofollow": 760.7,
+        "referring_pages": 1356.1,
+        "referring_domains": 337.3,
+        "referring_main_domains": 319.1,
+        "rank": 188.6,
+        "main_domain_rank": 605.3,
+        "last_updated_time": "2024-10-13 04:53:17 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-28 23:09:11 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie loss tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-18 22:40:26 +00:00",
+        "competition": 0.89,
+        "competition_level": "HIGH",
+        "cpc": 2.3,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.58,
+        "high_top_of_page_bid": 3.04,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 720,
+          "2026-03": 720,
+          "2026-02": 590,
+          "2026-01": 720,
+          "2025-12": 480,
+          "2025-11": 880,
+          "2025-10": 1600,
+          "2025-09": 1900,
+          "2025-08": 1600,
+          "2025-07": 1300,
+          "2025-06": 1300,
+          "2025-05": 1000
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -28
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "track calories burned",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 41,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21248.4,
+        "dofollow": 14902.7,
+        "referring_pages": 16895.9,
+        "referring_domains": 2368.6,
+        "referring_main_domains": 2173.7,
+        "rank": 335.1,
+        "main_domain_rank": 720.2,
+        "last_updated_time": "2024-10-13 04:52:27 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "informational",
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 08:47:20 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie burn tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 08:51:53 +00:00",
+        "competition": 0.92,
+        "competition_level": "HIGH",
+        "cpc": 2.27,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.72,
+        "high_top_of_page_bid": 2.75,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 720,
+          "2026-02": 590,
+          "2026-01": 720,
+          "2025-12": 480,
+          "2025-11": 880,
+          "2025-10": 1600,
+          "2025-09": 1900,
+          "2025-08": 1600,
+          "2025-07": 1300,
+          "2025-06": 1300,
+          "2025-05": 1000,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 27,
+        "detected_language": "it",
+        "is_another_language": true,
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 612.2,
+        "dofollow": 211.7,
+        "referring_pages": 582.6,
+        "referring_domains": 180.4,
+        "referring_main_domains": 166.9,
+        "rank": 140.6,
+        "main_domain_rank": 663.2,
+        "last_updated_time": "2025-08-30 11:27:22 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 08:12:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "noom calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 06:51:00 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 4.06,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 1.4,
+        "high_top_of_page_bid": 6.65,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-04": 12100,
+          "2026-03": 260,
+          "2026-02": 20,
+          "2026-01": 20,
+          "2025-12": 20,
+          "2025-11": 10,
+          "2025-10": 20,
+          "2025-09": 10,
+          "2025-08": 10,
+          "2025-07": 10,
+          "2025-06": 20,
+          "2025-05": 20
+        },
+        "search_volume_trend": {
+          "monthly": 4554,
+          "quarterly": 60400,
+          "yearly": 60400
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 15,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 44.4,
+        "dofollow": 30.6,
+        "referring_pages": 40.1,
+        "referring_domains": 21.4,
+        "referring_main_domains": 20.4,
+        "rank": 117.6,
+        "main_domain_rank": 549.8,
+        "last_updated_time": "2026-04-14 02:17:11 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 16:55:26 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker app for weight loss",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 20:25:14 +00:00",
+        "competition": 0.01,
+        "competition_level": "LOW",
+        "search_volume": 1000,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-04": 170,
+          "2026-03": 480,
+          "2026-02": 110,
+          "2026-01": 170,
+          "2025-12": 210,
+          "2025-11": 4400,
+          "2025-10": 3600,
+          "2025-09": 2400,
+          "2025-08": 390,
+          "2025-07": 90,
+          "2025-06": 210,
+          "2025-05": 720
+        },
+        "search_volume_trend": {
+          "monthly": -65,
+          "quarterly": 55,
+          "yearly": -35
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 26042,
+        "dofollow": 7455.6,
+        "referring_pages": 23860.1,
+        "referring_domains": 2093.4,
+        "referring_main_domains": 1949.7,
+        "rank": 395.9,
+        "main_domain_rank": 623.5,
+        "last_updated_time": "2026-05-19 20:16:10 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-24 22:24:44 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie burned tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 09:20:36 +00:00",
+        "competition": 0.92,
+        "competition_level": "HIGH",
+        "cpc": 2.27,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.72,
+        "high_top_of_page_bid": 2.75,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-03": 720,
+          "2026-02": 590,
+          "2026-01": 720,
+          "2025-12": 480,
+          "2025-11": 880,
+          "2025-10": 1600,
+          "2025-09": 1900,
+          "2025-08": 1600,
+          "2025-07": 1300,
+          "2025-06": 1300,
+          "2025-05": 1000,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie burn tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 27,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 334.7,
+        "dofollow": 160.5,
+        "referring_pages": 317.4,
+        "referring_domains": 86.6,
+        "referring_main_domains": 81.9,
+        "rank": 136.1,
+        "main_domain_rank": 696.8,
+        "last_updated_time": "2024-10-05 19:37:13 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-26 07:52:28 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best calorie tracker app reddit",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 16:07:22 +00:00",
+        "competition": 0.07,
+        "competition_level": "LOW",
+        "cpc": 3.77,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 1.57,
+        "high_top_of_page_bid": 7.11,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-03": 1300,
+          "2026-02": 1300,
+          "2026-01": 1300,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 1000,
+          "2025-08": 1300,
+          "2025-07": 1600,
+          "2025-06": 1300,
+          "2025-05": 1600,
+          "2025-04": 1300
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.4,
+        "dofollow": 0.4,
+        "referring_pages": 0.4,
+        "referring_domains": 0.3,
+        "referring_main_domains": 0.3,
+        "rank": 3.8,
+        "main_domain_rank": 813,
+        "last_updated_time": "2024-10-05 14:29:52 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 00:00:02 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best free calorie tracker app",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 03:32:54 +00:00",
+        "competition": 0.56,
+        "competition_level": "MEDIUM",
+        "cpc": 2.78,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.91,
+        "high_top_of_page_bid": 3.06,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-03": 1900,
+          "2026-02": 1600,
+          "2026-01": 1900,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 1000,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 1000,
+          "2025-05": 880,
+          "2025-04": 720
+        },
+        "search_volume_trend": {
+          "monthly": 19,
+          "yearly": 164
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "best calorie tracker app free",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9590.2,
+        "dofollow": 6235.9,
+        "referring_pages": 7843.6,
+        "referring_domains": 1775.9,
+        "referring_main_domains": 1657.6,
+        "rank": 331.6,
+        "main_domain_rank": 590.2,
+        "last_updated_time": "2026-05-20 03:02:39 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-29 04:15:46 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie burning tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 22:56:24 +00:00",
+        "competition": 0.92,
+        "competition_level": "HIGH",
+        "cpc": 2.27,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.72,
+        "high_top_of_page_bid": 2.75,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-03": 720,
+          "2026-02": 590,
+          "2026-01": 720,
+          "2025-12": 480,
+          "2025-11": 880,
+          "2025-10": 1600,
+          "2025-09": 1900,
+          "2025-08": 1600,
+          "2025-07": 1300,
+          "2025-06": 1300,
+          "2025-05": 1000,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie burn tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 52,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 10138.7,
+        "dofollow": 6203.5,
+        "referring_pages": 8348.1,
+        "referring_domains": 1922.8,
+        "referring_main_domains": 1802.1,
+        "rank": 225.1,
+        "main_domain_rank": 631.4,
+        "last_updated_time": "2025-11-11 02:47:16 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-26 19:24:09 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "dominos calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 08:24:08 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 880,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 1600,
+          "2026-02": 720,
+          "2026-01": 880,
+          "2025-12": 720,
+          "2025-11": 590,
+          "2025-10": 1000,
+          "2025-09": 590,
+          "2025-08": 390,
+          "2025-07": 480,
+          "2025-06": 1900,
+          "2025-05": 1000,
+          "2025-04": 880
+        },
+        "search_volume_trend": {
+          "monthly": 122,
+          "quarterly": 82,
+          "yearly": -16
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 5,
+        "detected_language": "es",
+        "is_another_language": true,
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2303,
+        "dofollow": 1236.4,
+        "referring_pages": 1245.7,
+        "referring_domains": 19.7,
+        "referring_main_domains": 12.2,
+        "rank": 77,
+        "main_domain_rank": 511.5,
+        "last_updated_time": "2026-05-20 03:11:45 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-27 16:14:54 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "diet calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 03:46:12 +00:00",
+        "competition": 0.43,
+        "competition_level": "MEDIUM",
+        "cpc": 2.97,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.95,
+        "high_top_of_page_bid": 3.1,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 480,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 880,
+          "2025-05": 880,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "quarterly": -12,
+          "yearly": -12
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie diet tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 85,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 11226.3,
+        "dofollow": 7113.9,
+        "referring_pages": 9338.3,
+        "referring_domains": 2240.5,
+        "referring_main_domains": 2096.7,
+        "rank": 427.3,
+        "main_domain_rank": 569.4,
+        "last_updated_time": "2026-03-16 14:57:41 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 09:26:09 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie diet tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 04:13:30 +00:00",
+        "competition": 0.43,
+        "competition_level": "MEDIUM",
+        "cpc": 2.97,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.95,
+        "high_top_of_page_bid": 3.1,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 480,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 880,
+          "2025-05": 880,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "quarterly": -12,
+          "yearly": -12
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 84,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 10525.9,
+        "dofollow": 6798.3,
+        "referring_pages": 8692.4,
+        "referring_domains": 2111.3,
+        "referring_main_domains": 1969.6,
+        "rank": 403.7,
+        "main_domain_rank": 594.2,
+        "last_updated_time": "2026-05-20 04:34:36 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-25 22:31:55 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "meal calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 09:32:19 +00:00",
+        "competition": 0.43,
+        "competition_level": "MEDIUM",
+        "cpc": 2.97,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.95,
+        "high_top_of_page_bid": 3.1,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 480,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 880,
+          "2025-05": 880,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "quarterly": -12,
+          "yearly": -12
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie meal tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 11309.8,
+        "dofollow": 7745.9,
+        "referring_pages": 9449.6,
+        "referring_domains": 1938.2,
+        "referring_main_domains": 1810.8,
+        "rank": 407.6,
+        "main_domain_rank": 533.2,
+        "last_updated_time": "2026-04-20 07:54:38 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 16:01:28 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker site",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 05:31:32 +00:00",
+        "competition": 0.18,
+        "competition_level": "LOW",
+        "cpc": 2,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.65,
+        "high_top_of_page_bid": 2.43,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 1000,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 880,
+          "2025-08": 880,
+          "2025-07": 1000,
+          "2025-06": 1000,
+          "2025-05": 1000,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "monthly": 14
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracking website",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 86,
+        "detected_language": "fr",
+        "is_another_language": true,
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 39605.8,
+        "dofollow": 24448.1,
+        "referring_pages": 27429.6,
+        "referring_domains": 3372.2,
+        "referring_main_domains": 3085.7,
+        "rank": 451.6,
+        "main_domain_rank": 564,
+        "last_updated_time": "2024-10-13 04:52:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 06:34:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie food tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 04:09:27 +00:00",
+        "competition": 0.43,
+        "competition_level": "MEDIUM",
+        "cpc": 2.75,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.89,
+        "high_top_of_page_bid": 3.01,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 1000,
+          "2026-03": 880,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 480,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 880,
+          "2025-05": 880
+        },
+        "search_volume_trend": {
+          "monthly": 14,
+          "quarterly": 14
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker food",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 73,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 36827.7,
+        "dofollow": 22816.3,
+        "referring_pages": 24918.8,
+        "referring_domains": 2731,
+        "referring_main_domains": 2494,
+        "rank": 444.5,
+        "main_domain_rank": 655,
+        "last_updated_time": "2024-10-05 22:37:31 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 05:25:42 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker online free",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 20:33:51 +00:00",
+        "competition": 0.37,
+        "competition_level": "MEDIUM",
+        "cpc": 1.99,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.67,
+        "high_top_of_page_bid": 2.39,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 1000,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 1000,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1000,
+          "2025-05": 1300,
+          "2025-04": 1300
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -12,
+          "yearly": -32
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "free online calorie tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 10175,
+        "dofollow": 6511.9,
+        "referring_pages": 8399.7,
+        "referring_domains": 1957.5,
+        "referring_main_domains": 1827.5,
+        "rank": 399.7,
+        "main_domain_rank": 528.1,
+        "last_updated_time": "2026-05-20 04:23:18 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 03:40:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "online calorie tracker free",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 17:13:20 +00:00",
+        "competition": 0.37,
+        "competition_level": "MEDIUM",
+        "cpc": 1.99,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.67,
+        "high_top_of_page_bid": 2.39,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 1000,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 1000,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1000,
+          "2025-05": 1300,
+          "2025-04": 1300
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -12,
+          "yearly": -32
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "free online calorie tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 94,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21847.1,
+        "dofollow": 15235,
+        "referring_pages": 17423.1,
+        "referring_domains": 2532.3,
+        "referring_main_domains": 2315.3,
+        "rank": 476,
+        "main_domain_rank": 634.6,
+        "last_updated_time": "2024-10-05 18:16:33 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:51:48 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie meal tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 15:10:17 +00:00",
+        "competition": 0.43,
+        "competition_level": "MEDIUM",
+        "cpc": 2.75,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.89,
+        "high_top_of_page_bid": 3.01,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 1000,
+          "2026-03": 880,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 480,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 880,
+          "2025-05": 880
+        },
+        "search_volume_trend": {
+          "monthly": 14,
+          "quarterly": 14
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 87,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 11255.1,
+        "dofollow": 6927.3,
+        "referring_pages": 9253.8,
+        "referring_domains": 2154.3,
+        "referring_main_domains": 2008.4,
+        "rank": 376.9,
+        "main_domain_rank": 615.9,
+        "last_updated_time": "2025-10-24 02:41:15 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-26 16:42:11 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "food calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 19:38:58 +00:00",
+        "competition": 0.43,
+        "competition_level": "MEDIUM",
+        "cpc": 2.97,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.95,
+        "high_top_of_page_bid": 3.1,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 480,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 880,
+          "2025-05": 880,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "quarterly": -12,
+          "yearly": -12
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker food",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 91,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9507.8,
+        "dofollow": 6221.4,
+        "referring_pages": 7768.2,
+        "referring_domains": 1775.4,
+        "referring_main_domains": 1662,
+        "rank": 401.7,
+        "main_domain_rank": 648.2,
+        "last_updated_time": "2026-05-20 02:16:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 16:43:48 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "food and calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 09:11:38 +00:00",
+        "competition": 0.43,
+        "competition_level": "MEDIUM",
+        "cpc": 2.97,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.95,
+        "high_top_of_page_bid": 3.1,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 480,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 880,
+          "2025-05": 880,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "quarterly": -12,
+          "yearly": -12
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie and food tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 21350.2,
+        "dofollow": 16588.6,
+        "referring_pages": 18757.6,
+        "referring_domains": 3263.5,
+        "referring_main_domains": 2905.9,
+        "rank": 442.3,
+        "main_domain_rank": 535.6,
+        "last_updated_time": "2026-03-04 05:52:46 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 18:06:44 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie and food tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 11:09:05 +00:00",
+        "competition": 0.43,
+        "competition_level": "MEDIUM",
+        "cpc": 2.75,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.89,
+        "high_top_of_page_bid": 3.01,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 1000,
+          "2026-03": 880,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 480,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 880,
+          "2025-05": 880
+        },
+        "search_volume_trend": {
+          "monthly": 14,
+          "quarterly": 14
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 86,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 10872.3,
+        "dofollow": 6903.6,
+        "referring_pages": 8877.8,
+        "referring_domains": 2009.4,
+        "referring_main_domains": 1874,
+        "rank": 392.1,
+        "main_domain_rank": 646.7,
+        "last_updated_time": "2026-01-29 15:52:46 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 06:07:53 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "maintenance calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 05:59:39 +00:00",
+        "competition": 0.26,
+        "competition_level": "LOW",
+        "cpc": 0.3,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.03,
+        "high_top_of_page_bid": 0.31,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 1300,
+          "2026-02": 1000,
+          "2026-01": 1300,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 1000,
+          "2025-06": 880,
+          "2025-05": 1000,
+          "2025-04": 880
+        },
+        "search_volume_trend": {
+          "monthly": 30,
+          "yearly": 48
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 50,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2216.2,
+        "dofollow": 1369,
+        "referring_pages": 2029,
+        "referring_domains": 605.8,
+        "referring_main_domains": 574.2,
+        "rank": 277.2,
+        "main_domain_rank": 500.7,
+        "last_updated_time": "2026-04-20 07:48:33 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 16:33:36 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker food",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 09:22:23 +00:00",
+        "competition": 0.43,
+        "competition_level": "MEDIUM",
+        "cpc": 2.75,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.89,
+        "high_top_of_page_bid": 3.01,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 1000,
+          "2026-03": 880,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 480,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 720,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 880,
+          "2025-05": 880
+        },
+        "search_volume_trend": {
+          "monthly": 14,
+          "quarterly": 14
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 73,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9343.3,
+        "dofollow": 6128.2,
+        "referring_pages": 7623.2,
+        "referring_domains": 1694.1,
+        "referring_main_domains": 1585.2,
+        "rank": 377.1,
+        "main_domain_rank": 548,
+        "last_updated_time": "2026-05-20 04:24:19 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-25 22:31:55 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "free online calorie counter and tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 19:06:03 +00:00",
+        "competition": 0.37,
+        "competition_level": "MEDIUM",
+        "cpc": 1.99,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.67,
+        "high_top_of_page_bid": 2.39,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 1000,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 1000,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1000,
+          "2025-05": 1300,
+          "2025-04": 1300
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -12,
+          "yearly": -32
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "online calorie counter free",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 85,
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 11187.1,
+        "dofollow": 7085.3,
+        "referring_pages": 9303.1,
+        "referring_domains": 2216.5,
+        "referring_main_domains": 2073.4,
+        "rank": 419.8,
+        "main_domain_rank": 569.4,
+        "last_updated_time": "2026-03-16 13:51:32 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 20:09:54 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker free online",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 17:34:53 +00:00",
+        "competition": 0.37,
+        "competition_level": "MEDIUM",
+        "cpc": 1.99,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.67,
+        "high_top_of_page_bid": 2.39,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 1000,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 1000,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1000,
+          "2025-05": 1300,
+          "2025-04": 1300
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -12,
+          "yearly": -32
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "free online calorie tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 83,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 11297.8,
+        "dofollow": 7176.3,
+        "referring_pages": 9399.3,
+        "referring_domains": 2253.4,
+        "referring_main_domains": 2106.4,
+        "rank": 425,
+        "main_domain_rank": 505.2,
+        "last_updated_time": "2026-03-16 16:18:11 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:51:29 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "online free calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 22:52:19 +00:00",
+        "competition": 0.34,
+        "competition_level": "MEDIUM",
+        "cpc": 2.36,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.7,
+        "high_top_of_page_bid": 2.46,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 880,
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 1000,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 1000,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1000,
+          "2025-05": 1300
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -32
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "free online calorie tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 86,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 12131.6,
+        "dofollow": 7350.5,
+        "referring_pages": 10079.5,
+        "referring_domains": 2450.4,
+        "referring_main_domains": 2282.5,
+        "rank": 414.3,
+        "main_domain_rank": 505.9,
+        "last_updated_time": "2025-10-23 11:43:09 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 17:03:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker website",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 15:58:14 +00:00",
+        "competition": 0.18,
+        "competition_level": "LOW",
+        "cpc": 2,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.65,
+        "high_top_of_page_bid": 2.43,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 1000,
+          "2026-02": 880,
+          "2026-01": 1000,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 880,
+          "2025-08": 880,
+          "2025-07": 1000,
+          "2025-06": 1000,
+          "2025-05": 1000,
+          "2025-04": 1000
+        },
+        "search_volume_trend": {
+          "monthly": 14
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 89,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 10942.9,
+        "dofollow": 7077.9,
+        "referring_pages": 8959.7,
+        "referring_domains": 2148.7,
+        "referring_main_domains": 2001.3,
+        "rank": 407.6,
+        "main_domain_rank": 512.1,
+        "last_updated_time": "2026-05-20 04:22:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:48:55 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "cal ai calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 15:02:09 +00:00",
+        "competition": 0.14,
+        "competition_level": "LOW",
+        "cpc": 2.82,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.92,
+        "high_top_of_page_bid": 2.38,
+        "categories": [
+          10008
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 1000,
+          "2026-01": 1300,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 590,
+          "2025-09": 590,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 880,
+          "2025-05": 880,
+          "2025-04": 590
+        },
+        "search_volume_trend": {
+          "monthly": -12,
+          "quarterly": -32,
+          "yearly": 126
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 59,
+        "detected_language": "fr",
+        "is_another_language": true,
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 684.1,
+        "dofollow": 253.5,
+        "referring_pages": 563.1,
+        "referring_domains": 141.7,
+        "referring_main_domains": 121.9,
+        "rank": 221.9,
+        "main_domain_rank": 634.5,
+        "last_updated_time": "2026-04-20 10:24:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "informational",
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 09:09:09 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "free online calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 04:57:48 +00:00",
+        "competition": 0.34,
+        "competition_level": "MEDIUM",
+        "cpc": 2.36,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.7,
+        "high_top_of_page_bid": 2.46,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 880,
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 1000,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 1000,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1000,
+          "2025-05": 1300
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -32
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 82,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 13950.4,
+        "dofollow": 8739,
+        "referring_pages": 11262.1,
+        "referring_domains": 2540,
+        "referring_main_domains": 2363.8,
+        "rank": 369.9,
+        "main_domain_rank": 560.6,
+        "last_updated_time": "2025-07-15 14:24:59 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 13:49:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "free calorie tracker online",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 06:15:43 +00:00",
+        "competition": 0.37,
+        "competition_level": "MEDIUM",
+        "cpc": 1.99,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.67,
+        "high_top_of_page_bid": 2.39,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 1000,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 1000,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1000,
+          "2025-05": 1300,
+          "2025-04": 1300
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": -12,
+          "yearly": -32
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "free online calorie tracker",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 83,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 11446.4,
+        "dofollow": 6958.9,
+        "referring_pages": 9443.8,
+        "referring_domains": 2206.4,
+        "referring_main_domains": 2051.7,
+        "rank": 397.4,
+        "main_domain_rank": 512.1,
+        "last_updated_time": "2025-11-11 01:30:52 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 07:44:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best ai calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 15:27:38 +00:00",
+        "competition": 0.56,
+        "competition_level": "MEDIUM",
+        "cpc": 4.36,
+        "search_volume": 720,
+        "low_top_of_page_bid": 1.56,
+        "high_top_of_page_bid": 6.36,
+        "categories": [
+          10011,
+          10086
+        ],
+        "monthly_searches": {
+          "2026-04": 720,
+          "2026-03": 720,
+          "2026-02": 720,
+          "2026-01": 1000,
+          "2025-12": 590,
+          "2025-11": 480,
+          "2025-10": 480,
+          "2025-09": 590,
+          "2025-08": 720,
+          "2025-07": 720,
+          "2025-06": 880,
+          "2025-05": 720
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 50,
+        "detected_language": "it",
+        "is_another_language": true,
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 58.4,
+        "dofollow": 35.9,
+        "referring_pages": 45.7,
+        "referring_domains": 27.1,
+        "referring_main_domains": 26.6,
+        "rank": 229.6,
+        "main_domain_rank": 762.3,
+        "last_updated_time": "2026-05-20 22:03:40 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 03:28:08 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker watch",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 16:53:39 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.94,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 3.08,
+        "categories": [
+          10011,
+          10011,
+          10021,
+          10087,
+          10087,
+          10171,
+          10899,
+          11770,
+          11770,
+          12494,
+          12494,
+          12916
+        ],
+        "monthly_searches": {
+          "2026-04": 590,
+          "2026-03": 480,
+          "2026-02": 480,
+          "2026-01": 590,
+          "2025-12": 480,
+          "2025-11": 480,
+          "2025-10": 480,
+          "2025-09": 480,
+          "2025-08": 590,
+          "2025-07": 720,
+          "2025-06": 720,
+          "2025-05": 720
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": 23,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 34,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 274.7,
+        "dofollow": 147.5,
+        "referring_pages": 239.1,
+        "referring_domains": 120.4,
+        "referring_main_domains": 115.3,
+        "rank": 133.2,
+        "main_domain_rank": 699.1,
+        "last_updated_time": "2026-05-21 14:20:33 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 14:06:18 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker app for android",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 19:11:23 +00:00",
+        "competition": 0.21,
+        "competition_level": "LOW",
+        "cpc": 4.52,
+        "search_volume": 590,
+        "low_top_of_page_bid": 1.18,
+        "high_top_of_page_bid": 5.51,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-04": 210,
+          "2026-03": 210,
+          "2026-02": 170,
+          "2026-01": 210,
+          "2025-12": 140,
+          "2025-11": 1900,
+          "2025-10": 880,
+          "2025-09": 590,
+          "2025-08": 880,
+          "2025-07": 880,
+          "2025-06": 480,
+          "2025-05": 320
+        },
+        "search_volume_trend": {
+          "quarterly": 24,
+          "yearly": -34
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 63,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 19988.6,
+        "dofollow": 14188,
+        "referring_pages": 15686.3,
+        "referring_domains": 2059.1,
+        "referring_main_domains": 1871.2,
+        "rank": 332.8,
+        "main_domain_rank": 647.9,
+        "last_updated_time": "2024-10-09 10:50:10 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-29 07:05:58 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "watch calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 11:04:18 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.68,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.3,
+        "high_top_of_page_bid": 2.71,
+        "categories": [
+          10021,
+          10171,
+          10899
+        ],
+        "monthly_searches": {
+          "2026-03": 480,
+          "2026-02": 480,
+          "2026-01": 590,
+          "2025-12": 480,
+          "2025-11": 480,
+          "2025-10": 480,
+          "2025-09": 480,
+          "2025-08": 590,
+          "2025-07": 720,
+          "2025-06": 720,
+          "2025-05": 720,
+          "2025-04": 880
+        },
+        "search_volume_trend": {
+          "quarterly": -19,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker watch",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 34,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 328.4,
+        "dofollow": 246.8,
+        "referring_pages": 304.3,
+        "referring_domains": 96.9,
+        "referring_main_domains": 93,
+        "rank": 132.9,
+        "main_domain_rank": 682.8,
+        "last_updated_time": "2026-02-06 12:26:12 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 01:33:59 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker watches",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 19:47:30 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.68,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.3,
+        "high_top_of_page_bid": 2.71,
+        "categories": [
+          10021,
+          10171,
+          10899
+        ],
+        "monthly_searches": {
+          "2026-03": 480,
+          "2026-02": 480,
+          "2026-01": 590,
+          "2025-12": 480,
+          "2025-11": 480,
+          "2025-10": 480,
+          "2025-09": 480,
+          "2025-08": 590,
+          "2025-07": 720,
+          "2025-06": 720,
+          "2025-05": 720,
+          "2025-04": 880
+        },
+        "search_volume_trend": {
+          "quarterly": -19,
+          "yearly": -45
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker watch",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 34,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-08 04:11:57 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker apple watch",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 03:23:40 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 2.5,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.74,
+        "high_top_of_page_bid": 2.38,
+        "categories": [
+          10021,
+          10171,
+          10899
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 390,
+          "2025-11": 320,
+          "2025-10": 390,
+          "2025-09": 390,
+          "2025-08": 480,
+          "2025-07": 590,
+          "2025-06": 590,
+          "2025-05": 390,
+          "2025-04": 390
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker for apple watch",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 48,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9549.5,
+        "dofollow": 6226.5,
+        "referring_pages": 7775.1,
+        "referring_domains": 1741.9,
+        "referring_main_domains": 1630.1,
+        "rank": 188.2,
+        "main_domain_rank": 694.8,
+        "last_updated_time": "2026-04-21 03:36:47 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-04-29 09:11:44 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "watch with calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 17:27:56 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.94,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 3.08,
+        "categories": [
+          10011,
+          10021,
+          10087,
+          10171,
+          10899,
+          11770,
+          12494,
+          12916
+        ],
+        "monthly_searches": {
+          "2026-04": 590,
+          "2026-03": 480,
+          "2026-02": 480,
+          "2026-01": 590,
+          "2025-12": 480,
+          "2025-11": 480,
+          "2025-10": 480,
+          "2025-09": 480,
+          "2025-08": 590,
+          "2025-07": 720,
+          "2025-06": 720,
+          "2025-05": 720
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": 23,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker watch",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 18,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 321,
+        "dofollow": 237.6,
+        "referring_pages": 290.8,
+        "referring_domains": 92.4,
+        "referring_main_domains": 89.2,
+        "rank": 110.9,
+        "main_domain_rank": 735.2,
+        "last_updated_time": "2026-05-20 22:34:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-30 03:37:21 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "apple watch calorie tracker",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 00:22:06 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 2.5,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.74,
+        "high_top_of_page_bid": 2.38,
+        "categories": [
+          10021,
+          10171,
+          10899
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 390,
+          "2025-11": 320,
+          "2025-10": 390,
+          "2025-09": 390,
+          "2025-08": 480,
+          "2025-07": 590,
+          "2025-06": 590,
+          "2025-05": 390,
+          "2025-04": 390
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker for apple watch",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 26,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 242.3,
+        "dofollow": 145.5,
+        "referring_pages": 213.5,
+        "referring_domains": 110.9,
+        "referring_main_domains": 107,
+        "rank": 140.4,
+        "main_domain_rank": 736.4,
+        "last_updated_time": "2026-04-21 04:34:14 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 04:52:02 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker on apple watch",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 16:04:29 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 2.5,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.74,
+        "high_top_of_page_bid": 2.38,
+        "categories": [
+          10021,
+          10171,
+          10899
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 390,
+          "2025-11": 320,
+          "2025-10": 390,
+          "2025-09": 390,
+          "2025-08": 480,
+          "2025-07": 590,
+          "2025-06": 590,
+          "2025-05": 390,
+          "2025-04": 390
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "calorie tracker for apple watch",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 45,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 398.1,
+        "dofollow": 197.2,
+        "referring_pages": 357,
+        "referring_domains": 143.5,
+        "referring_main_domains": 136.2,
+        "rank": 215.9,
+        "main_domain_rank": 768,
+        "last_updated_time": "2024-10-06 06:11:12 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:48:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "free calorie tracker app iphone",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 05:01:20 +00:00",
+        "competition": 0.65,
+        "competition_level": "MEDIUM",
+        "cpc": 2.35,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.76,
+        "high_top_of_page_bid": 2.95,
+        "categories": [
+          10007,
+          10878,
+          13378,
+          13381
+        ],
+        "monthly_searches": {
+          "2026-04": 720,
+          "2026-03": 720,
+          "2026-02": 590,
+          "2026-01": 720,
+          "2025-12": 390,
+          "2025-11": 480,
+          "2025-10": 590,
+          "2025-09": 590,
+          "2025-08": 390,
+          "2025-07": 390,
+          "2025-06": 480,
+          "2025-05": 480
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": 85
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 60,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 546.9,
+        "dofollow": 264.9,
+        "referring_pages": 490.5,
+        "referring_domains": 196.5,
+        "referring_main_domains": 181.7,
+        "rank": 301.9,
+        "main_domain_rank": 654.4,
+        "last_updated_time": "2024-10-13 02:26:55 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 17:33:59 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calorie tracker for apple watch",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 01:47:39 +00:00",
+        "competition": 0.08,
+        "competition_level": "LOW",
+        "cpc": 2.5,
+        "search_volume": 590,
+        "low_top_of_page_bid": 0.74,
+        "high_top_of_page_bid": 2.38,
+        "categories": [
+          10021,
+          10171,
+          10899
+        ],
+        "monthly_searches": {
+          "2026-03": 880,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 390,
+          "2025-11": 320,
+          "2025-10": 390,
+          "2025-09": 390,
+          "2025-08": 480,
+          "2025-07": 590,
+          "2025-06": 590,
+          "2025-05": 390,
+          "2025-04": 390
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": 22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 49,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 341.5,
+        "dofollow": 192.1,
+        "referring_pages": 298.8,
+        "referring_domains": 142.4,
+        "referring_main_domains": 134.5,
+        "rank": 246.5,
+        "main_domain_rank": 750.9,
+        "last_updated_time": "2025-03-18 07:21:15 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 05:58:51 +00:00"
+      }
+    }
+  ]
+}

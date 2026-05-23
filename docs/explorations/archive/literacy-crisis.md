@@ -1,10 +1,27 @@
 # Literacy & Critical Thinking Crisis
 
-## Verdict (2026-05-07)
+## Verdict (2026-05-21, corrected)
 
-**The data is alarming and the opportunity is massive.** Reading, reasoning, and writing are deteriorating at every age group simultaneously, AI is accelerating it (esp. for under-25s), and the search demand for "critical thinking exercises" is **301,000/mo at KD 0-6** — virtually uncontested. The macro thesis is right: in a world where natural language is the new programming interface, *the people who can read deeply, reason carefully, and write clearly will compound. Everyone else will become dependent on the model and atrophy.*
+**Real macro thesis, much smaller buildable wedge than originally claimed.** Reading, reasoning, and writing are genuinely deteriorating at every age group, and AI is accelerating it — that case is well-sourced and unchanged. But the SEO opportunity is much narrower than the original 2026-05-07 verdict said. The "301,000/mo at KD 0-6" claim for "critical thinking exercises" was a data artifact (see correction below). Real practice-intent demand is ~1–2k/mo across all variants, and the broader informational topic ("what is critical thinking" at 65k/mo) is KD 30–58 territory owned by Wikipedia and university sites.
 
-This isn't just a business opportunity — it's a generational mission. And right now nobody is building the modern, AI-augmented version of "teach yourself to think."
+This still matters — the macro tailwind is real, the divide forming in 17–25 year olds is real, and "AI that resists you" is a contrarian product nobody is building. But it's a brand/audience-led play (newsletter, Twitter, content), not the SEO arbitrage flywheel the original verdict implied.
+
+## Data correction (2026-05-21)
+
+The 2026-05-07 entry cited "critical thinking exercises" at **301,000/mo, KD 0-6**. That number was DataForSEO's 12-month average inflated by a viral spike in **July–August 2025** where the keyword hit ~1.5–1.8M searches for two months (cause unclear — likely TikTok trend or news cycle).
+
+Actual monthly volume for that keyword:
+```
+2025-07: 1,500,000   ← spike
+2025-08: 1,830,000   ← spike
+2025-09:    90,500
+2025-10:     5,400
+2025-11–2026-03:  720–1,300/mo
+```
+
+Trend: **-32% month-over-month** as of 2026-03. Real, sustained demand for the practice-intent "exercises / drills" cluster is **~1,000/mo combined** — not 301k. The KD-0-6 number was likely also affected by the volume anomaly.
+
+Lesson: when a single keyword shows 100× the volume of close synonyms, check the monthly breakdown before building a thesis on it.
 
 ## Hard data
 

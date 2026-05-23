@@ -1,0 +1,3206 @@
+{
+  "id": "05220405-1663-0399-0000-cff72c54715f",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "items": [
+    {
+      "se_type": "google",
+      "keyword": "fat in body calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 08:21:27 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 1.12,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.12,
+        "high_top_of_page_bid": 1.51,
+        "categories": [
+          10004,
+          10011,
+          10087,
+          10300,
+          11328,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500,
+          "2025-04": 90500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "fat index calculator",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 29,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9000.3,
+        "dofollow": 6473,
+        "referring_pages": 8721.1,
+        "referring_domains": 1373.8,
+        "referring_main_domains": 1207.9,
+        "rank": 317,
+        "main_domain_rank": 484.6,
+        "last_updated_time": "2024-09-14 21:17:45 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 06:49:35 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fat body calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 22:04:56 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 1.12,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.12,
+        "high_top_of_page_bid": 1.51,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500,
+          "2025-04": 90500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 35,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4877.6,
+        "dofollow": 3407.6,
+        "referring_pages": 4741.5,
+        "referring_domains": 602.2,
+        "referring_main_domains": 527.4,
+        "rank": 281.3,
+        "main_domain_rank": 410.2,
+        "last_updated_time": "2024-09-14 21:17:50 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 22:53:41 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body to fat calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 10:27:30 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 1.12,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.12,
+        "high_top_of_page_bid": 1.51,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500,
+          "2025-04": 90500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 35,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 500.1,
+        "dofollow": 180.5,
+        "referring_pages": 487,
+        "referring_domains": 125.1,
+        "referring_main_domains": 119.7,
+        "rank": 268.3,
+        "main_domain_rank": 434.6,
+        "last_updated_time": "2024-10-12 13:26:59 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 11:42:01 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat content calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 17:18:15 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 1.12,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.12,
+        "high_top_of_page_bid": 1.51,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500,
+          "2025-04": 90500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "fat index calculator",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 29,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 619.7,
+        "dofollow": 253.2,
+        "referring_pages": 567.3,
+        "referring_domains": 152.4,
+        "referring_main_domains": 145.9,
+        "rank": 297.1,
+        "main_domain_rank": 442,
+        "last_updated_time": "2024-10-12 13:26:39 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-25 09:09:47 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat rate calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 12:28:28 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 1.12,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.12,
+        "high_top_of_page_bid": 1.51,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500,
+          "2025-04": 90500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 52,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 622.2,
+        "dofollow": 250.4,
+        "referring_pages": 571.1,
+        "referring_domains": 152.1,
+        "referring_main_domains": 145.7,
+        "rank": 277.6,
+        "main_domain_rank": 404.4,
+        "last_updated_time": "2024-10-12 13:26:41 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 07:56:03 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat level calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 12:37:55 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 1.12,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.12,
+        "high_top_of_page_bid": 1.51,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500,
+          "2025-04": 90500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "fat index calculator",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 29,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 5096.3,
+        "dofollow": 3622.9,
+        "referring_pages": 4888.6,
+        "referring_domains": 985,
+        "referring_main_domains": 877,
+        "rank": 300.5,
+        "main_domain_rank": 454,
+        "last_updated_time": "2024-10-12 13:26:43 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 00:24:23 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat index calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 11:53:58 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 1.12,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.12,
+        "high_top_of_page_bid": 1.51,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500,
+          "2025-04": 90500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 66,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9801.7,
+        "dofollow": 6774.5,
+        "referring_pages": 9482.9,
+        "referring_domains": 1499.6,
+        "referring_main_domains": 1327.3,
+        "rank": 325.8,
+        "main_domain_rank": 478.8,
+        "last_updated_time": "2024-09-14 21:19:37 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 03:54:05 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat calculator calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 14:01:45 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 1.12,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.12,
+        "high_top_of_page_bid": 1.51,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500,
+          "2025-04": 90500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 35,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4979.2,
+        "dofollow": 3561.1,
+        "referring_pages": 4808.2,
+        "referring_domains": 965.8,
+        "referring_main_domains": 858.5,
+        "rank": 309.1,
+        "main_domain_rank": 470.5,
+        "last_updated_time": "2024-10-12 13:26:41 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 01:01:23 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body calculator fat",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 18:02:43 +00:00",
+        "competition": 0.02,
+        "competition_level": "LOW",
+        "cpc": 1.28,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.13,
+        "high_top_of_page_bid": 1.91,
+        "categories": [
+          10004,
+          10004,
+          10011,
+          10087,
+          10300,
+          10300,
+          11328,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-04": 74000,
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 35,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4732,
+        "dofollow": 3263.9,
+        "referring_pages": 4608.1,
+        "referring_domains": 552.6,
+        "referring_main_domains": 486.5,
+        "rank": 292.8,
+        "main_domain_rank": 450.4,
+        "last_updated_time": "2024-09-14 21:19:37 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 03:53:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 14:37:50 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 1.12,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.12,
+        "high_top_of_page_bid": 1.51,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500,
+          "2025-04": 90500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 35,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 536,
+        "dofollow": 191.5,
+        "referring_pages": 510.9,
+        "referring_domains": 155.8,
+        "referring_main_domains": 147.5,
+        "rank": 218.9,
+        "main_domain_rank": 447.9,
+        "last_updated_time": "2026-05-14 19:19:28 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 02:35:45 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calculator for body fat",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 12:57:27 +00:00",
+        "competition": 0.02,
+        "competition_level": "LOW",
+        "cpc": 1.28,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.13,
+        "high_top_of_page_bid": 1.91,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-04": 74000,
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 35,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 228.4,
+        "dofollow": 110.9,
+        "referring_pages": 219,
+        "referring_domains": 88.6,
+        "referring_main_domains": 85.1,
+        "rank": 157,
+        "main_domain_rank": 439,
+        "last_updated_time": "2025-11-09 02:44:06 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 05:35:00 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calculator of body fat",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 19:40:34 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 1.12,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.12,
+        "high_top_of_page_bid": 1.51,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500,
+          "2025-04": 90500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 35,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 5563.6,
+        "dofollow": 3550.5,
+        "referring_pages": 5368.2,
+        "referring_domains": 1052.1,
+        "referring_main_domains": 939.7,
+        "rank": 288.4,
+        "main_domain_rank": 477.2,
+        "last_updated_time": "2024-11-16 16:08:50 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-26 21:36:58 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calculate body fat calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-15 08:52:18 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 1.12,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.12,
+        "high_top_of_page_bid": 1.51,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500,
+          "2025-04": 90500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "fat index calculator",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 29,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 839.3,
+        "dofollow": 421.7,
+        "referring_pages": 773.7,
+        "referring_domains": 196.3,
+        "referring_main_domains": 181.3,
+        "rank": 309.8,
+        "main_domain_rank": 417.7,
+        "last_updated_time": "2024-10-12 13:26:38 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-26 21:52:17 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fat calculator body",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 05:23:29 +00:00",
+        "competition": 0.02,
+        "competition_level": "LOW",
+        "cpc": 1.28,
+        "search_volume": 74000,
+        "low_top_of_page_bid": 0.13,
+        "high_top_of_page_bid": 1.91,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 74000,
+          "2026-03": 74000,
+          "2026-02": 60500,
+          "2026-01": 60500,
+          "2025-12": 49500,
+          "2025-11": 60500,
+          "2025-10": 60500,
+          "2025-09": 60500,
+          "2025-08": 74000,
+          "2025-07": 90500,
+          "2025-06": 74000,
+          "2025-05": 90500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 35,
+        "detected_language": "en",
+        "words_count": 3
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4694.9,
+        "dofollow": 3250.2,
+        "referring_pages": 4568.4,
+        "referring_domains": 558.7,
+        "referring_main_domains": 492.7,
+        "rank": 291.3,
+        "main_domain_rank": 438,
+        "last_updated_time": "2024-09-14 21:17:46 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 07:58:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calculator for body fat percentage",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 10:03:55 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10004,
+          10004,
+          10011,
+          10087,
+          10300,
+          10300,
+          11328,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4810.7,
+        "dofollow": 3417.6,
+        "referring_pages": 4641.5,
+        "referring_domains": 945.6,
+        "referring_main_domains": 840.4,
+        "rank": 286.1,
+        "main_domain_rank": 457.2,
+        "last_updated_time": "2024-09-14 21:44:58 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-25 22:42:25 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body calculator fat percentage",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 04:05:17 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 719.7,
+        "dofollow": 349,
+        "referring_pages": 693.4,
+        "referring_domains": 169,
+        "referring_main_domains": 155.1,
+        "rank": 281,
+        "main_domain_rank": 410.3,
+        "last_updated_time": "2024-10-12 13:34:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-25 20:08:42 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat calculator percentage",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 07:02:08 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 635.9,
+        "dofollow": 253.7,
+        "referring_pages": 582,
+        "referring_domains": 151.9,
+        "referring_main_domains": 145.2,
+        "rank": 278.4,
+        "main_domain_rank": 414.9,
+        "last_updated_time": "2024-09-14 21:46:12 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 11:42:00 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat composition calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 21:11:07 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.29,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 2.88,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-04": 49500,
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 40500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 460.3,
+        "dofollow": 178.1,
+        "referring_pages": 448,
+        "referring_domains": 119.4,
+        "referring_main_domains": 114.3,
+        "rank": 270.5,
+        "main_domain_rank": 447.7,
+        "last_updated_time": "2024-10-12 13:34:34 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 23:57:35 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fat percentage in body calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 17:13:22 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4931.2,
+        "dofollow": 3489.7,
+        "referring_pages": 4722.1,
+        "referring_domains": 973,
+        "referring_main_domains": 866.5,
+        "rank": 301.4,
+        "main_domain_rank": 464.6,
+        "last_updated_time": "2024-09-14 21:42:32 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:27:44 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calculator of body fat percentage",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 04:45:36 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 579.6,
+        "dofollow": 240.9,
+        "referring_pages": 524.6,
+        "referring_domains": 141.2,
+        "referring_main_domains": 135.2,
+        "rank": 235.2,
+        "main_domain_rank": 439.9,
+        "last_updated_time": "2024-11-28 08:53:02 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 01:11:43 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calculate body fat percentage calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 06:30:28 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.29,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 2.88,
+        "categories": [
+          10004,
+          10004,
+          10011,
+          10087,
+          10300,
+          10300,
+          11328,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-04": 49500,
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 40500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 597.8,
+        "dofollow": 245.1,
+        "referring_pages": 546.4,
+        "referring_domains": 146.2,
+        "referring_main_domains": 140.1,
+        "rank": 275,
+        "main_domain_rank": 433.2,
+        "last_updated_time": "2024-10-12 13:34:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 06:03:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "percentage body fat calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 02:27:22 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 612.2,
+        "dofollow": 250.7,
+        "referring_pages": 558.5,
+        "referring_domains": 146.9,
+        "referring_main_domains": 140.5,
+        "rank": 275,
+        "main_domain_rank": 429.9,
+        "last_updated_time": "2024-10-04 13:07:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-05-04 21:38:36 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "percent of body fat calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 00:13:36 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.29,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 2.88,
+        "categories": [
+          10004,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-04": 49500,
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 40500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 474.3,
+        "dofollow": 179.1,
+        "referring_pages": 461.2,
+        "referring_domains": 123.4,
+        "referring_main_domains": 118.1,
+        "rank": 256.5,
+        "main_domain_rank": 434.5,
+        "last_updated_time": "2024-10-12 13:32:03 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:37:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat percentage calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 02:57:18 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 294.7,
+        "dofollow": 134.5,
+        "referring_pages": 272.7,
+        "referring_domains": 79.9,
+        "referring_main_domains": 76.1,
+        "rank": 153,
+        "main_domain_rank": 416.6,
+        "last_updated_time": "2026-05-14 20:34:38 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 02:47:38 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "find body fat percentage calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-13 20:16:19 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4784.5,
+        "dofollow": 3416.3,
+        "referring_pages": 4615.3,
+        "referring_domains": 943.9,
+        "referring_main_domains": 838.8,
+        "rank": 274.3,
+        "main_domain_rank": 457.3,
+        "last_updated_time": "2024-09-14 21:42:28 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 18:25:42 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat ratio calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 21:59:42 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.29,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 2.88,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 49500,
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 40500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 50,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 625.1,
+        "dofollow": 252.3,
+        "referring_pages": 570.2,
+        "referring_domains": 150.9,
+        "referring_main_domains": 144.5,
+        "rank": 287.8,
+        "main_domain_rank": 417.3,
+        "last_updated_time": "2024-10-04 13:08:26 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 06:29:57 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "percent body fat calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 14:55:14 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10004,
+          10004,
+          10011,
+          10087,
+          10300,
+          10300,
+          11328,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 24,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 363.3,
+        "dofollow": 171.5,
+        "referring_pages": 312,
+        "referring_domains": 72,
+        "referring_main_domains": 68.6,
+        "rank": 132.4,
+        "main_domain_rank": 453.6,
+        "last_updated_time": "2026-04-18 03:55:42 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 00:28:41 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "estimated body fat percentage calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 17:36:31 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.29,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 2.88,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-04": 49500,
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 40500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 43,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 569.2,
+        "dofollow": 236.6,
+        "referring_pages": 519.7,
+        "referring_domains": 148.7,
+        "referring_main_domains": 143.1,
+        "rank": 237.6,
+        "main_domain_rank": 385,
+        "last_updated_time": "2024-10-12 13:33:49 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 15:39:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fat body percentage calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 01:45:23 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 625.1,
+        "dofollow": 252.3,
+        "referring_pages": 570.2,
+        "referring_domains": 150.9,
+        "referring_main_domains": 144.5,
+        "rank": 287.8,
+        "main_domain_rank": 417.3,
+        "last_updated_time": "2024-10-04 13:09:09 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 18:10:57 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fat percentage body calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-20 08:51:12 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.29,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 2.88,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-04": 49500,
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 40500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 231.4,
+        "dofollow": 111.5,
+        "referring_pages": 223.6,
+        "referring_domains": 86.9,
+        "referring_main_domains": 83.7,
+        "rank": 135.1,
+        "main_domain_rank": 345.2,
+        "last_updated_time": "2025-11-09 02:59:10 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 08:27:44 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat percentages calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 02:11:14 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.29,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 2.88,
+        "categories": [
+          10004,
+          10300
+        ],
+        "monthly_searches": {
+          "2026-04": 49500,
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 40500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 3626.6,
+        "dofollow": 2219,
+        "referring_pages": 3487.1,
+        "referring_domains": 828.1,
+        "referring_main_domains": 765.5,
+        "rank": 256.3,
+        "main_domain_rank": 468.1,
+        "last_updated_time": "2025-05-11 18:35:06 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 03:46:41 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "determine body fat percentage calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 14:45:03 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentages calculator",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 53,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 597.8,
+        "dofollow": 245.1,
+        "referring_pages": 546.4,
+        "referring_domains": 146.2,
+        "referring_main_domains": 140.1,
+        "rank": 275,
+        "main_domain_rank": 433.2,
+        "last_updated_time": "2024-10-12 13:33:59 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-27 17:33:26 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "calculator body fat percentage",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 14:24:31 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4931.2,
+        "dofollow": 3489.7,
+        "referring_pages": 4722.1,
+        "referring_domains": 973,
+        "referring_main_domains": 866.5,
+        "rank": 301.7,
+        "main_domain_rank": 464.7,
+        "last_updated_time": "2024-09-19 10:35:36 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-30 03:28:38 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "percentage of body fat calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 23:36:32 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.29,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 2.88,
+        "categories": [
+          10004,
+          10004,
+          10011,
+          10087,
+          10300,
+          10300,
+          11328,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-04": 49500,
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 40500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentage calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 25,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 219.6,
+        "dofollow": 96.5,
+        "referring_pages": 204,
+        "referring_domains": 74.5,
+        "referring_main_domains": 70.7,
+        "rank": 139.5,
+        "main_domain_rank": 335.4,
+        "last_updated_time": "2026-01-27 03:37:07 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 18:59:09 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat indicator calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 20:17:53 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "cpc": 1.95,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 2.34,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 49500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500,
+          "2025-04": 60500
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat percentages calculator",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "keyword_difficulty": 53,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 4958,
+        "dofollow": 3553.5,
+        "referring_pages": 4787.8,
+        "referring_domains": 959.9,
+        "referring_main_domains": 852.9,
+        "rank": 296.5,
+        "main_domain_rank": 483.6,
+        "last_updated_time": "2024-10-12 13:34:40 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-25 20:08:43 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fat body index calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 01:07:41 +00:00",
+        "competition": 0.03,
+        "competition_level": "LOW",
+        "cpc": 2.29,
+        "search_volume": 49500,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 2.88,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-04": 49500,
+          "2026-03": 49500,
+          "2026-02": 40500,
+          "2026-01": 49500,
+          "2025-12": 33100,
+          "2025-11": 40500,
+          "2025-10": 40500,
+          "2025-09": 40500,
+          "2025-08": 49500,
+          "2025-07": 60500,
+          "2025-06": 60500,
+          "2025-05": 60500
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat index calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 52,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 5671.9,
+        "dofollow": 3802,
+        "referring_pages": 5460.2,
+        "referring_domains": 1076.6,
+        "referring_main_domains": 962.3,
+        "rank": 293.5,
+        "main_domain_rank": 476.9,
+        "last_updated_time": "2024-10-04 13:07:51 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:01:46 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "army fitness calculator body fat",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 09:13:44 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-04": 18100,
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 35.3,
+        "dofollow": 21.8,
+        "referring_pages": 33.7,
+        "referring_domains": 11.2,
+        "referring_main_domains": 10.7,
+        "rank": 67.7,
+        "main_domain_rank": 318.9,
+        "last_updated_time": "2026-05-15 03:35:53 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 05:24:59 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "army body fat composition calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-14 04:22:32 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200,
+          "2025-04": 27100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 38.8,
+        "dofollow": 23.9,
+        "referring_pages": 36.4,
+        "referring_domains": 13,
+        "referring_main_domains": 12.4,
+        "rank": 84.1,
+        "main_domain_rank": 397.5,
+        "last_updated_time": "2026-05-15 03:44:27 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 03:23:38 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat army calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 03:36:57 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200,
+          "2025-04": 27100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "army body fat calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 38.8,
+        "dofollow": 23.9,
+        "referring_pages": 36.4,
+        "referring_domains": 13,
+        "referring_main_domains": 12.4,
+        "rank": 84.1,
+        "main_domain_rank": 330.3,
+        "last_updated_time": "2026-05-15 03:29:28 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 03:42:02 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "army percent body fat calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-18 17:58:03 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200,
+          "2025-04": 27100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 36.5,
+        "dofollow": 22.5,
+        "referring_pages": 34.9,
+        "referring_domains": 12.1,
+        "referring_main_domains": 11.6,
+        "rank": 72.4,
+        "main_domain_rank": 337,
+        "last_updated_time": "2026-05-15 03:36:13 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-24 19:35:30 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "apft calculator body fat",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 15:37:48 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 18100,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200,
+          "2025-04": 27100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "apft body fat calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 47.8,
+        "dofollow": 24,
+        "referring_pages": 45.9,
+        "referring_domains": 14.4,
+        "referring_main_domains": 13.8,
+        "rank": 87.8,
+        "main_domain_rank": 392.9,
+        "last_updated_time": "2026-05-15 03:37:34 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-28 23:49:55 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat percentage calculator army",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 05:32:46 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-04": 18100,
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "army calculate body fat percentage",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 38.8,
+        "dofollow": 23.9,
+        "referring_pages": 36.4,
+        "referring_domains": 13,
+        "referring_main_domains": 12.4,
+        "rank": 84.1,
+        "main_domain_rank": 345.5,
+        "last_updated_time": "2026-05-15 03:29:36 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 05:55:55 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "army body fat content calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 15:53:47 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200,
+          "2025-04": 27100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "body fat content calculator army",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 38.8,
+        "dofollow": 23.9,
+        "referring_pages": 36.4,
+        "referring_domains": 13,
+        "referring_main_domains": 12.4,
+        "rank": 84.1,
+        "main_domain_rank": 330.3,
+        "last_updated_time": "2026-05-15 03:46:40 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-25 01:57:30 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "apft body fat calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-19 17:13:00 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 18100,
+        "categories": [
+          10004,
+          10004,
+          10300,
+          10300,
+          11328
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200,
+          "2025-04": 27100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 38.8,
+        "dofollow": 23.9,
+        "referring_pages": 36.4,
+        "referring_domains": 13,
+        "referring_main_domains": 12.4,
+        "rank": 84.1,
+        "main_domain_rank": 445.5,
+        "last_updated_time": "2026-05-15 03:36:42 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 14:13:26 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat calculator for army",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-21 21:15:43 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-04": 18100,
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "army body fat calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 40,
+        "dofollow": 24.6,
+        "referring_pages": 37.6,
+        "referring_domains": 13.9,
+        "referring_main_domains": 13.3,
+        "rank": 88.8,
+        "main_domain_rank": 364.5,
+        "last_updated_time": "2026-05-15 03:40:31 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 00:09:11 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "army body fat index calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 06:51:44 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200,
+          "2025-04": 27100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 38.8,
+        "dofollow": 23.9,
+        "referring_pages": 36.4,
+        "referring_domains": 13,
+        "referring_main_domains": 12.4,
+        "rank": 84.1,
+        "main_domain_rank": 345.5,
+        "last_updated_time": "2026-05-15 03:35:56 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 02:24:12 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "army body fat percentage calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-16 02:40:38 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200,
+          "2025-04": 27100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "army calculate body fat percentage",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 38.9,
+        "dofollow": 24,
+        "referring_pages": 36.5,
+        "referring_domains": 13.1,
+        "referring_main_domains": 12.5,
+        "rank": 85.6,
+        "main_domain_rank": 445.5,
+        "last_updated_time": "2026-05-15 03:35:59 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 05:12:02 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "army body fat calculator",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 04:26:47 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200,
+          "2025-04": 27100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 38.9,
+        "dofollow": 24,
+        "referring_pages": 36.5,
+        "referring_domains": 13.1,
+        "referring_main_domains": 12.5,
+        "rank": 85.6,
+        "main_domain_rank": 430.3,
+        "last_updated_time": "2026-05-15 03:35:50 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 00:13:05 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "body fat content calculator army",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-05-19 14:43:57 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "cpc": 1.6,
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-04": 18100,
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 40,
+        "dofollow": 24.6,
+        "referring_pages": 37.6,
+        "referring_domains": 13.9,
+        "referring_main_domains": 13.3,
+        "rank": 88.8,
+        "main_domain_rank": 364.5,
+        "last_updated_time": "2026-05-15 03:29:57 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 03:18:14 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "army calculator body fat",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-04-17 17:31:49 +00:00",
+        "competition": 0,
+        "competition_level": "LOW",
+        "search_volume": 18100,
+        "categories": [
+          10011,
+          10087,
+          11770,
+          12494,
+          12922
+        ],
+        "monthly_searches": {
+          "2026-03": 18100,
+          "2026-02": 14800,
+          "2026-01": 14800,
+          "2025-12": 18100,
+          "2025-11": 18100,
+          "2025-10": 22200,
+          "2025-09": 22200,
+          "2025-08": 18100,
+          "2025-07": 18100,
+          "2025-06": 18100,
+          "2025-05": 22200,
+          "2025-04": 27100
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "army body fat calculator",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": 8,
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 38.8,
+        "dofollow": 23.9,
+        "referring_pages": 36.4,
+        "referring_domains": 13,
+        "referring_main_domains": 12.4,
+        "rank": 84.1,
+        "main_domain_rank": 330.3,
+        "last_updated_time": "2026-05-15 03:35:47 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "last_updated_time": "2026-04-29 02:49:09 +00:00"
+      }
+    }
+  ]
+}
