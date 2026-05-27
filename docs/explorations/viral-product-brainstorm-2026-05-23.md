@@ -1,6 +1,8 @@
 # Viral Product Brainstorm — Three Niches Through a TikTok/Comedy Lens
 
 > Created 2026-05-23 — divergent ideation across the three niches surfaced in [baseball-training-robotics.md](./baseball-training-robotics.md), [elderly-care-tech.md](./elderly-care-tech.md), and [loneliness-social-connection.md](./loneliness-social-connection.md). Filter: which ideas have a built-in viral lever — comedy, character, or wholesome-cringe — that turns the marketing into the product.
+>
+> **Execution manual:** see [ugc-growth-system-nicole-2026-05-26.md](./ugc-growth-system-nicole-2026-05-26.md) — *how* to actually scale any of these to 100M+ views/mo via a designed UGC creator system (this doc picks the character; that doc runs the distribution machine).
 
 ## Verdict (2026-05-23)
 
