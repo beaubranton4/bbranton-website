@@ -34,8 +34,11 @@ Both are siblings — same "AI agent + character brand + take-rate pricing" patt
 
 | File | What it is |
 |---|---|
+| [ideas-list.md](./ideas-list.md) | Clean one-bullet-per-idea master list of everything on the board. Scan here first; depth lives in top-ideas.md. |
 | [guiding-principles.md](./guiding-principles.md) | The three rules every idea must pass — pain proximity, clear funnel, genuine passion. Upstream of the six-filter checklist below. |
+| [frameworks.md](./frameworks.md) | Generative lenses for *finding* ideas (vs. the rules that *evaluate* them). Holds the "developer-first AI-native rebuild" (Resend pattern) + the other sourcing patterns in use. |
 | [top-ideas.md](./top-ideas.md) | Master strategic doc — full thesis, 100-candidate brainstorm, validation pass, big-bet reference. Longer reference for when you need depth. |
+| [solopreneur-landscape-2026-05-27.md](./solopreneur-landscape-2026-05-27.md) | 2026 research on the solopreneur movement — archetype, new pains (context fragmentation, AI-output verification, tool sprawl), tools red/blue-ocean, and keyword landscape. Conclusion: the movement is real, the "solopreneur" keyword is weak, the opportunity is in the pains. |
 | [data/](./data/) | Raw DataForSEO keyword research (CSVs + JSONs) backing every number. Organized by date. See `data/README.md`. |
 
 ## What got archived
