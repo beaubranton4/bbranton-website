@@ -74,6 +74,10 @@ One bullet per idea. Terse on purpose — the detail lives in [top-ideas.md](./t
 - Agent-operable bookkeeping / ledger
 
 ## Data / AI tooling
+- ~~Free datasets via AI agents (general public)~~ — KILLED: "AI data analyst" pattern, LLM-killable, no pain proximity ([dataset-business-2026-05-31.md](./dataset-business-2026-05-31.md))
+- ~~Data-infra for pSEO/directory builders~~ — PARKED: ~0 search demand + "programmatic seo" trend declining 2400→720 (same file)
+- Amateur baseball recruiting/performance data — clean agent-callable API; high ARPU, rides Dugout Edge (survivor, see same file) `(new 2026-05-31)`
+- Youth development norms — data moat inside Dugout Edge + parent "on-track?" upsell (survivor, same file) `(new 2026-05-31)`
 - LLM token cost calculator
 - Cron expression builder
 - Regex builder + live tester
