@@ -1,0 +1,3 @@
+[    6137ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.pullpush.io/reddit/submission/search?title=low%20profile&subreddit=neweracaps,streetwear,malefashionadvice,findfashion&size=25&sort=desc&sort_type=score:0
+[    7141ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.pullpush.io/reddit/submission/search?title=tiny%20head&subreddit=neweracaps,streetwear,malefashionadvice,findfashion&size=25&sort=desc&sort_type=score:0
+[    8136ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.pullpush.io/reddit/submission/search?title=cap%20small&subreddit=neweracaps,streetwear,malefashionadvice,findfashion&size=25&sort=desc&sort_type=score:0

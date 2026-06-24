@@ -1,0 +1,5091 @@
+{
+  "id": "06222023-1663-0399-0000-995a4fec2fc4",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "items": [
+    {
+      "se_type": "google",
+      "keyword": "hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-12 02:38:29 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2,
+        "search_volume": 1300,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 1.87,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1600,
+          "2026-04": 1600,
+          "2026-03": 1600,
+          "2026-02": 1000,
+          "2026-01": 1000,
+          "2025-12": 880,
+          "2025-11": 1000,
+          "2025-10": 1000,
+          "2025-09": 1300,
+          "2025-08": 1600,
+          "2025-07": 1600,
+          "2025-06": 1900
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 4
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.4,
+        "dofollow": 0.1,
+        "referring_pages": 0.2,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 33.3,
+        "main_domain_rank": 363.1,
+        "last_updated_time": "2026-03-15 13:55:43 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-27 22:43:59 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "small hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-17 22:30:01 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2,
+        "search_volume": 1300,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 1.87,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1600,
+          "2026-04": 1600,
+          "2026-03": 1600,
+          "2026-02": 1000,
+          "2026-01": 1000,
+          "2025-12": 880,
+          "2025-11": 1000,
+          "2025-10": 1000,
+          "2025-09": 1300,
+          "2025-08": 1600,
+          "2025-07": 1600,
+          "2025-06": 1900
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "hats for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 404.6,
+        "last_updated_time": "2026-03-15 09:53:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 20:27:46 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "women hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-17 01:26:54 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.06,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.27,
+        "high_top_of_page_bid": 1.09,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1600,
+          "2026-04": 1300,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 880,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1300,
+          "2025-06": 1600
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": 60
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "women's hats for small heads",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 504.8,
+        "last_updated_time": "2026-03-15 18:00:13 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-30 00:46:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "women's hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-17 21:46:30 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.06,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.27,
+        "high_top_of_page_bid": 1.09,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1600,
+          "2026-04": 1300,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 880,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1300,
+          "2025-06": 1600
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": 60
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 469.8,
+        "last_updated_time": "2026-03-15 17:59:46 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 09:39:41 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "hats for small heads ladies",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 01:24:58 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.06,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.27,
+        "high_top_of_page_bid": 1.09,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1600,
+          "2026-04": 1300,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 880,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1300,
+          "2025-06": 1600
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": 60
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "ladies hats for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 439.3,
+        "last_updated_time": "2026-01-13 13:08:53 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-28 18:38:25 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "hats for women with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-13 15:55:11 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.06,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.27,
+        "high_top_of_page_bid": 1.09,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1600,
+          "2026-04": 1300,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 880,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1300,
+          "2025-06": 1600
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": 60
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "women's hats for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 480.3,
+        "last_updated_time": "2026-03-16 00:49:14 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-28 01:09:09 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "hats for small women's heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-15 13:04:08 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.06,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.27,
+        "high_top_of_page_bid": 1.09,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1600,
+          "2026-04": 1300,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 880,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1300,
+          "2025-06": 1600
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": 60
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "women's hats for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 5.5,
+        "dofollow": 5,
+        "referring_pages": 5.5,
+        "referring_domains": 3.4,
+        "referring_main_domains": 3,
+        "rank": 26.9,
+        "main_domain_rank": 351.9,
+        "last_updated_time": "2024-04-03 11:46:56 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "informational",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-05-03 05:36:05 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "ladies hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-11 17:56:51 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.06,
+        "search_volume": 1000,
+        "low_top_of_page_bid": 0.27,
+        "high_top_of_page_bid": 1.09,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1600,
+          "2026-04": 1300,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 720,
+          "2025-11": 720,
+          "2025-10": 880,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1300,
+          "2025-06": 1600
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": 60
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 432.3,
+        "last_updated_time": "2026-01-29 06:53:09 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 16:36:02 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "mens hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-13 18:51:35 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.31,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.42,
+        "high_top_of_page_bid": 1.78,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1300,
+          "2026-04": 880,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 880,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1300
+        },
+        "search_volume_trend": {
+          "monthly": 48,
+          "quarterly": 30
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "hats for small heads men",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.7,
+        "dofollow": 0.7,
+        "referring_pages": 0.7,
+        "referring_domains": 0.3,
+        "referring_main_domains": 0.3,
+        "rank": 21.4,
+        "main_domain_rank": 620.9,
+        "last_updated_time": "2024-07-22 12:18:34 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 16:26:44 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "hats for small heads men",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-15 03:16:14 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.31,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.42,
+        "high_top_of_page_bid": 1.78,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1300,
+          "2026-04": 880,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 880,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1300
+        },
+        "search_volume_trend": {
+          "monthly": 48,
+          "quarterly": 30
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.1,
+        "dofollow": 0.1,
+        "referring_pages": 0.1,
+        "referring_domains": 0.1,
+        "referring_main_domains": 0.1,
+        "rank": 19.5,
+        "main_domain_rank": 510.2,
+        "last_updated_time": "2026-05-19 08:19:41 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-27 20:20:52 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "hats for men with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 15:35:03 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.31,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.42,
+        "high_top_of_page_bid": 1.78,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1300,
+          "2026-04": 880,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 880,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1300
+        },
+        "search_volume_trend": {
+          "monthly": 48,
+          "quarterly": 30
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "hats for small heads men",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.4,
+        "dofollow": 0.1,
+        "referring_pages": 0.2,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 33.3,
+        "main_domain_rank": 461.1,
+        "last_updated_time": "2026-03-30 16:32:00 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-27 20:52:34 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "hats for guys with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-13 08:21:56 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.31,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.42,
+        "high_top_of_page_bid": 1.78,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1300,
+          "2026-04": 880,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 880,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1300
+        },
+        "search_volume_trend": {
+          "monthly": 48,
+          "quarterly": 30
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.5,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.3,
+        "referring_main_domains": 0.3,
+        "rank": 52.8,
+        "main_domain_rank": 479.5,
+        "last_updated_time": "2026-03-16 00:52:43 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-27 20:03:34 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "low profile hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 09:04:52 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.05,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.3,
+        "high_top_of_page_bid": 1.19,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 880,
+          "2026-04": 880,
+          "2026-03": 720,
+          "2026-02": 590,
+          "2026-01": 590,
+          "2025-12": 590,
+          "2025-11": 590,
+          "2025-10": 720,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1600,
+          "2025-06": 1900
+        },
+        "search_volume_trend": {
+          "quarterly": 22,
+          "yearly": -54
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 7.4,
+        "dofollow": 2.5,
+        "referring_pages": 2.5,
+        "referring_domains": 2.1,
+        "referring_main_domains": 0.1,
+        "rank": 17.8,
+        "main_domain_rank": 435.6,
+        "last_updated_time": "2026-05-19 07:41:37 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 14:25:24 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "hats for men small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-14 12:35:04 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.31,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.42,
+        "high_top_of_page_bid": 1.78,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1300,
+          "2026-04": 880,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 880,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1300
+        },
+        "search_volume_trend": {
+          "monthly": 48,
+          "quarterly": 30
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "hats for small heads men",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-27 22:38:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "men's hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-11 15:44:55 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.31,
+        "search_volume": 880,
+        "low_top_of_page_bid": 0.42,
+        "high_top_of_page_bid": 1.78,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 1300,
+          "2026-04": 880,
+          "2026-03": 1000,
+          "2026-02": 720,
+          "2026-01": 720,
+          "2025-12": 880,
+          "2025-11": 720,
+          "2025-10": 720,
+          "2025-09": 880,
+          "2025-08": 1000,
+          "2025-07": 1000,
+          "2025-06": 1300
+        },
+        "search_volume_trend": {
+          "monthly": 48,
+          "quarterly": 30
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "hats for small heads men",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0,
+        "dofollow": 0,
+        "referring_pages": 0,
+        "referring_domains": 0,
+        "referring_main_domains": 0,
+        "rank": 32.5,
+        "main_domain_rank": 441.7,
+        "last_updated_time": "2025-10-23 03:18:39 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-05-07 15:26:40 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "womens cowboy hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-13 21:39:32 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.64,
+        "search_volume": 390,
+        "low_top_of_page_bid": 0.22,
+        "high_top_of_page_bid": 0.84,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 170,
+          "2026-04": 210,
+          "2026-03": 210,
+          "2026-02": 210,
+          "2026-01": 260,
+          "2025-12": 260,
+          "2025-11": 320,
+          "2025-10": 480,
+          "2025-09": 480,
+          "2025-08": 590,
+          "2025-07": 720,
+          "2025-06": 880
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": -19,
+          "yearly": -83
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "women's cowboy hats for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.2,
+        "dofollow": 0.2,
+        "referring_pages": 0.2,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.1,
+        "rank": 3.2,
+        "main_domain_rank": 441.3,
+        "last_updated_time": "2025-06-01 18:15:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-30 01:38:18 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "women's cowboy hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 06:23:40 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.64,
+        "search_volume": 390,
+        "low_top_of_page_bid": 0.22,
+        "high_top_of_page_bid": 0.84,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 170,
+          "2026-04": 210,
+          "2026-03": 210,
+          "2026-02": 210,
+          "2026-01": 260,
+          "2025-12": 260,
+          "2025-11": 320,
+          "2025-10": 480,
+          "2025-09": 480,
+          "2025-08": 590,
+          "2025-07": 720,
+          "2025-06": 880
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "quarterly": -19,
+          "yearly": -83
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.2,
+        "dofollow": 0.2,
+        "referring_pages": 0.2,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.1,
+        "rank": 3.2,
+        "main_domain_rank": 428.5,
+        "last_updated_time": "2025-05-12 02:49:26 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-11 10:14:24 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "summer hats for small heads ladies",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-15 02:15:03 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.66,
+        "search_volume": 320,
+        "low_top_of_page_bid": 0.21,
+        "high_top_of_page_bid": 0.7,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 480,
+          "2026-04": 480,
+          "2026-03": 390,
+          "2026-02": 260,
+          "2026-01": 140,
+          "2025-12": 110,
+          "2025-11": 70,
+          "2025-10": 90,
+          "2025-09": 140,
+          "2025-08": 260,
+          "2025-07": 480,
+          "2025-06": 720
+        },
+        "search_volume_trend": {
+          "quarterly": 23,
+          "yearly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 417.7,
+        "last_updated_time": "2026-04-01 19:50:43 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 21:08:11 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "hats for small heads women",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 02:21:01 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.85,
+        "search_volume": 260,
+        "low_top_of_page_bid": 0.34,
+        "high_top_of_page_bid": 1.8,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 390,
+          "2026-04": 390,
+          "2026-03": 390,
+          "2026-02": 260,
+          "2026-01": 210,
+          "2025-12": 170,
+          "2025-11": 170,
+          "2025-10": 170,
+          "2025-09": 210,
+          "2025-08": 210,
+          "2025-07": 260,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "yearly": -34
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 402.3,
+        "last_updated_time": "2026-04-02 23:57:19 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-27 22:38:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "beach hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-13 19:47:47 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.51,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.34,
+        "high_top_of_page_bid": 1.22,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 320,
+          "2026-04": 320,
+          "2026-03": 320,
+          "2026-02": 140,
+          "2026-01": 170,
+          "2025-12": 50,
+          "2025-11": 50,
+          "2025-10": 50,
+          "2025-09": 90,
+          "2025-08": 140,
+          "2025-07": 320,
+          "2025-06": 590
+        },
+        "search_volume_trend": {
+          "yearly": -46
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 461.5,
+        "last_updated_time": "2026-03-05 13:01:52 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 01:23:26 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "good hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-14 08:09:35 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.08,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.39,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 210,
+          "2026-04": 260,
+          "2026-03": 210,
+          "2026-02": 140,
+          "2026-01": 140,
+          "2025-12": 110,
+          "2025-11": 170,
+          "2025-10": 170,
+          "2025-09": 170,
+          "2025-08": 210,
+          "2025-07": 260,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 22.2,
+        "dofollow": 21.5,
+        "referring_pages": 22.2,
+        "referring_domains": 4.6,
+        "referring_main_domains": 4.2,
+        "rank": 23.8,
+        "main_domain_rank": 548.1,
+        "last_updated_time": "2024-09-26 05:26:17 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-27 21:39:09 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "trucker hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 16:12:49 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.35,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.38,
+        "high_top_of_page_bid": 1.39,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 320,
+          "2026-04": 260,
+          "2026-03": 260,
+          "2026-02": 170,
+          "2026-01": 140,
+          "2025-12": 110,
+          "2025-11": 140,
+          "2025-10": 140,
+          "2025-09": 210,
+          "2025-08": 260,
+          "2025-07": 320,
+          "2025-06": 390
+        },
+        "search_volume_trend": {
+          "monthly": 23,
+          "quarterly": 23,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "trucker hat for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.2,
+        "dofollow": 0.2,
+        "referring_pages": 0.2,
+        "referring_domains": 0.1,
+        "referring_main_domains": 0.1,
+        "rank": 3.7,
+        "main_domain_rank": 546.6,
+        "last_updated_time": "2024-09-26 01:46:50 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 23:17:26 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "cool hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-14 14:23:30 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.08,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.39,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 210,
+          "2026-04": 260,
+          "2026-03": 210,
+          "2026-02": 140,
+          "2026-01": 140,
+          "2025-12": 110,
+          "2025-11": 170,
+          "2025-10": 170,
+          "2025-09": 170,
+          "2025-08": 210,
+          "2025-07": 260,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 22,
+        "dofollow": 21.3,
+        "referring_pages": 22,
+        "referring_domains": 4.5,
+        "referring_main_domains": 4.1,
+        "rank": 19.8,
+        "main_domain_rank": 553.3,
+        "last_updated_time": "2024-10-06 05:54:24 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-26 00:51:38 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-14 02:30:38 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.08,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.39,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 210,
+          "2026-04": 260,
+          "2026-03": 210,
+          "2026-02": 140,
+          "2026-01": 140,
+          "2025-12": 110,
+          "2025-11": 170,
+          "2025-10": 170,
+          "2025-09": 170,
+          "2025-08": 210,
+          "2025-07": 260,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "monthly": -19,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.4,
+        "dofollow": 0.1,
+        "referring_pages": 0.2,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 33.3,
+        "main_domain_rank": 550.9,
+        "last_updated_time": "2026-03-06 00:48:22 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-28 23:17:46 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "baseball hats for small heads ladies",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-14 22:02:36 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.68,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.35,
+        "high_top_of_page_bid": 1.55,
+        "categories": [
+          10014,
+          10021,
+          10116,
+          10178,
+          10941,
+          11902,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 260,
+          "2026-04": 260,
+          "2026-03": 210,
+          "2026-02": 140,
+          "2026-01": 110,
+          "2025-12": 70,
+          "2025-11": 90,
+          "2025-10": 170,
+          "2025-09": 170,
+          "2025-08": 210,
+          "2025-07": 260,
+          "2025-06": 320
+        },
+        "search_volume_trend": {
+          "quarterly": 24,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2.9,
+        "dofollow": 2.7,
+        "referring_pages": 2.9,
+        "referring_domains": 2.3,
+        "referring_main_domains": 2,
+        "rank": 19.6,
+        "main_domain_rank": 648,
+        "last_updated_time": "2024-05-21 15:53:09 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 00:34:01 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "baseball hats for women with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 19:42:24 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.68,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.35,
+        "high_top_of_page_bid": 1.55,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 260,
+          "2026-04": 260,
+          "2026-03": 210,
+          "2026-02": 140,
+          "2026-01": 110,
+          "2025-12": 70,
+          "2025-11": 90,
+          "2025-10": 170,
+          "2025-09": 170,
+          "2025-08": 210,
+          "2025-07": 260,
+          "2025-06": 320
+        },
+        "search_volume_trend": {
+          "quarterly": 24,
+          "yearly": -19
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2.9,
+        "dofollow": 2.7,
+        "referring_pages": 2.9,
+        "referring_domains": 2.3,
+        "referring_main_domains": 2,
+        "rank": 19.6,
+        "main_domain_rank": 681.4,
+        "last_updated_time": "2024-06-08 15:52:44 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-05-04 15:25:45 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "sun hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-14 15:40:23 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.51,
+        "search_volume": 210,
+        "low_top_of_page_bid": 0.34,
+        "high_top_of_page_bid": 1.22,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 320,
+          "2026-04": 320,
+          "2026-03": 320,
+          "2026-02": 140,
+          "2026-01": 170,
+          "2025-12": 50,
+          "2025-11": 50,
+          "2025-10": 50,
+          "2025-09": 90,
+          "2025-08": 140,
+          "2025-07": 320,
+          "2025-06": 590
+        },
+        "search_volume_trend": {
+          "yearly": -46
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 393.6,
+        "last_updated_time": "2026-04-02 13:33:14 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-30 01:31:56 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "womens beach hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-11 23:10:46 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.31,
+        "search_volume": 170,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 1.25,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 390,
+          "2026-04": 320,
+          "2026-03": 320,
+          "2026-02": 110,
+          "2026-01": 90,
+          "2025-12": 50,
+          "2025-11": 50,
+          "2025-10": 30,
+          "2025-09": 70,
+          "2025-08": 90,
+          "2025-07": 260,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": 86
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "beach hats for women with small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 396.1,
+        "last_updated_time": "2026-01-25 07:59:48 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-30 16:02:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "ladies sun hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-13 06:05:32 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.31,
+        "search_volume": 170,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 1.25,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 390,
+          "2026-04": 320,
+          "2026-03": 320,
+          "2026-02": 110,
+          "2026-01": 90,
+          "2025-12": 50,
+          "2025-11": 50,
+          "2025-10": 30,
+          "2025-09": 70,
+          "2025-08": 90,
+          "2025-07": 260,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": 86
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 407.4,
+        "last_updated_time": "2026-04-05 15:49:32 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-28 16:10:49 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best hats for men with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-13 09:31:34 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.93,
+        "search_volume": 170,
+        "low_top_of_page_bid": 0.45,
+        "high_top_of_page_bid": 1.86,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 260,
+          "2026-04": 260,
+          "2026-03": 170,
+          "2026-02": 170,
+          "2026-01": 140,
+          "2025-12": 110,
+          "2025-11": 170,
+          "2025-10": 90,
+          "2025-09": 110,
+          "2025-08": 170,
+          "2025-07": 210,
+          "2025-06": 210
+        },
+        "search_volume_trend": {
+          "quarterly": 53,
+          "yearly": 24
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "best hats for small heads men",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9.4,
+        "dofollow": 8.4,
+        "referring_pages": 9.3,
+        "referring_domains": 5.1,
+        "referring_main_domains": 4.7,
+        "rank": 18.9,
+        "main_domain_rank": 556.8,
+        "last_updated_time": "2025-08-30 03:37:31 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 05:39:03 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best hats for small heads men",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-15 06:45:14 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.93,
+        "search_volume": 170,
+        "low_top_of_page_bid": 0.45,
+        "high_top_of_page_bid": 1.86,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 260,
+          "2026-04": 260,
+          "2026-03": 170,
+          "2026-02": 170,
+          "2026-01": 140,
+          "2025-12": 110,
+          "2025-11": 170,
+          "2025-10": 90,
+          "2025-09": 110,
+          "2025-08": 170,
+          "2025-07": 210,
+          "2025-06": 210
+        },
+        "search_volume_trend": {
+          "quarterly": 53,
+          "yearly": 24
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9,
+        "dofollow": 8,
+        "referring_pages": 8.9,
+        "referring_domains": 5.1,
+        "referring_main_domains": 4.7,
+        "rank": 18.6,
+        "main_domain_rank": 655.2,
+        "last_updated_time": "2025-07-19 00:24:54 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 06:18:53 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best hats for guys with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-13 12:50:46 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.93,
+        "search_volume": 170,
+        "low_top_of_page_bid": 0.45,
+        "high_top_of_page_bid": 1.86,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 260,
+          "2026-04": 260,
+          "2026-03": 170,
+          "2026-02": 170,
+          "2026-01": 140,
+          "2025-12": 110,
+          "2025-11": 170,
+          "2025-10": 90,
+          "2025-09": 110,
+          "2025-08": 170,
+          "2025-07": 210,
+          "2025-06": 210
+        },
+        "search_volume_trend": {
+          "quarterly": 53,
+          "yearly": 24
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9.7,
+        "dofollow": 8.5,
+        "referring_pages": 9.4,
+        "referring_domains": 5.1,
+        "referring_main_domains": 4.7,
+        "rank": 17.4,
+        "main_domain_rank": 536.4,
+        "last_updated_time": "2025-09-09 13:48:42 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-25 04:13:05 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "beach hats for women with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 19:04:49 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.31,
+        "search_volume": 170,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 1.25,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 390,
+          "2026-04": 320,
+          "2026-03": 320,
+          "2026-02": 110,
+          "2026-01": 90,
+          "2025-12": 50,
+          "2025-11": 50,
+          "2025-10": 30,
+          "2025-09": 70,
+          "2025-08": 90,
+          "2025-07": 260,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": 86
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 407.4,
+        "last_updated_time": "2026-03-22 12:08:58 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-05-07 11:10:37 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "women's fedora hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 06:19:09 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.79,
+        "search_volume": 170,
+        "low_top_of_page_bid": 0.22,
+        "high_top_of_page_bid": 0.92,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 110,
+          "2026-04": 140,
+          "2026-03": 140,
+          "2026-02": 140,
+          "2026-01": 140,
+          "2025-12": 140,
+          "2025-11": 210,
+          "2025-10": 210,
+          "2025-09": 170,
+          "2025-08": 210,
+          "2025-07": 210,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "monthly": -21,
+          "quarterly": -21,
+          "yearly": -58
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0,
+        "dofollow": 0,
+        "referring_pages": 0,
+        "referring_domains": 0,
+        "referring_main_domains": 0,
+        "rank": 0.3,
+        "main_domain_rank": 323.9,
+        "last_updated_time": "2024-12-01 08:54:17 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-05-11 08:49:39 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "sun hats for small heads women",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-12 11:55:31 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.31,
+        "search_volume": 170,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 1.25,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 390,
+          "2026-04": 320,
+          "2026-03": 320,
+          "2026-02": 110,
+          "2026-01": 90,
+          "2025-12": 50,
+          "2025-11": 50,
+          "2025-10": 30,
+          "2025-09": 70,
+          "2025-08": 90,
+          "2025-07": 260,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": 86
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "sun hat for women with small head",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 408.3,
+        "last_updated_time": "2026-03-21 19:14:21 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-05-03 21:43:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fedora hats for women with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-12 05:30:52 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.79,
+        "search_volume": 170,
+        "low_top_of_page_bid": 0.22,
+        "high_top_of_page_bid": 0.92,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 110,
+          "2026-04": 140,
+          "2026-03": 140,
+          "2026-02": 140,
+          "2026-01": 140,
+          "2025-12": 140,
+          "2025-11": 210,
+          "2025-10": 210,
+          "2025-09": 170,
+          "2025-08": 210,
+          "2025-07": 210,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "monthly": -21,
+          "quarterly": -21,
+          "yearly": -58
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "women's fedora hats for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2.7,
+        "dofollow": 2.7,
+        "referring_pages": 2.7,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 9.7,
+        "main_domain_rank": 503.8,
+        "last_updated_time": "2026-04-04 01:46:12 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 07:21:04 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "sun hats for ladies with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-13 01:04:16 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.31,
+        "search_volume": 170,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 1.25,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 390,
+          "2026-04": 320,
+          "2026-03": 320,
+          "2026-02": 110,
+          "2026-01": 90,
+          "2025-12": 50,
+          "2025-11": 50,
+          "2025-10": 30,
+          "2025-09": 70,
+          "2025-08": 90,
+          "2025-07": 260,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": 86
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "ladies sun hats for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 5.4,
+        "dofollow": 5.1,
+        "referring_pages": 5.4,
+        "referring_domains": 2.5,
+        "referring_main_domains": 2.3,
+        "rank": 20.3,
+        "main_domain_rank": 397.2,
+        "last_updated_time": "2024-07-17 19:53:59 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 20:32:30 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "women's beach hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 19:18:35 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.31,
+        "search_volume": 170,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 1.25,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 390,
+          "2026-04": 320,
+          "2026-03": 320,
+          "2026-02": 110,
+          "2026-01": 90,
+          "2025-12": 50,
+          "2025-11": 50,
+          "2025-10": 30,
+          "2025-09": 70,
+          "2025-08": 90,
+          "2025-07": 260,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "monthly": 22,
+          "quarterly": 22,
+          "yearly": 86
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "beach hats for women with small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 377.6,
+        "last_updated_time": "2026-03-07 00:42:16 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-03 16:02:08 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "cowgirl hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 09:09:48 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.68,
+        "search_volume": 140,
+        "low_top_of_page_bid": 0.24,
+        "high_top_of_page_bid": 0.93,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 140,
+          "2026-04": 140,
+          "2026-03": 110,
+          "2026-02": 110,
+          "2026-01": 90,
+          "2025-12": 90,
+          "2025-11": 70,
+          "2025-10": 140,
+          "2025-09": 140,
+          "2025-08": 140,
+          "2025-07": 170,
+          "2025-06": 210
+        },
+        "search_volume_trend": {
+          "quarterly": 27,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "cowgirl hat for small head",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 68.9,
+        "dofollow": 42.2,
+        "referring_pages": 64.3,
+        "referring_domains": 33,
+        "referring_main_domains": 31.2,
+        "rank": 95.5,
+        "main_domain_rank": 426.7,
+        "last_updated_time": "2024-01-28 13:19:43 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-27 02:58:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "winter hats for small heads ladies",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 17:34:45 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.38,
+        "search_volume": 140,
+        "low_top_of_page_bid": 0.17,
+        "high_top_of_page_bid": 0.7,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 40,
+          "2026-04": 20,
+          "2026-03": 50,
+          "2026-02": 90,
+          "2026-01": 170,
+          "2025-12": 260,
+          "2025-11": 390,
+          "2025-10": 260,
+          "2025-09": 140,
+          "2025-08": 90,
+          "2025-07": 50,
+          "2025-06": 90
+        },
+        "search_volume_trend": {
+          "monthly": 100,
+          "quarterly": -20,
+          "yearly": 33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 441.7,
+        "last_updated_time": "2026-04-04 17:31:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-30 13:45:18 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "sun hats for women with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 03:04:16 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.47,
+        "search_volume": 140,
+        "low_top_of_page_bid": 0.38,
+        "high_top_of_page_bid": 1.39,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 390,
+          "2026-04": 260,
+          "2026-03": 170,
+          "2026-02": 110,
+          "2026-01": 70,
+          "2025-12": 30,
+          "2025-11": 50,
+          "2025-10": 50,
+          "2025-09": 70,
+          "2025-08": 70,
+          "2025-07": 210,
+          "2025-06": 210
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 129,
+          "yearly": 50
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "sun hat for women with small head",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 374,
+        "last_updated_time": "2026-03-07 02:19:45 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 20:27:04 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "cowboy hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-14 16:24:28 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.68,
+        "search_volume": 140,
+        "low_top_of_page_bid": 0.24,
+        "high_top_of_page_bid": 0.93,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 140,
+          "2026-04": 140,
+          "2026-03": 110,
+          "2026-02": 110,
+          "2026-01": 90,
+          "2025-12": 90,
+          "2025-11": 70,
+          "2025-10": 140,
+          "2025-09": 140,
+          "2025-08": 140,
+          "2025-07": 170,
+          "2025-06": 210
+        },
+        "search_volume_trend": {
+          "quarterly": 27,
+          "yearly": -18
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.4,
+        "dofollow": 0.4,
+        "referring_pages": 0.4,
+        "referring_domains": 0.3,
+        "referring_main_domains": 0.2,
+        "rank": 6.1,
+        "main_domain_rank": 459,
+        "last_updated_time": "2025-05-18 10:52:04 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-26 20:09:35 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "hard hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 06:05:30 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.12,
+        "search_volume": 110,
+        "low_top_of_page_bid": 0.27,
+        "high_top_of_page_bid": 1.5,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 110,
+          "2026-04": 140,
+          "2026-03": 140,
+          "2026-02": 110,
+          "2026-01": 90,
+          "2025-12": 70,
+          "2025-11": 110,
+          "2025-10": 110,
+          "2025-09": 110,
+          "2025-08": 140,
+          "2025-07": 110,
+          "2025-06": 110
+        },
+        "search_volume_trend": {
+          "monthly": -21,
+          "quarterly": -21,
+          "yearly": -48
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "hard hat for small head",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 3,
+        "dofollow": 2,
+        "referring_pages": 3,
+        "referring_domains": 1.4,
+        "referring_main_domains": 1.2,
+        "rank": 15.8,
+        "main_domain_rank": 518.5,
+        "last_updated_time": "2026-05-03 12:28:27 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-27 20:27:47 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "packable sun hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-12 00:15:51 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.02,
+        "search_volume": 110,
+        "low_top_of_page_bid": 0.28,
+        "high_top_of_page_bid": 0.86,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 210,
+          "2026-04": 170,
+          "2026-03": 170,
+          "2026-02": 90,
+          "2026-01": 90,
+          "2025-12": 20,
+          "2025-11": 30,
+          "2025-10": 40,
+          "2025-09": 90,
+          "2025-08": 110,
+          "2025-07": 170,
+          "2025-06": 170
+        },
+        "search_volume_trend": {
+          "monthly": 24,
+          "quarterly": 24,
+          "yearly": 24
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9.1,
+        "dofollow": 7.1,
+        "referring_pages": 8.1,
+        "referring_domains": 3.8,
+        "referring_main_domains": 3.8,
+        "rank": 19.4,
+        "main_domain_rank": 418.2,
+        "last_updated_time": "2026-05-28 12:55:32 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 18:55:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "bucket hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 11:04:49 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.28,
+        "search_volume": 110,
+        "low_top_of_page_bid": 0.33,
+        "high_top_of_page_bid": 1.57,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 140,
+          "2026-04": 140,
+          "2026-03": 90,
+          "2026-02": 50,
+          "2026-01": 70,
+          "2025-12": 50,
+          "2025-11": 40,
+          "2025-10": 40,
+          "2025-09": 70,
+          "2025-08": 110,
+          "2025-07": 210,
+          "2025-06": 260
+        },
+        "search_volume_trend": {
+          "quarterly": 56,
+          "yearly": -64
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 473.1,
+        "last_updated_time": "2026-03-06 16:25:08 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-25 00:32:59 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "baseball hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-17 22:31:47 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.53,
+        "search_volume": 110,
+        "low_top_of_page_bid": 0.39,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10014,
+          10021,
+          10116,
+          10178,
+          10941,
+          11902,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 170,
+          "2026-04": 170,
+          "2026-03": 170,
+          "2026-02": 90,
+          "2026-01": 70,
+          "2025-12": 70,
+          "2025-11": 70,
+          "2025-10": 70,
+          "2025-09": 90,
+          "2025-08": 90,
+          "2025-07": 110,
+          "2025-06": 140
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "baseball hat for small head",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.1,
+        "dofollow": 0.1,
+        "referring_pages": 0.1,
+        "referring_domains": 0.1,
+        "referring_main_domains": 0.1,
+        "rank": 19.5,
+        "main_domain_rank": 472.4,
+        "last_updated_time": "2026-05-04 02:28:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 05:25:14 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "hats for people with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-17 09:35:08 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.84,
+        "search_volume": 110,
+        "low_top_of_page_bid": 0.42,
+        "high_top_of_page_bid": 1.56,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 140,
+          "2026-04": 90,
+          "2026-03": 90,
+          "2026-02": 110,
+          "2026-01": 70,
+          "2025-12": 70,
+          "2025-11": 90,
+          "2025-10": 90,
+          "2025-09": 110,
+          "2025-08": 110,
+          "2025-07": 170,
+          "2025-06": 140
+        },
+        "search_volume_trend": {
+          "monthly": 56,
+          "quarterly": 56
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.2,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 33.6,
+        "main_domain_rank": 389.2,
+        "last_updated_time": "2026-05-27 23:47:39 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-28 01:34:32 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "women's sun hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 01:40:24 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.18,
+        "search_volume": 90,
+        "low_top_of_page_bid": 0.38,
+        "high_top_of_page_bid": 1.07,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 210,
+          "2026-04": 140,
+          "2026-03": 70,
+          "2026-02": 20,
+          "2026-01": 30,
+          "2025-12": 10,
+          "2025-11": 20,
+          "2025-10": 20,
+          "2025-09": 40,
+          "2025-08": 70,
+          "2025-07": 210,
+          "2025-06": 320
+        },
+        "search_volume_trend": {
+          "monthly": 50,
+          "quarterly": 200,
+          "yearly": -34
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "sun hat for women with small head",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 410.5,
+        "last_updated_time": "2026-03-21 15:15:32 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-05 23:14:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best sun hats for women with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-12 15:38:50 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.4,
+        "search_volume": 90,
+        "low_top_of_page_bid": 0.38,
+        "high_top_of_page_bid": 1.02,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 140,
+          "2026-04": 170,
+          "2026-03": 210,
+          "2026-02": 70,
+          "2026-01": 30,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 20,
+          "2025-09": 30,
+          "2025-08": 70,
+          "2025-07": 110,
+          "2025-06": 110
+        },
+        "search_volume_trend": {
+          "monthly": -18,
+          "quarterly": -33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 8
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 460.5,
+        "last_updated_time": "2026-03-26 06:42:00 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 00:48:58 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "women's straw hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 08:50:25 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.07,
+        "search_volume": 70,
+        "low_top_of_page_bid": 0.24,
+        "high_top_of_page_bid": 1.03,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 90,
+          "2026-04": 70,
+          "2026-03": 50,
+          "2026-02": 30,
+          "2026-01": 20,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 30,
+          "2025-08": 70,
+          "2025-07": 110,
+          "2025-06": 210
+        },
+        "search_volume_trend": {
+          "monthly": 29,
+          "quarterly": 80,
+          "yearly": -47
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "straw hats for small heads women",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 417.8,
+        "last_updated_time": "2026-03-23 15:59:39 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-07 10:33:28 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "winter hats for women with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 14:24:52 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "search_volume": 70,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 20,
+          "2026-04": 10,
+          "2026-03": 10,
+          "2026-02": 20,
+          "2026-01": 140,
+          "2025-12": 170,
+          "2025-11": 210,
+          "2025-10": 90,
+          "2025-09": 10,
+          "2025-08": 20,
+          "2025-07": 10,
+          "2025-06": 30
+        },
+        "search_volume_trend": {
+          "monthly": 100,
+          "quarterly": 100,
+          "yearly": 100
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 529,
+        "last_updated_time": "2025-12-20 20:35:37 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-30 00:27:55 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fitted hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-15 16:52:29 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.18,
+        "search_volume": 70,
+        "low_top_of_page_bid": 0.31,
+        "high_top_of_page_bid": 1.03,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 40,
+          "2026-04": 50,
+          "2026-03": 50,
+          "2026-02": 30,
+          "2026-01": 50,
+          "2025-12": 30,
+          "2025-11": 70,
+          "2025-10": 50,
+          "2025-09": 50,
+          "2025-08": 70,
+          "2025-07": 90,
+          "2025-06": 90
+        },
+        "search_volume_trend": {
+          "monthly": -20,
+          "quarterly": -20,
+          "yearly": -64
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 9,
+        "dofollow": 8,
+        "referring_pages": 8.9,
+        "referring_domains": 5.1,
+        "referring_main_domains": 4.7,
+        "rank": 18.7,
+        "main_domain_rank": 535.4,
+        "last_updated_time": "2025-08-11 04:14:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 21:53:17 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "straw hats for women with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 05:33:15 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.07,
+        "search_volume": 70,
+        "low_top_of_page_bid": 0.24,
+        "high_top_of_page_bid": 1.03,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 90,
+          "2026-04": 70,
+          "2026-03": 50,
+          "2026-02": 30,
+          "2026-01": 20,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 30,
+          "2025-08": 70,
+          "2025-07": 110,
+          "2025-06": 210
+        },
+        "search_volume_trend": {
+          "monthly": 29,
+          "quarterly": 80,
+          "yearly": -47
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "straw hats for small heads women",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 383.6,
+        "last_updated_time": "2026-03-23 21:51:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 20:01:14 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "ladies straw hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 09:20:46 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.07,
+        "search_volume": 70,
+        "low_top_of_page_bid": 0.24,
+        "high_top_of_page_bid": 1.03,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 90,
+          "2026-04": 70,
+          "2026-03": 50,
+          "2026-02": 30,
+          "2026-01": 20,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 30,
+          "2025-08": 70,
+          "2025-07": 110,
+          "2025-06": 210
+        },
+        "search_volume_trend": {
+          "monthly": 29,
+          "quarterly": 80,
+          "yearly": -47
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 428.5,
+        "last_updated_time": "2026-02-04 00:01:07 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 14:05:34 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "women's winter hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-11 19:47:44 +00:00",
+        "competition": 0.04,
+        "competition_level": "LOW",
+        "search_volume": 70,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 20,
+          "2026-04": 10,
+          "2026-03": 10,
+          "2026-02": 20,
+          "2026-01": 140,
+          "2025-12": 170,
+          "2025-11": 210,
+          "2025-10": 90,
+          "2025-09": 10,
+          "2025-08": 20,
+          "2025-07": 10,
+          "2025-06": 30
+        },
+        "search_volume_trend": {
+          "monthly": 100,
+          "quarterly": 100,
+          "yearly": 100
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "winter hats for women with small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2.7,
+        "dofollow": 2.7,
+        "referring_pages": 2.7,
+        "referring_domains": 2.3,
+        "referring_main_domains": 2,
+        "rank": 25.5,
+        "main_domain_rank": 386,
+        "last_updated_time": "2024-07-11 02:04:04 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-04 19:42:19 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "men's low profile hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 03:58:30 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.21,
+        "search_volume": 50,
+        "low_top_of_page_bid": 0.31,
+        "high_top_of_page_bid": 0.9,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 40,
+          "2026-04": 70,
+          "2026-03": 70,
+          "2026-02": 50,
+          "2026-01": 50,
+          "2025-12": 50,
+          "2025-11": 30,
+          "2025-10": 30,
+          "2025-09": 40,
+          "2025-08": 50,
+          "2025-07": 40,
+          "2025-06": 50
+        },
+        "search_volume_trend": {
+          "monthly": -43,
+          "quarterly": -43
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "mens low profile hats for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.2,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 33.6,
+        "main_domain_rank": 388.7,
+        "last_updated_time": "2026-06-02 20:11:17 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-02 16:51:20 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best baseball hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-15 11:50:51 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 2.18,
+        "search_volume": 50,
+        "low_top_of_page_bid": 0.49,
+        "high_top_of_page_bid": 1.76,
+        "categories": [
+          10014,
+          10021,
+          10116,
+          10178,
+          10941,
+          11902,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 50,
+          "2026-04": 50,
+          "2026-03": 50,
+          "2026-02": 40,
+          "2026-01": 30,
+          "2025-12": 30,
+          "2025-11": 30,
+          "2025-10": 30,
+          "2025-09": 50,
+          "2025-08": 40,
+          "2025-07": 50,
+          "2025-06": 110
+        },
+        "search_volume_trend": {
+          "yearly": -29
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.1,
+        "dofollow": 0.1,
+        "referring_pages": 0.1,
+        "referring_domains": 0.1,
+        "referring_main_domains": 0.1,
+        "rank": 19.5,
+        "main_domain_rank": 565.5,
+        "last_updated_time": "2026-06-06 01:50:21 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-25 16:36:48 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "running hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-15 10:35:47 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.97,
+        "search_volume": 50,
+        "low_top_of_page_bid": 0.46,
+        "high_top_of_page_bid": 2.31,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 90,
+          "2026-04": 50,
+          "2026-03": 70,
+          "2026-02": 40,
+          "2026-01": 40,
+          "2025-12": 20,
+          "2025-11": 50,
+          "2025-10": 20,
+          "2025-09": 40,
+          "2025-08": 70,
+          "2025-07": 90,
+          "2025-06": 70
+        },
+        "search_volume_trend": {
+          "monthly": 80,
+          "quarterly": 29
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 3.2,
+        "dofollow": 2.8,
+        "referring_pages": 3,
+        "referring_domains": 2.2,
+        "referring_main_domains": 2,
+        "rank": 31.5,
+        "main_domain_rank": 573.1,
+        "last_updated_time": "2026-05-08 21:57:23 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 19:02:50 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "golf hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-17 08:19:42 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.54,
+        "search_volume": 50,
+        "low_top_of_page_bid": 0.25,
+        "high_top_of_page_bid": 1.7,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 70,
+          "2026-04": 50,
+          "2026-03": 50,
+          "2026-02": 30,
+          "2026-01": 20,
+          "2025-12": 30,
+          "2025-11": 20,
+          "2025-10": 30,
+          "2025-09": 40,
+          "2025-08": 70,
+          "2025-07": 110,
+          "2025-06": 110
+        },
+        "search_volume_trend": {
+          "monthly": 40,
+          "quarterly": 40,
+          "yearly": -36
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1,
+        "dofollow": 0.9,
+        "referring_pages": 1,
+        "referring_domains": 0.3,
+        "referring_main_domains": 0.3,
+        "rank": 8.1,
+        "main_domain_rank": 491.2,
+        "last_updated_time": "2025-08-30 09:48:49 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-27 22:13:58 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "fedora hats for small heads ladies",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-11 17:51:28 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.48,
+        "search_volume": 50,
+        "low_top_of_page_bid": 0.2,
+        "high_top_of_page_bid": 0.54,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 50,
+          "2026-04": 70,
+          "2026-03": 30,
+          "2026-02": 40,
+          "2026-01": 50,
+          "2025-12": 70,
+          "2025-11": 50,
+          "2025-10": 70,
+          "2025-09": 50,
+          "2025-08": 70,
+          "2025-07": 70,
+          "2025-06": 50
+        },
+        "search_volume_trend": {
+          "monthly": -29,
+          "quarterly": 67,
+          "yearly": -29
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2.5,
+        "dofollow": 2.5,
+        "referring_pages": 2.5,
+        "referring_domains": 0.1,
+        "referring_main_domains": 0.1,
+        "rank": 9.5,
+        "main_domain_rank": 444.5,
+        "last_updated_time": "2026-03-08 03:44:47 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-29 07:43:34 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "low crown hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-12 08:48:46 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.84,
+        "search_volume": 50,
+        "low_top_of_page_bid": 0.28,
+        "high_top_of_page_bid": 1.13,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 140,
+          "2026-04": 70,
+          "2026-03": 50,
+          "2026-02": 30,
+          "2026-01": 30,
+          "2025-12": 10,
+          "2025-11": 30,
+          "2025-10": 30,
+          "2025-09": 50,
+          "2025-08": 30,
+          "2025-07": 30,
+          "2025-06": 40
+        },
+        "search_volume_trend": {
+          "monthly": 100,
+          "quarterly": 180,
+          "yearly": 250
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 7.7,
+        "dofollow": 2.6,
+        "referring_pages": 2.7,
+        "referring_domains": 2.3,
+        "referring_main_domains": 0.3,
+        "rank": 51.4,
+        "main_domain_rank": 389.5,
+        "last_updated_time": "2026-06-08 01:29:11 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 16:17:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "straw hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-13 19:34:57 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.61,
+        "search_volume": 50,
+        "low_top_of_page_bid": 0.37,
+        "high_top_of_page_bid": 1.04,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 70,
+          "2026-04": 90,
+          "2026-03": 70,
+          "2026-02": 30,
+          "2026-01": 20,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 30,
+          "2025-08": 40,
+          "2025-07": 110,
+          "2025-06": 140
+        },
+        "search_volume_trend": {
+          "monthly": -22,
+          "yearly": -22
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "straw hat small head",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 35.3,
+        "dofollow": 9.9,
+        "referring_pages": 33.9,
+        "referring_domains": 27.5,
+        "referring_main_domains": 20.1,
+        "rank": 19.5,
+        "main_domain_rank": 427.2,
+        "last_updated_time": "2026-05-08 18:20:47 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 21:15:57 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best hard hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-14 02:19:29 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.53,
+        "search_volume": 50,
+        "low_top_of_page_bid": 0.34,
+        "high_top_of_page_bid": 1.25,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 70,
+          "2026-04": 70,
+          "2026-03": 40,
+          "2026-02": 50,
+          "2026-01": 50,
+          "2025-12": 20,
+          "2025-11": 40,
+          "2025-10": 50,
+          "2025-09": 50,
+          "2025-08": 40,
+          "2025-07": 30,
+          "2025-06": 50
+        },
+        "search_volume_trend": {
+          "quarterly": 75
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "best hard hat for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1.5,
+        "dofollow": 0.9,
+        "referring_pages": 1.5,
+        "referring_domains": 0.7,
+        "referring_main_domains": 0.6,
+        "rank": 7.9,
+        "main_domain_rank": 509.9,
+        "last_updated_time": "2026-06-05 23:14:57 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 00:34:43 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best low profile hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-16 23:21:59 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.64,
+        "search_volume": 40,
+        "low_top_of_page_bid": 0.22,
+        "high_top_of_page_bid": 1.07,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 40,
+          "2026-04": 40,
+          "2026-03": 40,
+          "2026-02": 110,
+          "2026-01": 20,
+          "2025-12": 30,
+          "2025-11": 20,
+          "2025-10": 20,
+          "2025-09": 20,
+          "2025-08": 20,
+          "2025-07": 40,
+          "2025-06": 30
+        },
+        "search_volume_trend": {
+          "yearly": -20
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 7.4,
+        "dofollow": 2.5,
+        "referring_pages": 2.5,
+        "referring_domains": 2.1,
+        "referring_main_domains": 0.1,
+        "rank": 17.8,
+        "main_domain_rank": 459.6,
+        "last_updated_time": "2026-06-13 12:01:22 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 07:43:58 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best hats for small heads women",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 10:45:47 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.38,
+        "search_volume": 40,
+        "low_top_of_page_bid": 0.33,
+        "high_top_of_page_bid": 1.15,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 110,
+          "2026-04": 70,
+          "2026-03": 70,
+          "2026-02": 30,
+          "2026-01": 50,
+          "2025-12": 30,
+          "2025-11": 30,
+          "2025-10": 30,
+          "2025-09": 20,
+          "2025-08": 10,
+          "2025-07": 20,
+          "2025-06": 30
+        },
+        "search_volume_trend": {
+          "monthly": 57,
+          "quarterly": 57,
+          "yearly": 120
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "best hats for women with small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 503.9,
+        "last_updated_time": "2025-12-24 18:54:43 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 03:04:36 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best hats for women with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-13 06:55:03 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.67,
+        "search_volume": 40,
+        "low_top_of_page_bid": 0.32,
+        "high_top_of_page_bid": 1.13,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 70,
+          "2026-04": 70,
+          "2026-03": 50,
+          "2026-02": 30,
+          "2026-01": 30,
+          "2025-12": 30,
+          "2025-11": 20,
+          "2025-10": 40,
+          "2025-09": 20,
+          "2025-08": 40,
+          "2025-07": 70,
+          "2025-06": 70
+        },
+        "search_volume_trend": {
+          "quarterly": 40
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 534,
+        "last_updated_time": "2026-02-26 10:02:52 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 04:09:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "cowboy hats for small heads women",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-17 23:37:56 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.65,
+        "search_volume": 40,
+        "low_top_of_page_bid": 0.16,
+        "high_top_of_page_bid": 0.98,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 50,
+          "2026-04": 40,
+          "2026-03": 70,
+          "2026-02": 40,
+          "2026-01": 30,
+          "2025-12": 30,
+          "2025-11": 20,
+          "2025-10": 30,
+          "2025-09": 40,
+          "2025-08": 30,
+          "2025-07": 30,
+          "2025-06": 30
+        },
+        "search_volume_trend": {
+          "monthly": 25,
+          "quarterly": -29
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "women's cowboy hats for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 913.3,
+        "dofollow": 884.8,
+        "referring_pages": 892.4,
+        "referring_domains": 42,
+        "referring_main_domains": 40.8,
+        "rank": 43.8,
+        "main_domain_rank": 440.9,
+        "last_updated_time": "2026-03-27 12:45:55 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 06:11:52 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "golf hats for small heads men",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-14 09:21:22 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.91,
+        "search_volume": 40,
+        "low_top_of_page_bid": 0.3,
+        "high_top_of_page_bid": 1.33,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 70,
+          "2026-04": 70,
+          "2026-03": 50,
+          "2026-02": 50,
+          "2026-01": 50,
+          "2025-12": 10,
+          "2025-11": 20,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 20,
+          "2025-07": 40,
+          "2025-06": 30
+        },
+        "search_volume_trend": {
+          "quarterly": 40
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "golf hats for men with small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "informational"
+        ],
+        "last_updated_time": "2026-05-07 14:19:23 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "women's golf hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-17 15:42:31 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.48,
+        "search_volume": 40,
+        "low_top_of_page_bid": 0.49,
+        "high_top_of_page_bid": 1.36,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 50,
+          "2026-04": 50,
+          "2026-03": 50,
+          "2026-02": 30,
+          "2026-01": 20,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 20,
+          "2025-09": 10,
+          "2025-08": 40,
+          "2025-07": 70,
+          "2025-06": 70
+        },
+        "search_volume_trend": {
+          "yearly": -29
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.3,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 5.2,
+        "main_domain_rank": 453.3,
+        "last_updated_time": "2026-06-06 05:38:19 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-07 13:42:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "cowboy hats for women with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-11 21:08:58 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 0.74,
+        "search_volume": 30,
+        "low_top_of_page_bid": 0.27,
+        "high_top_of_page_bid": 1.38,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 20,
+          "2026-04": 30,
+          "2026-03": 40,
+          "2026-02": 40,
+          "2026-01": 20,
+          "2025-12": 20,
+          "2025-11": 20,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 20,
+          "2025-07": 50,
+          "2025-06": 40
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "quarterly": -50,
+          "yearly": -60
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "women's cowboy hats for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 444.2,
+        "last_updated_time": "2026-02-06 03:12:39 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-29 05:50:29 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "summer hats for women with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-12 02:53:37 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.33,
+        "search_volume": 30,
+        "low_top_of_page_bid": 0.26,
+        "high_top_of_page_bid": 0.91,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 90,
+          "2026-04": 90,
+          "2026-03": 40,
+          "2026-02": 20,
+          "2026-01": 10,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 20,
+          "2025-07": 50,
+          "2025-06": 70
+        },
+        "search_volume_trend": {
+          "quarterly": 125,
+          "yearly": 29
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 404.2,
+        "last_updated_time": "2026-01-10 19:39:57 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-28 22:19:16 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "ladies summer hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-15 16:19:46 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.33,
+        "search_volume": 30,
+        "low_top_of_page_bid": 0.26,
+        "high_top_of_page_bid": 0.91,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 90,
+          "2026-04": 90,
+          "2026-03": 40,
+          "2026-02": 20,
+          "2026-01": 10,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 20,
+          "2025-07": 50,
+          "2025-06": 70
+        },
+        "search_volume_trend": {
+          "quarterly": 125,
+          "yearly": 29
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "summer hats for small heads ladies",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 454.5,
+        "last_updated_time": "2026-02-07 01:09:42 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-29 12:28:39 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "hats for adults with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-12 05:34:34 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.65,
+        "search_volume": 30,
+        "low_top_of_page_bid": 0.43,
+        "high_top_of_page_bid": 1.88,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 30,
+          "2026-04": 50,
+          "2026-03": 30,
+          "2026-02": 30,
+          "2026-01": 10,
+          "2025-12": 20,
+          "2025-11": 30,
+          "2025-10": 20,
+          "2025-09": 30,
+          "2025-08": 10,
+          "2025-07": 20,
+          "2025-06": 40
+        },
+        "search_volume_trend": {
+          "monthly": -40,
+          "yearly": 50
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 10.5,
+        "dofollow": 9.5,
+        "referring_pages": 10.5,
+        "referring_domains": 5.3,
+        "referring_main_domains": 4.9,
+        "rank": 19.8,
+        "main_domain_rank": 585.6,
+        "last_updated_time": "2025-05-30 11:51:58 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+          "commercial"
+        ],
+        "last_updated_time": "2026-04-27 20:43:03 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "low profile golf hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-12 11:48:30 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.33,
+        "search_volume": 30,
+        "low_top_of_page_bid": 0.3,
+        "high_top_of_page_bid": 1.25,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 40,
+          "2026-04": 40,
+          "2026-03": 40,
+          "2026-02": 20,
+          "2026-01": 10,
+          "2025-12": 30,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 30,
+          "2025-08": 50,
+          "2025-07": 50,
+          "2025-06": 50
+        },
+        "search_volume_trend": {
+          "yearly": 33
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "keyword_metrics",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-03 22:14:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "snapback hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-14 00:24:33 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.76,
+        "search_volume": 30,
+        "low_top_of_page_bid": 0.31,
+        "high_top_of_page_bid": 1.2,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 50,
+          "2026-04": 20,
+          "2026-03": 50,
+          "2026-02": 20,
+          "2026-01": 20,
+          "2025-12": 20,
+          "2025-11": 20,
+          "2025-10": 20,
+          "2025-09": 30,
+          "2025-08": 30,
+          "2025-07": 30,
+          "2025-06": 50
+        },
+        "search_volume_trend": {
+          "monthly": 150,
+          "yearly": -29
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "snapback hats small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 5
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.2,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 33.7,
+        "main_domain_rank": 496.5,
+        "last_updated_time": "2026-06-14 19:48:29 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "last_updated_time": "2026-04-29 22:43:24 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "low profile trucker hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 16:34:31 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.64,
+        "search_volume": 30,
+        "low_top_of_page_bid": 0.84,
+        "high_top_of_page_bid": 1.8,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 30,
+          "2026-04": 10,
+          "2026-03": 30,
+          "2026-02": 10,
+          "2026-01": 20,
+          "2025-12": 20,
+          "2025-11": 20,
+          "2025-10": 20,
+          "2025-09": 40,
+          "2025-08": 30,
+          "2025-07": 70,
+          "2025-06": 30
+        },
+        "search_volume_trend": {
+          "monthly": 200
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "detected_language": "en",
+        "words_count": 7
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.2,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 33.7,
+        "main_domain_rank": 446.4,
+        "last_updated_time": "2026-06-15 20:06:35 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-08 00:59:22 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "best sun hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 01:34:01 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.98,
+        "search_volume": 30,
+        "low_top_of_page_bid": 0.48,
+        "high_top_of_page_bid": 1.27,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 40,
+          "2026-04": 20,
+          "2026-03": 30,
+          "2026-02": 40,
+          "2026-01": 20,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 10,
+          "2025-07": 50,
+          "2025-06": 70
+        },
+        "search_volume_trend": {
+          "monthly": 100,
+          "quarterly": 33,
+          "yearly": -43
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 1.1,
+        "dofollow": 0.4,
+        "referring_pages": 0.9,
+        "referring_domains": 0.6,
+        "referring_main_domains": 0.6,
+        "rank": 9.8,
+        "main_domain_rank": 346.3,
+        "last_updated_time": "2026-03-27 09:08:32 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-04-25 15:28:15 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "low profile hats for men with small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-11 23:27:55 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.28,
+        "search_volume": 30,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 1.62,
+        "categories": [
+          10021,
+          10178,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 20,
+          "2026-04": 30,
+          "2026-03": 10,
+          "2026-02": 10,
+          "2026-01": 30,
+          "2025-12": 50,
+          "2025-11": 20,
+          "2025-10": 40,
+          "2025-09": 10,
+          "2025-08": 10,
+          "2025-07": 70,
+          "2025-06": 90
+        },
+        "search_volume_trend": {
+          "monthly": -33,
+          "quarterly": 100,
+          "yearly": -71
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "mens low profile hats for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 8
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.1,
+        "referring_pages": 0.2,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 33.6,
+        "main_domain_rank": 436.7,
+        "last_updated_time": "2026-05-11 21:28:13 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "foreign_intent": [
+          "transactional"
+        ],
+        "last_updated_time": "2026-04-28 14:38:07 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "women's trucker hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-15 06:27:50 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.52,
+        "search_volume": 30,
+        "low_top_of_page_bid": 0.36,
+        "high_top_of_page_bid": 0.93,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 30,
+          "2026-04": 30,
+          "2026-03": 40,
+          "2026-02": 20,
+          "2026-01": 10,
+          "2025-12": 20,
+          "2025-11": 10,
+          "2025-10": 20,
+          "2025-09": 20,
+          "2025-08": 40,
+          "2025-07": 50,
+          "2025-06": 90
+        },
+        "search_volume_trend": {
+          "quarterly": -25,
+          "yearly": -67
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "women's trucker hat for small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 2.7,
+        "dofollow": 0.6,
+        "referring_pages": 2.3,
+        "referring_domains": 1.3,
+        "referring_main_domains": 1.3,
+        "rank": 7.8,
+        "main_domain_rank": 484.1,
+        "last_updated_time": "2024-10-08 03:26:49 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-08 06:29:54 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword": "women's summer hats for small heads",
+      "location_code": 2840,
+      "language_code": "en",
+      "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-06-18 02:33:52 +00:00",
+        "competition": 1,
+        "competition_level": "HIGH",
+        "cpc": 1.05,
+        "search_volume": 30,
+        "low_top_of_page_bid": 0.23,
+        "high_top_of_page_bid": 0.93,
+        "categories": [
+          10021,
+          10021,
+          10178,
+          10178,
+          10941,
+          10941,
+          12266
+        ],
+        "monthly_searches": {
+          "2026-05": 50,
+          "2026-04": 50,
+          "2026-03": 30,
+          "2026-02": 10,
+          "2026-01": 10,
+          "2025-12": 10,
+          "2025-11": 10,
+          "2025-10": 10,
+          "2025-09": 10,
+          "2025-08": 10,
+          "2025-07": 40,
+          "2025-06": 90
+        },
+        "search_volume_trend": {
+          "quarterly": 67
+        }
+      },
+      "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "summer hats for women with small heads",
+        "synonym_clustering_algorithm": "text_processing",
+        "detected_language": "en",
+        "words_count": 6
+      },
+      "avg_backlinks_info": {
+        "se_type": "google",
+        "backlinks": 0.3,
+        "dofollow": 0.2,
+        "referring_pages": 0.3,
+        "referring_domains": 0.2,
+        "referring_main_domains": 0.2,
+        "rank": 7.8,
+        "main_domain_rank": 397.5,
+        "last_updated_time": "2026-02-26 17:38:15 +00:00"
+      },
+      "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "commercial",
+        "last_updated_time": "2026-05-03 10:26:51 +00:00"
+      }
+    }
+  ]
+}

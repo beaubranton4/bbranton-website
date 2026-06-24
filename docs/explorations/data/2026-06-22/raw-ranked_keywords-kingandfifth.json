@@ -1,0 +1,2396 @@
+{
+  "id": "06222038-1663-0381-0000-4687ba280b34",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "items": [
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "baseball hat caps",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-05-24 16:23:52 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 1.02,
+          "search_volume": 74000,
+          "low_top_of_page_bid": 0.37,
+          "high_top_of_page_bid": 1.77,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-04": 60500,
+            "2026-03": 60500,
+            "2026-02": 49500,
+            "2026-01": 49500,
+            "2025-12": 60500,
+            "2025-11": 74000,
+            "2025-10": 74000,
+            "2025-09": 74000,
+            "2025-08": 90500,
+            "2025-07": 74000,
+            "2025-06": 90500,
+            "2025-05": 74000
+          },
+          "search_volume_trend": {
+            "quarterly": 22
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "synonym_clustering_algorithm": "text_processing",
+          "keyword_difficulty": 9,
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=baseball%20hat%20caps&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "images",
+            "organic",
+            "popular_products",
+            "people_also_ask",
+            "related_searches"
+          ],
+          "se_results_count": 756000000,
+          "last_updated_time": "2026-05-14 22:20:03 +00:00",
+          "previous_updated_time": "2026-03-12 01:15:38 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 1377.3,
+          "dofollow": 999.8,
+          "referring_pages": 1221.1,
+          "referring_domains": 250.9,
+          "referring_main_domains": 239.1,
+          "rank": 107.6,
+          "main_domain_rank": 402.5,
+          "last_updated_time": "2026-05-14 22:20:03 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "foreign_intent": [
+            "commercial"
+          ],
+          "last_updated_time": "2026-04-29 08:09:15 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 20,
+          "rank_absolute": 31,
+          "domain": "www.kingandfifth.com",
+          "title": "Men's Baseball Caps",
+          "url": "https://www.kingandfifth.com/pages/mens-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-baseball-...",
+          "website_name": "King and Fifth Supply Co.",
+          "description": "Featuring a collection of mens baseball caps, cool baseball caps, workout hats, golf hats, gym hats, and trucker hats. Read more",
+          "highlighted": [
+            "mens baseball caps"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-baseball-caps",
+          "etv": 177.6,
+          "estimated_paid_traffic_cost": 181.152,
+          "rank_changes": {
+            "is_new": true
+          },
+          "backlinks_info": {
+            "referring_domains": 2,
+            "referring_main_domains": 2,
+            "referring_pages": 2,
+            "dofollow": 1,
+            "backlinks": 2,
+            "time_update": "2026-06-11 02:04:16 +00:00"
+          },
+          "rank_info": {
+            "main_domain_rank": 244
+          }
+        },
+        "check_url": "https://www.google.com/search?q=baseball%20hat%20caps&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "images",
+          "organic",
+          "popular_products",
+          "people_also_ask",
+          "related_searches"
+        ],
+        "se_results_count": 756000000,
+        "keyword_difficulty": 9,
+        "last_updated_time": "2026-05-14 22:20:03 +00:00",
+        "previous_updated_time": "2026-03-12 01:15:38 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "baseball caps for guys",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-14 12:43:26 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 1.21,
+          "search_volume": 40500,
+          "low_top_of_page_bid": 0.29,
+          "high_top_of_page_bid": 1.34,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-05": 22200,
+            "2026-04": 18100,
+            "2026-03": 22200,
+            "2026-02": 27100,
+            "2026-01": 33100,
+            "2025-12": 110000,
+            "2025-11": 74000,
+            "2025-10": 27100,
+            "2025-09": 40500,
+            "2025-08": 60500,
+            "2025-07": 49500,
+            "2025-06": 40500
+          },
+          "search_volume_trend": {
+            "monthly": 23,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=baseball%20caps%20for%20guys&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "popular_products",
+            "organic"
+          ],
+          "se_results_count": 20800000,
+          "last_updated_time": "2026-05-15 00:33:30 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 3.1,
+          "dofollow": 2,
+          "referring_pages": 2.6,
+          "referring_domains": 1.9,
+          "referring_main_domains": 1.8,
+          "rank": 21,
+          "main_domain_rank": 377.6,
+          "last_updated_time": "2026-05-15 00:33:30 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "last_updated_time": "2026-04-29 08:45:14 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Fashion Baseball Caps by K&F",
+          "url": "https://www.kingandfifth.com/pages/mens-fashion-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-fashion-...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "Featuring a collection of cool baseball caps, designer baseball caps, & low profile baseball caps for the stylish guy.",
+          "highlighted": [
+            "baseball caps",
+            "guy"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-fashion-baseball-caps",
+          "etv": 6561,
+          "estimated_paid_traffic_cost": 7938.81,
+          "rank_changes": {
+            "is_new": true
+          },
+          "rank_info": {
+            "main_domain_rank": 244
+          }
+        },
+        "check_url": "https://www.google.com/search?q=baseball%20caps%20for%20guys&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "popular_products",
+          "organic"
+        ],
+        "se_results_count": 20800000,
+        "last_updated_time": "2026-05-15 00:33:30 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "baseball hats for men",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-05-24 21:52:05 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 1.11,
+          "search_volume": 40500,
+          "low_top_of_page_bid": 0.32,
+          "high_top_of_page_bid": 1.33,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-04": 18100,
+            "2026-03": 22200,
+            "2026-02": 27100,
+            "2026-01": 33100,
+            "2025-12": 110000,
+            "2025-11": 74000,
+            "2025-10": 27100,
+            "2025-09": 40500,
+            "2025-08": 60500,
+            "2025-07": 49500,
+            "2025-06": 40500,
+            "2025-05": 27100
+          },
+          "search_volume_trend": {
+            "monthly": -18,
+            "quarterly": -33,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "mens baseball hats",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=baseball%20hats%20for%20men&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "organic",
+            "local_pack",
+            "popular_products",
+            "people_also_ask",
+            "related_searches",
+            "images"
+          ],
+          "se_results_count": 124000000,
+          "last_updated_time": "2026-05-15 00:34:13 +00:00",
+          "previous_updated_time": "2026-03-12 03:18:56 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 3.1,
+          "dofollow": 2,
+          "referring_pages": 2.6,
+          "referring_domains": 1.9,
+          "referring_main_domains": 1.8,
+          "rank": 21,
+          "main_domain_rank": 385.1,
+          "last_updated_time": "2026-05-15 00:34:13 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "foreign_intent": [
+            "commercial"
+          ],
+          "last_updated_time": "2026-04-29 08:09:24 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Fashion Baseball Caps by K&F",
+          "url": "https://www.kingandfifth.com/pages/mens-fashion-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-fashion-...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "Featuring a collection of cool baseball caps, designer baseball caps, & low profile baseball caps for the stylish guy.",
+          "highlighted": [
+            "baseball caps"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-fashion-baseball-caps",
+          "etv": 1368.9,
+          "estimated_paid_traffic_cost": 1519.479,
+          "rank_changes": {
+            "previous_rank_absolute": 11
+          },
+          "rank_info": {
+            "main_domain_rank": 244
+          }
+        },
+        "check_url": "https://www.google.com/search?q=baseball%20hats%20for%20men&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "organic",
+          "local_pack",
+          "popular_products",
+          "people_also_ask",
+          "related_searches",
+          "images"
+        ],
+        "se_results_count": 124000000,
+        "last_updated_time": "2026-05-15 00:34:13 +00:00",
+        "previous_updated_time": "2026-03-12 03:18:56 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "baseball mens hats",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-13 18:13:49 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 1.21,
+          "search_volume": 40500,
+          "low_top_of_page_bid": 0.29,
+          "high_top_of_page_bid": 1.34,
+          "categories": [
+            10014,
+            10021,
+            10021,
+            10116,
+            10178,
+            10178,
+            10941,
+            10941,
+            11902,
+            12266
+          ],
+          "monthly_searches": {
+            "2026-05": 22200,
+            "2026-04": 18100,
+            "2026-03": 22200,
+            "2026-02": 27100,
+            "2026-01": 33100,
+            "2025-12": 110000,
+            "2025-11": 74000,
+            "2025-10": 27100,
+            "2025-09": 40500,
+            "2025-08": 60500,
+            "2025-07": 49500,
+            "2025-06": 40500
+          },
+          "search_volume_trend": {
+            "monthly": 23,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "mens baseball hats",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=baseball%20mens%20hats&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "organic",
+            "popular_products",
+            "related_searches",
+            "images"
+          ],
+          "se_results_count": 128000000,
+          "last_updated_time": "2026-04-18 07:17:10 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 7.4,
+          "dofollow": 6.4,
+          "referring_pages": 7.3,
+          "referring_domains": 3.4,
+          "referring_main_domains": 3.3,
+          "rank": 71.6,
+          "main_domain_rank": 394.1,
+          "last_updated_time": "2026-04-18 07:17:10 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "foreign_intent": [
+            "informational"
+          ],
+          "last_updated_time": "2026-05-04 10:56:26 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 2,
+          "rank_absolute": 2,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Fashion Baseball Caps by K&F",
+          "url": "https://www.kingandfifth.com/pages/mens-fashion-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-fashion-...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "Featuring a collection of cool baseball caps, designer baseball caps, & low profile baseball caps for the stylish guy. Read more",
+          "highlighted": [
+            "baseball caps"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-fashion-baseball-caps",
+          "etv": 6561,
+          "estimated_paid_traffic_cost": 7938.81,
+          "rank_changes": {
+            "is_new": true
+          },
+          "rank_info": {
+            "main_domain_rank": 253
+          }
+        },
+        "check_url": "https://www.google.com/search?q=baseball%20mens%20hats&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "organic",
+          "popular_products",
+          "related_searches",
+          "images"
+        ],
+        "se_results_count": 128000000,
+        "last_updated_time": "2026-04-18 07:17:10 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "guys baseball hats",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-12 21:09:42 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 1.21,
+          "search_volume": 40500,
+          "low_top_of_page_bid": 0.29,
+          "high_top_of_page_bid": 1.34,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-05": 22200,
+            "2026-04": 18100,
+            "2026-03": 22200,
+            "2026-02": 27100,
+            "2026-01": 33100,
+            "2025-12": 110000,
+            "2025-11": 74000,
+            "2025-10": 27100,
+            "2025-09": 40500,
+            "2025-08": 60500,
+            "2025-07": 49500,
+            "2025-06": 40500
+          },
+          "search_volume_trend": {
+            "monthly": 23,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=guys%20baseball%20hats&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "popular_products",
+            "organic",
+            "related_searches",
+            "images"
+          ],
+          "se_results_count": 30200000,
+          "last_updated_time": "2026-04-18 07:03:37 +00:00",
+          "previous_updated_time": "2026-01-27 06:04:39 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 0.2,
+          "dofollow": 0.2,
+          "referring_pages": 0.2,
+          "referring_domains": 0.2,
+          "referring_main_domains": 0.2,
+          "rank": 1.5,
+          "main_domain_rank": 363.7,
+          "last_updated_time": "2026-04-18 07:03:38 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "last_updated_time": "2026-04-28 16:24:20 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 5,
+          "rank_absolute": 7,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Fashion Baseball Caps by K&F",
+          "url": "https://www.kingandfifth.com/pages/mens-fashion-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-fashion-...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "Featuring a collection of cool baseball caps, designer baseball caps, & low profile baseball caps for the stylish guy. Read more",
+          "highlighted": [
+            "baseball",
+            "guy"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-fashion-baseball-caps",
+          "etv": 1899.45,
+          "estimated_paid_traffic_cost": 2298.334,
+          "rank_changes": {
+            "previous_rank_absolute": 12,
+            "is_up": true
+          },
+          "rank_info": {
+            "main_domain_rank": 253
+          }
+        },
+        "check_url": "https://www.google.com/search?q=guys%20baseball%20hats&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "popular_products",
+          "organic",
+          "related_searches",
+          "images"
+        ],
+        "se_results_count": 30200000,
+        "last_updated_time": "2026-04-18 07:03:37 +00:00",
+        "previous_updated_time": "2026-01-27 06:04:39 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "hats for men baseball cap",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-14 08:16:28 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 1.21,
+          "search_volume": 40500,
+          "low_top_of_page_bid": 0.29,
+          "high_top_of_page_bid": 1.34,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-05": 22200,
+            "2026-04": 18100,
+            "2026-03": 22200,
+            "2026-02": 27100,
+            "2026-01": 33100,
+            "2025-12": 110000,
+            "2025-11": 74000,
+            "2025-10": 27100,
+            "2025-09": 40500,
+            "2025-08": 60500,
+            "2025-07": 49500,
+            "2025-06": 40500
+          },
+          "search_volume_trend": {
+            "monthly": 23,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "hats for men baseball caps",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=hats%20for%20men%20baseball%20cap&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "popular_products",
+            "organic",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 90600000,
+          "last_updated_time": "2026-04-18 07:03:38 +00:00",
+          "previous_updated_time": "2026-01-27 06:04:32 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "last_updated_time": "2026-04-28 00:29:12 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "domain": "www.kingandfifth.com",
+          "title": "Men's Baseball Caps",
+          "url": "https://www.kingandfifth.com/pages/mens-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-baseball-...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "Featuring a collection of mens baseball caps, cool baseball caps, workout hats, golf hats, gym hats, and trucker hats. Read more",
+          "highlighted": [
+            "mens baseball caps"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-baseball-caps",
+          "etv": 12312,
+          "estimated_paid_traffic_cost": 14897.52,
+          "rank_changes": {
+            "previous_rank_absolute": 2
+          },
+          "rank_info": {
+            "main_domain_rank": 253
+          }
+        },
+        "check_url": "https://www.google.com/search?q=hats%20for%20men%20baseball%20cap&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "popular_products",
+          "organic",
+          "images",
+          "related_searches"
+        ],
+        "se_results_count": 90600000,
+        "last_updated_time": "2026-04-18 07:03:38 +00:00",
+        "previous_updated_time": "2026-01-27 06:04:32 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "hats for men baseball caps",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-05-25 00:29:53 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 1.11,
+          "search_volume": 40500,
+          "low_top_of_page_bid": 0.32,
+          "high_top_of_page_bid": 1.33,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-04": 18100,
+            "2026-03": 22200,
+            "2026-02": 27100,
+            "2026-01": 33100,
+            "2025-12": 110000,
+            "2025-11": 74000,
+            "2025-10": 27100,
+            "2025-09": 40500,
+            "2025-08": 60500,
+            "2025-07": 49500,
+            "2025-06": 40500,
+            "2025-05": 27100
+          },
+          "search_volume_trend": {
+            "monthly": -18,
+            "quarterly": -33,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=hats%20for%20men%20baseball%20caps&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "organic",
+            "popular_products",
+            "local_pack",
+            "related_searches"
+          ],
+          "se_results_count": 24900000,
+          "last_updated_time": "2026-05-15 00:14:27 +00:00",
+          "previous_updated_time": "2026-03-12 03:12:02 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 5.8,
+          "dofollow": 4.4,
+          "referring_pages": 5.2,
+          "referring_domains": 3.9,
+          "referring_main_domains": 3.8,
+          "rank": 38.1,
+          "main_domain_rank": 371.7,
+          "last_updated_time": "2026-05-15 00:14:29 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "foreign_intent": [
+            "commercial"
+          ],
+          "last_updated_time": "2026-04-28 00:58:33 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "domain": "www.kingandfifth.com",
+          "title": "Men's Baseball Caps",
+          "url": "https://www.kingandfifth.com/pages/mens-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-baseball-...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "Featuring a collection of mens baseball caps, cool baseball caps, workout hats, golf hats, gym hats, and trucker hats. Read more",
+          "highlighted": [
+            "mens baseball caps"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-baseball-caps",
+          "etv": 6561,
+          "estimated_paid_traffic_cost": 7282.71,
+          "rank_changes": {
+            "previous_rank_absolute": 7,
+            "is_up": true
+          },
+          "rank_info": {
+            "main_domain_rank": 244
+          }
+        },
+        "check_url": "https://www.google.com/search?q=hats%20for%20men%20baseball%20caps&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "organic",
+          "popular_products",
+          "local_pack",
+          "related_searches"
+        ],
+        "se_results_count": 24900000,
+        "last_updated_time": "2026-05-15 00:14:27 +00:00",
+        "previous_updated_time": "2026-03-12 03:12:02 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "mens hats baseball",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-14 00:02:27 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 1.21,
+          "search_volume": 40500,
+          "low_top_of_page_bid": 0.29,
+          "high_top_of_page_bid": 1.34,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-05": 22200,
+            "2026-04": 18100,
+            "2026-03": 22200,
+            "2026-02": 27100,
+            "2026-01": 33100,
+            "2025-12": 110000,
+            "2025-11": 74000,
+            "2025-10": 27100,
+            "2025-09": 40500,
+            "2025-08": 60500,
+            "2025-07": 49500,
+            "2025-06": 40500
+          },
+          "search_volume_trend": {
+            "monthly": 23,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "mens baseball hats",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=mens%20hats%20baseball&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "organic",
+            "popular_products",
+            "related_searches",
+            "images"
+          ],
+          "se_results_count": 125000000,
+          "last_updated_time": "2026-05-14 23:58:20 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "last_updated_time": "2026-04-29 17:25:09 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 4,
+          "rank_absolute": 5,
+          "domain": "www.kingandfifth.com",
+          "title": "Men's Baseball Caps",
+          "url": "https://www.kingandfifth.com/pages/mens-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-baseball-...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "Featuring a collection of mens baseball caps, cool baseball caps, workout hats, golf hats, gym hats, and trucker hats. Read more",
+          "highlighted": [
+            "mens baseball caps"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-baseball-caps",
+          "etv": 2668.95,
+          "estimated_paid_traffic_cost": 3229.429,
+          "rank_changes": {
+            "is_new": true
+          },
+          "rank_info": {
+            "main_domain_rank": 244
+          }
+        },
+        "check_url": "https://www.google.com/search?q=mens%20hats%20baseball&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "organic",
+          "popular_products",
+          "related_searches",
+          "images"
+        ],
+        "se_results_count": 125000000,
+        "last_updated_time": "2026-05-14 23:58:20 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "baseball caps and hats",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-14 19:56:35 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 1.1,
+          "search_volume": 33100,
+          "low_top_of_page_bid": 0.38,
+          "high_top_of_page_bid": 1.65,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-05": 40500,
+            "2026-04": 40500,
+            "2026-03": 40500,
+            "2026-02": 27100,
+            "2026-01": 27100,
+            "2025-12": 33100,
+            "2025-11": 33100,
+            "2025-10": 33100,
+            "2025-09": 33100,
+            "2025-08": 33100,
+            "2025-07": 33100,
+            "2025-06": 40500
+          },
+          "search_volume_trend": {
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "baseball hats and caps",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=baseball%20caps%20and%20hats&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "organic",
+            "popular_products",
+            "people_also_ask",
+            "related_searches"
+          ],
+          "se_results_count": 201,
+          "last_updated_time": "2026-05-15 01:45:38 +00:00",
+          "previous_updated_time": "2026-03-12 04:20:38 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 1.6,
+          "dofollow": 0.6,
+          "referring_pages": 1.1,
+          "referring_domains": 0.6,
+          "referring_main_domains": 0.6,
+          "rank": 6.7,
+          "main_domain_rank": 368.1,
+          "last_updated_time": "2026-05-15 01:45:39 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "foreign_intent": [
+            "commercial"
+          ],
+          "last_updated_time": "2026-04-29 08:25:13 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 16,
+          "rank_absolute": 21,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Fashion Baseball Caps by K&F",
+          "url": "https://www.kingandfifth.com/pages/mens-fashion-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-fashion-...",
+          "website_name": "King and Fifth Supply Co.",
+          "description": "Featuring a collection of cool baseball caps, designer baseball caps, & low profile baseball caps for the stylish guy. Read more",
+          "highlighted": [
+            "baseball caps"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-fashion-baseball-caps",
+          "etv": 142.33,
+          "estimated_paid_traffic_cost": 156.563,
+          "rank_changes": {
+            "previous_rank_absolute": 17,
+            "is_down": true
+          },
+          "rank_info": {
+            "main_domain_rank": 244
+          }
+        },
+        "check_url": "https://www.google.com/search?q=baseball%20caps%20and%20hats&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "organic",
+          "popular_products",
+          "people_also_ask",
+          "related_searches"
+        ],
+        "se_results_count": 201,
+        "last_updated_time": "2026-05-15 01:45:38 +00:00",
+        "previous_updated_time": "2026-03-12 04:20:38 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "baseball caps hats",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-05-25 12:57:47 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 1.12,
+          "search_volume": 33100,
+          "low_top_of_page_bid": 0.39,
+          "high_top_of_page_bid": 1.77,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-04": 40500,
+            "2026-03": 40500,
+            "2026-02": 27100,
+            "2026-01": 27100,
+            "2025-12": 33100,
+            "2025-11": 33100,
+            "2025-10": 33100,
+            "2025-09": 33100,
+            "2025-08": 33100,
+            "2025-07": 33100,
+            "2025-06": 40500,
+            "2025-05": 49500
+          },
+          "search_volume_trend": {
+            "quarterly": 49
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "baseball hat caps",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=baseball%20caps%20hats&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "popular_products",
+            "organic",
+            "related_searches",
+            "images"
+          ],
+          "se_results_count": 34400000,
+          "last_updated_time": "2026-05-15 01:45:32 +00:00",
+          "previous_updated_time": "2026-03-28 20:47:02 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 1326,
+          "dofollow": 994.9,
+          "referring_pages": 1185,
+          "referring_domains": 243.1,
+          "referring_main_domains": 231.9,
+          "rank": 70.2,
+          "main_domain_rank": 374.7,
+          "last_updated_time": "2026-05-15 01:45:34 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "last_updated_time": "2026-04-29 08:09:13 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 10,
+          "rank_absolute": 12,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Fashion Baseball Caps by K&F",
+          "url": "https://www.kingandfifth.com/pages/mens-fashion-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-fashion-...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "Featuring a collection of cool baseball caps, designer baseball caps, & low profile baseball caps for the stylish guy.",
+          "highlighted": [
+            "baseball caps"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-fashion-baseball-caps",
+          "etv": 374.03,
+          "estimated_paid_traffic_cost": 418.914,
+          "rank_changes": {
+            "is_new": true
+          },
+          "rank_info": {
+            "main_domain_rank": 244
+          }
+        },
+        "check_url": "https://www.google.com/search?q=baseball%20caps%20hats&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "popular_products",
+          "organic",
+          "related_searches",
+          "images"
+        ],
+        "se_results_count": 34400000,
+        "last_updated_time": "2026-05-15 01:45:32 +00:00",
+        "previous_updated_time": "2026-03-28 20:47:02 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "hats baseball caps",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-11 14:32:23 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 1.1,
+          "search_volume": 33100,
+          "low_top_of_page_bid": 0.38,
+          "high_top_of_page_bid": 1.65,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-05": 40500,
+            "2026-04": 40500,
+            "2026-03": 40500,
+            "2026-02": 27100,
+            "2026-01": 27100,
+            "2025-12": 33100,
+            "2025-11": 33100,
+            "2025-10": 33100,
+            "2025-09": 33100,
+            "2025-08": 33100,
+            "2025-07": 33100,
+            "2025-06": 40500
+          },
+          "search_volume_trend": {
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "baseball hat caps",
+          "synonym_clustering_algorithm": "text_processing",
+          "keyword_difficulty": 1,
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=hats%20baseball%20caps&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "organic",
+            "popular_products",
+            "video",
+            "local_pack",
+            "related_searches",
+            "images"
+          ],
+          "se_results_count": 133000000,
+          "last_updated_time": "2026-04-18 07:51:05 +00:00",
+          "previous_updated_time": "2026-01-27 06:30:34 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 1379.4,
+          "dofollow": 1015.7,
+          "referring_pages": 1227.4,
+          "referring_domains": 250.6,
+          "referring_main_domains": 238.4,
+          "rank": 79.2,
+          "main_domain_rank": 363.8,
+          "last_updated_time": "2026-04-18 07:51:06 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "last_updated_time": "2026-04-28 00:48:46 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 20,
+          "rank_absolute": 32,
+          "domain": "www.kingandfifth.com",
+          "title": "EXTRA SMALL BASEBALL HATS FOR MEN",
+          "url": "https://www.kingandfifth.com/collections/mens-xs-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › mens-xs-baseball-caps",
+          "website_name": "King and Fifth Supply Co.",
+          "description": "A collection of all Baseball Caps in extra small size for men.",
+          "highlighted": [
+            "Baseball Caps"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/collections/mens-xs-baseball-caps",
+          "etv": 79.44,
+          "estimated_paid_traffic_cost": 87.384,
+          "rank_changes": {
+            "is_new": true
+          },
+          "rank_info": {
+            "main_domain_rank": 253
+          }
+        },
+        "check_url": "https://www.google.com/search?q=hats%20baseball%20caps&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "organic",
+          "popular_products",
+          "video",
+          "local_pack",
+          "related_searches",
+          "images"
+        ],
+        "se_results_count": 133000000,
+        "keyword_difficulty": 1,
+        "last_updated_time": "2026-04-18 07:51:05 +00:00",
+        "previous_updated_time": "2026-01-27 06:30:34 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "beanie cap hat",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-13 06:37:26 +00:00",
+          "competition": 0.99,
+          "competition_level": "HIGH",
+          "cpc": 0.9,
+          "search_volume": 27100,
+          "low_top_of_page_bid": 0.32,
+          "high_top_of_page_bid": 2.77,
+          "categories": [
+            10021,
+            10178,
+            10941,
+            12266
+          ],
+          "monthly_searches": {
+            "2026-05": 14800,
+            "2026-04": 18100,
+            "2026-03": 22200,
+            "2026-02": 27100,
+            "2026-01": 49500,
+            "2025-12": 60500,
+            "2025-11": 49500,
+            "2025-10": 33100,
+            "2025-09": 18100,
+            "2025-08": 14800,
+            "2025-07": 14800,
+            "2025-06": 12100
+          },
+          "search_volume_trend": {
+            "monthly": -18,
+            "quarterly": -33,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "hat beanie cap",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "de",
+          "is_another_language": true
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=beanie%20cap%20hat&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "images",
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "related_searches"
+          ],
+          "se_results_count": 110000000,
+          "last_updated_time": "2026-05-15 03:07:03 +00:00",
+          "previous_updated_time": "2025-12-03 16:46:32 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 87.1,
+          "dofollow": 17.9,
+          "referring_pages": 84.9,
+          "referring_domains": 22.6,
+          "referring_main_domains": 21.9,
+          "rank": 50.3,
+          "main_domain_rank": 499.2,
+          "last_updated_time": "2026-05-15 03:07:03 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "last_updated_time": "2026-04-25 00:32:34 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 6,
+          "rank_absolute": 9,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Beanies and Hats",
+          "url": "https://www.kingandfifth.com/pages/mens-beanies-and-hats",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-beanies-a...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "This Mens XL Beanie is perfectly blended with Cashmere, Recycled Polyester, Nylon, and Viscose, which is designed deliciously soft for your all-day comfort.",
+          "highlighted": [
+            "perfectly blended with Cashmere",
+            "Recycled Polyester",
+            "Nylon",
+            "and Viscose"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-beanies-and-hats",
+          "etv": 915.98,
+          "estimated_paid_traffic_cost": 824.382,
+          "rank_changes": {
+            "previous_rank_absolute": 16,
+            "is_up": true
+          },
+          "rank_info": {
+            "main_domain_rank": 244
+          }
+        },
+        "check_url": "https://www.google.com/search?q=beanie%20cap%20hat&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "images",
+          "organic",
+          "people_also_ask",
+          "popular_products",
+          "related_searches"
+        ],
+        "se_results_count": 110000000,
+        "last_updated_time": "2026-05-15 03:07:03 +00:00",
+        "previous_updated_time": "2025-12-03 16:46:32 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "hat beanie cap",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-14 00:42:01 +00:00",
+          "competition": 0.99,
+          "competition_level": "HIGH",
+          "cpc": 0.9,
+          "search_volume": 27100,
+          "low_top_of_page_bid": 0.32,
+          "high_top_of_page_bid": 2.77,
+          "categories": [
+            10021,
+            10178,
+            10941,
+            12266
+          ],
+          "monthly_searches": {
+            "2026-05": 14800,
+            "2026-04": 18100,
+            "2026-03": 22200,
+            "2026-02": 27100,
+            "2026-01": 49500,
+            "2025-12": 60500,
+            "2025-11": 49500,
+            "2025-10": 33100,
+            "2025-09": 18100,
+            "2025-08": 14800,
+            "2025-07": 14800,
+            "2025-06": 12100
+          },
+          "search_volume_trend": {
+            "monthly": -18,
+            "quarterly": -33,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "de",
+          "is_another_language": true
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=hat%20beanie%20cap&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "images",
+            "popular_products",
+            "people_also_ask",
+            "organic",
+            "people_also_search",
+            "related_searches"
+          ],
+          "se_results_count": 119000000,
+          "last_updated_time": "2026-03-12 05:14:19 +00:00",
+          "previous_updated_time": "2026-01-27 06:30:26 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 98.8,
+          "dofollow": 20.3,
+          "referring_pages": 96.6,
+          "referring_domains": 30.7,
+          "referring_main_domains": 29.7,
+          "rank": 52.9,
+          "main_domain_rank": 484,
+          "last_updated_time": "2026-03-12 05:14:19 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "last_updated_time": "2026-04-28 00:02:00 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 2,
+          "rank_absolute": 5,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Beanies and Hats",
+          "url": "https://www.kingandfifth.com/pages/mens-beanies-and-hats",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-beanies-a...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "This Mens XL Beanie is perfectly blended with Cashmere, Recycled Polyester, Nylon, and Viscose, which is designed deliciously soft for your all-day comfort.",
+          "highlighted": [
+            "perfectly blended with Cashmere",
+            "Recycled Polyester",
+            "Nylon",
+            "and Viscose"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-beanies-and-hats",
+          "etv": 4390.2,
+          "estimated_paid_traffic_cost": 3951.18,
+          "rank_changes": {
+            "previous_rank_absolute": 13,
+            "is_up": true
+          },
+          "rank_info": {
+            "main_domain_rank": 260
+          }
+        },
+        "check_url": "https://www.google.com/search?q=hat%20beanie%20cap&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "images",
+          "popular_products",
+          "people_also_ask",
+          "organic",
+          "people_also_search",
+          "related_searches"
+        ],
+        "se_results_count": 119000000,
+        "last_updated_time": "2026-03-12 05:14:19 +00:00",
+        "previous_updated_time": "2026-01-27 06:30:26 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "beanie cap men",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-12 04:48:02 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 0.83,
+          "search_volume": 22200,
+          "low_top_of_page_bid": 0.25,
+          "high_top_of_page_bid": 1.69,
+          "categories": [
+            10021,
+            10178,
+            10941,
+            12266
+          ],
+          "monthly_searches": {
+            "2026-05": 5400,
+            "2026-04": 6600,
+            "2026-03": 8100,
+            "2026-02": 18100,
+            "2026-01": 33100,
+            "2025-12": 74000,
+            "2025-11": 49500,
+            "2025-10": 22200,
+            "2025-09": 9900,
+            "2025-08": 8100,
+            "2025-07": 6600,
+            "2025-06": 6600
+          },
+          "search_volume_trend": {
+            "monthly": -18,
+            "quarterly": -33
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "beanie caps men's",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=beanie%20cap%20men&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "organic",
+            "popular_products",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 118000000,
+          "last_updated_time": "2026-04-18 10:25:36 +00:00",
+          "previous_updated_time": "2026-03-02 17:07:06 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 32.1,
+          "dofollow": 7.4,
+          "referring_pages": 31.4,
+          "referring_domains": 20,
+          "referring_main_domains": 19.9,
+          "rank": 34.6,
+          "main_domain_rank": 478,
+          "last_updated_time": "2026-04-18 10:25:36 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "last_updated_time": "2026-04-24 19:55:02 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 6,
+          "rank_absolute": 10,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Beanies and Hats",
+          "url": "https://www.kingandfifth.com/pages/mens-beanies-and-hats",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-beanies-a...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "This Mens XL Beanie is perfectly blended with Cashmere, Recycled Polyester, Nylon, and Viscose, which is designed deliciously soft for your all-day comfort.",
+          "highlighted": [
+            "perfectly blended with Cashmere",
+            "Recycled Polyester",
+            "Nylon",
+            "and Viscose"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-beanies-and-hats",
+          "etv": 750.36,
+          "estimated_paid_traffic_cost": 622.799,
+          "rank_changes": {
+            "previous_rank_absolute": 2,
+            "is_down": true
+          },
+          "rank_info": {
+            "main_domain_rank": 253
+          }
+        },
+        "check_url": "https://www.google.com/search?q=beanie%20cap%20men&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "organic",
+          "popular_products",
+          "images",
+          "related_searches"
+        ],
+        "se_results_count": 118000000,
+        "last_updated_time": "2026-04-18 10:25:36 +00:00",
+        "previous_updated_time": "2026-03-02 17:07:06 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "beanie caps men's",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-05-23 20:17:28 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 0.87,
+          "search_volume": 22200,
+          "low_top_of_page_bid": 0.34,
+          "high_top_of_page_bid": 1.92,
+          "categories": [
+            10021,
+            10021,
+            10178,
+            10178,
+            10941,
+            10941,
+            12266
+          ],
+          "monthly_searches": {
+            "2026-04": 5400,
+            "2026-03": 8100,
+            "2026-02": 18100,
+            "2026-01": 27100,
+            "2025-12": 74000,
+            "2025-11": 49500,
+            "2025-10": 22200,
+            "2025-09": 9900,
+            "2025-08": 6600,
+            "2025-07": 4400,
+            "2025-06": 4400,
+            "2025-05": 5400
+          },
+          "search_volume_trend": {
+            "monthly": -33,
+            "quarterly": -70,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=beanie%20caps%20men%27s&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "popular_products",
+            "organic",
+            "perspectives",
+            "related_searches"
+          ],
+          "se_results_count": 126000000,
+          "last_updated_time": "2026-03-12 07:07:19 +00:00",
+          "previous_updated_time": "2025-12-25 05:33:46 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 0.2,
+          "dofollow": 0.1,
+          "referring_pages": 0.1,
+          "referring_domains": 0.1,
+          "referring_main_domains": 0.1,
+          "rank": 5.8,
+          "main_domain_rank": 439.9,
+          "last_updated_time": "2026-03-12 07:07:19 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "informational",
+          "last_updated_time": "2026-05-07 21:14:19 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Beanies and Hats",
+          "url": "https://www.kingandfifth.com/pages/mens-beanies-and-hats",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-beanies-a...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "The Mens Beanie collection by K&F® features an array of cool beanies for guys. We offer beanies for big heads, athletic beanies, gym beanies, ...",
+          "highlighted": [
+            "cool beanies for guys"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-beanies-and-hats",
+          "etv": 3596.4,
+          "estimated_paid_traffic_cost": 3128.868,
+          "rank_changes": {
+            "previous_rank_absolute": 3
+          },
+          "rank_info": {
+            "main_domain_rank": 260
+          }
+        },
+        "check_url": "https://www.google.com/search?q=beanie%20caps%20men%27s&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "popular_products",
+          "organic",
+          "perspectives",
+          "related_searches"
+        ],
+        "se_results_count": 126000000,
+        "last_updated_time": "2026-03-12 07:07:19 +00:00",
+        "previous_updated_time": "2025-12-25 05:33:46 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "beanies men's",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-05-24 10:05:09 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 0.87,
+          "search_volume": 22200,
+          "low_top_of_page_bid": 0.34,
+          "high_top_of_page_bid": 1.92,
+          "categories": [
+            10021,
+            10021,
+            10021,
+            10176,
+            10178,
+            10178,
+            10941,
+            10941,
+            12266,
+            13778
+          ],
+          "monthly_searches": {
+            "2026-04": 5400,
+            "2026-03": 8100,
+            "2026-02": 18100,
+            "2026-01": 27100,
+            "2025-12": 74000,
+            "2025-11": 49500,
+            "2025-10": 22200,
+            "2025-09": 9900,
+            "2025-08": 6600,
+            "2025-07": 4400,
+            "2025-06": 4400,
+            "2025-05": 5400
+          },
+          "search_volume_trend": {
+            "monthly": -33,
+            "quarterly": -70,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=beanies%20men%27s&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "popular_products",
+            "organic",
+            "local_pack",
+            "people_also_ask",
+            "people_also_search",
+            "related_searches"
+          ],
+          "se_results_count": 52800000,
+          "last_updated_time": "2026-03-12 07:08:09 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 12.6,
+          "dofollow": 1.2,
+          "referring_pages": 12.1,
+          "referring_domains": 8.6,
+          "referring_main_domains": 8.4,
+          "rank": 14.4,
+          "main_domain_rank": 422.2,
+          "last_updated_time": "2026-03-12 07:08:10 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "informational",
+          "last_updated_time": "2026-05-11 11:03:01 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Beanies and Hats",
+          "url": "https://www.kingandfifth.com/pages/mens-beanies-and-hats",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-beanies-a...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "The Mens Beanie collection by K&F® features an array of cool beanies for guys. We offer beanies for big heads, athletic beanies, gym beanies, ...",
+          "highlighted": [
+            "cool beanies for guys"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-beanies-and-hats",
+          "etv": 2160.06,
+          "estimated_paid_traffic_cost": 1879.252,
+          "rank_changes": {
+            "is_new": true
+          },
+          "rank_info": {
+            "main_domain_rank": 260
+          }
+        },
+        "check_url": "https://www.google.com/search?q=beanies%20men%27s&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "popular_products",
+          "organic",
+          "local_pack",
+          "people_also_ask",
+          "people_also_search",
+          "related_searches"
+        ],
+        "se_results_count": 52800000,
+        "last_updated_time": "2026-03-12 07:08:09 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "female baseball caps",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-15 18:57:45 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 0.85,
+          "search_volume": 22200,
+          "low_top_of_page_bid": 0.24,
+          "high_top_of_page_bid": 0.96,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-05": 22200,
+            "2026-04": 22200,
+            "2026-03": 22200,
+            "2026-02": 18100,
+            "2026-01": 12100,
+            "2025-12": 18100,
+            "2025-11": 18100,
+            "2025-10": 18100,
+            "2025-09": 18100,
+            "2025-08": 22200,
+            "2025-07": 27100,
+            "2025-06": 27100
+          },
+          "search_volume_trend": {
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=female%20baseball%20caps&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "popular_products",
+            "organic",
+            "related_searches",
+            "images"
+          ],
+          "se_results_count": 118000000,
+          "last_updated_time": "2026-05-15 04:14:22 +00:00",
+          "previous_updated_time": "2026-03-12 06:45:25 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 5.5,
+          "dofollow": 4.5,
+          "referring_pages": 4.5,
+          "referring_domains": 0.3,
+          "referring_main_domains": 0.3,
+          "rank": 10.4,
+          "main_domain_rank": 446.4,
+          "last_updated_time": "2026-05-15 04:14:22 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "foreign_intent": [
+            "commercial"
+          ],
+          "last_updated_time": "2026-04-27 21:32:20 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 6,
+          "rank_absolute": 7,
+          "domain": "www.kingandfifth.com",
+          "title": "Womens Fashion Baseball Caps by K&F",
+          "url": "https://www.kingandfifth.com/pages/womens-fashion-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › womens-fashio...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "The Womens Baseball Cap collection by K&F® is made for the gal with style. If you are looking for cool baseball caps, designer baseball caps or fashion ...",
+          "highlighted": [
+            "cool baseball caps",
+            "designer baseball caps or fashion"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/womens-fashion-baseball-caps",
+          "etv": 750.36,
+          "estimated_paid_traffic_cost": 637.806,
+          "rank_changes": {
+            "is_new": true
+          },
+          "rank_info": {
+            "main_domain_rank": 244
+          }
+        },
+        "check_url": "https://www.google.com/search?q=female%20baseball%20caps&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "popular_products",
+          "organic",
+          "related_searches",
+          "images"
+        ],
+        "se_results_count": 118000000,
+        "last_updated_time": "2026-05-15 04:14:22 +00:00",
+        "previous_updated_time": "2026-03-12 06:45:25 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "ladies baseball hats",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-06-12 03:46:56 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 0.85,
+          "search_volume": 22200,
+          "low_top_of_page_bid": 0.24,
+          "high_top_of_page_bid": 0.96,
+          "categories": [
+            10014,
+            10116,
+            11902
+          ],
+          "monthly_searches": {
+            "2026-05": 22200,
+            "2026-04": 22200,
+            "2026-03": 22200,
+            "2026-02": 18100,
+            "2026-01": 12100,
+            "2025-12": 18100,
+            "2025-11": 18100,
+            "2025-10": 18100,
+            "2025-09": 18100,
+            "2025-08": 22200,
+            "2025-07": 27100,
+            "2025-06": 27100
+          },
+          "search_volume_trend": {
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "baseball hats ladies",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=ladies%20baseball%20hats&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "popular_products",
+            "organic",
+            "related_searches",
+            "images"
+          ],
+          "se_results_count": 118000000,
+          "last_updated_time": "2026-05-15 03:55:20 +00:00",
+          "previous_updated_time": "2026-01-27 07:29:42 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 5.9,
+          "dofollow": 4.9,
+          "referring_pages": 4.9,
+          "referring_domains": 0.5,
+          "referring_main_domains": 0.4,
+          "rank": 13.7,
+          "main_domain_rank": 475.5,
+          "last_updated_time": "2026-05-15 03:55:20 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "foreign_intent": [
+            "commercial"
+          ],
+          "last_updated_time": "2026-04-29 15:28:23 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 15,
+          "rank_absolute": 20,
+          "domain": "www.kingandfifth.com",
+          "title": "Womens Fashion Baseball Caps by K&F",
+          "url": "https://www.kingandfifth.com/pages/womens-fashion-baseball-caps",
+          "breadcrumb": "https://www.kingandfifth.com › pages › womens-fashio...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "The Womens Baseball Cap collection by K&F® is made for the gal with style. If you are looking for cool baseball caps, designer baseball caps or fashion ...",
+          "highlighted": [
+            "cool baseball caps",
+            "designer baseball caps or fashion"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/womens-fashion-baseball-caps",
+          "etv": 113.22,
+          "estimated_paid_traffic_cost": 96.237,
+          "rank_changes": {
+            "is_new": true
+          },
+          "rank_info": {
+            "main_domain_rank": 244
+          }
+        },
+        "check_url": "https://www.google.com/search?q=ladies%20baseball%20hats&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "popular_products",
+          "organic",
+          "related_searches",
+          "images"
+        ],
+        "se_results_count": 118000000,
+        "last_updated_time": "2026-05-15 03:55:20 +00:00",
+        "previous_updated_time": "2026-01-27 07:29:42 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "men's beanies",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-05-24 17:54:23 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 0.87,
+          "search_volume": 22200,
+          "low_top_of_page_bid": 0.34,
+          "high_top_of_page_bid": 1.92,
+          "categories": [
+            10021,
+            10021,
+            10021,
+            10176,
+            10178,
+            10178,
+            10941,
+            10941,
+            12266,
+            13778
+          ],
+          "monthly_searches": {
+            "2026-04": 5400,
+            "2026-03": 8100,
+            "2026-02": 18100,
+            "2026-01": 27100,
+            "2025-12": 74000,
+            "2025-11": 49500,
+            "2025-10": 22200,
+            "2025-09": 9900,
+            "2025-08": 6600,
+            "2025-07": 4400,
+            "2025-06": 4400,
+            "2025-05": 5400
+          },
+          "search_volume_trend": {
+            "monthly": -33,
+            "quarterly": -70,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "beanies men's",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=men%27s%20beanies&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "organic",
+            "popular_products",
+            "product_considerations",
+            "images",
+            "local_pack",
+            "related_searches"
+          ],
+          "se_results_count": 4430000000,
+          "last_updated_time": "2026-03-28 22:26:35 +00:00",
+          "previous_updated_time": "2026-02-07 11:01:04 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 27.5,
+          "dofollow": 3.6,
+          "referring_pages": 27.1,
+          "referring_domains": 18.3,
+          "referring_main_domains": 18.2,
+          "rank": 45.4,
+          "main_domain_rank": 448.9,
+          "last_updated_time": "2026-03-28 22:26:36 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "informational",
+          "last_updated_time": "2026-05-03 22:28:33 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 7,
+          "rank_absolute": 11,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Beanies and Hats",
+          "url": "https://www.kingandfifth.com/pages/mens-beanies-and-hats",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-beanies-a...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "The Mens Beanie collection by K&F® features an array of cool beanies for guys. We offer beanies for big heads, athletic beanies, gym beanies, ...",
+          "highlighted": [
+            "cool beanies for guys"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-beanies-and-hats",
+          "etv": 568.32,
+          "estimated_paid_traffic_cost": 494.438,
+          "rank_changes": {
+            "is_new": true
+          },
+          "rank_info": {
+            "main_domain_rank": 260
+          }
+        },
+        "check_url": "https://www.google.com/search?q=men%27s%20beanies&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "organic",
+          "popular_products",
+          "product_considerations",
+          "images",
+          "local_pack",
+          "related_searches"
+        ],
+        "se_results_count": 4430000000,
+        "last_updated_time": "2026-03-28 22:26:35 +00:00",
+        "previous_updated_time": "2026-02-07 11:01:04 +00:00"
+      }
+    },
+    {
+      "se_type": "google",
+      "keyword_data": {
+        "se_type": "google",
+        "keyword": "mens beanies",
+        "location_code": 2840,
+        "language_code": "en",
+        "keyword_info": {
+          "se_type": "google",
+          "last_updated_time": "2026-05-25 17:20:25 +00:00",
+          "competition": 1,
+          "competition_level": "HIGH",
+          "cpc": 0.87,
+          "search_volume": 22200,
+          "low_top_of_page_bid": 0.34,
+          "high_top_of_page_bid": 1.92,
+          "categories": [
+            10021,
+            10178,
+            10941,
+            12266
+          ],
+          "monthly_searches": {
+            "2026-04": 5400,
+            "2026-03": 8100,
+            "2026-02": 18100,
+            "2026-01": 27100,
+            "2025-12": 74000,
+            "2025-11": 49500,
+            "2025-10": 22200,
+            "2025-09": 9900,
+            "2025-08": 6600,
+            "2025-07": 4400,
+            "2025-06": 4400,
+            "2025-05": 5400
+          },
+          "search_volume_trend": {
+            "monthly": -33,
+            "quarterly": -70,
+            "yearly": -18
+          }
+        },
+        "keyword_properties": {
+          "se_type": "google",
+          "core_keyword": "beanies men's",
+          "synonym_clustering_algorithm": "text_processing",
+          "detected_language": "en"
+        },
+        "serp_info": {
+          "se_type": "google",
+          "check_url": "https://www.google.com/search?q=mens%20beanies&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "serp_item_types": [
+            "organic",
+            "popular_products",
+            "product_considerations",
+            "people_also_ask",
+            "related_searches",
+            "images"
+          ],
+          "se_results_count": 254000000,
+          "last_updated_time": "2026-05-15 03:58:51 +00:00",
+          "previous_updated_time": "2026-03-12 06:24:59 +00:00"
+        },
+        "avg_backlinks_info": {
+          "se_type": "google",
+          "backlinks": 30.8,
+          "dofollow": 4.3,
+          "referring_pages": 29.8,
+          "referring_domains": 20.1,
+          "referring_main_domains": 20.1,
+          "rank": 25.6,
+          "main_domain_rank": 479.9,
+          "last_updated_time": "2026-05-15 03:58:52 +00:00"
+        },
+        "search_intent_info": {
+          "se_type": "google",
+          "main_intent": "transactional",
+          "last_updated_time": "2026-04-28 21:20:24 +00:00"
+        }
+      },
+      "ranked_serp_element": {
+        "se_type": "google",
+        "serp_item": {
+          "se_type": "google",
+          "type": "organic",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "domain": "www.kingandfifth.com",
+          "title": "Mens Beanies and Hats",
+          "url": "https://www.kingandfifth.com/pages/mens-beanies-and-hats",
+          "breadcrumb": "https://www.kingandfifth.com › pages › mens-beanies-a...",
+          "website_name": "King and Fifth Supply Co.",
+          "is_image": true,
+          "description": "The Mens Beanie collection by K&F® features an array of cool beanies for guys. We offer beanies for big heads, athletic beanies, gym beanies, ...",
+          "highlighted": [
+            "cool beanies for guys"
+          ],
+          "main_domain": "kingandfifth.com",
+          "relative_url": "/pages/mens-beanies-and-hats",
+          "etv": 6748.8,
+          "estimated_paid_traffic_cost": 5871.456,
+          "rank_changes": {
+            "previous_rank_absolute": 13,
+            "is_up": true
+          },
+          "rank_info": {
+            "main_domain_rank": 244
+          }
+        },
+        "check_url": "https://www.google.com/search?q=mens%20beanies&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "organic",
+          "popular_products",
+          "product_considerations",
+          "people_also_ask",
+          "related_searches",
+          "images"
+        ],
+        "se_results_count": 254000000,
+        "last_updated_time": "2026-05-15 03:58:51 +00:00",
+        "previous_updated_time": "2026-03-12 06:24:59 +00:00"
+      }
+    }
+  ]
+}

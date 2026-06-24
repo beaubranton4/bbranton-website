@@ -22,8 +22,9 @@ Bias toward **take-rate pricing** ("we win when you win") — Rocket Money / Str
 |---|---|---|---|
 | **1** | **Wellness brand** | Unified brand combining fitness tools (1RM calc, marathon plan, macro calc — KD 4–12, massive volume) + Calorie Cart Chrome extension under one character-led identity. Niche positioning (cutting/GLP-1) to beat Google Health Coach's generic offering. | [wellness-brand.md](./wellness-brand.md) |
 | **2** | **Joe — AI finance agent** | Autonomous agent that does the nickel-and-dime financial optimization humans skip (calls customer service, burns down Amex credits at 11:59pm, drafts complaint emails). Personality-led to differentiate from Pine AI. Take 20–25% of captured value. | [joe-ai-agent.md](./joe-ai-agent.md) |
+| **3** | **Hats / perfect-fit** | Highest pain-proximity idea in the folder (Beau owns 200–300 hats, ~95% don't fit). Staged: Stage 1 fit-finder + content/SEO + affiliate (`hat size chart` 33,100/LOW; closes the proven *discovery gap*) → Stage 2 phone fit-scan + proprietary "what-fits-your-head" fit DB (the moat) → Stage 3 custom-fit DTC + $500/yr subscription. Differentiator = matching on **crown depth/shape**, the axis every competitor (King & Fifth, Lift Down, SetarTrading) leaves unsolved. VOC-validated (discovery gap + depth gap + strong WTP). Verdict: GO on the software layer, NOT a me-too brand. Master doc → [hats-perfect-fit.md](./hats-perfect-fit.md). | [hats-perfect-fit.md](./hats-perfect-fit.md) |
 
-Both are siblings — same "AI agent + character brand + take-rate pricing" pattern applied to two domains (body, money).
+Ideas 1 & 2 are siblings — same "AI agent + character brand + take-rate pricing" pattern applied to two domains (body, money). Idea 3 is a different shape: a tool-SEO + fit-data play that only becomes a physical-product brand at Stage 3.
 
 ## Key competitive realities (be honest with yourself)
 
