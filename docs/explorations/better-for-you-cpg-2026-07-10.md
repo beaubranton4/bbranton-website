@@ -121,3 +121,26 @@ Interpretation:
 - [ ] Run the same trends + KD pass on **healthy soda** and **healthy energy drink** to size the adjacent category before committing.
 - [ ] Pull `keyword_suggestions` on **"fruit riot"** and **"low sugar candy" / "no sugar candy"** — the brand-name and reformulation long-tails are likely even lower competition.
 - [ ] Map the Whole Foods / sprouts shelf: which better-for-you brands are getting distribution = leading indicator of what search demand follows.
+
+---
+
+## 6. How to Capitalize — Skills-Fit Analysis (added 2026-07-14)
+
+**Question:** How does Beau capitalize on this trend given *his* skills and interests?
+
+**Skills/edge (from top-ideas.md, frameworks.md, journal):** software + tool-SEO + ships in days with Claude Code; data analyst; former pro baseball player; already operates Dugout Edge (paying customers). NOT: manufacturing, supply chain, retail distribution, CPG ops.
+
+**Current reality (journal 2026-07-09 / 07-10):** Actively health-resetting with Abby 8 months pre-wedding (green smoothies, healthy groceries, longevity focus) → *genuine* pain proximity to the better-for-you consumer. BUT explicitly worried about spreading too thin; mentally blocked on Dugout Edge; plan is finish DE features this year → market → decide full-time by baseball season (Mar/Apr 2027).
+
+### Four vehicles, ranked against the Holy Grail filter
+
+| Rank | Vehicle | Verdict |
+|---|---|---|
+| **1** | **Software/tool wedge** | Only vehicle matching his edge. Same buyer as the already-validated calorie-cart / "whole foods meal planner" (KD 4–6, 12,100/mo) + GLP-1 nutrition planner. "Capitalizing on the trend" = re-positioning that validated tool around low-sugar / better-for-you / wedding-cut and dogfooding it now. Passes pain proximity + funnel (SEO) + LLM-unkillable. **Catch:** competes with Dugout Edge for focus. |
+| 2 | Content/affiliate site | Fails his own "content SEO is dying" thesis; AI Overview sits on the head term; low ARPU, no moat. Only as a lead-magnet feeding the tool. |
+| 3 | Picks-and-shovels for CPG brands | Matches dev-first "Resend pattern" lens but fails pain proximity — he's not a CPG operator. Anti-pattern: theorizing about markets he's not in. |
+| 4 | Actual product/brand | Highest passion test, worst skills fit, worst timing. Needs capital/co-packers/retail. Fails rule #3 — his Sunday passion is baseball/Dugout Edge, not candy. |
+
+### Recommendation
+
+**Don't start a fifth thing.** The trend is real but fails his *opportunity-cost* test this quarter — a new CPG venture is the exact "spreading too thin" failure mode he named in the 07-09 journal. If the better-for-you pull is genuine, the only move that compounds with his skills is the smallest one: **ship the better-for-you-positioned version of the already-validated grocery/calorie tool over one weekend, dogfood it through the wedding cut, let the trend drive distribution.** Everything else forks him into an industry where he has no edge. Default: stay focused on Dugout Edge.

@@ -1,0 +1,124 @@
+- generic [active] [ref=f1e1]:
+  - main [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - generic [ref=f1e4]: 4TH SET
+      - link "Vote" [ref=f1e5] [cursor=pointer]:
+        - /url: "#drop"
+    - generic [ref=f1e7]:
+      - generic [ref=f1e8]:
+        - paragraph [ref=f1e9]: Gym · court · run
+        - heading "The gym hat that doesn't quit." [level=1] [ref=f1e10]: The gym hatthat doesn'tquit.
+        - paragraph [ref=f1e11]: Lululemon-grade headwear for the gym, the court, the run. Structured so it holds shape, engineered so it stays dry, cut so it actually fits your head. The designs are done — you decide which one we make first.
+        - generic [ref=f1e12]:
+          - link "Pick the first drop" [ref=f1e13] [cursor=pointer]:
+            - /url: "#drop"
+          - generic [ref=f1e14]: 4 designs · 2 shot · 2 concepts
+      - generic [ref=f1e15]:
+        - img "4th Set Blackout — matte black performance cap with electric-blue script" [ref=f1e16]
+        - generic [ref=f1e17]: 4S-01 · Blackout
+    - generic [ref=f1e19]:
+      - generic [ref=f1e20]:
+        - generic [ref=f1e21]:
+          - paragraph [ref=f1e22]: The drop board
+          - heading "Which one drops first?" [level=2] [ref=f1e23]
+        - paragraph [ref=f1e24]: Four directions on the table. Two are shot, two are concepts. Pick the one you'd actually wear — that's the one we make first.
+      - generic [ref=f1e25]:
+        - article [ref=f1e26]:
+          - generic [ref=f1e27]:
+            - img "Blackout — Matte black, electric-blue script" [ref=f1e28]
+            - generic [ref=f1e29]: ● Shot
+          - generic [ref=f1e30]:
+            - generic [ref=f1e31]:
+              - heading "Blackout" [level=3] [ref=f1e32]
+              - generic [ref=f1e33]: 4S-01
+            - paragraph [ref=f1e34]: The one you reach for without thinking. Holds shape through a full session and never soaks through.
+            - generic [ref=f1e35]:
+              - generic [ref=f1e36]:
+                - term [ref=f1e37]: Fabric
+                - definition [ref=f1e38]: 4-way stretch poly shell · laser-cut mesh back
+              - generic [ref=f1e39]:
+                - term [ref=f1e40]: Best for
+                - definition [ref=f1e41]: Gym · lifting · everyday
+            - button "This one" [ref=f1e42] [cursor=pointer]
+        - article [ref=f1e43]:
+          - generic [ref=f1e44]:
+            - img "Royal — Royal blue, volt-yellow script" [ref=f1e45]
+            - generic [ref=f1e46]: ● Shot
+          - generic [ref=f1e47]:
+            - generic [ref=f1e48]:
+              - heading "Royal" [level=3] [ref=f1e49]
+              - generic [ref=f1e50]: 4S-02
+            - paragraph [ref=f1e51]: Built for the fourth set. Bright enough to be seen, vented enough to keep the sweat out of the point.
+            - generic [ref=f1e52]:
+              - generic [ref=f1e53]:
+                - term [ref=f1e54]: Fabric
+                - definition [ref=f1e55]: 4-way stretch poly shell · perforated side vents
+              - generic [ref=f1e56]:
+                - term [ref=f1e57]: Best for
+                - definition [ref=f1e58]: Court · pickleball · tennis
+            - button "This one" [ref=f1e59] [cursor=pointer]
+        - article [ref=f1e60]:
+          - generic [ref=f1e61]: ○ Concept
+          - generic [ref=f1e65]:
+            - generic [ref=f1e66]:
+              - heading "Trail Sage" [level=3] [ref=f1e67]
+              - generic [ref=f1e68]: 4S-03
+            - paragraph [ref=f1e69]: Earth tones for the days the workout happens outside. A concept — vote it up and it gets made next.
+            - generic [ref=f1e70]:
+              - generic [ref=f1e71]:
+                - term [ref=f1e72]: Fabric
+                - definition [ref=f1e73]: Featherweight ripstop · toweling sweatband
+              - generic [ref=f1e74]:
+                - term [ref=f1e75]: Best for
+                - definition [ref=f1e76]: Trail runs · hikes · long miles
+            - button "This one" [ref=f1e77] [cursor=pointer]
+        - article [ref=f1e78]:
+          - generic [ref=f1e79]: ○ Concept
+          - generic [ref=f1e83]:
+            - generic [ref=f1e84]:
+              - heading "Court Clay" [level=3] [ref=f1e85]
+              - generic [ref=f1e86]: 4S-04
+            - paragraph [ref=f1e87]: Warm-weather color for hard courts and hot mornings. A concept — vote it up and it gets made next.
+            - generic [ref=f1e88]:
+              - generic [ref=f1e89]:
+                - term [ref=f1e90]: Fabric
+                - definition [ref=f1e91]: Sun-shielding weave · wide structured brim
+              - generic [ref=f1e92]:
+                - term [ref=f1e93]: Best for
+                - definition [ref=f1e94]: Outdoor courts · summer sessions
+            - button "This one" [ref=f1e95] [cursor=pointer]
+      - generic [ref=f1e97]:
+        - generic [ref=f1e98]:
+          - paragraph [ref=f1e99]: Reserve your spot
+          - heading "Get first dibs on the first drop." [level=3] [ref=f1e100]
+          - paragraph [ref=f1e101]: Pick a design above, then drop your email to get early access and help decide what we make first.
+        - generic [ref=f1e102]:
+          - generic [ref=f1e103]: Email address
+          - textbox "Email address" [ref=f1e104]:
+            - /placeholder: you@email.com
+          - button "Reserve my spot" [ref=f1e105] [cursor=pointer]
+          - paragraph [ref=f1e106]: No spam. One email when it's real.
+    - generic [ref=f1e108]:
+      - paragraph [ref=f1e109]: Why it's built different
+      - generic [ref=f1e110]:
+        - generic [ref=f1e111]:
+          - generic [ref=f1e112]: "01"
+          - heading "Won't collapse" [level=3] [ref=f1e113]
+          - paragraph [ref=f1e114]: A structured crown that keeps its shape through thousands of workouts — not a floppy dad hat that folds in your bag.
+        - generic [ref=f1e115]:
+          - generic [ref=f1e116]: "02"
+          - heading "Stays dry" [level=3] [ref=f1e117]
+          - paragraph [ref=f1e118]: Moisture-wicking shell and a real sweatband move sweat off your forehead instead of dripping it into your eyes.
+        - generic [ref=f1e119]:
+          - generic [ref=f1e120]: "03"
+          - heading "Actually fits" [level=3] [ref=f1e121]
+          - paragraph [ref=f1e122]: Engineered around crown depth and head shape, not just circumference — so it sits right on your head and stays put.
+    - generic [ref=f1e124]:
+      - paragraph [ref=f1e125]: Why I'm making this
+      - blockquote [ref=f1e126]: "I've worn a hat every day of my life — through college ball, pro ball, and every workout since. I own hundreds of them and almost none are actually good to train in: they soak through, they lose their shape, they never sit right. So I'm building the one I keep wanting and can't find. Before I make it, I want to know which one you'd wear."
+      - paragraph [ref=f1e127]: — Beau, founder
+    - generic [ref=f1e129]:
+      - generic [ref=f1e130]: 4TH SET
+      - generic [ref=f1e131]: Performance headwear · in development · 2026
+  - button "Open Next.js Dev Tools" [ref=f1e137] [cursor=pointer]
+  - alert [ref=f1e141]

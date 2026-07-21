@@ -39,6 +39,7 @@ Ideas 1 & 2 are siblings — same "AI agent + character brand + take-rate pricin
 | [guiding-principles.md](./guiding-principles.md) | The three rules every idea must pass — pain proximity, clear funnel, genuine passion. Upstream of the six-filter checklist below. |
 | [frameworks.md](./frameworks.md) | Generative lenses for *finding* ideas (vs. the rules that *evaluate* them). Holds the "developer-first AI-native rebuild" (Resend pattern) + the other sourcing patterns in use. |
 | [top-ideas.md](./top-ideas.md) | Master strategic doc — full thesis, 100-candidate brainstorm, validation pass, big-bet reference. Longer reference for when you need depth. |
+| [whats-next-2026-07-17.md](./whats-next-2026-07-17.md) | Cross-cutting decision review — applies the Holy Grail filter to every live candidate at once (DE coach-charting, hats, CPG, fruit ripeness, book marketplace, the new SEO/DataForSEO agentic-loop idea) to answer "what should I actually build next." Verdict: finish an unbuilt GO (DE charting or hats), don't start a new one. |
 | [solopreneur-landscape-2026-05-27.md](./solopreneur-landscape-2026-05-27.md) | 2026 research on the solopreneur movement — archetype, new pains (context fragmentation, AI-output verification, tool sprawl), tools red/blue-ocean, and keyword landscape. Conclusion: the movement is real, the "solopreneur" keyword is weak, the opportunity is in the pains. |
 | [data/](./data/) | Raw DataForSEO keyword research (CSVs + JSONs) backing every number. Organized by date. See `data/README.md`. |
 
@@ -59,6 +60,7 @@ The first few months of explorations + the per-cluster keyword research that's n
 | `literacy-crisis.md` | Original signal was a viral-spike artifact; not viable |
 | `journal-mobile-workflow.md` | Personal workflow, not a venture |
 | `ai-compute-bottlenecks-dylan-patel.md` | Broader think piece, not a venture |
+| `ai-fruit-ripeness-2026-07-15.md` | D2C fails funnel (declining/seasonal demand, 4+ apps already ship it, category leader is literally a GPT-4o vision wrapper — LLM-unkillable fail); B2B fails pain proximity (no ag connection) and is a mature capital-intensive hardware industry |
 
 ## Conventions (for future explorations)
 
