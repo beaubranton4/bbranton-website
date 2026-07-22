@@ -39,3 +39,9 @@ content/apple-notes/
 
 # voice data - too large for git, used for future voice training
 content/voice-data/
+# Claude Code — personal / secret, do not commit
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/*.local.json
+.claude/scheduled_tasks.lock
+.mcp.local.json
