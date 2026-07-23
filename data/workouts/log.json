@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "notes": "Workout log. Each session lists sets per lifter. weight in lbs. failure=true means last-rep failure (couldn't complete another).",
+  "sessions": [
+    {
+      "date": "2026-07-23",
+      "lifts": [
+        {
+          "exercise": "Bench Press",
+          "equipment": "barbell",
+          "lifter": "Beau",
+          "sets": [
+            { "weight": 185, "reps": 8, "failure": false },
+            { "weight": 205, "reps": 6, "failure": true },
+            { "weight": 205, "reps": 5, "failure": true }
+          ]
+        },
+        {
+          "exercise": "Bench Press",
+          "equipment": "barbell",
+          "lifter": "Partner",
+          "sets": [
+            { "weight": 75, "reps": 8, "failure": false },
+            { "weight": 77, "reps": 8, "failure": false },
+            { "weight": 77, "reps": 7, "failure": true }
+          ]
+        }
+      ]
+    }
+  ]
+}
