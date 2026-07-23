@@ -4,6 +4,7 @@ import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import rehypeRaw from 'rehype-raw';
 import rehypeStringify from 'rehype-stringify';
+import { remarkStripWidgets } from './remarkStripWidgets';
 
 // Define types
 export interface PostData {
@@ -205,6 +206,7 @@ export async function getPostData(id: string) {
   // Use unified to convert markdown into HTML string, allowing raw HTML
   const processedContent = await unified()
     .use(remarkParse)
+    .use(remarkStripWidgets)
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
     .use(rehypeStringify, { allowDangerousHtml: true })

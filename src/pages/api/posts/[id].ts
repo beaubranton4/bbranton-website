@@ -7,6 +7,7 @@ import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import rehypeRaw from 'rehype-raw';
 import rehypeStringify from 'rehype-stringify';
+import { remarkStripWidgets } from '../../../lib/remarkStripWidgets';
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
 
@@ -35,6 +36,7 @@ export default async function handler(
     // Use unified to convert markdown into HTML string, allowing raw HTML
     const processedContent = await unified()
       .use(remarkParse)
+      .use(remarkStripWidgets)
       .use(remarkRehype, { allowDangerousHtml: true })
       .use(rehypeRaw)
       .use(rehypeStringify, { allowDangerousHtml: true })

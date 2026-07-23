@@ -7,6 +7,8 @@ const Header = () => {
   const navItems = [
     { name: 'Home', path: '/' },
     { name: 'Journal', path: '/blog' },
+    { name: 'Health', path: '/health' },
+    { name: 'Workouts', path: '/workouts' },
     { name: 'Projects', path: '/projects' },
     { name: 'Resume', path: '/resume' },
   ];

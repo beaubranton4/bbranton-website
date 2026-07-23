@@ -1,0 +1,48 @@
+# Canonical profile + targets — the single source of truth for the cut plan.
+# Both the food-logging skill (Day vs. plan verdicts) and the /health dashboard
+# read from here. Do NOT re-copy these numbers into individual journal entries;
+# point at this file instead so targets never drift.
+#
+# Updated 2026-07-22. Fitness math, not dietitian advice.
+
+people:
+  beau:
+    name: Beau
+    bodyweight_lb: 170
+    protein:
+      floor_g: 123        # ~1.6 g/kg
+      sweet_spot_g: [140, 155]
+      aim_g: 145
+    calorie_targets:      # pick the row that matches the day's activity
+      low: 1800           # no workout, <5K steps
+      steps_10k: 2100     # 10K steps or ~3-mile run
+      training: 2400      # a real workout
+    clean_day_deficit: 260
+    cut_goal: "lose ~10 lb fat in 8 months (~0.3 lb/week)"
+    inbody_smi: 8.8       # well above the sarcopenia line
+
+  abby:
+    name: Abby
+    bodyweight_lb: 150
+    protein:
+      floor_g: 109        # ~1.6 g/kg
+      sweet_spot_g: [122, 136]
+      aim_g: 130
+    calorie_targets:
+      low: 1400
+      steps_10k: 1650
+      training: 1900
+    clean_day_deficit: 335
+    cut_goal: "lose ~15 lb fat in 8 months (~0.43 lb/week)"
+    floor_note: "don't drop below ~1,400–1,500; if the math pushes lower, add activity to raise TDEE rather than eat less."
+
+# Day-type keys used in widget:calorielog blocks: low | steps_10k | training
+rules_of_thumb:
+  - "10K steps → middle row. Add a real workout → top row. Couch day → bottom row (avoid stacking these, especially Abby)."
+  - "Steps are the cheapest lever: a daily 10K floor buys back ~250–300 cal vs. sitting."
+  - "One blowout weekend ≈ 11–12 clean days to pay back. One/month is fine; most weekends is what breaks it."
+  - "Track the 2–3 week scale trend, not the daily number. Faster than target → eat a bit more; flat after 3 weeks → drop 100–150."
+  - "Protein high to protect muscle: ~1.6–2.2 g/kg bodyweight."
+
+assumptions:
+  blowout_weekends_per_month: 1   # ≈ +3,000 cal each, absorbed by the clean-day deficit

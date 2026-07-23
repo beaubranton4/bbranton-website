@@ -1,7 +1,22 @@
 # Journal Widgets — Spec
 
 **Repo:** this one (`bbranton-website`). Next 13 pages router, `content/posts/*.md` rendered via `remark` → HTML in `src/lib/posts.ts`.
-**Status:** spec. Phase 0 (convention only) is happening now inside daily entries; Phase 1+ builds only if the convention proves it earns the lift.
+**Status:** Phases 0–3 **built** as of 2026-07-22 (workout + calorie widgets). See the status note below.
+
+## Status &amp; framing update (2026-07-22): this is the "second brain"
+
+The widget system is now the substrate for a bigger idea Beau named in the 2026-07-22 journal entry: **the repo as a digital embodiment / second brain** — journal, calorie, and workout as components he talks to through one routing assistant, that share memory and can be queried across time.
+
+**What's built now:**
+- `widget:workout` + `widget:calorielog` blocks (backfilled into 2026-07-20/21/22), stripped from the public render by `remarkStripWidgets` in `src/lib/posts.ts`.
+- The data backbone: `scripts/extract-widgets.mjs` → `data/widgets/{calorie,workout}.json` (dates from **filenames** — recent entries have no frontmatter). Wired into `npm run refresh`; also `npm run extract:widgets`.
+- Single source of truth for targets: `data/profile.yml` (the food-logging skill + `/health` read it; no more per-entry copy-paste drift).
+- Dashboards: `src/pages/health.tsx` and `src/pages/workouts.tsx` (hand-rolled SVG via `src/components/MiniChart.tsx` — swap for recharts if they grow).
+- The routing agent: `.claude/skills/daily-log/SKILL.md` — one assistant that captures (workout/calorie/journal/todo), queries across time, and generates plans; delegates the calorie path to the `food-logging` skill.
+
+**Data backend — repo vs. database (decision):** stay repo/markdown-native now; `data/widgets/*.json` is the portable seam. Its schema is deliberately the future Postgres table schema, so migrating to a database + mobile app is a port, not a rewrite. **Migrate when** any of: the mobile app needs live multi-device writes, Abby logs concurrently and hits git conflicts, real-time/notifications are needed, or auth is required.
+
+**Horizon:** a lightweight always-with-you cloud/mobile app whose UI adapts to the activity, more mini-apps (grocery, etc.), eventually an "OS of agents" with a marketplace. The standalone production app is scoped separately in `tandem-health.md` (see its v2). This widget layer is the working prototype of that app's data + logic.
 
 ## The problem
 
@@ -36,7 +51,7 @@ Each widget below lists: **purpose**, **data shape**, **rendered form**, **cross
 ### Workout
 - **Purpose:** log lifts for Beau and Abby; see strength trend over weeks.
 - **Data shape:** per lifter × exercise, an array of sets `{weight, reps, failure}`. Equipment noted (barbell / dumbbell / machine). Dumbbell weight is per-dumbbell.
-- **Rendered form:** per-lifter table (exercise, sets, top set, est. 1RM via Epley, volume). Session volume totalled. See `content/posts/2026-07-23-first-tracked-workout.md` for the canonical layout.
+- **Rendered form:** per-lifter table (exercise, sets, top set, est. 1RM via Epley, volume). Session volume totalled. See `content/posts/2026-07-22-digital-embodiment.md` for the canonical layout.
 - **Cross-entry payoff:** `/workouts` page — per-lift PR chart, weekly volume, "next session dial" auto-suggested from the last three sessions (bar goes up if top set closed clean, stays flat if last-rep failure, drops if two-in-a-row failures).
 
 ### Calorie Log

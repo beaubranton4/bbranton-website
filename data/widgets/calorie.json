@@ -1,0 +1,329 @@
+[
+  {
+    "date": "2026-07-20",
+    "person": "Beau",
+    "dayType": "steps_10k",
+    "items": [
+      {
+        "food": "Apple",
+        "amount": "1 medium",
+        "calories": 95,
+        "protein": 0.5
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "2 tbsp",
+        "calories": 190,
+        "protein": 8
+      },
+      {
+        "food": "Spinach",
+        "amount": "2 cups raw",
+        "calories": 15,
+        "protein": 2
+      },
+      {
+        "food": "Beets",
+        "amount": "3 whole (medium)",
+        "calories": 105,
+        "protein": 4
+      },
+      {
+        "food": "Blueberries",
+        "amount": "1/2 cup",
+        "calories": 42,
+        "protein": 0.5
+      },
+      {
+        "food": "Banana",
+        "amount": "1 medium",
+        "calories": 105,
+        "protein": 1.5
+      },
+      {
+        "food": "Buffalo chicken wraps",
+        "amount": "handmade",
+        "calories": 600,
+        "protein": 45
+      },
+      {
+        "food": "Salmon",
+        "amount": "1/2 of 0.9 lb",
+        "calories": 415,
+        "protein": 40
+      },
+      {
+        "food": "White rice",
+        "amount": "1 cup cooked",
+        "calories": 205,
+        "protein": 4
+      },
+      {
+        "food": "Mayo",
+        "amount": "1/2 tbsp",
+        "calories": 47,
+        "protein": 0
+      },
+      {
+        "food": "Greek yogurt",
+        "amount": "1 tbsp",
+        "calories": 12,
+        "protein": 1.5
+      },
+      {
+        "food": "Edamame",
+        "amount": "1/4 cup",
+        "calories": 50,
+        "protein": 4
+      },
+      {
+        "food": "Broccoli",
+        "amount": "1/4 cup",
+        "calories": 10,
+        "protein": 1
+      },
+      {
+        "food": "Potato chips",
+        "amount": "5",
+        "calories": 55,
+        "protein": 0.5
+      },
+      {
+        "food": "Buffalo chicken dip",
+        "amount": "1/2 cup",
+        "calories": 50,
+        "protein": 6
+      },
+      {
+        "food": "Turkey Chomps bar",
+        "amount": "1 stick",
+        "calories": 90,
+        "protein": 10
+      }
+    ],
+    "totals": {
+      "calories": 2086,
+      "protein": 128.5
+    },
+    "note": "Clean, high-protein reset day.",
+    "sourceId": "2026-07-20-everything-in-moderation"
+  },
+  {
+    "date": "2026-07-21",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Blueberries",
+        "amount": "10 berries",
+        "calories": 10,
+        "protein": 0.1
+      },
+      {
+        "food": "Banana",
+        "amount": "1 medium",
+        "calories": 105,
+        "protein": 1.5
+      },
+      {
+        "food": "Spinach",
+        "amount": "2 cups raw",
+        "calories": 14,
+        "protein": 1.8
+      },
+      {
+        "food": "Beets",
+        "amount": "2 whole (medium)",
+        "calories": 70,
+        "protein": 2.6
+      },
+      {
+        "food": "Boiled eggs",
+        "amount": "2 large",
+        "calories": 156,
+        "protein": 12.6
+      },
+      {
+        "food": "Turkey bacon",
+        "amount": "4 slices",
+        "calories": 140,
+        "protein": 16
+      },
+      {
+        "food": "Guava matcha latte",
+        "amount": "1",
+        "calories": 275,
+        "protein": 6
+      },
+      {
+        "food": "Greek yogurt (nonfat, plain)",
+        "amount": "1/2 cup",
+        "calories": 80,
+        "protein": 12
+      },
+      {
+        "food": "Watermelon",
+        "amount": "1 cup diced",
+        "calories": 46,
+        "protein": 1
+      },
+      {
+        "food": "Buffalo chicken tacos",
+        "amount": "2",
+        "calories": 400,
+        "protein": 35
+      },
+      {
+        "food": "Watermelon",
+        "amount": "~1/3 cup",
+        "calories": 50,
+        "protein": 1
+      },
+      {
+        "food": "Buffalo chicken spread",
+        "amount": "~1/2 cup",
+        "calories": 50,
+        "protein": 6
+      },
+      {
+        "food": "Potato chips",
+        "amount": "~5 chips (dipped)",
+        "calories": 50,
+        "protein": 0.5
+      },
+      {
+        "food": "Mediterranean meal",
+        "amount": "1 plate",
+        "calories": 750,
+        "protein": 35
+      },
+      {
+        "food": "Ice cream",
+        "amount": "dessert portion",
+        "calories": 200,
+        "protein": 4
+      },
+      {
+        "food": "Watermelon",
+        "amount": "~1/3 cup",
+        "calories": 50,
+        "protein": 1
+      }
+    ],
+    "totals": {
+      "calories": 2446,
+      "protein": 136.1
+    },
+    "note": "Training day. 5 miles @ 8:45/mi, 15,000 steps.",
+    "sourceId": "2026-07-21-show-up-every-day"
+  },
+  {
+    "date": "2026-07-22",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Boiled eggs",
+        "amount": "2 large",
+        "calories": 156,
+        "protein": 12.6
+      },
+      {
+        "food": "Greek yogurt (nonfat, plain)",
+        "amount": "1 cup",
+        "calories": 160,
+        "protein": 24
+      },
+      {
+        "food": "Blueberries",
+        "amount": "25 berries",
+        "calories": 25,
+        "protein": 0.3
+      },
+      {
+        "food": "Buffalo chicken taco wraps",
+        "amount": "3",
+        "calories": 600,
+        "protein": 45
+      },
+      {
+        "food": "Guava kombucha (Synergy)",
+        "amount": "1 bottle",
+        "calories": 60,
+        "protein": 0
+      },
+      {
+        "food": "Watermelon",
+        "amount": "1 cup diced",
+        "calories": 46,
+        "protein": 1
+      },
+      {
+        "food": "Cashews",
+        "amount": "10 nuts",
+        "calories": 90,
+        "protein": 3
+      },
+      {
+        "food": "Watermelon",
+        "amount": "2 cups diced",
+        "calories": 92,
+        "protein": 2
+      },
+      {
+        "food": "Blueberries",
+        "amount": "20 berries",
+        "calories": 20,
+        "protein": 0.2
+      },
+      {
+        "food": "Apple",
+        "amount": "1 medium",
+        "calories": 95,
+        "protein": 0.5
+      },
+      {
+        "food": "New York strip steak",
+        "amount": "1/2 lb",
+        "calories": 470,
+        "protein": 61
+      },
+      {
+        "food": "Olive oil",
+        "amount": "1/2 tbsp",
+        "calories": 60,
+        "protein": 0
+      },
+      {
+        "food": "Butter",
+        "amount": "3/4 tbsp",
+        "calories": 77,
+        "protein": 0.1
+      },
+      {
+        "food": "Corn on the cob",
+        "amount": "1 ear",
+        "calories": 90,
+        "protein": 3
+      },
+      {
+        "food": "Zucchini",
+        "amount": "1 medium",
+        "calories": 33,
+        "protein": 2
+      },
+      {
+        "food": "Shiitake mushrooms",
+        "amount": "2 oz",
+        "calories": 35,
+        "protein": 1
+      }
+    ],
+    "totals": {
+      "calories": 2109,
+      "protein": 155.7
+    },
+    "note": "Training day (full body lift). Protein aim cleared.",
+    "sourceId": "2026-07-22-digital-embodiment"
+  }
+]

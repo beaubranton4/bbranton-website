@@ -34,6 +34,29 @@ In either case, I'm looking forward to resetting, helping Abby reset, accomplish
 
 **Day vs. plan:** ~2,090 cal lands right on the 10K-step target (~2,100). ~128 g protein clears the 1.6 g/kg floor (~123 g at 170 lb) but sits just under the cut sweet spot (~140–155 g). Aim ~145 g/day. Clean, high-protein reset day.
 
+```widget:calorielog
+person: Beau
+day_type: steps_10k
+items:
+  - { food: "Apple", amount: "1 medium", calories: 95, protein: 0.5 }
+  - { food: "Peanut butter", amount: "2 tbsp", calories: 190, protein: 8 }
+  - { food: "Spinach", amount: "2 cups raw", calories: 15, protein: 2 }
+  - { food: "Beets", amount: "3 whole (medium)", calories: 105, protein: 4 }
+  - { food: "Blueberries", amount: "1/2 cup", calories: 42, protein: 0.5 }
+  - { food: "Banana", amount: "1 medium", calories: 105, protein: 1.5 }
+  - { food: "Buffalo chicken wraps", amount: "handmade", calories: 600, protein: 45 }
+  - { food: "Salmon", amount: "1/2 of 0.9 lb", calories: 415, protein: 40 }
+  - { food: "White rice", amount: "1 cup cooked", calories: 205, protein: 4 }
+  - { food: "Mayo", amount: "1/2 tbsp", calories: 47, protein: 0 }
+  - { food: "Greek yogurt", amount: "1 tbsp", calories: 12, protein: 1.5 }
+  - { food: "Edamame", amount: "1/4 cup", calories: 50, protein: 4 }
+  - { food: "Broccoli", amount: "1/4 cup", calories: 10, protein: 1 }
+  - { food: "Potato chips", amount: "5", calories: 55, protein: 0.5 }
+  - { food: "Buffalo chicken dip", amount: "1/2 cup", calories: 50, protein: 6 }
+  - { food: "Turkey Chomps bar", amount: "1 stick", calories: 90, protein: 10 }
+note: "Clean, high-protein reset day."
+```
+
 ---
 
 ## Cut Plan (Beau & Abby)

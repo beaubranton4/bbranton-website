@@ -1,0 +1,356 @@
+[
+  {
+    "date": "2026-07-22",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "Bench Press",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 185,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 205,
+                "reps": 6,
+                "failure": true
+              },
+              {
+                "weight": 205,
+                "reps": 5,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 205,
+              "reps": 6,
+              "failure": true
+            },
+            "est1RM": 246,
+            "volume": 3735
+          },
+          {
+            "exercise": "Squat",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 245,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 265,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 285,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 285,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 361,
+            "volume": 6360
+          },
+          {
+            "exercise": "Row",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 155,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 185,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 190,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 190,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 241,
+            "volume": 4240
+          },
+          {
+            "exercise": "Deadlift",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 255,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 260,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 265,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 265,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 336,
+            "volume": 6240
+          },
+          {
+            "exercise": "Shoulder Press",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 55,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 60,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 65,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 65,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 82,
+            "volume": 1440
+          },
+          {
+            "exercise": "Glute Machine",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 90,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 135,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 135,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 135,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 171,
+            "volume": 2880
+          }
+        ],
+        "sessionVolume": 24895
+      },
+      {
+        "name": "Abby",
+        "lifts": [
+          {
+            "exercise": "Bench Press",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 75,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 77,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 77,
+                "reps": 7,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 77,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 98,
+            "volume": 1755
+          },
+          {
+            "exercise": "Squat",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 85,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 105,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 135,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 135,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 171,
+            "volume": 2600
+          },
+          {
+            "exercise": "Row",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 95,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 95,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 100,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 100,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 127,
+            "volume": 2320
+          },
+          {
+            "exercise": "Deadlift",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 115,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 135,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 145,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 145,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 184,
+            "volume": 3160
+          },
+          {
+            "exercise": "Shoulder Press",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 25,
+                "reps": 5,
+                "failure": true
+              },
+              {
+                "weight": 25,
+                "reps": 4,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 25,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 32,
+            "volume": 425
+          },
+          {
+            "exercise": "Glute Machine",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 45,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 45,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 55,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 55,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 70,
+            "volume": 1160
+          }
+        ],
+        "sessionVolume": 11420
+      }
+    ],
+    "sourceId": "2026-07-22-digital-embodiment"
+  }
+]

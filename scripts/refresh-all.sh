@@ -13,4 +13,8 @@ echo "→ Syncing SuperWhisper recordings..."
 bash "$ROOT/scripts/sync_voice_data.sh"
 
 echo ""
+echo "→ Extracting journal widgets (calorie / workout) → data/widgets/..."
+node "$ROOT/scripts/extract-widgets.mjs"
+
+echo ""
 echo "✓ Refresh complete."
