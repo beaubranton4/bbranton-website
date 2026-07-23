@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "notes": "Workout log. Each session lists sets per lifter. weight in lbs. failure=true means last-rep failure (couldn't complete another).",
+  "notes": "Workout log. Each session lists sets per lifter. weight in lbs. failure=true means last-rep failure (couldn't complete another). For dumbbell lifts, weight is per dumbbell (one hand).",
   "sessions": [
     {
       "date": "2026-07-23",
@@ -23,6 +23,106 @@
             { "weight": 75, "reps": 8, "failure": false },
             { "weight": 77, "reps": 8, "failure": false },
             { "weight": 77, "reps": 7, "failure": true }
+          ]
+        },
+        {
+          "exercise": "Squat",
+          "equipment": "barbell",
+          "lifter": "Beau",
+          "sets": [
+            { "weight": 245, "reps": 8, "failure": false },
+            { "weight": 265, "reps": 8, "failure": false },
+            { "weight": 285, "reps": 8, "failure": false }
+          ]
+        },
+        {
+          "exercise": "Squat",
+          "equipment": "barbell",
+          "lifter": "Partner",
+          "sets": [
+            { "weight": 85, "reps": 8, "failure": false },
+            { "weight": 105, "reps": 8, "failure": false },
+            { "weight": 135, "reps": 8, "failure": false }
+          ]
+        },
+        {
+          "exercise": "Row",
+          "equipment": "barbell",
+          "lifter": "Beau",
+          "sets": [
+            { "weight": 155, "reps": 8, "failure": false },
+            { "weight": 185, "reps": 8, "failure": false },
+            { "weight": 190, "reps": 8, "failure": false }
+          ]
+        },
+        {
+          "exercise": "Row",
+          "equipment": "barbell",
+          "lifter": "Partner",
+          "sets": [
+            { "weight": 95, "reps": 8, "failure": false },
+            { "weight": 95, "reps": 8, "failure": false },
+            { "weight": 100, "reps": 8, "failure": false }
+          ]
+        },
+        {
+          "exercise": "Deadlift",
+          "equipment": "barbell",
+          "lifter": "Beau",
+          "sets": [
+            { "weight": 255, "reps": 8, "failure": false },
+            { "weight": 260, "reps": 8, "failure": false },
+            { "weight": 265, "reps": 8, "failure": false }
+          ]
+        },
+        {
+          "exercise": "Deadlift",
+          "equipment": "barbell",
+          "lifter": "Partner",
+          "sets": [
+            { "weight": 115, "reps": 8, "failure": false },
+            { "weight": 135, "reps": 8, "failure": false },
+            { "weight": 145, "reps": 8, "failure": false }
+          ]
+        },
+        {
+          "exercise": "Shoulder Press",
+          "equipment": "dumbbell",
+          "lifter": "Beau",
+          "sets": [
+            { "weight": 55, "reps": 8, "failure": false },
+            { "weight": 60, "reps": 8, "failure": false },
+            { "weight": 65, "reps": 8, "failure": false }
+          ]
+        },
+        {
+          "exercise": "Shoulder Press",
+          "equipment": "dumbbell",
+          "lifter": "Partner",
+          "sets": [
+            { "weight": 25, "reps": 8, "failure": false },
+            { "weight": 25, "reps": 5, "failure": true },
+            { "weight": 25, "reps": 4, "failure": true }
+          ]
+        },
+        {
+          "exercise": "Glute Machine",
+          "equipment": "machine",
+          "lifter": "Beau",
+          "sets": [
+            { "weight": 90, "reps": 8, "failure": false },
+            { "weight": 135, "reps": 8, "failure": false },
+            { "weight": 135, "reps": 8, "failure": false }
+          ]
+        },
+        {
+          "exercise": "Glute Machine",
+          "equipment": "machine",
+          "lifter": "Partner",
+          "sets": [
+            { "weight": 45, "reps": 8, "failure": false },
+            { "weight": 45, "reps": 8, "failure": false },
+            { "weight": 55, "reps": 8, "failure": false }
           ]
         }
       ]

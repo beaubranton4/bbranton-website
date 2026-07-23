@@ -5,42 +5,63 @@ Tracking lifts over time for Beau and Partner. Data source of truth is `log.json
 ## How to log a session
 Tell Claude what you did (exercise, equipment, weight × reps, note failures). Claude appends to `log.json`, updates the session table below, and refreshes the per-lift progress section.
 
+Notes on units:
+- Weight in lbs.
+- Dumbbell weight is **per dumbbell** (one hand). Volume is computed the same way (weight × reps) — treat trends, not the absolute number vs. barbell lifts.
+- Est. 1RM uses Epley: `weight × (1 + reps / 30)`.
+
 ---
 
 ## Sessions
 
-### 2026-07-23 — Bench Press (barbell)
+### 2026-07-23 — Full body
 
 **Beau**
-| Set | Weight | Reps | Note |
-|-----|--------|------|------|
-| 1   | 185    | 8    |      |
-| 2   | 205    | 6    | failure |
-| 3   | 205    | 5    | failure |
+| Exercise            | Sets                          | Top set  | Est. 1RM | Volume |
+|---------------------|-------------------------------|----------|----------|--------|
+| Bench Press (bar)   | 185×8, 205×6 F, 205×5 F       | 205×6 F  | 246      | 3,535  |
+| Squat (bar)         | 245×8, 265×8, 285×8           | 285×8    | 361      | 6,360  |
+| Row (bar)           | 155×8, 185×8, 190×8           | 190×8    | 241      | 4,240  |
+| Deadlift (bar)      | 255×8, 260×8, 265×8           | 265×8    | 336      | 6,240  |
+| Shoulder Press (DB) | 55×8, 60×8, 65×8              | 65×8     | 82       | 1,440  |
+| Glute Machine       | 90×8, 135×8, 135×8            | 135×8    | 171      | 2,880  |
 
-Top set: 205 × 6 (failure). Estimated 1RM (Epley): **246 lbs**.
+Session volume: **24,695 lb**.
 
 **Partner**
-| Set | Weight | Reps | Note |
-|-----|--------|------|------|
-| 1   | 75     | 8    |      |
-| 2   | 77     | 8    |      |
-| 3   | 77     | 7    | failure |
+| Exercise            | Sets                          | Top set  | Est. 1RM | Volume |
+|---------------------|-------------------------------|----------|----------|--------|
+| Bench Press (bar)   | 75×8, 77×8, 77×7 F            | 77×8     | 97       | 1,755  |
+| Squat (bar)         | 85×8, 105×8, 135×8            | 135×8    | 171      | 2,600  |
+| Row (bar)           | 95×8, 95×8, 100×8             | 100×8    | 127      | 2,320  |
+| Deadlift (bar)      | 115×8, 135×8, 145×8           | 145×8    | 184      | 3,160  |
+| Shoulder Press (DB) | 25×8, 25×5 F, 25×4 F          | 25×8     | 32       | 425    |
+| Glute Machine       | 45×8, 45×8, 55×8              | 55×8     | 70       | 1,160  |
 
-Top set: 77 × 8. Estimated 1RM (Epley): **97 lbs**.
+Session volume: **11,420 lb**.
+
+_F = failure on the last rep._
 
 ---
 
 ## Progress by lift
 
-### Bench Press — Beau
-| Date       | Top set (weight × reps) | Est. 1RM | Total volume |
-|------------|--------------------------|----------|--------------|
-| 2026-07-23 | 205 × 6 (failure)        | 246      | 3,535 lbs    |
+### Beau
+| Lift                | Date       | Top set   | Est. 1RM | Volume |
+|---------------------|------------|-----------|----------|--------|
+| Bench Press (bar)   | 2026-07-23 | 205×6 F   | 246      | 3,535  |
+| Squat (bar)         | 2026-07-23 | 285×8     | 361      | 6,360  |
+| Row (bar)           | 2026-07-23 | 190×8     | 241      | 4,240  |
+| Deadlift (bar)      | 2026-07-23 | 265×8     | 336      | 6,240  |
+| Shoulder Press (DB) | 2026-07-23 | 65×8      | 82       | 1,440  |
+| Glute Machine       | 2026-07-23 | 135×8     | 171      | 2,880  |
 
-### Bench Press — Partner
-| Date       | Top set (weight × reps) | Est. 1RM | Total volume |
-|------------|--------------------------|----------|--------------|
-| 2026-07-23 | 77 × 8                   | 97       | 1,755 lbs    |
-
-_Est. 1RM uses Epley: `weight × (1 + reps / 30)`. Volume = sum of weight × reps across all sets._
+### Partner
+| Lift                | Date       | Top set   | Est. 1RM | Volume |
+|---------------------|------------|-----------|----------|--------|
+| Bench Press (bar)   | 2026-07-23 | 77×8      | 97       | 1,755  |
+| Squat (bar)         | 2026-07-23 | 135×8     | 171      | 2,600  |
+| Row (bar)           | 2026-07-23 | 100×8     | 127      | 2,320  |
+| Deadlift (bar)      | 2026-07-23 | 145×8     | 184      | 3,160  |
+| Shoulder Press (DB) | 2026-07-23 | 25×8      | 32       | 425    |
+| Glute Machine       | 2026-07-23 | 55×8      | 70       | 1,160  |
