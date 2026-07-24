@@ -86,3 +86,4 @@ note: "Not a heavy training day — target = baseline (low, 1800) + 250 = 2050 c
 ## Links
 
 - [@igrigorik on X](https://x.com/igrigorik/status/2080377907675910492) — saved to read.
+- [@claudeai on X](https://x.com/claudeai/status/2079979809606664564) — play around and query it.

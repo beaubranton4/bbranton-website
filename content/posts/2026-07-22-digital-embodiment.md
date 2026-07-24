@@ -10,7 +10,7 @@ It's fun to look back at all the pictures, the shared albums, all the memories I
 
 This morning I had two boiled eggs, a cup of yogurt, and 25 blueberries — logged below. Dinner was a New York strip with corn on the cob, zucchini, and shiitake mushrooms, cooked in olive oil and butter — also logged below, along with the rest of the day's snacking.
 
-I also put together a spec for bringing workout tracking into this same journal system, alongside the calorie log — a `## Workout` section with the same treatment, so a session's sets/reps/top-set/est. 1RM get logged the same way food does: I say it out loud, Claude writes it into the day's entry. Merged that branch in — `docs/explorations/specs/journal-widgets.md` has the full spec. Next lift session gets logged that way.
+I also put together a spec for bringing workout tracking into this same journal system, alongside the calorie log — a `## Workout` section with the same treatment, so a session's sets/reps/top-set/est. 1RM get logged the same way food does: I say it out loud, Claude writes it into the day's entry. Merged that branch in — `docs/explorations/specs/journal-widgets.md` has the full spec. Full body with Abby this evening was the first session logged that way — below.
 
 ---
 
