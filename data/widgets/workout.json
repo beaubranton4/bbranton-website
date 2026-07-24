@@ -352,5 +352,165 @@
       }
     ],
     "sourceId": "2026-07-22-digital-embodiment"
+  },
+  {
+    "date": "2026-07-23",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "Kettlebell Shoulder Raise",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 70,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 70,
+                "reps": 15,
+                "failure": false
+              },
+              {
+                "weight": 70,
+                "reps": 15,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 70,
+              "reps": 15,
+              "failure": false
+            },
+            "est1RM": 105,
+            "volume": 2660
+          },
+          {
+            "exercise": "Tricep Skull Crusher",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 25,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 10,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 35,
+              "reps": 10,
+              "failure": false
+            },
+            "est1RM": 47,
+            "volume": 950
+          },
+          {
+            "exercise": "Tricep Press",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 25,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 10,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 35,
+              "reps": 10,
+              "failure": false
+            },
+            "est1RM": 47,
+            "volume": 950
+          },
+          {
+            "exercise": "Calf Raise",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 225,
+                "reps": 21,
+                "failure": false
+              },
+              {
+                "weight": 225,
+                "reps": 21,
+                "failure": false
+              },
+              {
+                "weight": 225,
+                "reps": 21,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 225,
+              "reps": 21,
+              "failure": false
+            },
+            "est1RM": 383,
+            "volume": 14175
+          },
+          {
+            "exercise": "Leg Lift",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 18,
+                "reps": 10,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 18,
+              "reps": 10,
+              "failure": false
+            },
+            "est1RM": 24,
+            "volume": 180
+          },
+          {
+            "exercise": "Leg Crunch",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 18,
+                "reps": 10,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 18,
+              "reps": 10,
+              "failure": false
+            },
+            "est1RM": 24,
+            "volume": 180
+          }
+        ],
+        "sessionVolume": 19095
+      }
+    ],
+    "sourceId": "2026-07-23-fork-in-the-road"
   }
 ]

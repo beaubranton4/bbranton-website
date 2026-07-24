@@ -1,0 +1,52 @@
+[      82ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://analytics.gokwik.co/analytics.js:0
+[      91ms] [INFO] [autoSchema] theme extension version: autoschema-extension-v2026-06-24-2 @ https://vastramay.com/en-us/search?q=ivory+jacket+kurta+churidar+set:11791
+[     271ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://d24sh1msnqkirc.cloudfront.net/shopflo.bundle.js:0
+[     515ms] [WARNING] viewedProducts array is invalid or empty @ https://vastramay.com/cdn/shop/t/84/assets/searchtap.js?v=168086242129123940851773752808:0
+[     849ms] [LOG] product loading error! Error: no product data
+    at e.fetchProductData (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:48956)
+    at i (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:8064)
+    at e.prepareProductData (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:8045)
+    at https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:10586
+    at Object.<anonymous> (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:11775)
+    at n (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:110)
+    at https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:902
+    at https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:911 @ https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:0
+[     954ms] [ERROR] Shopify's Google Analytics stub called with: [create, UA-202284876-1, Object] 
+See https://help.shopify.com/manual/promoting-marketing/pixels/pixel-migration#google for more information. @ https://vastramay.com/en-us/search?q=ivory+jacket+kurta+churidar+set:12589
+[     954ms] [ERROR] Shopify's Google Analytics stub called with: [] 
+See https://help.shopify.com/manual/promoting-marketing/pixels/pixel-migration#google for more information. @ https://vastramay.com/en-us/search?q=ivory+jacket+kurta+churidar+set:12589
+[     954ms] [ERROR] Shopify's Google Analytics stub called with: [gtag_UA_202284876_1.set, Object] 
+See https://help.shopify.com/manual/promoting-marketing/pixels/pixel-migration#google for more information. @ https://vastramay.com/en-us/search?q=ivory+jacket+kurta+churidar+set:12589
+[     955ms] [ERROR] Shopify's Google Analytics stub called with: [gtag_UA_202284876_1.send, pageview, Object] 
+See https://help.shopify.com/manual/promoting-marketing/pixels/pixel-migration#google for more information. @ https://vastramay.com/en-us/search?q=ivory+jacket+kurta+churidar+set:12589
+[     960ms] [INFO] Clear-Site-Data header on 'https://vastramay.com/en-us/cart/update.js': Cleared data types: "prefetchCache", "prerenderCache". @ https://vastramay.com/en-us/search?q=ivory+jacket+kurta+churidar+set:0
+[     976ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://api.blaze.prd.bureau.id/store/uisettings?store=vastramay.myshopify.com:0
+[     977ms] [LOG] TypeError: Failed to fetch
+    at https://vastramay.com/cdn/wpm/b0b92dcedw658847c9p94194e39m8bc44e9fm.js:1:73692
+    at window2.fetch (https://vastramay.com/cdn/shopifycloud/storefront/assets/shop_events_listener-4e26a9ce.js:1:7379)
+    at Yi.window.fetch (https://pdp.gokwik.co/kwikpass/plugin/build/kp-merchant-v2.js:1:71743)
+    at e.fetchUiSettings (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:38590)
+    at https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:10696
+    at Object.<anonymous> (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:11775)
+    at n (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:110)
+    at https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:902
+    at https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:911 @ https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:0
+[    1510ms] TypeError: Cannot read properties of null (reading 'form')
+    at HTMLElement.setupEventListeners (https://vastramay.com/cdn/shop/t/84/assets/theme-pt2.js?v=174999671621068185561773552512:1:18741)
+    at new PredictiveSearch (https://vastramay.com/cdn/shop/t/84/assets/theme-pt2.js?v=174999671621068185561773552512:1:18686)
+    at window.__clr.define.window.customElements.define (https://scripts.clarity.ms/0.8.67/clarity.js:2:70923)
+    at https://vastramay.com/cdn/shop/t/84/assets/theme-pt2.js?v=174999671621068185561773552512:1:24827
+    at DOMContentLoadedCallback (https://vastramay.com/en-us/search?q=ivory+jacket+kurta+churidar+set:895:25)
+    at AssetsLoader.onPageLoaded (https://vastramay.com/en-us/search?q=ivory+jacket+kurta+churidar+set:899:41)
+    at https://vastramay.com/cdn/shop/t/84/assets/theme-pt2.js?v=174999671621068185561773552512:1:24740
+    at https://vastramay.com/cdn/shop/t/84/assets/theme-pt2.js?v=174999671621068185561773552512:10:10581
+[    1850ms] [LOG] product loading error! Error: no product data
+    at e.fetchProductData (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:48956)
+    at i (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:8064)
+    at e.prepareProductData (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:8045)
+    at e.updateProductData (https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:33637)
+    at https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:1:10644 @ https://cdn.bureau.id/blaze.js?shop=vastramay.myshopify.com:0
+[    3503ms] [ERROR] Access to fetch at 'https://shopify.com/11471390/account?locale=en&region_country=US&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ2YXN0cmFtYXkubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzg1NDcxMjEzLCJuYmYiOjE3ODQ4NjY0MTN9.3GpqTzWu2USiPS_pCH3-12_QvPmdKB67AUxpsLGilyE' (redirected from 'https://vastramay.com/account.json') from origin 'https://vastramay.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://vastramay.com/search?q=ivory+jacket+kurta+churidar+set:0
+[    3503ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://shopify.com/11471390/account?locale=en&region_country=US&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ2YXN0cmFtYXkubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzg1NDcxMjEzLCJuYmYiOjE3ODQ4NjY0MTN9.3GpqTzWu2USiPS_pCH3-12_QvPmdKB67AUxpsLGilyE:0
+[    3670ms] [ERROR] Access to fetch at 'https://shopify.com/11471390/account?locale=en&region_country=US&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ2YXN0cmFtYXkubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzg1NDcxMjEzLCJuYmYiOjE3ODQ4NjY0MTN9.3GpqTzWu2USiPS_pCH3-12_QvPmdKB67AUxpsLGilyE' (redirected from 'https://vastramay.com/account.json') from origin 'https://vastramay.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://vastramay.com/search?q=ivory+jacket+kurta+churidar+set:0
+[    3670ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://shopify.com/11471390/account?locale=en&region_country=US&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ2YXN0cmFtYXkubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzg1NDcxMjEzLCJuYmYiOjE3ODQ4NjY0MTN9.3GpqTzWu2USiPS_pCH3-12_QvPmdKB67AUxpsLGilyE:0

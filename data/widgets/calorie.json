@@ -325,5 +325,60 @@
     },
     "note": "Training day (full body lift). Protein aim cleared.",
     "sourceId": "2026-07-22-digital-embodiment"
+  },
+  {
+    "date": "2026-07-23",
+    "person": "Beau",
+    "dayType": null,
+    "items": [
+      {
+        "food": "Boiled egg",
+        "amount": "1 large",
+        "calories": 78,
+        "protein": 6.3
+      },
+      {
+        "food": "Apple",
+        "amount": "1 medium",
+        "calories": 95,
+        "protein": 0.5
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "2 tbsp",
+        "calories": 190,
+        "protein": 8
+      },
+      {
+        "food": "Olive oil",
+        "amount": "1/4 tbsp",
+        "calories": 30,
+        "protein": 0
+      },
+      {
+        "food": "Dense bean salad (black beans, farro, avocado, tomato, cilantro, corn)",
+        "amount": "1 serving",
+        "calories": 360,
+        "protein": 14
+      },
+      {
+        "food": "Ahi tuna steak",
+        "amount": "1/2 lb",
+        "calories": 300,
+        "protein": 64
+      },
+      {
+        "food": "Watermelon",
+        "amount": "1.5 cups diced",
+        "calories": 69,
+        "protein": 1.5
+      }
+    ],
+    "totals": {
+      "calories": 1122,
+      "protein": 94.3
+    },
+    "note": "Not a heavy training day — target = baseline (low, 1800) + 250 = 2050 cal, protein aim unchanged at 145g.",
+    "sourceId": "2026-07-23-fork-in-the-road"
   }
 ]
