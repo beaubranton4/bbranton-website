@@ -80,3 +80,9 @@ items:
   - { food: "Watermelon", amount: "1.5 cups diced", calories: 69, protein: 1.5 }
 note: "Not a heavy training day — target = baseline (low, 1800) + 250 = 2050 cal, protein aim unchanged at 145g."
 ```
+
+---
+
+## Links
+
+- [@igrigorik on X](https://x.com/igrigorik/status/2080377907675910492) — saved to read.
