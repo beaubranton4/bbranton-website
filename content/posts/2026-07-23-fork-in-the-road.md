@@ -62,11 +62,16 @@ lifters:
 | Dense bean salad (black beans, farro, avocado, tomato, cilantro, corn) | 1 serving | 360 | ~14 g* |
 | Ahi tuna steak | ½ lb | ~300 | ~64 g |
 | Watermelon | 1½ cups diced | ~69 | ~1.5 g |
-| **Total (so far)** | | **~1,122** | **~94.5 g** |
+| Mediterranean lamb kebab plate | 1 plate | ~500 | ~40 g* |
+| Pita | 1 | ~165 | ~6 g |
+| Hummus | ½ cup | ~200 | ~7 g* |
+| Blueberries | 25 berries | ~25 | ~0.3 g* |
+| Watermelon | ~1 cup diced | ~46 | ~1 g* |
+| **Total** | | **~2,058** | **~149 g** |
 
-*\*Bean salad protein is estimated from typical black bean + farro composition — calories are your own number. Ahi tuna estimated from USDA yellowfin, cooked (~132 cal / 28 g protein per 100 g).*
+*\*Bean salad protein is estimated from typical black bean + farro composition — calories are your own number. Ahi tuna estimated from USDA yellowfin, cooked (~132 cal / 28 g protein per 100 g). Lamb kebab plate and hummus estimated from typical restaurant portions — no calorie number given, so flag if this was bigger/smaller. Dinner watermelon amount assumed ~1 cup.*
 
-**Day vs. plan:** ~1,122 cal / ~94.5 g protein so far. Not a heavy training day — target set at baseline (low, 1,800) + 250 = **~2,050 cal**, protein aim stays ~145 g. That leaves **~928 cal / ~50.5 g protein** for the rest of the day.
+**Day vs. plan:** **~2,058 cal / ~149 g protein.** Landed almost exactly on the baseline+250 target (~2,050 cal, ~8 over — negligible) and a touch over the 145 g protein aim, comfortably in the 140–155 g sweet spot. Clean close to the day.
 
 ```widget:calorielog
 person: Beau
@@ -78,6 +83,11 @@ items:
   - { food: "Dense bean salad (black beans, farro, avocado, tomato, cilantro, corn)", amount: "1 serving", calories: 360, protein: 14 }
   - { food: "Ahi tuna steak", amount: "1/2 lb", calories: 300, protein: 64 }
   - { food: "Watermelon", amount: "1.5 cups diced", calories: 69, protein: 1.5 }
+  - { food: "Mediterranean lamb kebab plate", amount: "1 plate", calories: 500, protein: 40 }
+  - { food: "Pita", amount: "1", calories: 165, protein: 6 }
+  - { food: "Hummus", amount: "1/2 cup", calories: 200, protein: 7 }
+  - { food: "Blueberries", amount: "25 berries", calories: 25, protein: 0.3 }
+  - { food: "Watermelon", amount: "~1 cup diced", calories: 46, protein: 1 }
 note: "Not a heavy training day — target = baseline (low, 1800) + 250 = 2050 cal, protein aim unchanged at 145g."
 ```
 

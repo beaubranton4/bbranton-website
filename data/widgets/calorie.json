@@ -372,13 +372,251 @@
         "amount": "1.5 cups diced",
         "calories": 69,
         "protein": 1.5
+      },
+      {
+        "food": "Mediterranean lamb kebab plate",
+        "amount": "1 plate",
+        "calories": 500,
+        "protein": 40
+      },
+      {
+        "food": "Pita",
+        "amount": "1",
+        "calories": 165,
+        "protein": 6
+      },
+      {
+        "food": "Hummus",
+        "amount": "1/2 cup",
+        "calories": 200,
+        "protein": 7
+      },
+      {
+        "food": "Blueberries",
+        "amount": "25 berries",
+        "calories": 25,
+        "protein": 0.3
+      },
+      {
+        "food": "Watermelon",
+        "amount": "~1 cup diced",
+        "calories": 46,
+        "protein": 1
       }
     ],
     "totals": {
-      "calories": 1122,
-      "protein": 94.3
+      "calories": 2058,
+      "protein": 148.6
     },
     "note": "Not a heavy training day — target = baseline (low, 1800) + 250 = 2050 cal, protein aim unchanged at 145g.",
     "sourceId": "2026-07-23-fork-in-the-road"
+  },
+  {
+    "date": "2026-07-24",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Scrambled eggs",
+        "amount": "3 large",
+        "calories": 234,
+        "protein": 19
+      },
+      {
+        "food": "Olive oil (pan fry)",
+        "amount": "~1 tsp",
+        "calories": 40,
+        "protein": 0
+      },
+      {
+        "food": "Banana",
+        "amount": "1 medium",
+        "calories": 105,
+        "protein": 1.5
+      },
+      {
+        "food": "Spinach",
+        "amount": "2 cups raw",
+        "calories": 14,
+        "protein": 1.8
+      },
+      {
+        "food": "Blueberries",
+        "amount": "1/2 cup",
+        "calories": 42,
+        "protein": 0.5
+      },
+      {
+        "food": "Chicken thigh (skinless)",
+        "amount": "0.36 lb",
+        "calories": 341,
+        "protein": 43
+      },
+      {
+        "food": "Dill pickle salad (Trader Joe's)",
+        "amount": "1 serving",
+        "calories": 210,
+        "protein": 4
+      },
+      {
+        "food": "Nigiri (assorted)",
+        "amount": "10 pieces",
+        "calories": 500,
+        "protein": 30
+      },
+      {
+        "food": "Popcorn",
+        "amount": "~400 cal worth",
+        "calories": 400,
+        "protein": 6
+      }
+    ],
+    "totals": {
+      "calories": 1886,
+      "protein": 105.8
+    },
+    "note": "Training day (HIIT). Closed ~514 cal under target and ~39 g short on protein.",
+    "sourceId": "2026-07-24-scrambled-eggs-spinach"
+  },
+  {
+    "date": "2026-07-25",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Apple",
+        "amount": "1 medium",
+        "calories": 95,
+        "protein": 0.5
+      },
+      {
+        "food": "Lunch (unspecified)",
+        "amount": "1 meal",
+        "calories": 800,
+        "protein": 35
+      },
+      {
+        "food": "Beer",
+        "amount": "7 x 12 oz",
+        "calories": 1050,
+        "protein": 11
+      },
+      {
+        "food": "Pizza",
+        "amount": "2 slices",
+        "calories": 570,
+        "protein": 24
+      },
+      {
+        "food": "Potato chips",
+        "amount": "~20 chips",
+        "calories": 220,
+        "protein": 2
+      },
+      {
+        "food": "Bacon-wrapped street dog",
+        "amount": "1/2",
+        "calories": 280,
+        "protein": 11
+      }
+    ],
+    "totals": {
+      "calories": 3015,
+      "protein": 83.5
+    },
+    "note": "Training day (6 mi run @ 8:55 + 1 mi walk). ~615 cal over, ~62 g protein short — 7 beers carried the overage.",
+    "sourceId": "2026-07-25-the-odyssey-and-sunny-days"
+  },
+  {
+    "date": "2026-07-26",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Hainanese chicken & rice + rice noodles",
+        "amount": "1 meal",
+        "calories": 800,
+        "protein": 45
+      },
+      {
+        "food": "Korean dinner - galbi jjim, mandu, cold noodles (Han Il Kwan)",
+        "amount": "1 meal",
+        "calories": 1000,
+        "protein": 60
+      }
+    ],
+    "totals": {
+      "calories": 1800,
+      "protein": 105
+    },
+    "note": "Training day (tennis with Jess and Nick). Two meals only - ~600 cal under target and ~40 g short on protein, third straight day under the floor.",
+    "sourceId": "2026-07-26-union-square-and-a-horrible-circus"
+  },
+  {
+    "date": "2026-07-27",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Boiled egg",
+        "amount": "1 large",
+        "calories": 78,
+        "protein": 6.3
+      },
+      {
+        "food": "Banana",
+        "amount": "1 medium",
+        "calories": 105,
+        "protein": 1.5
+      },
+      {
+        "food": "Avocado",
+        "amount": "1 medium",
+        "calories": 240,
+        "protein": 3
+      },
+      {
+        "food": "Spinach",
+        "amount": "2 cups raw",
+        "calories": 14,
+        "protein": 1.8
+      },
+      {
+        "food": "Blueberries",
+        "amount": "15 berries",
+        "calories": 12,
+        "protein": 0.1
+      },
+      {
+        "food": "Galbi jjim (leftover)",
+        "amount": "1 serving",
+        "calories": 500,
+        "protein": 35
+      },
+      {
+        "food": "Turkey spaghetti",
+        "amount": "1 bowl",
+        "calories": 700,
+        "protein": 45
+      },
+      {
+        "food": "Ground turkey + cottage cheese",
+        "amount": "leftovers + 1/2 cup",
+        "calories": 350,
+        "protein": 50
+      },
+      {
+        "food": "Cherries",
+        "amount": "15",
+        "calories": 70,
+        "protein": 1.2
+      }
+    ],
+    "totals": {
+      "calories": 2069,
+      "protein": 143.9
+    },
+    "note": "Training day (lifting). ~330 cal under target, protein dead-on at ~144 g - first day back above the floor after four under.",
+    "sourceId": "2026-07-27-first-customer-call"
   }
 ]

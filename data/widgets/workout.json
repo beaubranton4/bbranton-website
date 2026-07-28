@@ -512,5 +512,369 @@
       }
     ],
     "sourceId": "2026-07-23-fork-in-the-road"
+  },
+  {
+    "date": "2026-07-27",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "Squat",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 220,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 265,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 287,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 287,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 364,
+            "volume": 6176
+          },
+          {
+            "exercise": "Deadlift",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 265,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 290,
+                "reps": 6,
+                "failure": false
+              },
+              {
+                "weight": 290,
+                "reps": 6,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 290,
+              "reps": 6,
+              "failure": false
+            },
+            "est1RM": 348,
+            "volume": 5600
+          },
+          {
+            "exercise": "Lat Pulldown",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 145,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 160,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 165,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 175,
+                "reps": 6,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 175,
+              "reps": 6,
+              "failure": false
+            },
+            "est1RM": 210,
+            "volume": 4810
+          },
+          {
+            "exercise": "Leg Extension",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 160,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 180,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 190,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 190,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 241,
+            "volume": 4240
+          },
+          {
+            "exercise": "Tricep Pushdown",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 120,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 130,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 140,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 140,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 177,
+            "volume": 3120
+          },
+          {
+            "exercise": "Chest Fly",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 150,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 170,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 180,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 180,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 228,
+            "volume": 4000
+          }
+        ],
+        "sessionVolume": 27946
+      },
+      {
+        "name": "Abby",
+        "lifts": [
+          {
+            "exercise": "Squat",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 132,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 139,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 143,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 143,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 181,
+            "volume": 3312
+          },
+          {
+            "exercise": "Deadlift",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 132,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 139,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 143,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 143,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 181,
+            "volume": 3312
+          },
+          {
+            "exercise": "Lat Pulldown",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 50,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 70,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 75,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 75,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 75,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 95,
+            "volume": 2160
+          },
+          {
+            "exercise": "Leg Extension",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 70,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 80,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 80,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 80,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 101,
+            "volume": 1840
+          },
+          {
+            "exercise": "Tricep Pushdown",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 60,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 70,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 70,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 70,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 89,
+            "volume": 1600
+          },
+          {
+            "exercise": "Chest Fly",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 60,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 70,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 80,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 80,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 101,
+            "volume": 1680
+          }
+        ],
+        "sessionVolume": 13904
+      }
+    ],
+    "sourceId": "2026-07-27-first-customer-call"
   }
 ]
