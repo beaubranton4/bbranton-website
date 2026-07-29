@@ -3,7 +3,7 @@
  * extract-widgets.mjs — the data backbone for the "second brain."
  *
  * Walks content/posts/*.md, pulls every fenced ```widget:<type>``` block, and
- * emits per-widget JSON snapshots to data/widgets/{calorie,workout}.json.
+ * emits per-widget JSON snapshots to data/widgets/{calorie,workout,activity}.json.
  *
  * These JSON files are the portable seam: they're the "database" today (read by
  * the /health and /workouts pages) and the migration artifact tomorrow (their
@@ -53,11 +53,17 @@ function parseWidgetsFromFile(filePath, date) {
 }
 
 function buildCalorieEntry(date, data, sourceId) {
-  const items = (data.items || []).map((it) => ({
+  const rawItems = data.items || [];
+  // Sodium was added to the schema later than calories/protein. Only report a day
+  // total when at least one item actually carries it, so untracked days render as
+  // "—" on /health rather than a misleading 0 mg.
+  const sodiumTracked = rawItems.some((it) => it.sodium != null);
+  const items = rawItems.map((it) => ({
     food: it.food,
     amount: it.amount ?? null,
     calories: Number(it.calories) || 0,
     protein: Number(it.protein) || 0,
+    sodium: it.sodium != null ? Number(it.sodium) || 0 : null,
   }));
   return {
     date,
@@ -67,7 +73,31 @@ function buildCalorieEntry(date, data, sourceId) {
     totals: {
       calories: round(sum(items, (i) => i.calories)),
       protein: round(sum(items, (i) => i.protein) * 10) / 10,
+      sodium: sodiumTracked ? round(sum(items, (i) => i.sodium || 0)) : null,
     },
+    note: data.note || null,
+    sourceId,
+  };
+}
+
+// widget:activity — energy expenditure for the day, in real increments.
+// Covers everything that burns: lifting sessions, runs, walks, court time. This is
+// the input to the computed calorie target (base_tdee + burn - deficit), which is
+// why lifting appears here as well as in widget:workout — that one tracks sets and
+// 1RM progression, this one tracks energy out.
+function buildActivityEntry(date, data, sourceId) {
+  const activities = (data.activities || []).map((a) => ({
+    activity: a.activity,
+    duration: a.duration ?? null,
+    burn: Number(a.burn) || 0,
+    estimated: a.estimated !== false, // default true; set `estimated: false` for device-measured burn
+  }));
+  return {
+    date,
+    person: data.person || 'Beau',
+    activities,
+    totalBurn: round(sum(activities, (a) => a.burn)),
+    steps: data.steps != null ? Number(data.steps) || 0 : null,
     note: data.note || null,
     sourceId,
   };
@@ -114,6 +144,7 @@ function main() {
 
   const calorie = [];
   const workout = [];
+  const activity = [];
 
   for (const file of files) {
     const dm = file.match(DATE_RE);
@@ -124,19 +155,23 @@ function main() {
     for (const { type, data } of widgets) {
       if (type === 'calorielog') calorie.push(buildCalorieEntry(date, data, sourceId));
       else if (type === 'workout') workout.push(buildWorkoutEntry(date, data, sourceId));
+      else if (type === 'activity') activity.push(buildActivityEntry(date, data, sourceId));
       else console.warn(`  ? unknown widget type "${type}" in ${file}`);
     }
   }
 
   calorie.sort((a, b) => a.date.localeCompare(b.date));
   workout.sort((a, b) => a.date.localeCompare(b.date));
+  activity.sort((a, b) => a.date.localeCompare(b.date));
 
   fs.mkdirSync(OUT_DIR, { recursive: true });
   fs.writeFileSync(path.join(OUT_DIR, 'calorie.json'), JSON.stringify(calorie, null, 2) + '\n');
   fs.writeFileSync(path.join(OUT_DIR, 'workout.json'), JSON.stringify(workout, null, 2) + '\n');
+  fs.writeFileSync(path.join(OUT_DIR, 'activity.json'), JSON.stringify(activity, null, 2) + '\n');
 
   console.log(`✓ Extracted ${calorie.length} calorie day(s) → data/widgets/calorie.json`);
   console.log(`✓ Extracted ${workout.length} workout day(s) → data/widgets/workout.json`);
+  console.log(`✓ Extracted ${activity.length} activity day(s) → data/widgets/activity.json`);
 }
 
 main();

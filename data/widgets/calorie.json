@@ -618,5 +618,109 @@
     },
     "note": "Training day (lifting). ~330 cal under target, protein dead-on at ~144 g - first day back above the floor after four under.",
     "sourceId": "2026-07-27-first-customer-call"
+  },
+  {
+    "date": "2026-07-28",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Boiled egg",
+        "amount": "2 large",
+        "calories": 156,
+        "protein": 12.6
+      },
+      {
+        "food": "Apple",
+        "amount": "1 medium",
+        "calories": 95,
+        "protein": 0.5
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "2 tbsp",
+        "calories": 190,
+        "protein": 8
+      },
+      {
+        "food": "Turkey spaghetti, whole wheat pasta (leftover)",
+        "amount": "1 bowl",
+        "calories": 700,
+        "protein": 45
+      },
+      {
+        "food": "Salmon, air-fried",
+        "amount": "1 lb raw",
+        "calories": 930,
+        "protein": 91
+      },
+      {
+        "food": "Oil & seasonings",
+        "amount": "1/2 tbsp oil",
+        "calories": 65,
+        "protein": 0
+      },
+      {
+        "food": "Bang bang sauce",
+        "amount": "~4 tbsp total",
+        "calories": 95,
+        "protein": 2.3
+      },
+      {
+        "food": "Cherries",
+        "amount": "20",
+        "calories": 93,
+        "protein": 1.6
+      }
+    ],
+    "totals": {
+      "calories": 2324,
+      "protein": 161
+    },
+    "note": "Training day (4 mi run + 1.5 mi walk, ~620 cal burned). ~2,324 cal / ~161 g protein - right on the calorie target, protein well past the aim.",
+    "sourceId": "2026-07-28-lakeville-and-the-shopping-grind"
+  },
+  {
+    "date": "2026-07-29",
+    "person": "Beau",
+    "dayType": "low",
+    "items": [
+      {
+        "food": "Boiled egg",
+        "amount": "2 large",
+        "calories": 156,
+        "protein": 12.6
+      },
+      {
+        "food": "Spinach",
+        "amount": "2 cups raw",
+        "calories": 14,
+        "protein": 1.8
+      },
+      {
+        "food": "Milk",
+        "amount": "1/2 cup",
+        "calories": 75,
+        "protein": 4
+      },
+      {
+        "food": "Banana",
+        "amount": "1 medium",
+        "calories": 105,
+        "protein": 1.5
+      },
+      {
+        "food": "Blueberries",
+        "amount": "25 berries",
+        "calories": 20,
+        "protein": 0.2
+      }
+    ],
+    "totals": {
+      "calories": 370,
+      "protein": 20.1
+    },
+    "note": "Breakfast only so far, provisional low day (no workout logged yet). ~370 cal / ~20 g protein in.",
+    "sourceId": "2026-07-29-scattered-mind-and-the-elevator-pitch"
   }
 ]

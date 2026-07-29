@@ -13,10 +13,30 @@ people:
       floor_g: 123        # ~1.6 g/kg
       sweet_spot_g: [140, 155]
       aim_g: 145
-    calorie_targets:      # pick the row that matches the day's activity
-      low: 1800           # no workout, <5K steps
-      steps_10k: 2100     # 10K steps or ~3-mile run
-      training: 2400      # a real workout
+    # PREFERRED: compute the day's target from actual logged activity.
+    #   target = base_tdee + activity_burn_today - clean_day_deficit
+    # This replaces the coarse three-bucket lookup below with real increments.
+    energy:
+      base_tdee: 2060           # sedentary maintenance: BMR (~1,717) x 1.2, no exercise
+      bmr_est: 1717             # reverse-engineered from the legacy day-type targets, NOT measured.
+                                # Replace with the BMR off an InBody scan when there's a fresh one.
+      sedentary_multiplier: 1.2
+    calorie_targets:      # LEGACY fallback — used only when a day has no activity burn logged
+      low: 1800           # no workout, <5K steps        (= base_tdee + 0   - deficit)
+      steps_10k: 2100     # 10K steps or ~3-mile run     (= base_tdee + 300 - deficit)
+      training: 2400      # a real workout               (= base_tdee + 600 - deficit)
+    sodium:
+      # Use limit_mg, NOT the general guideline — Beau has elevated BP (see blood_pressure
+      # below), and the AHA's ideal target for elevated BP is 1,500 mg, not 2,300 mg.
+      limit_mg: 1500
+      general_guideline_mg: 2300   # what applies to someone with normal BP; kept for contrast
+      note: "Sodium matters here for blood pressure, not weight. High-sodium days show up as water retention on the scale, which is not fat."
+    blood_pressure:
+      # Self-reported 2026-07-29, not clinically averaged.
+      typical_range: "120/70 to 140/80"
+      onset: "~8th grade, roughly stable since"
+      status: "elevated / stage 1-ish by 2017 ACC-AHA thresholds"
+      note: "Young-onset hypertension makes secondary causes worth a workup. Beau is not currently measuring at home."
     clean_day_deficit: 260
     cut_goal: "lose ~10 lb fat in 8 months (~0.3 lb/week)"
     inbody_smi: 8.8       # well above the sarcopenia line
