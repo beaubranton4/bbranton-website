@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-07-28",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Run - 3 mi @ 7:50/mi",
+        "duration": "24 min",
+        "burn": 375,
+        "estimated": true
+      },
+      {
+        "activity": "Run - 1 mi @ 9:30/mi",
+        "duration": "9.5 min",
+        "burn": 120,
+        "estimated": true
+      },
+      {
+        "activity": "Walk - ~1.5 mi",
+        "duration": "30 min",
+        "burn": 125,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 620,
+    "steps": null,
+    "note": "Burn estimated from MET values at 170 lb. Walk duration assumed ~20 min/mile.",
+    "sourceId": "2026-07-28-lakeville-and-the-shopping-grind"
+  },
+  {
+    "date": "2026-07-29",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Weight training (upper body + core, moderate)",
+        "duration": "45 min",
+        "burn": 235,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 235,
+    "steps": null,
+    "note": "Easy-to-moderate 45 min lifting session. Burn estimated at ~4 METs, 170 lb.",
+    "sourceId": "2026-07-29-scattered-mind-and-the-elevator-pitch"
+  }
+]

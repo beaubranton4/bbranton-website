@@ -8,102 +8,119 @@
         "food": "Apple",
         "amount": "1 medium",
         "calories": 95,
-        "protein": 0.5
+        "protein": 0.5,
+        "sodium": null
       },
       {
         "food": "Peanut butter",
         "amount": "2 tbsp",
         "calories": 190,
-        "protein": 8
+        "protein": 8,
+        "sodium": null
       },
       {
         "food": "Spinach",
         "amount": "2 cups raw",
         "calories": 15,
-        "protein": 2
+        "protein": 2,
+        "sodium": null
       },
       {
         "food": "Beets",
         "amount": "3 whole (medium)",
         "calories": 105,
-        "protein": 4
+        "protein": 4,
+        "sodium": null
       },
       {
         "food": "Blueberries",
         "amount": "1/2 cup",
         "calories": 42,
-        "protein": 0.5
+        "protein": 0.5,
+        "sodium": null
       },
       {
         "food": "Banana",
         "amount": "1 medium",
         "calories": 105,
-        "protein": 1.5
+        "protein": 1.5,
+        "sodium": null
       },
       {
         "food": "Buffalo chicken wraps",
         "amount": "handmade",
         "calories": 600,
-        "protein": 45
+        "protein": 45,
+        "sodium": null
       },
       {
         "food": "Salmon",
         "amount": "1/2 of 0.9 lb",
         "calories": 415,
-        "protein": 40
+        "protein": 40,
+        "sodium": null
       },
       {
         "food": "White rice",
         "amount": "1 cup cooked",
         "calories": 205,
-        "protein": 4
+        "protein": 4,
+        "sodium": null
       },
       {
         "food": "Mayo",
         "amount": "1/2 tbsp",
         "calories": 47,
-        "protein": 0
+        "protein": 0,
+        "sodium": null
       },
       {
         "food": "Greek yogurt",
         "amount": "1 tbsp",
         "calories": 12,
-        "protein": 1.5
+        "protein": 1.5,
+        "sodium": null
       },
       {
         "food": "Edamame",
         "amount": "1/4 cup",
         "calories": 50,
-        "protein": 4
+        "protein": 4,
+        "sodium": null
       },
       {
         "food": "Broccoli",
         "amount": "1/4 cup",
         "calories": 10,
-        "protein": 1
+        "protein": 1,
+        "sodium": null
       },
       {
         "food": "Potato chips",
         "amount": "5",
         "calories": 55,
-        "protein": 0.5
+        "protein": 0.5,
+        "sodium": null
       },
       {
         "food": "Buffalo chicken dip",
         "amount": "1/2 cup",
         "calories": 50,
-        "protein": 6
+        "protein": 6,
+        "sodium": null
       },
       {
         "food": "Turkey Chomps bar",
         "amount": "1 stick",
         "calories": 90,
-        "protein": 10
+        "protein": 10,
+        "sodium": null
       }
     ],
     "totals": {
       "calories": 2086,
-      "protein": 128.5
+      "protein": 128.5,
+      "sodium": null
     },
     "note": "Clean, high-protein reset day.",
     "sourceId": "2026-07-20-everything-in-moderation"
@@ -117,102 +134,119 @@
         "food": "Blueberries",
         "amount": "10 berries",
         "calories": 10,
-        "protein": 0.1
+        "protein": 0.1,
+        "sodium": null
       },
       {
         "food": "Banana",
         "amount": "1 medium",
         "calories": 105,
-        "protein": 1.5
+        "protein": 1.5,
+        "sodium": null
       },
       {
         "food": "Spinach",
         "amount": "2 cups raw",
         "calories": 14,
-        "protein": 1.8
+        "protein": 1.8,
+        "sodium": null
       },
       {
         "food": "Beets",
         "amount": "2 whole (medium)",
         "calories": 70,
-        "protein": 2.6
+        "protein": 2.6,
+        "sodium": null
       },
       {
         "food": "Boiled eggs",
         "amount": "2 large",
         "calories": 156,
-        "protein": 12.6
+        "protein": 12.6,
+        "sodium": null
       },
       {
         "food": "Turkey bacon",
         "amount": "4 slices",
         "calories": 140,
-        "protein": 16
+        "protein": 16,
+        "sodium": null
       },
       {
         "food": "Guava matcha latte",
         "amount": "1",
         "calories": 275,
-        "protein": 6
+        "protein": 6,
+        "sodium": null
       },
       {
         "food": "Greek yogurt (nonfat, plain)",
         "amount": "1/2 cup",
         "calories": 80,
-        "protein": 12
+        "protein": 12,
+        "sodium": null
       },
       {
         "food": "Watermelon",
         "amount": "1 cup diced",
         "calories": 46,
-        "protein": 1
+        "protein": 1,
+        "sodium": null
       },
       {
         "food": "Buffalo chicken tacos",
         "amount": "2",
         "calories": 400,
-        "protein": 35
+        "protein": 35,
+        "sodium": null
       },
       {
         "food": "Watermelon",
         "amount": "~1/3 cup",
         "calories": 50,
-        "protein": 1
+        "protein": 1,
+        "sodium": null
       },
       {
         "food": "Buffalo chicken spread",
         "amount": "~1/2 cup",
         "calories": 50,
-        "protein": 6
+        "protein": 6,
+        "sodium": null
       },
       {
         "food": "Potato chips",
         "amount": "~5 chips (dipped)",
         "calories": 50,
-        "protein": 0.5
+        "protein": 0.5,
+        "sodium": null
       },
       {
         "food": "Mediterranean meal",
         "amount": "1 plate",
         "calories": 750,
-        "protein": 35
+        "protein": 35,
+        "sodium": null
       },
       {
         "food": "Ice cream",
         "amount": "dessert portion",
         "calories": 200,
-        "protein": 4
+        "protein": 4,
+        "sodium": null
       },
       {
         "food": "Watermelon",
         "amount": "~1/3 cup",
         "calories": 50,
-        "protein": 1
+        "protein": 1,
+        "sodium": null
       }
     ],
     "totals": {
       "calories": 2446,
-      "protein": 136.1
+      "protein": 136.1,
+      "sodium": null
     },
     "note": "Training day. 5 miles @ 8:45/mi, 15,000 steps.",
     "sourceId": "2026-07-21-show-up-every-day"
@@ -226,102 +260,119 @@
         "food": "Boiled eggs",
         "amount": "2 large",
         "calories": 156,
-        "protein": 12.6
+        "protein": 12.6,
+        "sodium": null
       },
       {
         "food": "Greek yogurt (nonfat, plain)",
         "amount": "1 cup",
         "calories": 160,
-        "protein": 24
+        "protein": 24,
+        "sodium": null
       },
       {
         "food": "Blueberries",
         "amount": "25 berries",
         "calories": 25,
-        "protein": 0.3
+        "protein": 0.3,
+        "sodium": null
       },
       {
         "food": "Buffalo chicken taco wraps",
         "amount": "3",
         "calories": 600,
-        "protein": 45
+        "protein": 45,
+        "sodium": null
       },
       {
         "food": "Guava kombucha (Synergy)",
         "amount": "1 bottle",
         "calories": 60,
-        "protein": 0
+        "protein": 0,
+        "sodium": null
       },
       {
         "food": "Watermelon",
         "amount": "1 cup diced",
         "calories": 46,
-        "protein": 1
+        "protein": 1,
+        "sodium": null
       },
       {
         "food": "Cashews",
         "amount": "10 nuts",
         "calories": 90,
-        "protein": 3
+        "protein": 3,
+        "sodium": null
       },
       {
         "food": "Watermelon",
         "amount": "2 cups diced",
         "calories": 92,
-        "protein": 2
+        "protein": 2,
+        "sodium": null
       },
       {
         "food": "Blueberries",
         "amount": "20 berries",
         "calories": 20,
-        "protein": 0.2
+        "protein": 0.2,
+        "sodium": null
       },
       {
         "food": "Apple",
         "amount": "1 medium",
         "calories": 95,
-        "protein": 0.5
+        "protein": 0.5,
+        "sodium": null
       },
       {
         "food": "New York strip steak",
         "amount": "1/2 lb",
         "calories": 470,
-        "protein": 61
+        "protein": 61,
+        "sodium": null
       },
       {
         "food": "Olive oil",
         "amount": "1/2 tbsp",
         "calories": 60,
-        "protein": 0
+        "protein": 0,
+        "sodium": null
       },
       {
         "food": "Butter",
         "amount": "3/4 tbsp",
         "calories": 77,
-        "protein": 0.1
+        "protein": 0.1,
+        "sodium": null
       },
       {
         "food": "Corn on the cob",
         "amount": "1 ear",
         "calories": 90,
-        "protein": 3
+        "protein": 3,
+        "sodium": null
       },
       {
         "food": "Zucchini",
         "amount": "1 medium",
         "calories": 33,
-        "protein": 2
+        "protein": 2,
+        "sodium": null
       },
       {
         "food": "Shiitake mushrooms",
         "amount": "2 oz",
         "calories": 35,
-        "protein": 1
+        "protein": 1,
+        "sodium": null
       }
     ],
     "totals": {
       "calories": 2109,
-      "protein": 155.7
+      "protein": 155.7,
+      "sodium": null
     },
     "note": "Training day (full body lift). Protein aim cleared.",
     "sourceId": "2026-07-22-digital-embodiment"
@@ -335,78 +386,91 @@
         "food": "Boiled egg",
         "amount": "1 large",
         "calories": 78,
-        "protein": 6.3
+        "protein": 6.3,
+        "sodium": null
       },
       {
         "food": "Apple",
         "amount": "1 medium",
         "calories": 95,
-        "protein": 0.5
+        "protein": 0.5,
+        "sodium": null
       },
       {
         "food": "Peanut butter",
         "amount": "2 tbsp",
         "calories": 190,
-        "protein": 8
+        "protein": 8,
+        "sodium": null
       },
       {
         "food": "Olive oil",
         "amount": "1/4 tbsp",
         "calories": 30,
-        "protein": 0
+        "protein": 0,
+        "sodium": null
       },
       {
         "food": "Dense bean salad (black beans, farro, avocado, tomato, cilantro, corn)",
         "amount": "1 serving",
         "calories": 360,
-        "protein": 14
+        "protein": 14,
+        "sodium": null
       },
       {
         "food": "Ahi tuna steak",
         "amount": "1/2 lb",
         "calories": 300,
-        "protein": 64
+        "protein": 64,
+        "sodium": null
       },
       {
         "food": "Watermelon",
         "amount": "1.5 cups diced",
         "calories": 69,
-        "protein": 1.5
+        "protein": 1.5,
+        "sodium": null
       },
       {
         "food": "Mediterranean lamb kebab plate",
         "amount": "1 plate",
         "calories": 500,
-        "protein": 40
+        "protein": 40,
+        "sodium": null
       },
       {
         "food": "Pita",
         "amount": "1",
         "calories": 165,
-        "protein": 6
+        "protein": 6,
+        "sodium": null
       },
       {
         "food": "Hummus",
         "amount": "1/2 cup",
         "calories": 200,
-        "protein": 7
+        "protein": 7,
+        "sodium": null
       },
       {
         "food": "Blueberries",
         "amount": "25 berries",
         "calories": 25,
-        "protein": 0.3
+        "protein": 0.3,
+        "sodium": null
       },
       {
         "food": "Watermelon",
         "amount": "~1 cup diced",
         "calories": 46,
-        "protein": 1
+        "protein": 1,
+        "sodium": null
       }
     ],
     "totals": {
       "calories": 2058,
-      "protein": 148.6
+      "protein": 148.6,
+      "sodium": null
     },
     "note": "Not a heavy training day — target = baseline (low, 1800) + 250 = 2050 cal, protein aim unchanged at 145g.",
     "sourceId": "2026-07-23-fork-in-the-road"
@@ -420,60 +484,70 @@
         "food": "Scrambled eggs",
         "amount": "3 large",
         "calories": 234,
-        "protein": 19
+        "protein": 19,
+        "sodium": null
       },
       {
         "food": "Olive oil (pan fry)",
         "amount": "~1 tsp",
         "calories": 40,
-        "protein": 0
+        "protein": 0,
+        "sodium": null
       },
       {
         "food": "Banana",
         "amount": "1 medium",
         "calories": 105,
-        "protein": 1.5
+        "protein": 1.5,
+        "sodium": null
       },
       {
         "food": "Spinach",
         "amount": "2 cups raw",
         "calories": 14,
-        "protein": 1.8
+        "protein": 1.8,
+        "sodium": null
       },
       {
         "food": "Blueberries",
         "amount": "1/2 cup",
         "calories": 42,
-        "protein": 0.5
+        "protein": 0.5,
+        "sodium": null
       },
       {
         "food": "Chicken thigh (skinless)",
         "amount": "0.36 lb",
         "calories": 341,
-        "protein": 43
+        "protein": 43,
+        "sodium": null
       },
       {
         "food": "Dill pickle salad (Trader Joe's)",
         "amount": "1 serving",
         "calories": 210,
-        "protein": 4
+        "protein": 4,
+        "sodium": null
       },
       {
         "food": "Nigiri (assorted)",
         "amount": "10 pieces",
         "calories": 500,
-        "protein": 30
+        "protein": 30,
+        "sodium": null
       },
       {
         "food": "Popcorn",
         "amount": "~400 cal worth",
         "calories": 400,
-        "protein": 6
+        "protein": 6,
+        "sodium": null
       }
     ],
     "totals": {
       "calories": 1886,
-      "protein": 105.8
+      "protein": 105.8,
+      "sodium": null
     },
     "note": "Training day (HIIT). Closed ~514 cal under target and ~39 g short on protein.",
     "sourceId": "2026-07-24-scrambled-eggs-spinach"
@@ -487,42 +561,49 @@
         "food": "Apple",
         "amount": "1 medium",
         "calories": 95,
-        "protein": 0.5
+        "protein": 0.5,
+        "sodium": null
       },
       {
         "food": "Lunch (unspecified)",
         "amount": "1 meal",
         "calories": 800,
-        "protein": 35
+        "protein": 35,
+        "sodium": null
       },
       {
         "food": "Beer",
         "amount": "7 x 12 oz",
         "calories": 1050,
-        "protein": 11
+        "protein": 11,
+        "sodium": null
       },
       {
         "food": "Pizza",
         "amount": "2 slices",
         "calories": 570,
-        "protein": 24
+        "protein": 24,
+        "sodium": null
       },
       {
         "food": "Potato chips",
         "amount": "~20 chips",
         "calories": 220,
-        "protein": 2
+        "protein": 2,
+        "sodium": null
       },
       {
         "food": "Bacon-wrapped street dog",
         "amount": "1/2",
         "calories": 280,
-        "protein": 11
+        "protein": 11,
+        "sodium": null
       }
     ],
     "totals": {
       "calories": 3015,
-      "protein": 83.5
+      "protein": 83.5,
+      "sodium": null
     },
     "note": "Training day (6 mi run @ 8:55 + 1 mi walk). ~615 cal over, ~62 g protein short — 7 beers carried the overage.",
     "sourceId": "2026-07-25-the-odyssey-and-sunny-days"
@@ -536,18 +617,21 @@
         "food": "Hainanese chicken & rice + rice noodles",
         "amount": "1 meal",
         "calories": 800,
-        "protein": 45
+        "protein": 45,
+        "sodium": null
       },
       {
         "food": "Korean dinner - galbi jjim, mandu, cold noodles (Han Il Kwan)",
         "amount": "1 meal",
         "calories": 1000,
-        "protein": 60
+        "protein": 60,
+        "sodium": null
       }
     ],
     "totals": {
       "calories": 1800,
-      "protein": 105
+      "protein": 105,
+      "sodium": null
     },
     "note": "Training day (tennis with Jess and Nick). Two meals only - ~600 cal under target and ~40 g short on protein, third straight day under the floor.",
     "sourceId": "2026-07-26-union-square-and-a-horrible-circus"
@@ -561,60 +645,70 @@
         "food": "Boiled egg",
         "amount": "1 large",
         "calories": 78,
-        "protein": 6.3
+        "protein": 6.3,
+        "sodium": null
       },
       {
         "food": "Banana",
         "amount": "1 medium",
         "calories": 105,
-        "protein": 1.5
+        "protein": 1.5,
+        "sodium": null
       },
       {
         "food": "Avocado",
         "amount": "1 medium",
         "calories": 240,
-        "protein": 3
+        "protein": 3,
+        "sodium": null
       },
       {
         "food": "Spinach",
         "amount": "2 cups raw",
         "calories": 14,
-        "protein": 1.8
+        "protein": 1.8,
+        "sodium": null
       },
       {
         "food": "Blueberries",
         "amount": "15 berries",
         "calories": 12,
-        "protein": 0.1
+        "protein": 0.1,
+        "sodium": null
       },
       {
         "food": "Galbi jjim (leftover)",
         "amount": "1 serving",
         "calories": 500,
-        "protein": 35
+        "protein": 35,
+        "sodium": null
       },
       {
         "food": "Turkey spaghetti",
         "amount": "1 bowl",
         "calories": 700,
-        "protein": 45
+        "protein": 45,
+        "sodium": null
       },
       {
         "food": "Ground turkey + cottage cheese",
         "amount": "leftovers + 1/2 cup",
         "calories": 350,
-        "protein": 50
+        "protein": 50,
+        "sodium": null
       },
       {
         "food": "Cherries",
         "amount": "15",
         "calories": 70,
-        "protein": 1.2
+        "protein": 1.2,
+        "sodium": null
       }
     ],
     "totals": {
       "calories": 2069,
-      "protein": 143.9
+      "protein": 143.9,
+      "sodium": null
     },
     "note": "Training day (lifting). ~330 cal under target, protein dead-on at ~144 g - first day back above the floor after four under.",
     "sourceId": "2026-07-27-first-customer-call"
@@ -628,54 +722,63 @@
         "food": "Boiled egg",
         "amount": "2 large",
         "calories": 156,
-        "protein": 12.6
+        "protein": 12.6,
+        "sodium": null
       },
       {
         "food": "Apple",
         "amount": "1 medium",
         "calories": 95,
-        "protein": 0.5
+        "protein": 0.5,
+        "sodium": null
       },
       {
         "food": "Peanut butter",
         "amount": "2 tbsp",
         "calories": 190,
-        "protein": 8
+        "protein": 8,
+        "sodium": null
       },
       {
         "food": "Turkey spaghetti, whole wheat pasta (leftover)",
         "amount": "1 bowl",
         "calories": 700,
-        "protein": 45
+        "protein": 45,
+        "sodium": null
       },
       {
         "food": "Salmon, air-fried",
         "amount": "1 lb raw",
         "calories": 930,
-        "protein": 91
+        "protein": 91,
+        "sodium": null
       },
       {
         "food": "Oil & seasonings",
         "amount": "1/2 tbsp oil",
         "calories": 65,
-        "protein": 0
+        "protein": 0,
+        "sodium": null
       },
       {
         "food": "Bang bang sauce",
         "amount": "~4 tbsp total",
         "calories": 95,
-        "protein": 2.3
+        "protein": 2.3,
+        "sodium": null
       },
       {
         "food": "Cherries",
         "amount": "20",
         "calories": 93,
-        "protein": 1.6
+        "protein": 1.6,
+        "sodium": null
       }
     ],
     "totals": {
       "calories": 2324,
-      "protein": 161
+      "protein": 161,
+      "sodium": null
     },
     "note": "Training day (4 mi run + 1.5 mi walk, ~620 cal burned). ~2,324 cal / ~161 g protein - right on the calorie target, protein well past the aim.",
     "sourceId": "2026-07-28-lakeville-and-the-shopping-grind"
@@ -683,44 +786,162 @@
   {
     "date": "2026-07-29",
     "person": "Beau",
-    "dayType": "low",
+    "dayType": "training",
     "items": [
       {
         "food": "Boiled egg",
         "amount": "2 large",
         "calories": 156,
-        "protein": 12.6
+        "protein": 12.6,
+        "sodium": 124
       },
       {
         "food": "Spinach",
         "amount": "2 cups raw",
         "calories": 14,
-        "protein": 1.8
+        "protein": 1.8,
+        "sodium": 48
       },
       {
         "food": "Milk",
         "amount": "1/2 cup",
         "calories": 75,
-        "protein": 4
+        "protein": 4,
+        "sodium": 50
       },
       {
         "food": "Banana",
         "amount": "1 medium",
         "calories": 105,
-        "protein": 1.5
+        "protein": 1.5,
+        "sodium": 1
       },
       {
         "food": "Blueberries",
         "amount": "25 berries",
         "calories": 20,
-        "protein": 0.2
+        "protein": 0.2,
+        "sodium": 0
+      },
+      {
+        "food": "Chicken wings & drumsticks, marinated (Safeway)",
+        "amount": "1 lb, 5 drumsticks + 3 wings",
+        "calories": 900,
+        "protein": 80,
+        "sodium": 1500
+      },
+      {
+        "food": "Zucchini, pan-fried in olive oil",
+        "amount": "1 zucchini, 1/3 tbsp oil",
+        "calories": 73,
+        "protein": 2,
+        "sodium": 20
+      },
+      {
+        "food": "Frank's RedHot buffalo sauce",
+        "amount": "~2 tbsp",
+        "calories": 0,
+        "protein": 0,
+        "sodium": 800
+      },
+      {
+        "food": "Cherries",
+        "amount": "10",
+        "calories": 46,
+        "protein": 0.8,
+        "sodium": 0
+      },
+      {
+        "food": "Souvla chicken salad, Greek style w/ fries in it",
+        "amount": "3/5 of one",
+        "calories": 470,
+        "protein": 27,
+        "sodium": 960
+      },
+      {
+        "food": "Hot sauce",
+        "amount": "~1 tbsp",
+        "calories": 5,
+        "protein": 0,
+        "sodium": 250
+      },
+      {
+        "food": "Fries w/ ketchup",
+        "amount": "~10 fries, ~1 tbsp ketchup",
+        "calories": 145,
+        "protein": 2,
+        "sodium": 350
+      },
+      {
+        "food": "Souvla frozen yogurt w/ baklava",
+        "amount": "1/2 serving",
+        "calories": 165,
+        "protein": 4,
+        "sodium": 90
       }
     ],
     "totals": {
-      "calories": 370,
-      "protein": 20.1
+      "calories": 2174,
+      "protein": 135.9,
+      "sodium": 4193
     },
-    "note": "Breakfast only so far, provisional low day (no workout logged yet). ~370 cal / ~20 g protein in.",
+    "note": "Full day closed out with Souvla. ~2,174 cal / ~136 g protein / ~4,193 mg sodium. Computed target ~2,035 so ~139 over, essentially a maintenance day; protein cleared the 123 g floor and sat ~9 g under the 145 g aim; sodium ~2.8x the 1,500 mg limit, split across the marinated chicken, buffalo sauce, and the Souvla meal.",
     "sourceId": "2026-07-29-scattered-mind-and-the-elevator-pitch"
+  },
+  {
+    "date": "2026-07-30",
+    "person": "Beau",
+    "dayType": "low",
+    "items": [
+      {
+        "food": "Parachute Bakery mushroom & cheese savory pastry",
+        "amount": "1",
+        "calories": 450,
+        "protein": 13,
+        "sodium": 600
+      },
+      {
+        "food": "Strawberries",
+        "amount": "~8",
+        "calories": 40,
+        "protein": 0.8,
+        "sodium": 1
+      },
+      {
+        "food": "Blueberries",
+        "amount": "20 berries",
+        "calories": 16,
+        "protein": 0.2,
+        "sodium": 0
+      },
+      {
+        "food": "Souvla chicken salad, Greek style w/ fries in it",
+        "amount": "2/5 of one (rest of yesterday's)",
+        "calories": 310,
+        "protein": 18,
+        "sodium": 640
+      },
+      {
+        "food": "Senor Sisig tocilog burrito",
+        "amount": "1/2",
+        "calories": 480,
+        "protein": 23,
+        "sodium": 1100
+      },
+      {
+        "food": "Cherries",
+        "amount": "10",
+        "calories": 46,
+        "protein": 0.8,
+        "sodium": 0
+      }
+    ],
+    "totals": {
+      "calories": 1342,
+      "protein": 55.8,
+      "sodium": 2341
+    },
+    "note": "Breakfast plus a restaurant-leftovers lunch and cherries. ~1,342 cal / ~56 g protein / ~2,341 mg sodium. Sprint session planned (~345 cal) puts the target at ~2,145, leaving ~803 cal — enough room to reach the full 145 g protein aim with a lean dinner. Sodium already ~840 mg over the 1,500 mg limit before dinner, second day running.",
+    "sourceId": "2026-07-30-the-lakeville-call"
   }
 ]

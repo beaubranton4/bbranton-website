@@ -89,15 +89,19 @@ note: "Easy-to-moderate 45 min lifting session. Burn estimated at ~4 METs, 170 l
 | Zucchini, pan-fried in olive oil | 1 zucchini, ⅓ tbsp oil | ~73 | ~2 g | ~20 mg |
 | Frank's RedHot buffalo sauce | ~2 tbsp | 0 | 0 g | ~800 mg* |
 | Cherries | 10 | ~46 | ~0.8 g | ~0 mg |
-| **Total** | | **~1,389** | **~102.9 g** | **~2,543 mg** |
+| Souvla chicken salad, Greek style w/ fries in it | ⅗ of one | ~470* | ~27 g* | ~960 mg* |
+| Hot sauce | ~1 tbsp | ~5 | 0 g | ~250 mg |
+| Fries w/ ketchup | ~10 fries, ~1 tbsp ketchup | ~145 | ~2 g | ~350 mg |
+| Souvla frozen yogurt w/ baklava | ½ serving | ~165* | ~4 g* | ~90 mg |
+| **Total** | | **~2,174** | **~136 g** | **~4,193 mg** |
 
-*\*Milk assumed whole milk since type wasn't given — if it's 2% or skim, actual calories run a bit lower (~65 / ~50 respectively), protein about the same. Chicken estimated from the stated 1 lb total for the mix of drumsticks and wings, skin-on with a light garlic marinade — real number could shift some depending on how much bone weight was in that pound. The two starred sodium numbers are the loose ones and they dominate the total: pre-marinated grocery chicken runs anywhere from ~1,200–2,000 mg per pound depending on the brine, and Frank's is ~190 mg per teaspoon, so the sauce total swings hard on how heavily it was poured. Check the chicken package's label and this number gets a lot sharper.*
+*\*Milk assumed whole milk since type wasn't given — if it's 2% or skim, actual calories run a bit lower (~65 / ~50 respectively), protein about the same. Chicken estimated from the stated 1 lb total for the mix of drumsticks and wings, skin-on with a light garlic marinade — real number could shift some depending on how much bone weight was in that pound. Souvla doesn't publish nutrition, so both Souvla lines are built from portion size: the full chicken salad with fries mixed in is estimated at ~780 cal / ~45 g protein / ~1,600 mg sodium, and the full frozen yogurt with baklava at ~330 cal / ~8 g protein. The sodium total is the loose number and it's dominated by starred estimates — pre-marinated grocery chicken runs ~1,200–2,000 mg per pound depending on the brine, Frank's is ~190 mg per teaspoon, and restaurant salads with feta and vinaigrette are salty by default.*
 
-**Day vs. plan:** ~1,389 cal / ~103 g protein / ~2,543 mg sodium so far.
+**Day vs. plan:** ~2,174 cal / ~136 g protein / ~4,193 mg sodium.
 
-- **Calories** — computed target is ~2,035 (base TDEE 2,060 + ~235 burned − 260 deficit, per `data/profile.yml`), so **~646 left**. Note this is ~365 lower than the old "training day" bucket would have said, because a 45-min easy lifting session burns ~235 cal, not the ~600 that bucket assumes.
-- **Protein** — ~42 g short of the ~145 g aim, and still ~20 g under the ~123 g floor. This is the one to spend the remaining calories on.
-- **Sodium** — already **~1,000 mg over** the ~1,500 mg limit that applies with elevated BP. The marinated chicken and the buffalo sauce are essentially the entire total; everything else on the day adds up to ~243 mg.
+- **Calories** — computed target is ~2,035 (base TDEE 2,060 + ~235 burned − 260 deficit, per `data/profile.yml`), so **~139 over**. That's within noise on a single day; the deficit is ~260, so this lands roughly at maintenance rather than blowing it up.
+- **Protein** — ~136 g, comfortably over the ~123 g floor and ~9 g short of the ~145 g aim. The Souvla chicken pulled this up from where it was sitting at ~103 g.
+- **Sodium** — **~4,193 mg, nearly 2.8× the ~1,500 mg limit** that applies with elevated BP. The marinated chicken, buffalo sauce, and the Souvla meal each landed ~1,000–1,600 mg. This is the number to watch, not the calories — expect the scale to read high tomorrow from water, which isn't fat.
 
 ```widget:calorielog
 person: Beau
@@ -112,5 +116,9 @@ items:
   - { food: "Zucchini, pan-fried in olive oil", amount: "1 zucchini, 1/3 tbsp oil", calories: 73, protein: 2, sodium: 20 }
   - { food: "Frank's RedHot buffalo sauce", amount: "~2 tbsp", calories: 0, protein: 0, sodium: 800 }
   - { food: "Cherries", amount: "10", calories: 46, protein: 0.8, sodium: 0 }
-note: "Two meals plus cherries. ~1,389 cal / ~103 g protein / ~2,543 mg sodium. Computed target ~2,035 cal so ~646 left; protein still under the floor; sodium ~1,000 mg over the 1,500 mg limit, almost entirely the marinated chicken plus buffalo sauce."
+  - { food: "Souvla chicken salad, Greek style w/ fries in it", amount: "3/5 of one", calories: 470, protein: 27, sodium: 960 }
+  - { food: "Hot sauce", amount: "~1 tbsp", calories: 5, protein: 0, sodium: 250 }
+  - { food: "Fries w/ ketchup", amount: "~10 fries, ~1 tbsp ketchup", calories: 145, protein: 2, sodium: 350 }
+  - { food: "Souvla frozen yogurt w/ baklava", amount: "1/2 serving", calories: 165, protein: 4, sodium: 90 }
+note: "Full day closed out with Souvla. ~2,174 cal / ~136 g protein / ~4,193 mg sodium. Computed target ~2,035 so ~139 over, essentially a maintenance day; protein cleared the 123 g floor and sat ~9 g under the 145 g aim; sodium ~2.8x the 1,500 mg limit, split across the marinated chicken, buffalo sauce, and the Souvla meal."
 ```

@@ -876,5 +876,236 @@
       }
     ],
     "sourceId": "2026-07-27-first-customer-call"
+  },
+  {
+    "date": "2026-07-29",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "Cable Fly (Upper)",
+            "equipment": "cable",
+            "sets": [
+              {
+                "weight": 20,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 30,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 30,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 38,
+            "volume": 600
+          },
+          {
+            "exercise": "Cable Fly (Lower)",
+            "equipment": "cable",
+            "sets": [
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 30,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 30,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 38,
+            "volume": 440
+          },
+          {
+            "exercise": "Pull-Up",
+            "equipment": "bodyweight",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 12,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 12,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          },
+          {
+            "exercise": "Side Cable Raise",
+            "equipment": "cable",
+            "sets": [
+              {
+                "weight": 15,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 15,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 20,
+                "reps": 5,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 20,
+              "reps": 5,
+              "failure": false
+            },
+            "est1RM": 23,
+            "volume": 340
+          },
+          {
+            "exercise": "Bent-Over Reverse Fly",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 30,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 22.5,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 22.5,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 30,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 38,
+            "volume": 645
+          },
+          {
+            "exercise": "Seated Hammer Curl",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 25,
+                "reps": 12,
+                "failure": false
+              },
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 25,
+              "reps": 12,
+              "failure": false
+            },
+            "est1RM": 35,
+            "volume": 700
+          },
+          {
+            "exercise": "Landmine Rotation",
+            "equipment": "landmine",
+            "sets": [
+              {
+                "weight": 10,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 10,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 10,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 10,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 13,
+            "volume": 240
+          },
+          {
+            "exercise": "Declined Jack Knife",
+            "equipment": "bodyweight",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          }
+        ],
+        "sessionVolume": 2965
+      }
+    ],
+    "sourceId": "2026-07-29-scattered-mind-and-the-elevator-pitch"
   }
 ]
