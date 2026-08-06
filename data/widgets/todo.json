@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2026-08-01",
+    "person": "Beau",
+    "items": [
+      {
+        "text": "Schedule a doctor's appointment",
+        "done": false
+      },
+      {
+        "text": "Look into Facebook Marketplace ads and test them out",
+        "done": false
+      },
+      {
+        "text": "Learn Heroku or Railway - somewhere to autonomously run agents",
+        "done": false
+      },
+      {
+        "text": "Pick a model provider (pay for an LLM API, or run an open-source model)",
+        "done": false
+      },
+      {
+        "text": "Look into Buzz",
+        "done": false
+      }
+    ],
+    "counts": {
+      "open": 5,
+      "done": 0
+    },
+    "note": null,
+    "sourceId": "2026-08-01-families-everything"
+  },
+  {
+    "date": "2026-08-04",
+    "person": "Beau",
+    "items": [
+      {
+        "text": "Set up the Lakeville pilot for the 17 board members (budget talks start October)",
+        "done": false
+      },
+      {
+        "text": "Schedule a doctor's appointment",
+        "done": false
+      },
+      {
+        "text": "Look into Facebook Marketplace ads and test them out",
+        "done": false
+      },
+      {
+        "text": "Learn Heroku or Railway - somewhere to autonomously run agents",
+        "done": false
+      },
+      {
+        "text": "Pick a model provider (pay for an LLM API, or run an open-source model)",
+        "done": false
+      },
+      {
+        "text": "Look into Buzz",
+        "done": false
+      }
+    ],
+    "counts": {
+      "open": 6,
+      "done": 0
+    },
+    "note": null,
+    "sourceId": "2026-08-04-not-enough-to-just-show-up"
+  }
+]

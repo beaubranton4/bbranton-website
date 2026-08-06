@@ -75,6 +75,7 @@ lifters:
 
 ```widget:calorielog
 person: Beau
+day_type: training
 items:
   - { food: "Boiled egg", amount: "1 large", calories: 78, protein: 6.3 }
   - { food: "Apple", amount: "1 medium", calories: 95, protein: 0.5 }

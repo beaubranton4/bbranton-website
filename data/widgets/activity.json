@@ -42,5 +42,119 @@
     "steps": null,
     "note": "Easy-to-moderate 45 min lifting session. Burn estimated at ~4 METs, 170 lb.",
     "sourceId": "2026-07-29-scattered-mind-and-the-elevator-pitch"
+  },
+  {
+    "date": "2026-07-30",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Warm-up jog - ~0.5 mi",
+        "duration": "5 min",
+        "burn": 55,
+        "estimated": true
+      },
+      {
+        "activity": "Sprints - 8x50 yd, 2x100 yd (walk-back recovery)",
+        "duration": "20 min",
+        "burn": 170,
+        "estimated": true
+      },
+      {
+        "activity": "Walk home - ~0.5 mi",
+        "duration": "10 min",
+        "burn": 45,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 270,
+    "steps": 8000,
+    "note": "Sprint session. Burn estimated from MET values at 170 lb; durations assumed. ~8,000 steps on the day.",
+    "sourceId": "2026-07-30-the-lakeville-call"
+  },
+  {
+    "date": "2026-07-31",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Weight training (upper body + posterior chain + core)",
+        "duration": "50 min",
+        "burn": 300,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 300,
+    "steps": null,
+    "note": "Superset lifting plus a long core block. Burn estimated at ~4.5 METs, 170 lb; duration assumed at ~50 min.",
+    "sourceId": "2026-07-31-yogurt-and-berries"
+  },
+  {
+    "date": "2026-08-01",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Run - 6 mi",
+        "duration": "54 min",
+        "burn": 750,
+        "estimated": true
+      },
+      {
+        "activity": "Walking - rest of ~18K steps beyond the run",
+        "duration": "all day",
+        "burn": 210,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 960,
+    "steps": 18000,
+    "note": "6-mile run (pace assumed ~9:00/mi) plus a full day on foot. Walking line counts only the ~7K steps beyond the run to avoid double-counting. Backfilled 2026-08-05.",
+    "sourceId": "2026-08-01-families-everything"
+  },
+  {
+    "date": "2026-08-02",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Walking/hiking - 18,000 steps (Point Reyes: lighthouse + Chimney Rock)",
+        "duration": "all day",
+        "burn": 540,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 540,
+    "steps": 18000,
+    "note": "No workout; 18K steps across the Point Reyes day. Burn estimated at ~30 cal per 1,000 steps above sedentary, 170 lb.",
+    "sourceId": "2026-08-02-point-reyes-and-the-lighthouse"
+  },
+  {
+    "date": "2026-08-04",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Swim - 750 yd, ~30 lengths, 6 full-speed sprints at the end",
+        "duration": "45 min",
+        "burn": 300,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 300,
+    "steps": null,
+    "note": "JCC pool. Burn estimated at ~5.5 METs average at 170 lb - easy laps with a sprint finish.",
+    "sourceId": "2026-08-04-not-enough-to-just-show-up"
+  },
+  {
+    "date": "2026-08-05",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Run - 3 mi @ 10:15/mi (light)",
+        "duration": "31 min",
+        "burn": 370,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 370,
+    "steps": null,
+    "note": "Easy run. Lower-body lift planned for the afternoon, not yet logged.",
+    "sourceId": "2026-08-05-light-run"
   }
 ]

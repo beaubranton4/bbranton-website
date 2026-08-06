@@ -1107,5 +1107,239 @@
       }
     ],
     "sourceId": "2026-07-29-scattered-mind-and-the-elevator-pitch"
+  },
+  {
+    "date": "2026-07-31",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "Pull-Up (narrow grip)",
+            "equipment": "bodyweight",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 15,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 15,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          },
+          {
+            "exercise": "Pull-Up (medium grip)",
+            "equipment": "bodyweight",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          },
+          {
+            "exercise": "Chest Fly",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 160,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 180,
+                "reps": 7,
+                "failure": false
+              },
+              {
+                "weight": 180,
+                "reps": 7,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 180,
+              "reps": 7,
+              "failure": false
+            },
+            "est1RM": 222,
+            "volume": 3800
+          },
+          {
+            "exercise": "Shoulder YTI",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 20,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 22.5,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 22.5,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 22.5,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 29,
+            "volume": 520
+          },
+          {
+            "exercise": "Glute Ham Raise",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 45,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 45,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 45,
+                "reps": 10,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 45,
+              "reps": 10,
+              "failure": false
+            },
+            "est1RM": 60,
+            "volume": 1350
+          },
+          {
+            "exercise": "Reverse Lunge Chop",
+            "equipment": "cable",
+            "sets": [
+              {
+                "weight": 10,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 25,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 32,
+            "volume": 280
+          },
+          {
+            "exercise": "Sit-Up",
+            "equipment": "bodyweight",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 10,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 10,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          },
+          {
+            "exercise": "Reverse Jackknife",
+            "equipment": "bodyweight",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 10,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 10,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          },
+          {
+            "exercise": "Crunch circuit",
+            "equipment": "bodyweight",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 200,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 200,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          }
+        ],
+        "sessionVolume": 5950
+      }
+    ],
+    "sourceId": "2026-07-31-yogurt-and-berries"
   }
 ]

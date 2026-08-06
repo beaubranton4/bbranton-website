@@ -3,7 +3,7 @@
  * extract-widgets.mjs — the data backbone for the "second brain."
  *
  * Walks content/posts/*.md, pulls every fenced ```widget:<type>``` block, and
- * emits per-widget JSON snapshots to data/widgets/{calorie,workout,activity}.json.
+ * emits per-widget JSON snapshots to data/widgets/{calorie,workout,activity,time,todo}.json.
  *
  * These JSON files are the portable seam: they're the "database" today (read by
  * the /health and /workouts pages) and the migration artifact tomorrow (their
@@ -29,6 +29,7 @@ const DATE_RE = /^(\d{4}-\d{2}-\d{2})-/;
 const WIDGET_RE = /```widget:([a-z]+)\n([\s\S]*?)```/g;
 
 const round = (n) => Math.round(n);
+const round1 = (n) => Math.round(n * 10) / 10;
 const sum = (arr, f) => arr.reduce((a, x) => a + f(x), 0);
 // Epley estimated 1RM: weight * (1 + reps/30)
 const epley = (weight, reps) => weight * (1 + reps / 30);
@@ -103,6 +104,70 @@ function buildActivityEntry(date, data, sourceId) {
   };
 }
 
+// widget:timelog — where the day's hours actually went.
+//
+// Two axes on purpose. `project` is which bucket of the life the hour belongs to;
+// `category` is what kind of work it was. Keeping them separate is what lets you ask
+// both "how much did Dugout Edge get this week?" and "how much of that was building
+// versus talking about building?" — and the second question is the whole point of
+// tracking. `deep` is the analogue of billable/non-billable in a normal time tracker:
+// uninterrupted focused creation, as opposed to email, admin, and context-switching.
+//
+// `exploration` is deliberately its own project rather than a Dugout Edge category,
+// so that hours spent on new ideas can't hide inside "product development."
+function buildTimeEntry(date, data, sourceId) {
+  const entries = (data.entries || []).map((e) => ({
+    project: e.project || 'personal',
+    category: e.category || null,
+    hours: Number(e.hours) || 0,
+    note: e.note ?? null,
+    deep: e.deep === true, // default false; only set true for focused creation blocks
+  }));
+  const bucketBy = (keyFn) => {
+    const out = {};
+    for (const e of entries) {
+      const k = keyFn(e);
+      if (!k) continue;
+      out[k] = (out[k] || 0) + e.hours;
+    }
+    // round once at the end — rounding per accumulation step compounds the error
+    for (const k of Object.keys(out)) out[k] = round1(out[k]);
+    return out;
+  };
+  return {
+    date,
+    person: data.person || 'Beau',
+    entries,
+    totalHours: round1(sum(entries, (e) => e.hours)),
+    byProject: bucketBy((e) => e.project),
+    byCategory: bucketBy((e) => e.category),
+    // deep hours are reported across all projects; slice by project via `entries` if needed
+    deepHours: round1(sum(entries.filter((e) => e.deep), (e) => e.hours)),
+    note: data.note || null,
+    sourceId,
+  };
+}
+
+// widget:todo — the day's task list. Mirrors the human GitHub-checkbox list
+// (`- [ ]` / `- [x]`) that sits above it; `done` ⇔ `[x]`.
+function buildTodoEntry(date, data, sourceId) {
+  const items = (data.items || []).map((it) => ({
+    text: it.text,
+    done: it.done === true,
+  }));
+  return {
+    date,
+    person: data.person || 'Beau',
+    items,
+    counts: {
+      open: items.filter((it) => !it.done).length,
+      done: items.filter((it) => it.done).length,
+    },
+    note: data.note || null,
+    sourceId,
+  };
+}
+
 function buildWorkoutEntry(date, data, sourceId) {
   const lifters = (data.lifters || []).map((lifter) => {
     const lifts = (lifter.lifts || []).map((lift) => {
@@ -145,6 +210,8 @@ function main() {
   const calorie = [];
   const workout = [];
   const activity = [];
+  const time = [];
+  const todo = [];
 
   for (const file of files) {
     const dm = file.match(DATE_RE);
@@ -156,6 +223,8 @@ function main() {
       if (type === 'calorielog') calorie.push(buildCalorieEntry(date, data, sourceId));
       else if (type === 'workout') workout.push(buildWorkoutEntry(date, data, sourceId));
       else if (type === 'activity') activity.push(buildActivityEntry(date, data, sourceId));
+      else if (type === 'timelog') time.push(buildTimeEntry(date, data, sourceId));
+      else if (type === 'todo') todo.push(buildTodoEntry(date, data, sourceId));
       else console.warn(`  ? unknown widget type "${type}" in ${file}`);
     }
   }
@@ -163,15 +232,21 @@ function main() {
   calorie.sort((a, b) => a.date.localeCompare(b.date));
   workout.sort((a, b) => a.date.localeCompare(b.date));
   activity.sort((a, b) => a.date.localeCompare(b.date));
+  time.sort((a, b) => a.date.localeCompare(b.date));
+  todo.sort((a, b) => a.date.localeCompare(b.date));
 
   fs.mkdirSync(OUT_DIR, { recursive: true });
   fs.writeFileSync(path.join(OUT_DIR, 'calorie.json'), JSON.stringify(calorie, null, 2) + '\n');
   fs.writeFileSync(path.join(OUT_DIR, 'workout.json'), JSON.stringify(workout, null, 2) + '\n');
   fs.writeFileSync(path.join(OUT_DIR, 'activity.json'), JSON.stringify(activity, null, 2) + '\n');
+  fs.writeFileSync(path.join(OUT_DIR, 'time.json'), JSON.stringify(time, null, 2) + '\n');
+  fs.writeFileSync(path.join(OUT_DIR, 'todo.json'), JSON.stringify(todo, null, 2) + '\n');
 
   console.log(`✓ Extracted ${calorie.length} calorie day(s) → data/widgets/calorie.json`);
   console.log(`✓ Extracted ${workout.length} workout day(s) → data/widgets/workout.json`);
   console.log(`✓ Extracted ${activity.length} activity day(s) → data/widgets/activity.json`);
+  console.log(`✓ Extracted ${time.length} time day(s) → data/widgets/time.json`);
+  console.log(`✓ Extracted ${todo.length} todo day(s) → data/widgets/todo.json`);
 }
 
 main();

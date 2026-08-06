@@ -216,7 +216,8 @@ export default function Health({
         )}
 
         <p className="text-gray-600 text-xs mt-8">
-          Fitness math, not dietitian advice. See also <Link href="/workouts" className="text-cyan-400">Workouts</Link>.
+          Fitness math, not dietitian advice. See also <Link href="/workouts" className="text-cyan-400">Workouts</Link>{' '}
+          and <Link href="/time" className="text-cyan-400">Time</Link>.
         </p>
       </div>
     </>

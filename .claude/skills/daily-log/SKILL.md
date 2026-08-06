@@ -15,6 +15,7 @@ This repo IS the second brain. A day = one journal entry in `content/posts/YYYY-
 |---|---|
 | foods eaten ("apple, 2 tbsp PB, 600 cal wraps", "0.9 lb salmon") | **Calorie capture** (food-logging conventions) |
 | lifts ("bench 185×8, 205×6F, squat 3×8 @275") | **Workout capture** |
+| hours spent ("worked 8, then 2 hours on Dugout Edge", "morning on sales calls") | **Time capture** (time-tracking conventions) |
 | a reflection / event / plain narration | **Journal prose** |
 | tasks ("todo: email X, call Y") | **To Do capture** |
 | "what did I / how's my / am I / show me…" over time | **Query** |
@@ -59,6 +60,10 @@ Conventions (must match `scripts/extract-widgets.mjs`):
 - **Volume** = Σ(weight × reps). No dumbbell doubling. `equipment` ∈ barbell | dumbbell | machine.
 - **Next-session dial** per lift: top set closed clean → **+5 lb**; last-rep failure → **hold, re-test**; two failing sets in a row at the same weight → **drop ~10% and rebuild**.
 
+## Capture: Time
+
+Follow the **time-tracking** skill exactly (it owns the project/category taxonomy, the `deep` rule, and the read-out). It writes both the `## Time Log` table and the `widget:timelog` block. Never invent hours Beau didn't narrate — ask instead.
+
 ## Capture: Calorie
 
 Follow the **food-logging** skill exactly (it owns the estimate table, running total, and "Day vs. plan" verdict) and make sure it writes both the `## Calorie Log` table and the `widget:calorielog` block. Targets come from `data/profile.yml`.
@@ -69,14 +74,26 @@ Append/weave into the top-of-file prose. This is the default when nothing struct
 
 ## Capture: To Do
 
-`## To Do` with GitHub checkboxes (`- [ ]` / `- [x]`). (Note: no `widget:todo` extractor exists yet — human list only for now; add the block once the extractor supports it.)
+`## To Do` with GitHub checkboxes (`- [ ]` / `- [x]`) **and** a ` ```widget:todo ` block kept in sync (`- [x]` ⇔ `done: true`):
+
+```widget:todo
+person: Beau
+items:
+  - { text: "Schedule a doctor's appointment", done: false }
+  - { text: "Email Ryan the pricing sheet", done: true }
+```
+
+Rewrite the whole block each time an item is added or checked off — the extractor computes open/done counts into `data/widgets/todo.json`. Omit `done: false`? No — always write `done` explicitly so the sync with the checkbox list is auditable.
 
 ## Query (across time)
 
-Read `data/widgets/{calorie,workout}.json` and `data/profile.yml`, then answer. Examples:
+Read `data/widgets/{calorie,workout,activity,time}.json` and `data/profile.yml`, then answer. Examples:
 - "what did I do this week?" → summarize workouts + calorie adherence for the last 7 dates.
 - "how's my protein average?" → mean protein over recent days vs. `profile.people.beau.protein.aim_g`.
 - "am I stronger this month?" → compare est1RM per lift across sessions.
+- "where did my time go?" → `byProject` / `byCategory` / `deepHours` over the window; always report the deep share next to the raw hours.
+
+All four files key on `date`, so cross-domain questions are one join away ("do I get more deep work on days I train?").
 
 If the JSON looks stale (a section was just logged), run `npm run extract:widgets` first, then read.
 

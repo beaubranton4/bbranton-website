@@ -1,18 +1,18 @@
 # Journal Widgets — Spec
 
 **Repo:** this one (`bbranton-website`). Next 13 pages router, `content/posts/*.md` rendered via `remark` → HTML in `src/lib/posts.ts`.
-**Status:** Phases 0–3 **built** as of 2026-07-22 (workout + calorie widgets). See the status note below.
+**Status:** Phases 0–3 **built** as of 2026-07-22 (workout + calorie widgets). Extended 2026-07-28 (`activity`), 2026-08-01 (`timelog`, `todo`, `/time` dashboard). See the status note below.
 
 ## Status &amp; framing update (2026-07-22): this is the "second brain"
 
 The widget system is now the substrate for a bigger idea Beau named in the 2026-07-22 journal entry: **the repo as a digital embodiment / second brain** — journal, calorie, and workout as components he talks to through one routing assistant, that share memory and can be queried across time.
 
 **What's built now:**
-- `widget:workout` + `widget:calorielog` blocks (backfilled into 2026-07-20/21/22), stripped from the public render by `remarkStripWidgets` in `src/lib/posts.ts`.
-- The data backbone: `scripts/extract-widgets.mjs` → `data/widgets/{calorie,workout}.json` (dates from **filenames** — recent entries have no frontmatter). Wired into `npm run refresh`; also `npm run extract:widgets`.
+- Six widget types (see catalog): `workout`, `calorielog`, `activity`, `timelog`, `todo` + prose. All stripped from the public render by `remarkStripWidgets` in `src/lib/posts.ts` (matches `widget:*` generically — new types are hidden automatically).
+- The data backbone: `scripts/extract-widgets.mjs` → `data/widgets/{calorie,workout,activity,time,todo}.json` (dates from **filenames** — recent entries have no frontmatter). Wired into `npm run refresh` and `prebuild`; also `npm run extract:widgets`.
 - Single source of truth for targets: `data/profile.yml` (the food-logging skill + `/health` read it; no more per-entry copy-paste drift).
-- Dashboards: `src/pages/health.tsx` and `src/pages/workouts.tsx` (hand-rolled SVG via `src/components/MiniChart.tsx` — swap for recharts if they grow).
-- The routing agent: `.claude/skills/daily-log/SKILL.md` — one assistant that captures (workout/calorie/journal/todo), queries across time, and generates plans; delegates the calorie path to the `food-logging` skill.
+- Dashboards: `src/pages/health.tsx`, `src/pages/workouts.tsx`, and `src/pages/time.tsx` (hand-rolled SVG via `src/components/MiniChart.tsx` + an in-page stacked bar — swap for recharts if they grow).
+- The routing agent: `.claude/skills/daily-log/SKILL.md` — one assistant that captures (workout/calorie/time/journal/todo), queries across time, and generates plans; delegates the calorie path to the `food-logging` skill and the hours path to `time-tracking`.
 
 **Data backend — repo vs. database (decision):** stay repo/markdown-native now; `data/widgets/*.json` is the portable seam. Its schema is deliberately the future Postgres table schema, so migrating to a database + mobile app is a port, not a rewrite. **Migrate when** any of: the mobile app needs live multi-device writes, Abby logs concurrently and hits git conflicts, real-time/notifications are needed, or auth is required.
 
@@ -60,11 +60,23 @@ Each widget below lists: **purpose**, **data shape**, **rendered form**, **cross
 - **Rendered form:** table with totals row + one-line "day vs. plan" verdict. See 2026-07-20 entry for the canonical layout.
 - **Cross-entry payoff:** `/health` page — 7-day rolling avg calories and protein, plotted against the cut-plan target row (low/10K/training-day). Trend line on weight if it starts getting logged.
 
-### To Do
+### To Do *(extractor built 2026-08-01)*
 - **Purpose:** the day's actual to-do list, checkable in the entry, with carryover behavior.
-- **Data shape:** list of `{text, done, priority?, carryover_from?}`.
-- **Rendered form:** GitHub-style checkbox list. Undone items at end of day are optionally suggested for tomorrow's entry (Claude proposes; user accepts).
-- **Cross-entry payoff:** completion rate, carryover count (items that lived >3 days), most-common ghosts.
+- **Data shape:** list of `{text, done}`; extractor derives `counts: {open, done}`. (`priority`/`carryover_from` deferred until the data shows they're needed.)
+- **Rendered form:** GitHub-style checkbox list + synced `widget:todo` block (`- [x]` ⇔ `done: true`). Undone items at end of day are optionally suggested for tomorrow's entry (Claude proposes; user accepts).
+- **Cross-entry payoff:** completion rate, carryover count (items that lived >3 days), most-common ghosts. → `data/widgets/todo.json`. No dashboard yet — queries via Claude.
+
+### Activity *(added 2026-07-28)*
+- **Purpose:** energy out, in real increments — runs, walks, lifting-as-burn, sprints, steps. The input to the computed calorie target (`base_tdee + burn − deficit`), which is why lifting appears here *and* in Workout: that one tracks sets/1RM progression, this one tracks energy.
+- **Data shape:** list of `{activity, duration, burn, estimated?}` + optional day `steps`.
+- **Rendered form:** small table inside `## Workout`, or an "Energy out" line.
+- **Cross-entry payoff:** per-day burn feeds `/health`'s computed targets (the `~` fallback marks days with no logged activity). → `data/widgets/activity.json`.
+
+### Time Log *(added 2026-08-01, after the Bill conversation — "you can't improve what you don't measure")*
+- **Purpose:** where the day's hours went — the number that feeds the quit-job decision. Two axes on purpose: `project` (job / dugout-edge / exploration / personal) × `category` (product / marketing / sales / support / admin / learning / meeting / life), plus `deep` for uninterrupted focused creation. `exploration` is deliberately a project, not a Dugout Edge category, so new-idea hours can't hide inside "product development."
+- **Data shape:** list of `{project, category, hours, note?, deep?}`; extractor derives `totalHours`, `byProject`, `byCategory`, `deepHours`.
+- **Rendered form:** `## Time Log` table (Project | Category | Hours | Deep | What) + one-line read-out.
+- **Cross-entry payoff:** `/time` page — hero = Dugout Edge hours + deep share last 7 days, stacked hours/day by project, deep-hours trend, DE-by-category. Owning skill: `.claude/skills/time-tracking/SKILL.md`. → `data/widgets/time.json`.
 
 ## Data format
 
@@ -91,7 +103,16 @@ Two options considered; pick **fenced code block with a language hint** (option 
 - Pro: reads sanely on GitHub even with zero renderer support (falls back to a code block). One markdown file per day still. Easy to extract with a small remark visitor. Composes with the prose (Journal → Workout block → prose → Calorie block → prose).
 - Con: writers see YAML, not tables. Mitigation: **Claude is the writer**. User dictates in natural language ("bench 185×8, 205×6F…") and Claude emits the block. In Phase 2 the renderer shows a polished card; the YAML is edit-source, not read-source.
 
-**Widget language tags (fixed vocab):** `widget:workout`, `widget:calorielog`, `widget:todo`. Additions require a spec update to this file.
+**Widget language tags (current vocab):** `widget:workout`, `widget:calorielog`, `widget:activity`, `widget:timelog`, `widget:todo`.
+
+**Adding a widget type — the checklist** (each step names the file that owns it):
+
+1. **Extractor** — `scripts/extract-widgets.mjs`: add a `buildXEntry(date, data, sourceId)` (derive all computed fields here — totals, rollups — never hand-write them in entries), a dispatch branch in `main()`, a sort + `writeFileSync` to `data/widgets/x.json`, and a log line. Keep the emitted shape flat and stable — it's the future Postgres table shape.
+2. **Skill** — put the block format + conventions in the owning skill (its own skill for a big domain like `time-tracking`, or a section of `daily-log`), and add a routing row to `.claude/skills/daily-log/SKILL.md`. Every capture writes BOTH the human table/list and the block, kept in sync.
+3. **Dashboard** — a section on an existing page or a new `src/pages/x.tsx` following the `health.tsx` conventions (inline `readJson` in `getStaticProps`, `arcade-card` sections, empty state, day-table linking back to `/blog/${sourceId}`). Add the nav item + cross-links.
+4. **This spec** — add the catalog entry above and the tag to the vocab list.
+
+Stripping from the public render is automatic — `remarkStripWidgets` matches `widget:*` — and dates always come from the entry filename. If a block fails to parse the extractor warns and skips; the page never breaks.
 
 ## Phased build
 

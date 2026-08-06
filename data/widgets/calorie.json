@@ -380,7 +380,7 @@
   {
     "date": "2026-07-23",
     "person": "Beau",
-    "dayType": null,
+    "dayType": "training",
     "items": [
       {
         "food": "Boiled egg",
@@ -891,7 +891,7 @@
   {
     "date": "2026-07-30",
     "person": "Beau",
-    "dayType": "low",
+    "dayType": "training",
     "items": [
       {
         "food": "Parachute Bakery mushroom & cheese savory pastry",
@@ -934,14 +934,455 @@
         "calories": 46,
         "protein": 0.8,
         "sodium": 0
+      },
+      {
+        "food": "Bibimbap",
+        "amount": "~1/3 bowl",
+        "calories": 235,
+        "protein": 10,
+        "sodium": 430
+      },
+      {
+        "food": "Soy garlic chicken wings (Korean fried)",
+        "amount": "3",
+        "calories": 375,
+        "protein": 24,
+        "sodium": 810
+      },
+      {
+        "food": "Mandu",
+        "amount": "2",
+        "calories": 130,
+        "protein": 5,
+        "sodium": 320
+      },
+      {
+        "food": "Ice cream sandwich (cookie)",
+        "amount": "1/2",
+        "calories": 210,
+        "protein": 3,
+        "sodium": 130
       }
     ],
     "totals": {
-      "calories": 1342,
-      "protein": 55.8,
-      "sodium": 2341
+      "calories": 2292,
+      "protein": 97.8,
+      "sodium": 4031
     },
-    "note": "Breakfast plus a restaurant-leftovers lunch and cherries. ~1,342 cal / ~56 g protein / ~2,341 mg sodium. Sprint session planned (~345 cal) puts the target at ~2,145, leaving ~803 cal — enough room to reach the full 145 g protein aim with a lean dinner. Sodium already ~840 mg over the 1,500 mg limit before dinner, second day running.",
+    "note": "Korean family-style dinner closed the day at ~2,292 cal / ~98 g protein / ~4,031 mg sodium. Sprint session burned ~270 cal, so target was ~2,070 - about 222 over. Protein is the real miss: ~25 g below the 123 g floor and ~47 short of the 145 g aim, with no protein anchor all day. Sodium ~2,531 mg over the 1,500 mg limit, third straight day over.",
     "sourceId": "2026-07-30-the-lakeville-call"
+  },
+  {
+    "date": "2026-07-31",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Greek yogurt, plain nonfat",
+        "amount": "1.5 cups",
+        "calories": 195,
+        "protein": 35,
+        "sodium": 100
+      },
+      {
+        "food": "Blueberries",
+        "amount": "15 berries",
+        "calories": 12,
+        "protein": 0.2,
+        "sodium": 0
+      },
+      {
+        "food": "Strawberries",
+        "amount": "7",
+        "calories": 35,
+        "protein": 0.7,
+        "sodium": 1
+      },
+      {
+        "food": "Mediterranean beef bowl",
+        "amount": "1",
+        "calories": 650,
+        "protein": 40,
+        "sodium": 1400
+      },
+      {
+        "food": "Milk, 2%",
+        "amount": "1 cup",
+        "calories": 120,
+        "protein": 8,
+        "sodium": 115
+      },
+      {
+        "food": "Cantan deluxe ramen",
+        "amount": "1 bowl",
+        "calories": 900,
+        "protein": 45,
+        "sodium": 2900
+      },
+      {
+        "food": "Chicken karaage",
+        "amount": "2 pieces",
+        "calories": 160,
+        "protein": 10,
+        "sodium": 300
+      },
+      {
+        "food": "Bingsu (shaved ice dessert)",
+        "amount": "400 cal worth",
+        "calories": 400,
+        "protein": 8,
+        "sodium": 150
+      }
+    ],
+    "totals": {
+      "calories": 2472,
+      "protein": 146.9,
+      "sodium": 4966
+    },
+    "note": "Closed at ~2,472 cal / ~147 g protein / ~4,966 mg sodium against a ~2,100 target (lifting burned ~300). About 372 over on calories - roughly the bingsu. Protein landed right on the 145 g aim, first day back on target. Sodium ~3,466 mg over the 1,500 limit and the worst day of the stretch; the ramen bowl alone is about two days' allowance.",
+    "sourceId": "2026-07-31-yogurt-and-berries"
+  },
+  {
+    "date": "2026-08-01",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Apple",
+        "amount": "1 medium",
+        "calories": 95,
+        "protein": 0.5,
+        "sodium": 2
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "1 tbsp",
+        "calories": 95,
+        "protein": 4,
+        "sodium": 75
+      },
+      {
+        "food": "Seafood trio (Scoma's)",
+        "amount": "1",
+        "calories": 700,
+        "protein": 50,
+        "sodium": 1300
+      },
+      {
+        "food": "Bread with butter",
+        "amount": "1 slice",
+        "calories": 150,
+        "protein": 3,
+        "sodium": 200
+      },
+      {
+        "food": "Calamari appetizer (shared)",
+        "amount": "some",
+        "calories": 150,
+        "protein": 8,
+        "sodium": 300
+      },
+      {
+        "food": "Grilled ahi sandwich (Hook Fish Co)",
+        "amount": "1",
+        "calories": 600,
+        "protein": 40,
+        "sodium": 900
+      },
+      {
+        "food": "Chips & guac",
+        "amount": "1 serving",
+        "calories": 200,
+        "protein": 3,
+        "sodium": 200
+      },
+      {
+        "food": "Beer",
+        "amount": "1",
+        "calories": 150,
+        "protein": 1.5,
+        "sodium": 10
+      }
+    ],
+    "totals": {
+      "calories": 2140,
+      "protein": 110,
+      "sodium": 2987
+    },
+    "note": "Backfilled 2026-08-05. ~2,140 cal / ~110 g protein / ~2,987 mg sodium vs a ~2,760 computed target (6-mi run + 18K steps, ~960 burned) - about 620 under. Protein ~13 g shy of the floor; sodium ~1,487 over on two restaurant meals.",
+    "sourceId": "2026-08-01-families-everything"
+  },
+  {
+    "date": "2026-08-02",
+    "person": "Beau",
+    "dayType": "steps_10k",
+    "items": [
+      {
+        "food": "Ham & cheese croissant (b. patisserie)",
+        "amount": "1",
+        "calories": 450,
+        "protein": 20,
+        "sodium": 900
+      },
+      {
+        "food": "Tri-tip sandwich (Whale of a Deli)",
+        "amount": "1",
+        "calories": 500,
+        "protein": 35,
+        "sodium": 1100
+      },
+      {
+        "food": "Chinese food",
+        "amount": "1 serving",
+        "calories": 800,
+        "protein": 30,
+        "sodium": 1800
+      }
+    ],
+    "totals": {
+      "calories": 1750,
+      "protein": 85,
+      "sodium": 3800
+    },
+    "note": "Point Reyes day. ~1,750 cal / ~85 g protein / ~3,800 mg sodium vs a ~2,340 computed target (18K steps, ~540 burned) - about 590 under on calories, but protein ~38 g below the floor and sodium ~2,300 over on three restaurant meals.",
+    "sourceId": "2026-08-02-point-reyes-and-the-lighthouse"
+  },
+  {
+    "date": "2026-08-03",
+    "person": "Beau",
+    "dayType": "low",
+    "items": [
+      {
+        "food": "Greek yogurt, plain nonfat",
+        "amount": "2/3 cup",
+        "calories": 87,
+        "protein": 15.5,
+        "sodium": 45
+      },
+      {
+        "food": "Strawberries",
+        "amount": "10",
+        "calories": 50,
+        "protein": 1,
+        "sodium": 1
+      },
+      {
+        "food": "Blueberries",
+        "amount": "10 berries",
+        "calories": 8,
+        "protein": 0.1,
+        "sodium": 0
+      },
+      {
+        "food": "Trader Joe's carnitas",
+        "amount": "~1/2 the pack",
+        "calories": 470,
+        "protein": 45,
+        "sodium": 1000
+      },
+      {
+        "food": "Cottage cheese",
+        "amount": "1/2 cup",
+        "calories": 90,
+        "protein": 12,
+        "sodium": 400
+      },
+      {
+        "food": "Lettuce",
+        "amount": "2 cups",
+        "calories": 10,
+        "protein": 0.7,
+        "sodium": 10
+      },
+      {
+        "food": "Salsa",
+        "amount": "~6 tbsp",
+        "calories": 24,
+        "protein": 0.6,
+        "sodium": 570
+      },
+      {
+        "food": "Bun bo Hue, deconstructed (Lily, shared)",
+        "amount": "1 portion",
+        "calories": 370,
+        "protein": 20,
+        "sodium": 900
+      },
+      {
+        "food": "Fried catfish w/ lettuce wraps, pate, garlic mayo (Lily)",
+        "amount": "1 tender-size piece",
+        "calories": 300,
+        "protein": 15,
+        "sodium": 450
+      },
+      {
+        "food": "Duck (Lily)",
+        "amount": "~4 oz",
+        "calories": 340,
+        "protein": 25,
+        "sodium": 350
+      },
+      {
+        "food": "Shaved ice",
+        "amount": "~1/2 serving",
+        "calories": 190,
+        "protein": 2,
+        "sodium": 40
+      }
+    ],
+    "totals": {
+      "calories": 1939,
+      "protein": 136.9,
+      "sodium": 3766
+    },
+    "note": "Closed at ~1,939 cal / ~137 g protein / ~3,766 mg sodium vs the sedentary ~1,800 target - about 139 over. Lily dinner logged as a family-style split of Beau's ~1,200 meal total. Protein above the floor and ~8 g short of the aim, best day since 7/31 - ~75 g banked by lunch is the repeatable pattern. Sodium ~2,266 over, sixth straight day.",
+    "sourceId": "2026-08-03-shopping-brain"
+  },
+  {
+    "date": "2026-08-04",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Apple",
+        "amount": "1 medium",
+        "calories": 95,
+        "protein": 0.5,
+        "sodium": 2
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "1 tbsp",
+        "calories": 95,
+        "protein": 4,
+        "sodium": 75
+      },
+      {
+        "food": "Lamb kabobs",
+        "amount": "2",
+        "calories": 340,
+        "protein": 36,
+        "sodium": 500
+      },
+      {
+        "food": "Pita",
+        "amount": "1/2",
+        "calories": 85,
+        "protein": 3,
+        "sodium": 150
+      },
+      {
+        "food": "Greek yogurt drink (plain, sour - labneh/ayran style)",
+        "amount": "1",
+        "calories": 300,
+        "protein": 15,
+        "sodium": 450
+      },
+      {
+        "food": "Watermelon",
+        "amount": "~1 cup",
+        "calories": 46,
+        "protein": 0.9,
+        "sodium": 2
+      },
+      {
+        "food": "Philly cheesesteak",
+        "amount": "1",
+        "calories": 750,
+        "protein": 40,
+        "sodium": 1600
+      },
+      {
+        "food": "Hot dog w/ condiments",
+        "amount": "1/2",
+        "calories": 160,
+        "protein": 5,
+        "sodium": 450
+      }
+    ],
+    "totals": {
+      "calories": 1871,
+      "protein": 104.4,
+      "sodium": 3229
+    },
+    "note": "Closed at ~1,871 cal / ~104 g protein / ~3,229 mg sodium vs the ~2,100 computed target (swim, ~300 burned) - about 229 under. Protein ~19 g below the floor; the cheesesteak dinner was bread-and-cheese-led. Sodium ~1,729 over, seventh straight day - was under pace until the cheesesteak (~1,600 mg alone).",
+    "sourceId": "2026-08-04-not-enough-to-just-show-up"
+  },
+  {
+    "date": "2026-08-05",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Greek yogurt, plain nonfat",
+        "amount": "1 cup",
+        "calories": 130,
+        "protein": 23,
+        "sodium": 65
+      },
+      {
+        "food": "Blueberries",
+        "amount": "20 berries",
+        "calories": 16,
+        "protein": 0.2,
+        "sodium": 0
+      },
+      {
+        "food": "Strawberries",
+        "amount": "10",
+        "calories": 50,
+        "protein": 1,
+        "sodium": 1
+      },
+      {
+        "food": "Honey",
+        "amount": "~1/2 tsp",
+        "calories": 10,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Trader Joe's pork carnitas",
+        "amount": "300 cal worth",
+        "calories": 300,
+        "protein": 29,
+        "sodium": 640
+      },
+      {
+        "food": "Spinach",
+        "amount": "3 cups raw",
+        "calories": 21,
+        "protein": 2.7,
+        "sodium": 72
+      },
+      {
+        "food": "Cottage cheese",
+        "amount": "1/2 cup",
+        "calories": 90,
+        "protein": 12,
+        "sodium": 400
+      },
+      {
+        "food": "Salsa",
+        "amount": "~1/2 cup",
+        "calories": 32,
+        "protein": 0.8,
+        "sodium": 760
+      },
+      {
+        "food": "Watermelon",
+        "amount": "~3 cups",
+        "calories": 138,
+        "protein": 2.7,
+        "sodium": 6
+      }
+    ],
+    "totals": {
+      "calories": 787,
+      "protein": 71.4,
+      "sodium": 1944
+    },
+    "note": "Through lunch: ~787 cal / ~72 g protein / ~1,944 mg sodium. Run burned ~370, so target is ~2,170 (rises when the afternoon lift is logged) - about 1,383 left. Best protein bank by lunch yet; sodium already ~444 over on a home-food day, mostly salsa + carnitas.",
+    "sourceId": "2026-08-05-light-run"
   }
 ]

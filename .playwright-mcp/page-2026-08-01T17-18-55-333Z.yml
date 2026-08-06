@@ -1,0 +1,184 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - link "Beau Branton" [ref=e7] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "Home" [ref=e11] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e12]:
+              - link "Journal" [ref=e13] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e14]:
+              - link "Health" [ref=e15] [cursor=pointer]:
+                - /url: /health
+            - listitem [ref=e16]:
+              - link "Workouts" [ref=e17] [cursor=pointer]:
+                - /url: /workouts
+            - listitem [ref=e18]:
+              - link [ref=e19] [cursor=pointer]:
+                - /url: /time
+            - listitem [ref=e22]:
+              - link "Projects" [ref=e23] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=e24]:
+              - link "Resume" [ref=e25] [cursor=pointer]:
+                - /url: /resume
+    - main [ref=e26]:
+      - generic [ref=e28]:
+        - heading "TIME" [level=1] [ref=e29]
+        - paragraph [ref=e30]: Where the hours actually go, pulled from the journal. Narrated in natural language, logged per day — deep marks uninterrupted focused creation, the hours that actually ship things.
+        - generic [ref=e31]:
+          - generic [ref=e32]: Dugout Edge · last 7 days
+          - generic [ref=e33]: 7 h
+          - generic [ref=e34]:
+            - text: 5.5 h deep
+            - generic [ref=e35]: · +6 h vs prior 7 days
+          - generic [ref=e36]:
+            - generic [ref=e37]: Job 13 h
+            - generic [ref=e38]: · Exploration 2 h
+            - generic [ref=e39]: · Personal 1 h
+        - generic [ref=e40]:
+          - generic [ref=e41]:
+            - generic [ref=e42]: Tracked
+            - generic [ref=e43]: 23 h
+            - generic [ref=e44]: last 7 days
+          - generic [ref=e45]:
+            - generic [ref=e46]: DE deep
+            - generic [ref=e47]: 5.5 h
+            - generic [ref=e48]: focused creation
+          - generic [ref=e49]:
+            - generic [ref=e50]: Explore vs DE
+            - generic [ref=e51]: 2 / 7 h
+            - generic [ref=e52]: new ideas vs shipping
+          - generic [ref=e53]:
+            - generic [ref=e54]: Days logged
+            - generic [ref=e55]: "2"
+            - generic [ref=e56]: last 7 days
+        - generic [ref=e57]:
+          - heading "Hours per day" [level=2] [ref=e58]
+          - paragraph [ref=e59]: Stacked by project, last 7 days. Untracked time isn't shown.
+          - generic [ref=e60]:
+            - generic [ref=e61]: Dugout Edge
+            - generic [ref=e63]: Job
+            - generic [ref=e65]: Exploration
+            - generic [ref=e67]: Personal
+          - img "Hours per day by project" [ref=e69]:
+            - generic [ref=e70]:
+              - 'generic "Dugout Edge: 3 h — 2099-01-08" [ref=e71]'
+              - 'generic "Job: 7 h — 2099-01-08" [ref=e72]'
+              - 'generic "Exploration: 1.5 h — 2099-01-08" [ref=e73]'
+              - 'generic "Personal: 1 h — 2099-01-08" [ref=e74]'
+              - generic [ref=e75]: "12.5"
+              - generic [ref=e76]: 01-08
+            - generic [ref=e77]:
+              - 'generic "Dugout Edge: 4 h — 2099-01-10" [ref=e78]'
+              - 'generic "Job: 6 h — 2099-01-10" [ref=e79]'
+              - 'generic "Exploration: 0.5 h — 2099-01-10" [ref=e80]'
+              - generic [ref=e81]: "10.5"
+              - generic [ref=e82]: 01-10
+        - generic [ref=e83]:
+          - heading "Dugout Edge deep hours" [level=2] [ref=e84]
+          - paragraph [ref=e85]: The shipping trend. Flat or falling while total hours rise means the work is turning into overhead.
+          - img "chart" [ref=e87]:
+            - generic [ref=e89]:
+              - generic [ref=e91]: 1 h
+              - generic [ref=e92]: 01-03
+            - generic [ref=e93]:
+              - generic [ref=e95]: 2.5 h
+              - generic [ref=e96]: 01-08
+            - generic [ref=e97]:
+              - generic [ref=e99]: 3 h
+              - generic [ref=e100]: 01-10
+        - generic [ref=e101]:
+          - heading "Where Dugout Edge time goes" [level=2] [ref=e102]
+          - paragraph [ref=e103]: By category, last 7 days.
+          - generic [ref=e104]:
+            - generic [ref=e105]:
+              - generic [ref=e106]: product
+              - generic [ref=e109]: 5.5 h
+            - generic [ref=e110]:
+              - generic [ref=e111]: marketing
+              - generic [ref=e114]: 1 h
+            - generic [ref=e115]:
+              - generic [ref=e116]: sales
+              - generic [ref=e119]: 0.5 h
+        - generic [ref=e120]:
+          - heading "Day by day" [level=2] [ref=e121]
+          - table [ref=e123]:
+            - rowgroup [ref=e124]:
+              - row [ref=e125]:
+                - columnheader "Date" [ref=e126]
+                - columnheader "Total" [ref=e127]
+                - columnheader "Job" [ref=e128]
+                - columnheader "DE" [ref=e129]
+                - columnheader "DE deep" [ref=e130]
+                - columnheader "Explore" [ref=e131]
+                - columnheader "Personal" [ref=e132]
+                - columnheader "Note" [ref=e133]
+            - rowgroup [ref=e134]:
+              - row [ref=e135]:
+                - cell [ref=e136]:
+                  - link "2099-01-10" [ref=e137] [cursor=pointer]:
+                    - /url: /blog/2099-01-10-selftest-c
+                - cell "10.5 h" [ref=e138]
+                - cell "6" [ref=e139]
+                - cell "4" [ref=e140]
+                - cell "3" [ref=e141]
+                - cell "0.5" [ref=e142]
+                - cell "—" [ref=e143]
+                - cell "best DE day yet" [ref=e144]
+              - row [ref=e145]:
+                - cell [ref=e146]:
+                  - link "2099-01-08" [ref=e147] [cursor=pointer]:
+                    - /url: /blog/2099-01-08-selftest-b
+                - cell "12.5 h" [ref=e148]
+                - cell "7" [ref=e149]
+                - cell "3" [ref=e150]
+                - cell "2.5" [ref=e151]
+                - cell "1.5" [ref=e152]
+                - cell "1" [ref=e153]
+                - cell "solid DE day" [ref=e154]
+              - row [ref=e155]:
+                - cell [ref=e156]:
+                  - link "2099-01-03" [ref=e157] [cursor=pointer]:
+                    - /url: /blog/2099-01-03-selftest-a
+                - cell "11 h" [ref=e158]
+                - cell "8" [ref=e159]
+                - cell "1" [ref=e160]
+                - cell "1" [ref=e161]
+                - cell "—" [ref=e162]
+                - cell "2" [ref=e163]
+                - cell "prior-window day" [ref=e164]
+        - paragraph [ref=e165]:
+          - text: You can't improve what you don't measure. See also
+          - link "Health" [ref=e166] [cursor=pointer]:
+            - /url: /health
+          - text: and
+          - link "Workouts" [ref=e167] [cursor=pointer]:
+            - /url: /workouts
+          - text: .
+    - contentinfo [ref=e168]:
+      - generic [ref=e169]:
+        - generic [ref=e171]:
+          - paragraph [ref=e173]: © 2026 Beau Branton. All rights reserved.
+          - generic [ref=e174]:
+            - generic [ref=e175]:
+              - link "Twitter" [ref=e176] [cursor=pointer]:
+                - /url: https://twitter.com/beaubranton
+              - link "LinkedIn" [ref=e179] [cursor=pointer]:
+                - /url: https://linkedin.com/in/beaubranton
+              - link "GitHub" [ref=e182] [cursor=pointer]:
+                - /url: https://github.com/beaubranton
+            - generic [ref=e185]:
+              - link "Now" [ref=e186] [cursor=pointer]:
+                - /url: /now
+              - link "Projects" [ref=e187] [cursor=pointer]:
+                - /url: /projects
+              - link "Journal" [ref=e188] [cursor=pointer]:
+                - /url: /blog
+        - paragraph [ref=e190]: PLAYER 1 • HIGH SCORE PENDING
+  - alert [ref=e191]

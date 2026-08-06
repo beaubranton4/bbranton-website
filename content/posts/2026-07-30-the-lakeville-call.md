@@ -18,6 +18,33 @@ So that's where my head's at. I'm looking forward to seeing how it goes, and I'm
 
 ---
 
+## Workout
+
+Sprint session — did get it in.
+
+| Activity | Duration | Est. burn |
+|---|---|---|
+| Warm-up jog — ~0.5 mi | ~5 min* | ~55 cal* |
+| Sprints — 8 × 50 yd, 2 × 100 yd (walk-back recovery) | ~20 min* | ~170 cal* |
+| Walk home — ~0.5 mi | ~10 min* | ~45 cal* |
+| **Total** | **~35 min** | **~270 cal** |
+
+*\*Burn estimated from MET values at 170 lb. The sprint block is the loose number: ~82 seconds of actual sprinting at ~23 MET is only ~45 cal, and most of the rest is the walk-back recovery plus a modest afterburn bump. Durations assumed — give me the real clock time and rest intervals and I'll redo it. ~8,000 steps on the day, which is only slightly above the walking already baked into the 2,060 base TDEE, so it doesn't get its own line.*
+
+*No `widget:workout` block — that schema is weight × reps only. The burn lives in the `widget:activity` block below, which is what feeds the computed calorie target.*
+
+```widget:activity
+person: Beau
+activities:
+  - { activity: "Warm-up jog - ~0.5 mi", duration: "5 min", burn: 55 }
+  - { activity: "Sprints - 8x50 yd, 2x100 yd (walk-back recovery)", duration: "20 min", burn: 170 }
+  - { activity: "Walk home - ~0.5 mi", duration: "10 min", burn: 45 }
+steps: 8000
+note: "Sprint session. Burn estimated from MET values at 170 lb; durations assumed. ~8,000 steps on the day."
+```
+
+---
+
 ## Calorie Log
 
 | Food | Amount | Calories | Protein | Sodium |
@@ -28,19 +55,25 @@ So that's where my head's at. I'm looking forward to seeing how it goes, and I'm
 | Souvla chicken salad, Greek style w/ fries in it | ⅖ of one (the rest of yesterday's) | ~310* | ~18 g* | ~640 mg* |
 | Señor Sisig tocilog burrito | ½ | ~480* | ~23 g* | ~1,100 mg* |
 | Cherries | 10 | ~46 | ~0.8 g | ~0 mg |
-| **Total** | | **~1,342** | **~56 g** | **~2,341 mg** |
+| Bibimbap | ~⅓ bowl | ~235* | ~10 g* | ~430 mg* |
+| Soy garlic chicken wings (Korean fried) | 3 | ~375* | ~24 g* | ~810 mg* |
+| Mandu | 2 | ~130* | ~5 g* | ~320 mg* |
+| Ice cream sandwich (cookie) | ½ | ~210* | ~3 g* | ~130 mg* |
+| **Total** | | **~2,292** | **~98 g** | **~4,031 mg** |
 
 *\*The pastry is a loose number. Craft-bakery savory pastries are laminated dough — a lot of butter — and a mushroom-and-cheese filling adds fat and salt on top. Range is realistically ~380–550 cal depending on size. The Souvla line is scaled off yesterday's estimate for the full salad (~780 cal / ~45 g protein / ~1,600 mg sodium). The burrito is a tocilog — tocino, garlic fried rice, and egg. The cured sweet pork and the fried rice are why the calories and sodium run high relative to the protein; a full one is estimated at ~960 cal / ~45 g protein / ~2,200 mg sodium.*
 
-**Day vs. plan:** ~1,342 cal / ~56 g protein / ~2,341 mg sodium.
+*\*The Korean dinner is family style, so every line is a portion estimate off a shared dish. Full bibimbap assumed ~700 cal / ~30 g protein / ~1,300 mg sodium, taken at a third. Soy garlic wings are double-fried and glazed — ~125 cal each, and the glaze is where the sodium comes from. The dessert is half a cookie-style ice cream sandwich, estimated off a whole one at ~420 cal; the thin wafer kind would be closer to ~80 for a half.*
 
-- **Calories** — with a sprint session planned (~30 min, ~345 cal), the computed target becomes ~2,145 (base TDEE 2,060 + ~345 burned − 260 deficit, per `data/profile.yml`), leaving **~803**. Without the workout it's ~1,800 and only ~458 left.
-- **Protein** — ~56 g of the ~145 g aim. Two meals in a row that were mostly carbs and fat. The sprint matters here: ~803 cal is enough room to actually reach the full aim, where ~458 would only have covered the ~123 g floor. ~89 g in one dinner is real but doable if it's lean — roughly 8 oz chicken breast plus a cup of Greek yogurt.
-- **Sodium** — ~2,341 mg, already **~840 over** the ~1,500 mg limit, and that's before dinner. Second day running. The burrito alone is roughly ⅔ of the day's allowance. Sprinting doesn't buy back sodium headroom the way it buys back calories.
+**Day vs. plan:** ~2,292 cal / ~98 g protein / ~4,031 mg sodium. The sprint session came in at ~270 cal burned, not the ~345 the morning estimate assumed, so the computed target is **~2,070** (base TDEE 2,060 + 270 burned − 260 deficit, per `data/profile.yml`).
+
+- **Calories** — **~222 over** target. Close enough to be noise given how much of this day is portion estimates off shared dishes. Dinner ran ~740 before dessert, which fit fine; the half ice cream sandwich is what tipped it.
+- **Protein** — ~98 g, **~25 g below the ~123 g floor** and ~47 short of the ~145 g aim. This is the real miss of the day, not the calories. Nothing in the food log was a protein anchor — the wings were the only meaningful source, and a third of a bibimbap doesn't move it. A sprint day under the floor is the combination that costs muscle on a cut.
+- **Sodium** — ~4,031 mg, **~2,531 over** the 1,500 mg limit. Third straight day over. Restaurant food three meals running is the mechanism; the wing glaze and the burrito are the two biggest single items. Nothing about the sprint offsets this — sodium shows up as blood pressure and water weight on the scale, not as fat.
 
 ```widget:calorielog
 person: Beau
-day_type: low
+day_type: training
 items:
   - { food: "Parachute Bakery mushroom & cheese savory pastry", amount: "1", calories: 450, protein: 13, sodium: 600 }
   - { food: "Strawberries", amount: "~8", calories: 40, protein: 0.8, sodium: 1 }
@@ -48,5 +81,9 @@ items:
   - { food: "Souvla chicken salad, Greek style w/ fries in it", amount: "2/5 of one (rest of yesterday's)", calories: 310, protein: 18, sodium: 640 }
   - { food: "Senor Sisig tocilog burrito", amount: "1/2", calories: 480, protein: 23, sodium: 1100 }
   - { food: "Cherries", amount: "10", calories: 46, protein: 0.8, sodium: 0 }
-note: "Breakfast plus a restaurant-leftovers lunch and cherries. ~1,342 cal / ~56 g protein / ~2,341 mg sodium. Sprint session planned (~345 cal) puts the target at ~2,145, leaving ~803 cal — enough room to reach the full 145 g protein aim with a lean dinner. Sodium already ~840 mg over the 1,500 mg limit before dinner, second day running."
+  - { food: "Bibimbap", amount: "~1/3 bowl", calories: 235, protein: 10, sodium: 430 }
+  - { food: "Soy garlic chicken wings (Korean fried)", amount: "3", calories: 375, protein: 24, sodium: 810 }
+  - { food: "Mandu", amount: "2", calories: 130, protein: 5, sodium: 320 }
+  - { food: "Ice cream sandwich (cookie)", amount: "1/2", calories: 210, protein: 3, sodium: 130 }
+note: "Korean family-style dinner closed the day at ~2,292 cal / ~98 g protein / ~4,031 mg sodium. Sprint session burned ~270 cal, so target was ~2,070 - about 222 over. Protein is the real miss: ~25 g below the 123 g floor and ~47 short of the 145 g aim, with no protein anchor all day. Sodium ~2,531 mg over the 1,500 mg limit, third straight day over."
 ```

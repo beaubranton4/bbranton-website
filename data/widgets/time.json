@@ -1,0 +1,48 @@
+[
+  {
+    "date": "2026-08-04",
+    "person": "Beau",
+    "entries": [
+      {
+        "project": "job",
+        "category": null,
+        "hours": 3,
+        "note": "Work from the JCC",
+        "deep": false
+      },
+      {
+        "project": "personal",
+        "category": "admin",
+        "hours": 0.5,
+        "note": "Documenting the to-do list",
+        "deep": false
+      },
+      {
+        "project": "personal",
+        "category": "life",
+        "hours": 0.75,
+        "note": "Swim + shower",
+        "deep": false
+      },
+      {
+        "project": "personal",
+        "category": "life",
+        "hours": 0.75,
+        "note": "Relaxing, chilling, not doing anything",
+        "deep": false
+      }
+    ],
+    "totalHours": 5,
+    "byProject": {
+      "job": 3,
+      "personal": 2
+    },
+    "byCategory": {
+      "admin": 0.5,
+      "life": 1.5
+    },
+    "deepHours": 0,
+    "note": "First tracked day. 5 h narrated, 0 deep, 0 on Dugout Edge so far - pilot setup planned for the afternoon.",
+    "sourceId": "2026-08-04-not-enough-to-just-show-up"
+  }
+]

@@ -162,7 +162,8 @@ export default function Workouts({ lifters }: Props) {
 
         <p className="text-gray-600 text-xs mt-8">
           Dumbbell weight is per dumbbell; volume = Σ(weight × reps). See also{' '}
-          <Link href="/health" className="text-cyan-400">Health</Link>.
+          <Link href="/health" className="text-cyan-400">Health</Link> and{' '}
+          <Link href="/time" className="text-cyan-400">Time</Link>.
         </p>
       </div>
     </>
