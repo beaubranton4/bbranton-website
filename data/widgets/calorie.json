@@ -1371,18 +1371,32 @@
       },
       {
         "food": "Watermelon",
-        "amount": "~3 cups",
-        "calories": 138,
-        "protein": 2.7,
-        "sodium": 6
+        "amount": "~200 cal over the day",
+        "calories": 200,
+        "protein": 4,
+        "sodium": 8
+      },
+      {
+        "food": "Tomato oyakodon (homemade)",
+        "amount": "~500 cal worth",
+        "calories": 500,
+        "protein": 56,
+        "sodium": 1250
+      },
+      {
+        "food": "White rice",
+        "amount": "~250 cal (~1.25 cups)",
+        "calories": 250,
+        "protein": 4.6,
+        "sodium": 2
       }
     ],
     "totals": {
-      "calories": 787,
-      "protein": 71.4,
-      "sodium": 1944
+      "calories": 1599,
+      "protein": 133.3,
+      "sodium": 3198
     },
-    "note": "Through lunch: ~787 cal / ~72 g protein / ~1,944 mg sodium. Run burned ~370, so target is ~2,170 (rises when the afternoon lift is logged) - about 1,383 left. Best protein bank by lunch yet; sodium already ~444 over on a home-food day, mostly salsa + carnitas.",
+    "note": "Closed at ~1,599 cal / ~133 g protein / ~3,198 mg sodium vs the ~2,490 target (run + lower-body lift, ~690 burned) - about 891 under, bigger than ideal on a squat day. Protein back above the floor thanks to the oyakodon (~56 g of chicken and egg). Sodium ~1,698 over, eighth straight day - the soy-mirin sauce is the anchor.",
     "sourceId": "2026-08-05-light-run"
   }
 ]

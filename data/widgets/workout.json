@@ -1341,5 +1341,319 @@
       }
     ],
     "sourceId": "2026-07-31-yogurt-and-berries"
+  },
+  {
+    "date": "2026-08-05",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "Squat",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 242,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 253,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 265,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 265,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 336,
+            "volume": 6080
+          },
+          {
+            "exercise": "Single-Leg RDL",
+            "equipment": "kettlebell",
+            "sets": [
+              {
+                "weight": 35,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 35,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 44,
+            "volume": 840
+          },
+          {
+            "exercise": "Bulgarian Split Squat",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 45,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 50,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 50,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 50,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 63,
+            "volume": 1160
+          },
+          {
+            "exercise": "Glute Press",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 135,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 180,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 180,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 180,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 228,
+            "volume": 3960
+          },
+          {
+            "exercise": "Calf Raise",
+            "equipment": "kettlebell",
+            "sets": [
+              {
+                "weight": 50,
+                "reps": 21,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 50,
+              "reps": 21,
+              "failure": false
+            },
+            "est1RM": 85,
+            "volume": 1050
+          },
+          {
+            "exercise": "Incline Sit-Up",
+            "equipment": "bodyweight",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 12,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 12,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          }
+        ],
+        "sessionVolume": 13090
+      },
+      {
+        "name": "Abby",
+        "lifts": [
+          {
+            "exercise": "Squat",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 132,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 143,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 154,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 154,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 195,
+            "volume": 3432
+          },
+          {
+            "exercise": "Single-Leg RDL",
+            "equipment": "kettlebell",
+            "sets": [
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 25,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 32,
+            "volume": 600
+          },
+          {
+            "exercise": "Bulgarian Split Squat",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 20,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 20,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 20,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 20,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 25,
+            "volume": 480
+          },
+          {
+            "exercise": "Glute Press",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 45,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 45,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 45,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 45,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 57,
+            "volume": 1080
+          },
+          {
+            "exercise": "Calf Raise",
+            "equipment": "kettlebell",
+            "sets": [
+              {
+                "weight": 25,
+                "reps": 21,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 25,
+              "reps": 21,
+              "failure": false
+            },
+            "est1RM": 43,
+            "volume": 525
+          },
+          {
+            "exercise": "Incline Sit-Up",
+            "equipment": "bodyweight",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 12,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 12,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          }
+        ],
+        "sessionVolume": 6117
+      }
+    ],
+    "sourceId": "2026-08-05-light-run"
   }
 ]

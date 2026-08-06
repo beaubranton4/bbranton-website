@@ -150,11 +150,17 @@
         "duration": "31 min",
         "burn": 370,
         "estimated": true
+      },
+      {
+        "activity": "Weight training (lower body)",
+        "duration": "50 min",
+        "burn": 320,
+        "estimated": true
       }
     ],
-    "totalBurn": 370,
+    "totalBurn": 690,
     "steps": null,
-    "note": "Easy run. Lower-body lift planned for the afternoon, not yet logged.",
+    "note": "Easy morning run plus a lower-body session with Abby. Lift burn estimated at ~5 METs, 170 lb, duration assumed ~50 min.",
     "sourceId": "2026-08-05-light-run"
   }
 ]
