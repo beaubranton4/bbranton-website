@@ -162,5 +162,27 @@
     "steps": null,
     "note": "Easy morning run plus a lower-body session with Abby. Lift burn estimated at ~5 METs, 170 lb, duration assumed ~50 min.",
     "sourceId": "2026-08-05-light-run"
+  },
+  {
+    "date": "2026-08-06",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Tennis",
+        "duration": "80 min",
+        "burn": 600,
+        "estimated": true
+      },
+      {
+        "activity": "Upper-body lift",
+        "duration": "50 min",
+        "burn": 250,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 850,
+    "steps": null,
+    "note": "Tennis at ~6 METs at 170 lb; lift duration and burn estimated.",
+    "sourceId": "2026-08-06-oyakodon-breakfast"
   }
 ]

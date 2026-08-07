@@ -1402,7 +1402,7 @@
   {
     "date": "2026-08-06",
     "person": "Beau",
-    "dayType": "low",
+    "dayType": "training",
     "items": [
       {
         "food": "Oyakodon with rice (leftovers)",
@@ -1410,14 +1410,84 @@
         "calories": 550,
         "protein": 47,
         "sodium": 1000
+      },
+      {
+        "food": "Plain noodles in wonton soup",
+        "amount": "~half bowl",
+        "calories": 300,
+        "protein": 9,
+        "sodium": 800
+      },
+      {
+        "food": "TJ's chicken meatballs, air fried",
+        "amount": "~300 cal worth",
+        "calories": 300,
+        "protein": 28,
+        "sodium": 1000
+      },
+      {
+        "food": "Watermelon",
+        "amount": "~100 cal worth",
+        "calories": 100,
+        "protein": 2,
+        "sodium": 0
+      },
+      {
+        "food": "Cashews",
+        "amount": "10 nuts",
+        "calories": 90,
+        "protein": 3,
+        "sodium": 50
+      },
+      {
+        "food": "Yogurt bowl (yogurt, blueberries, strawberries, honey)",
+        "amount": "1 small bowl",
+        "calories": 100,
+        "protein": 11,
+        "sodium": 40
+      },
+      {
+        "food": "Grilled turmeric catfish vermicelli (Vietnamese restaurant)",
+        "amount": "1 bowl",
+        "calories": 750,
+        "protein": 42,
+        "sodium": 1200
       }
     ],
     "totals": {
-      "calories": 550,
-      "protein": 47,
-      "sodium": 1000
+      "calories": 2190,
+      "protein": 142,
+      "sodium": 4090
     },
-    "note": "Breakfast only so far: ~550 cal / ~47 g protein / ~1,000 mg sodium. Strongest protein open of the tracking run. No activity logged yet, so target is the sedentary ~1,800 - about 1,250 left.",
+    "note": "Full day: ~2,190 cal / ~142 g protein / ~4,090 mg sodium. Protein at the 145 aim; sodium ~2.7x the 1,500 limit - highest of the run. Training day (tennis + upper-body lift) - ~460 to spare on the computed target.",
     "sourceId": "2026-08-06-oyakodon-breakfast"
+  },
+  {
+    "date": "2026-08-07",
+    "person": "Beau",
+    "dayType": "low",
+    "items": [
+      {
+        "food": "Chorizo egg quiche",
+        "amount": "half",
+        "calories": 200,
+        "protein": 10,
+        "sodium": 400
+      },
+      {
+        "food": "Oatmeal with low-fat milk, honey, blueberries",
+        "amount": "1 bowl",
+        "calories": 250,
+        "protein": 10,
+        "sodium": 80
+      }
+    ],
+    "totals": {
+      "calories": 450,
+      "protein": 20,
+      "sodium": 480
+    },
+    "note": "Breakfast: ~450 cal / ~20 g protein / ~480 mg sodium. Light protein open - needs ~125 g rest of day. Sodium pacing well after yesterday's 4,090. No activity yet - target sedentary ~1,800.",
+    "sourceId": "2026-08-07-quiche-and-oatmeal"
   }
 ]

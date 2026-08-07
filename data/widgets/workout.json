@@ -1655,5 +1655,251 @@
       }
     ],
     "sourceId": "2026-08-05-light-run"
+  },
+  {
+    "date": "2026-08-06",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "DB Bench Press",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 35,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 75,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 80,
+                "reps": 6,
+                "failure": true
+              },
+              {
+                "weight": 80,
+                "reps": 5,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 80,
+              "reps": 6,
+              "failure": true
+            },
+            "est1RM": 96,
+            "volume": 1760
+          },
+          {
+            "exercise": "Lat Pulldown",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 160,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 180,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 190,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 200,
+                "reps": 6,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 190,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 241,
+            "volume": 5440
+          },
+          {
+            "exercise": "Chest-Supported DB Reverse Fly",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 25,
+                "reps": 15,
+                "failure": false
+              },
+              {
+                "weight": 20,
+                "reps": 16,
+                "failure": false
+              },
+              {
+                "weight": 20,
+                "reps": 15,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 25,
+              "reps": 15,
+              "failure": false
+            },
+            "est1RM": 38,
+            "volume": 995
+          },
+          {
+            "exercise": "DB Lateral Raise",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 20,
+                "reps": 15,
+                "failure": false
+              },
+              {
+                "weight": 20,
+                "reps": 15,
+                "failure": false
+              },
+              {
+                "weight": 20,
+                "reps": 15,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 20,
+              "reps": 15,
+              "failure": false
+            },
+            "est1RM": 30,
+            "volume": 900
+          },
+          {
+            "exercise": "EZ-Bar Curl (+plates, bar not counted)",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 40,
+                "reps": 16,
+                "failure": false
+              },
+              {
+                "weight": 40,
+                "reps": 12,
+                "failure": true
+              },
+              {
+                "weight": 40,
+                "reps": 11,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 40,
+              "reps": 16,
+              "failure": false
+            },
+            "est1RM": 61,
+            "volume": 1560
+          },
+          {
+            "exercise": "Tricep Rope Extension",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 40,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 45,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 50,
+                "reps": 6,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 50,
+              "reps": 6,
+              "failure": true
+            },
+            "est1RM": 60,
+            "volume": 980
+          },
+          {
+            "exercise": "Rope Ab Curl (Freemotion)",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 60,
+                "reps": 15,
+                "failure": false
+              },
+              {
+                "weight": 75,
+                "reps": 15,
+                "failure": false
+              },
+              {
+                "weight": 75,
+                "reps": 15,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 75,
+              "reps": 15,
+              "failure": false
+            },
+            "est1RM": 113,
+            "volume": 3150
+          },
+          {
+            "exercise": "Reverse Crunch",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 12,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 12,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 12,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 12,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          }
+        ],
+        "sessionVolume": 14785
+      }
+    ],
+    "sourceId": "2026-08-06-oyakodon-breakfast"
   }
 ]

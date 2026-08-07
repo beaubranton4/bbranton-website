@@ -44,5 +44,81 @@
     "deepHours": 0,
     "note": "First tracked day. 5 h narrated, 0 deep, 0 on Dugout Edge so far - pilot setup planned for the afternoon.",
     "sourceId": "2026-08-04-not-enough-to-just-show-up"
+  },
+  {
+    "date": "2026-08-06",
+    "person": "Beau",
+    "entries": [
+      {
+        "project": "dugout-edge",
+        "category": "sales",
+        "hours": 3,
+        "note": "Demo walkthrough video, Lakeville email, demo prep",
+        "deep": false
+      },
+      {
+        "project": "dugout-edge",
+        "category": "product",
+        "hours": 2.5,
+        "note": "Dev work tightening things up for the demo",
+        "deep": false
+      },
+      {
+        "project": "job",
+        "category": null,
+        "hours": 9,
+        "note": "Day job, rest of week (12 h wk total incl. Tue's 3 h)",
+        "deep": false
+      },
+      {
+        "project": "personal",
+        "category": "life",
+        "hours": 3.5,
+        "note": "Workouts, rest of week (~4 h wk total incl. Tue swim)",
+        "deep": false
+      },
+      {
+        "project": "personal",
+        "category": "life",
+        "hours": 5,
+        "note": "Shopping + leisure, week to date",
+        "deep": false
+      },
+      {
+        "project": "personal",
+        "category": "life",
+        "hours": 3.5,
+        "note": "More leisure, rest of week",
+        "deep": false
+      },
+      {
+        "project": "personal",
+        "category": "life",
+        "hours": 1.5,
+        "note": "Tennis (80 min, after the 1:30 snapshot)",
+        "deep": false
+      },
+      {
+        "project": "personal",
+        "category": "life",
+        "hours": 1,
+        "note": "Upper-body lift (duration estimated)",
+        "deep": false
+      }
+    ],
+    "totalHours": 29,
+    "byProject": {
+      "dugout-edge": 5.5,
+      "job": 9,
+      "personal": 14.5
+    },
+    "byCategory": {
+      "sales": 3,
+      "product": 2.5,
+      "life": 14.5
+    },
+    "deepHours": 0,
+    "note": "Today + week-to-date catch-up through Thu 1:30pm, plus evening tennis + lift. Dugout Edge 5.5 h (3 sales / 2.5 product), 0 deep. Week totals incl. Tue: job 12, workouts ~6.75, leisure ~9.25.",
+    "sourceId": "2026-08-06-oyakodon-breakfast"
   }
 ]
