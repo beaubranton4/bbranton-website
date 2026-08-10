@@ -1,0 +1,53 @@
+# The validated baseline shop, transcribed for `--assess`.
+#
+#   node scripts/grocery-plan.mjs --assess plans/receipt-2026-08-09.yml
+#
+# Doubles as the regression test for the model: the human read of this shop
+# (see .claude/skills/grocery-planning/references/baseline-week-2026-08-09.md)
+# scored it ~9,900 cal / ~700 g protein against a ~10,200 cal envelope and called
+# it "correctly sized; the only risk was shape, not total." If the solver stops
+# agreeing with that after a data edit, the data edit is what broke.
+#
+# `share: 0.5` = a protein-anchored dinner split with Abby. Everything else is
+# Beau's alone, which is how the baseline was read.
+
+days: 5
+people: [beau]
+meals: [breakfast, lunch, dinner]
+
+items:
+  # protein anchors
+  - { item: chicken_breast,      units: 1.36 }
+  - { item: salmon,              units: 1.09, share: 0.5 }
+  - { item: shrimp,              units: 1.03, share: 0.5 }
+  - { item: sirloin_steak,       units: 1.01, share: 0.5 }
+  - { item: cottage_cheese,      units: 6 }      # 24 oz tub
+  - { item: eggs,                units: 12 }
+  - { item: greek_yogurt_nonfat, units: 4 }      # 32 oz tub
+  - { item: smoked_salmon,       units: 8 }      # 8 oz
+  - { item: silken_tofu,         units: 1 }
+  - { item: feta,                units: 6 }      # 6 oz
+  - { item: lupini_beans,        units: 1 }
+
+  # carbs — the danger column
+  - { item: sourdough,           units: 12 }     # 1 loaf
+  - { item: corn_tortillas,      units: 12 }
+  - { item: rice_snaps,          units: 1 }
+  - { item: potato,              units: 0.68 }
+
+  # produce
+  - { item: broccoli,            units: 2.85 }   # 0.57 lb
+  - { item: zucchini,            units: 1 }
+  - { item: onion,               units: 2 }      # 0.89 lb
+  - { item: spinach,             units: 5 }      # 1 bag
+  - { item: romaine,             units: 6 }      # 1 bag
+
+  # fruit
+  - { item: cherries,            units: 158 }    # 2.78 lb @ ~57 cherries/lb
+  - { item: bananas,             units: 5 }      # 1.72 lb
+  - { item: apples,              units: 3 }      # 1.74 lb
+
+  # fats / misc
+  - { item: olive_oil_spray,     units: 1 }
+  - { item: kombucha,            units: 2 }
+  - { item: vinegar,             units: 1 }

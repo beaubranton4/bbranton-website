@@ -18,6 +18,7 @@ This repo IS the second brain. A day = one journal entry in `content/posts/YYYY-
 | hours spent ("worked 8, then 2 hours on Dugout Edge", "morning on sales calls") | **Time capture** (time-tracking conventions) |
 | a reflection / event / plain narration | **Journal prose** |
 | tasks ("todo: email X, call Y") | **To Do capture** |
+| groceries ("how much should I buy for 5 days", "did I overbuy", a receipt) | **grocery-planning** skill |
 | "what did I / how's my / am I / show me…" over time | **Query** |
 | "make me a plan / what should I lift / eat next" | **Plan** |
 
@@ -101,6 +102,7 @@ If the JSON looks stale (a section was just logged), run `npm run extract:widget
 
 - **Workout plan:** read `workout.json`, apply the next-session dial per lift from the most recent session, and size the session against recovery/volume. Present as the next session's target sets.
 - **Nutrition plan:** read today's `calorie.json` total + `profile.yml` target for the day type → tell him remaining calories/protein and suggest foods that fit.
+- **Grocery plan:** follow the **grocery-planning** skill — it owns the default grocery list (`data/grocery-staples.yml`) and `scripts/grocery-plan.mjs`, which sizes a buy so eating everything purchased still lands on the cut plan. Don't hand-estimate a shopping list; run the script and interpret it.
 
 ## After capturing structured data
 

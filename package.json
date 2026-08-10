@@ -12,6 +12,7 @@
     "export:apple-notes": "osascript scripts/export_apple_notes.applescript \"$PWD/content/apple-notes\"",
     "sync:voice-data": "bash scripts/sync_voice_data.sh",
     "extract:widgets": "node scripts/extract-widgets.mjs",
+    "grocery": "node scripts/grocery-plan.mjs",
     "refresh": "bash scripts/refresh-all.sh"
   },
   "keywords": [],

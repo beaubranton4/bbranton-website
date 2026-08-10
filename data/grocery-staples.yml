@@ -1,0 +1,585 @@
+# grocery-staples.yml — the default grocery list + the unit economics behind it.
+#
+# Three jobs:
+#   1. `default_list: true` items ARE Beau's default weekly grocery list — the
+#      "just buy this" baseline when there's no specific meal plan.
+#   2. Every item carries per-unit nutrition, retail package size, and price so
+#      `scripts/grocery-plan.mjs` can answer "how much should I buy?" deterministically.
+#   3. `grazeable: true` marks the overeat risk. The grocery-planning skill's rule
+#      "grazeable carbs <= ~25% of the envelope" is enforced FROM THIS FLAG, so the
+#      cap is computed, not eyeballed.
+#
+# PROVENANCE — read before trusting a number:
+#   * `price_usd` on items marked `source: receipt` are PAID prices from the
+#     validated 2026-08-09 Whole Foods (Franklin St SF) shop — see
+#     .claude/skills/grocery-planning/references/baseline-week-2026-08-09.md
+#   * `per_unit` marked `source: logged` are Beau's OWN numbers from
+#     data/widgets/calorie.json (21 logged days), so the planner and the
+#     food-logging skill can never disagree about what an apple is.
+#   * `source: reference` = standard USDA-ish anchor, no receipt or log behind it.
+#     These are the ones to correct first.
+#
+# `unit` is the *nutrition* basis (how Beau logs it). `package` is the *purchase*
+# basis (how the store sells it). The planner converts between them — that gap is
+# where "I bought a 5 lb bag for a 1.3 lb recipe" overage comes from.
+#
+# `yield_cooked`: 1 lb raw chicken does not put 1 lb of food on the plate. The
+# planner divides by this to get raw purchase weight.
+#
+# `role` drives the solver: protein is held at the floor and NEVER scaled down to
+# hit a calorie target. carb/fat/flex are the dials it turns to close a gap.
+
+meta:
+  updated: 2026-08-09
+  store_default: "Whole Foods — Franklin St, SF"
+  currency: USD
+  baseline_shop: ".claude/skills/grocery-planning/references/baseline-week-2026-08-09.md"
+  baseline_total_usd: 189.09
+  note: >
+    Seeded from 21 days of logged eating and reconciled against the 2026-08-09
+    receipt. This is the ONE list — if a new default emerges, edit this file
+    rather than starting a second list somewhere else.
+
+# ---------------------------------------------------------------------------
+# PROTEIN — the anchors. Held at the floor; the solver scales carbs/fats around them.
+# Purchases here are self-limiting: nobody binges chicken breast.
+# ---------------------------------------------------------------------------
+staples:
+  chicken_breast:
+    name: Chicken breast, boneless skinless
+    role: protein
+    category: meat
+    default_list: true
+    unit: lb raw
+    per_unit: { calories: 544, protein_g: 102, sodium_mg: 300 }
+    source: receipt
+    yield_cooked: 0.73
+    package: { label: "sold by weight", units: 1, price_usd: 9.99, by_weight: true }
+    perishable_days: 3
+    note: "Best protein-per-dollar at the meat counter. Freeze anything not cooked by day 3."
+
+  salmon:
+    name: Atlantic salmon portion
+    role: protein
+    category: seafood
+    default_list: true
+    unit: lb raw
+    per_unit: { calories: 944, protein_g: 91, sodium_mg: 230 }
+    source: receipt
+    yield_cooked: 0.80
+    package: { label: "sold by weight", units: 1, price_usd: 18.99, by_weight: true }
+    perishable_days: 2
+    split_dinner: true
+    note: "~1 lb serves Beau + Abby once each. Beau's half ~510 cal. Matches his logged 0.9 lb fillet at 415 cal/40 g per half."
+
+  shrimp:
+    name: Black tiger shrimp 16/20
+    role: protein
+    category: seafood
+    default_list: false
+    unit: lb raw
+    per_unit: { calories: 390, protein_g: 91, sodium_mg: 1400 }
+    source: receipt
+    yield_cooked: 0.85
+    package: { label: "sold by weight", units: 1, price_usd: 19.99, by_weight: true }
+    perishable_days: 2
+    split_dinner: true
+    sodium_carrier: true
+    note: "Leanest protein per calorie in the file. But shrimp is naturally high-sodium — ~700 mg in Beau's half-pound share."
+
+  sirloin_steak:
+    name: Beef top sirloin steak
+    role: protein
+    category: meat
+    default_list: false
+    unit: lb raw
+    per_unit: { calories: 675, protein_g: 93, sodium_mg: 250 }
+    source: receipt
+    yield_cooked: 0.75
+    package: { label: "sold by weight", units: 1, price_usd: 15.99, by_weight: true }
+    perishable_days: 3
+    split_dinner: true
+
+  eggs:
+    name: Eggs, large
+    role: protein
+    category: dairy
+    default_list: true
+    unit: large egg
+    per_unit: { calories: 78, protein_g: 6.3, sodium_mg: 62 }
+    source: logged
+    package: { label: "dozen", units: 12, price_usd: 5.79 }
+    perishable_days: 28
+    note: "The default breakfast anchor. A dozen is ~860 cal / ~76 g — roughly 2.5 breakfasts."
+
+  greek_yogurt_nonfat:
+    name: 365 nonfat plain Greek yogurt
+    role: protein
+    category: dairy
+    default_list: true
+    unit: cup
+    per_unit: { calories: 132, protein_g: 23, sodium_mg: 65 }
+    source: receipt
+    package: { label: "32 oz tub", units: 4, price_usd: 5.29 }
+    perishable_days: 14
+    note: "Highest protein-per-dollar in the whole file: ~17 g protein per $1. Never cut this to save money."
+
+  cottage_cheese:
+    name: Daisy 4% cottage cheese
+    role: protein
+    category: dairy
+    default_list: true
+    unit: half cup
+    per_unit: { calories: 117, protein_g: 12.5, sodium_mg: 350 }
+    source: receipt
+    package: { label: "24 oz tub", units: 6, price_usd: 5.79 }
+    perishable_days: 10
+    sodium_carrier: true
+    note: "SODIUM WATCH — ~350 mg per half cup. Two servings is nearly half the 1,500 mg day."
+
+  smoked_salmon:
+    name: 365 smoked salmon
+    role: protein
+    category: seafood
+    default_list: false
+    unit: oz
+    per_unit: { calories: 34, protein_g: 5.3, sodium_mg: 220 }
+    source: receipt
+    package: { label: "8 oz pack", units: 8, price_usd: 14.99 }
+    perishable_days: 7
+    sodium_carrier: true
+    note: "Worst sodium-per-gram-protein in the file (~42 mg per g). Treat as a condiment, not a protein anchor."
+
+  silken_tofu:
+    name: 365 silken tofu
+    role: protein
+    category: pantry
+    default_list: false
+    unit: package
+    per_unit: { calories: 250, protein_g: 20, sodium_mg: 90 }
+    source: receipt
+    package: { label: "16 oz block", units: 1, price_usd: 2.99 }
+    perishable_days: 60
+
+  feta:
+    name: 365 feta crumbles
+    role: fat
+    category: dairy
+    default_list: false
+    unit: oz
+    per_unit: { calories: 75, protein_g: 4.5, sodium_mg: 320 }
+    source: receipt
+    package: { label: "6 oz tub", units: 6, price_usd: 5.49 }
+    perishable_days: 21
+    sodium_carrier: true
+
+  turkey_chomps:
+    name: Chomps turkey stick
+    role: protein
+    category: pantry
+    default_list: true
+    unit: stick
+    per_unit: { calories: 90, protein_g: 10, sodium_mg: 400 }
+    source: logged
+    package: { label: "10-pack", units: 10, price_usd: 24.99 }
+    perishable_days: 180
+    sodium_carrier: true
+    note: "Emergency protein. Sodium-expensive — cap at ~1/day."
+
+  edamame_shelled:
+    name: Edamame, shelled (frozen)
+    role: protein
+    category: frozen
+    default_list: true
+    unit: quarter cup
+    per_unit: { calories: 50, protein_g: 4, sodium_mg: 5 }
+    source: logged
+    package: { label: "14 oz bag", units: 11, price_usd: 3.49 }
+    perishable_days: 300
+
+  lupini_beans:
+    name: Brami chili-lime lupini beans
+    role: protein
+    category: pantry
+    default_list: false
+    unit: pack
+    per_unit: { calories: 110, protein_g: 10, sodium_mg: 480 }
+    source: receipt
+    package: { label: "pack", units: 1, price_usd: 5.99 }
+    perishable_days: 120
+    sodium_carrier: true
+    note: "Brined — high sodium for the calories."
+
+# ---------------------------------------------------------------------------
+# CARB — dial #1. The solver moves these first to close a calorie gap.
+# Anything `grazeable: true` is where "bought too much" becomes "ate too much."
+# ---------------------------------------------------------------------------
+  sourdough:
+    name: Sourdough deli slices (Firebrand)
+    role: carb
+    category: bakery
+    default_list: true
+    unit: slice
+    per_unit: { calories: 142, protein_g: 5, sodium_mg: 290 }
+    source: receipt
+    grazeable: true
+    package: { label: "1 loaf (~12 slices)", units: 12, price_usd: 7.99 }
+    perishable_days: 6
+    sodium_carrier: true
+    note: "BIGGEST SINGLE OVEREAT RISK in the baseline shop — ~1,700 cal sitting on the counter. Must last 5 days = ~2 slices/day. Slice-count is a package assumption."
+
+  corn_tortillas:
+    name: Thin corn tortillas
+    role: carb
+    category: bakery
+    default_list: true
+    unit: tortilla
+    per_unit: { calories: 42, protein_g: 1, sodium_mg: 10 }
+    source: receipt
+    grazeable: true
+    package: { label: "1 pack (~12)", units: 12, price_usd: 4.29 }
+    perishable_days: 21
+    note: "Much safer carb vehicle than the loaf — 42 cal each and portion-obvious."
+
+  rice_snaps:
+    name: Rice snaps (E&S)
+    role: carb
+    category: pantry
+    default_list: false
+    unit: box
+    per_unit: { calories: 400, protein_g: 6, sodium_mg: 300 }
+    source: receipt
+    grazeable: true
+    package: { label: "1 box", units: 1, price_usd: 4.29 }
+    perishable_days: 120
+    note: "First thing to cut when the list overshoots. Pure grazeable with no protein behind it."
+
+  white_rice:
+    name: White rice, dry
+    role: carb
+    category: pantry
+    default_list: true
+    unit: cup dry
+    per_unit: { calories: 675, protein_g: 13, sodium_mg: 5 }
+    source: reference
+    cooked_multiplier: 3.0
+    package: { label: "5 lb bag", units: 11, price_usd: 9.99 }
+    perishable_days: 700
+    note: "1 cup dry -> ~3 cups cooked. Beau logs cooked (~205 cal/cup); the planner converts. Pantry staple — usually already on hand, so exclude from a weekly buy unless out."
+
+  rolled_oats:
+    name: Rolled oats
+    role: carb
+    category: pantry
+    default_list: true
+    unit: half cup dry
+    per_unit: { calories: 150, protein_g: 5, sodium_mg: 0 }
+    source: reference
+    package: { label: "42 oz canister", units: 24, price_usd: 6.49 }
+    perishable_days: 365
+
+  potato:
+    name: Russet potato
+    role: carb
+    category: produce
+    default_list: true
+    unit: lb
+    per_unit: { calories: 345, protein_g: 9, sodium_mg: 25 }
+    source: receipt
+    package: { label: "sold by weight", units: 1, price_usd: 1.69, by_weight: true }
+    perishable_days: 30
+
+# ---------------------------------------------------------------------------
+# PRODUCE — effectively free calorically. Never the reason a list fails.
+# ---------------------------------------------------------------------------
+  spinach:
+    name: Baby spinach
+    role: produce
+    category: produce
+    default_list: true
+    unit: cup raw
+    per_unit: { calories: 7, protein_g: 0.9, sodium_mg: 24 }
+    source: logged
+    package: { label: "5 oz bag", units: 5, price_usd: 3.19 }
+    perishable_days: 6
+
+  romaine:
+    name: Romaine
+    role: produce
+    category: produce
+    default_list: true
+    unit: cup chopped
+    per_unit: { calories: 8, protein_g: 0.6, sodium_mg: 4 }
+    source: receipt
+    package: { label: "bag", units: 6, price_usd: 3.19 }
+    perishable_days: 7
+
+  broccoli:
+    name: Broccoli crowns
+    role: produce
+    category: produce
+    default_list: true
+    unit: cup florets
+    per_unit: { calories: 31, protein_g: 2.6, sodium_mg: 30 }
+    source: receipt
+    package: { label: "sold by weight (~5 cups/lb)", units: 5, price_usd: 2.98, by_weight: true }
+    perishable_days: 7
+
+  zucchini:
+    name: Zucchini
+    role: produce
+    category: produce
+    default_list: true
+    unit: medium
+    per_unit: { calories: 33, protein_g: 2.4, sodium_mg: 16 }
+    source: receipt
+    package: { label: "each (~0.35 lb)", units: 1, price_usd: 0.80 }
+    perishable_days: 8
+
+  onion:
+    name: Vidalia onion
+    role: produce
+    category: produce
+    default_list: true
+    unit: medium
+    per_unit: { calories: 60, protein_g: 1.6, sodium_mg: 6 }
+    source: receipt
+    package: { label: "each (~0.5 lb)", units: 1, price_usd: 0.75 }
+    perishable_days: 30
+
+  avocado:
+    name: Avocado
+    role: fat
+    category: produce
+    default_list: true
+    unit: medium
+    per_unit: { calories: 240, protein_g: 3, sodium_mg: 10 }
+    source: logged
+    package: { label: "each", units: 1, price_usd: 2.49 }
+    perishable_days: 5
+
+# ---------------------------------------------------------------------------
+# FRUIT — Beau's most-logged category by a wide margin. Also quietly grazeable:
+# fruit bought by the pound is the second-biggest overeat vector after bread.
+# ---------------------------------------------------------------------------
+  blueberries:
+    name: Blueberries
+    role: flex
+    category: produce
+    default_list: true
+    unit: half cup
+    per_unit: { calories: 42, protein_g: 0.5, sodium_mg: 0 }
+    source: logged
+    package: { label: "6 oz clamshell", units: 2.4, price_usd: 4.99 }
+    perishable_days: 7
+    note: "Most-logged food in the dataset (12 of 21 days). Never plan a week without it."
+
+  watermelon:
+    name: Watermelon, diced
+    role: flex
+    category: produce
+    default_list: true
+    unit: cup diced
+    per_unit: { calories: 46, protein_g: 1, sodium_mg: 2 }
+    source: logged
+    package: { label: "pre-cut 32 oz tub", units: 4, price_usd: 7.99 }
+    perishable_days: 5
+    note: "2nd most-logged (10 of 21 days). A whole melon is ~1/3 the price per cup but needs cutting."
+
+  cherries:
+    name: Cherries
+    role: flex
+    category: produce
+    default_list: true
+    unit: cherry
+    per_unit: { calories: 4.6, protein_g: 0.08, sodium_mg: 0 }
+    source: receipt
+    grazeable: true
+    package: { label: "sold by weight (~57/lb)", units: 57, price_usd: 5.99, by_weight: true }
+    perishable_days: 6
+    note: "GRAZEABLE — 2.78 lb on the baseline shop was ~730 cal of hard-to-stop-eating fruit. Cap around 1.5 lb/week. A cherry is ~8 g, so ~57 per lb; Beau's own logs put it at ~4.6 cal each."
+
+  bananas:
+    name: Bananas
+    role: flex
+    category: produce
+    default_list: true
+    unit: medium
+    per_unit: { calories: 105, protein_g: 1.5, sodium_mg: 1 }
+    source: receipt
+    package: { label: "each (~0.33 lb)", units: 1, price_usd: 0.30 }
+    perishable_days: 6
+
+  apples:
+    name: SugarBee apples
+    role: flex
+    category: produce
+    default_list: true
+    unit: medium
+    per_unit: { calories: 95, protein_g: 0.5, sodium_mg: 2 }
+    source: receipt
+    package: { label: "each (~0.33 lb)", units: 1, price_usd: 1.06, by_weight: true }
+    perishable_days: 21
+
+  strawberries:
+    name: Strawberries
+    role: flex
+    category: produce
+    default_list: false
+    unit: berry
+    per_unit: { calories: 5, protein_g: 0.1, sodium_mg: 0.1 }
+    source: logged
+    package: { label: "1 lb clamshell", units: 30, price_usd: 5.49 }
+    perishable_days: 5
+
+# ---------------------------------------------------------------------------
+# FAT — dial #2. Tiny volumes, huge calorie leverage. Trimmed last: these are
+# also the satiety levers, and cutting them is what causes 9pm snacking.
+# ---------------------------------------------------------------------------
+  peanut_butter:
+    name: Peanut butter
+    role: fat
+    category: pantry
+    default_list: true
+    unit: tbsp
+    per_unit: { calories: 95, protein_g: 4, sodium_mg: 75 }
+    source: logged
+    grazeable: true
+    package: { label: "16 oz jar", units: 32, price_usd: 5.99 }
+    perishable_days: 180
+    note: "A jar is ~3,000 cal. Spoon-grazeable — the flag is deliberate."
+
+  olive_oil:
+    name: Olive oil
+    role: fat
+    category: pantry
+    default_list: true
+    unit: tbsp
+    per_unit: { calories: 120, protein_g: 0, sodium_mg: 0 }
+    source: logged
+    package: { label: "16.9 oz bottle", units: 34, price_usd: 12.99 }
+    perishable_days: 540
+    note: "Beau already measures cooking oil in 1/4 and 1/2 tbsp. Keep that habit — it's the biggest source of invisible calories in home cooking."
+
+  olive_oil_spray:
+    name: Olive oil spray
+    role: fat
+    category: pantry
+    default_list: true
+    unit: can
+    per_unit: { calories: 200, protein_g: 0, sodium_mg: 0 }
+    source: receipt
+    package: { label: "1 can", units: 1, price_usd: 5.39 }
+    perishable_days: 540
+    note: "The cut-friendly version of olive oil: ~200 usable cal per can vs ~4,000 in a bottle. Default to spray for pan-frying."
+
+  cashews:
+    name: Cashews
+    role: fat
+    category: pantry
+    default_list: false
+    unit: nut
+    per_unit: { calories: 9, protein_g: 0.3, sodium_mg: 5 }
+    source: logged
+    grazeable: true
+    package: { label: "8 oz bag", units: 160, price_usd: 8.99 }
+    perishable_days: 120
+    note: "PORTION TRAP — logged as '10 nuts / 90 cal'. A bag is ~1,440 cal. Portion into snack bags on shopping day or it will not survive the week."
+
+# ---------------------------------------------------------------------------
+# CONDIMENT / DRINK — near-zero calories, non-zero sodium.
+# ---------------------------------------------------------------------------
+  salsa:
+    name: Salsa
+    role: flex
+    category: pantry
+    default_list: true
+    unit: tbsp
+    per_unit: { calories: 5, protein_g: 0.2, sodium_mg: 95 }
+    source: logged
+    package: { label: "16 oz jar", units: 32, price_usd: 4.49 }
+    perishable_days: 21
+    sodium_carrier: true
+    note: "Free flavor calorically, expensive on sodium — 4 tbsp is ~380 mg."
+
+  hummus:
+    name: Hummus
+    role: fat
+    category: pantry
+    default_list: false
+    unit: tbsp
+    per_unit: { calories: 40, protein_g: 1.2, sodium_mg: 65 }
+    source: logged
+    package: { label: "10 oz tub", units: 20, price_usd: 4.99 }
+    perishable_days: 10
+
+  kombucha:
+    name: Kombucha (GT's)
+    role: flex
+    category: drink
+    default_list: false
+    unit: bottle
+    per_unit: { calories: 50, protein_g: 0, sodium_mg: 20 }
+    source: receipt
+    package: { label: "bottle", units: 1, price_usd: 3.84 }
+    perishable_days: 30
+
+  vinegar:
+    name: White vinegar
+    role: flex
+    category: pantry
+    default_list: false
+    unit: bottle
+    per_unit: { calories: 0, protein_g: 0, sodium_mg: 0 }
+    source: receipt
+    package: { label: "bottle", units: 1, price_usd: 6.99 }
+    perishable_days: 900
+
+# ---------------------------------------------------------------------------
+# DEFAULT BASKET — "just buy this."
+#
+# Quantities are in each item's `unit`, sized for BEAU ALONE for one 5-weekday
+# week, back-derived from his share of the validated 2026-08-09 shop. This is the
+# answer to "what's my default grocery list?" with numbers attached.
+#
+# The planner scales this: Abby is added by her own envelope ratio, a 3-day week
+# scales by 3/5, and `--default` trims the carb/fat/flex dials until the basket
+# fits the calorie envelope. Protein quantities are the floor and never scale down.
+#
+# `pantry: true` = usually already on hand; excluded from a weekly buy unless
+# `--restock` is passed. These are the bulk items whose package size would
+# otherwise blow up the basket (a 5 lb rice bag is 7,400 cal).
+# ---------------------------------------------------------------------------
+default_basket:
+  # protein anchors — held
+  chicken_breast:      { qty: 1.36 }
+  salmon:              { qty: 0.55 }
+  eggs:                { qty: 12 }
+  greek_yogurt_nonfat: { qty: 4 }
+  cottage_cheese:      { qty: 6 }
+  edamame_shelled:     { qty: 4 }
+  turkey_chomps:       { qty: 5, pantry: true }   # 10-pack lasts ~2 weeks
+  # carbs — dial #1
+  sourdough:           { qty: 12 }
+  corn_tortillas:      { qty: 12 }
+  potato:              { qty: 0.68 }
+  rolled_oats:         { qty: 5, pantry: true }   # 42 oz canister lasts ~5 weeks
+  white_rice:          { qty: 2, pantry: true }
+  # produce — effectively free, never trimmed
+  spinach:             { qty: 5 }
+  romaine:             { qty: 6 }
+  broccoli:            { qty: 3 }
+  zucchini:            { qty: 1 }
+  onion:               { qty: 2 }
+  # fruit — dial #3
+  blueberries:         { qty: 5 }
+  watermelon:          { qty: 4 }
+  cherries:            { qty: 57 }               # ~1 lb
+  bananas:             { qty: 5 }
+  apples:              { qty: 3 }
+  # fats — dial #2, trimmed last
+  avocado:             { qty: 2 }
+  peanut_butter:       { qty: 6, pantry: true }   # 16 oz jar lasts ~5 weeks
+  olive_oil_spray:     { qty: 1, pantry: true }
+  olive_oil:           { qty: 3, pantry: true }
+  salsa:               { qty: 8, pantry: true }   # 16 oz jar lasts ~4 weeks

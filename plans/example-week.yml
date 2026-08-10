@@ -1,0 +1,82 @@
+# Example recipe-driven week — the shape to copy when Beau says
+# "here are the recipes, how much should I buy?"
+#
+#   node scripts/grocery-plan.mjs --plan plans/example-week.yml
+#
+# `units` are in each staple's own `unit` (see data/grocery-staples.yml) and are
+# PLATE amounts — what ends up in the bowl. The planner converts proteins back to
+# raw purchase weight using `yield_cooked`, so "0.35 lb of cooked chicken" becomes
+# ~0.48 lb at the meat counter. Don't pre-compensate; it will double-count.
+#
+# `days` on a recipe overrides the window (a dinner cooked twice a week, not five
+# times). `people` limits a recipe to one person — leave it off for shared meals.
+
+days: 5
+people: [beau]
+meals: [breakfast, lunch, dinner]
+day_mix: { training: 2, steps_10k: 1, low: 2 }
+
+recipes:
+  - name: Yogurt bowl with berries and PB
+    meal: breakfast
+    days: 3
+    ingredients:
+      - { item: greek_yogurt_nonfat, units: 1 }    # 1 cup
+      - { item: blueberries,         units: 1 }    # 1/2 cup
+      - { item: peanut_butter,       units: 1 }    # 1 tbsp
+      - { item: bananas,             units: 0.5 }
+
+  - name: Eggs, potatoes and spinach
+    meal: breakfast
+    days: 2
+    ingredients:
+      - { item: eggs,        units: 3 }
+      - { item: potato,      units: 0.25 }         # lb
+      - { item: spinach,     units: 2 }            # cups raw
+      - { item: olive_oil_spray, units: 0.1 }
+
+  - name: Chicken rice bowl
+    meal: lunch
+    days: 5
+    ingredients:
+      - { item: chicken_breast, units: 0.35 }      # lb COOKED — planner grosses up
+      - { item: white_rice,     units: 0.33 }      # cup dry -> ~1 cup cooked
+      - { item: broccoli,       units: 1.5 }
+      - { item: salsa,          units: 3 }
+      - { item: avocado,        units: 0.33 }
+
+  - name: Salmon, greens and edamame
+    meal: dinner
+    days: 2
+    ingredients:
+      - { item: salmon,          units: 0.4 }      # lb cooked
+      - { item: romaine,         units: 2 }
+      - { item: edamame_shelled, units: 2 }
+      - { item: olive_oil,       units: 0.5 }
+
+  - name: Steak with zucchini and onion
+    meal: dinner
+    days: 1
+    ingredients:
+      - { item: sirloin_steak, units: 0.4 }
+      - { item: zucchini,      units: 1 }
+      - { item: onion,         units: 0.5 }
+      - { item: olive_oil,     units: 0.5 }
+
+  - name: Chicken tacos
+    meal: dinner
+    days: 2
+    ingredients:
+      - { item: chicken_breast, units: 0.3 }
+      - { item: corn_tortillas, units: 3 }
+      - { item: salsa,          units: 3 }
+      - { item: romaine,        units: 1 }
+      - { item: avocado,        units: 0.33 }
+
+  - name: Fruit and a Chomps stick between meals
+    meal: lunch
+    days: 5
+    ingredients:
+      - { item: apples,        units: 1 }
+      - { item: turkey_chomps, units: 1 }
+      - { item: watermelon,    units: 1 }
