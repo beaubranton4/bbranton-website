@@ -66,5 +66,57 @@
     },
     "note": null,
     "sourceId": "2026-08-04-not-enough-to-just-show-up"
+  },
+  {
+    "date": "2026-08-09",
+    "person": "Beau",
+    "items": [
+      {
+        "text": "Laundry",
+        "done": false
+      },
+      {
+        "text": "Groceries + return stuff to Whole Foods",
+        "done": false
+      },
+      {
+        "text": "Go on a run",
+        "done": true
+      },
+      {
+        "text": "Work on Dugout Edge",
+        "done": false
+      },
+      {
+        "text": "Weekly planning",
+        "done": false
+      },
+      {
+        "text": "Read a book",
+        "done": false
+      },
+      {
+        "text": "Plan vacation for this year",
+        "done": false
+      },
+      {
+        "text": "Publish gameday tool",
+        "done": false
+      },
+      {
+        "text": "Set up the Lakeville pilot for the 17 board members (carried from 8/4)",
+        "done": false
+      },
+      {
+        "text": "Schedule a doctor's appointment (carried from 8/1)",
+        "done": false
+      }
+    ],
+    "counts": {
+      "open": 9,
+      "done": 1
+    },
+    "note": null,
+    "sourceId": "2026-08-09-sunday-reset"
   }
 ]

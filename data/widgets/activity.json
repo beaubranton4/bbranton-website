@@ -184,5 +184,81 @@
     "steps": null,
     "note": "Tennis at ~6 METs at 170 lb; lift duration and burn estimated.",
     "sourceId": "2026-08-06-oyakodon-breakfast"
+  },
+  {
+    "date": "2026-08-07",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Run - 4 mi",
+        "duration": "35 min",
+        "burn": 480,
+        "estimated": true
+      },
+      {
+        "activity": "Walk - 1.5 mi",
+        "duration": "30 min",
+        "burn": 140,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 620,
+    "steps": null,
+    "note": "Same run+walk combo as 7/28, ~620 cal total. Durations estimated.",
+    "sourceId": "2026-08-07-quiche-and-oatmeal"
+  },
+  {
+    "date": "2026-08-08",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Upper-body lift",
+        "duration": "45 min",
+        "burn": 250,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 250,
+    "steps": null,
+    "note": "Duration and burn estimated.",
+    "sourceId": "2026-08-08-bialy-and-db-flies"
+  },
+  {
+    "date": "2026-08-09",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Run - 5 mi @ ~8:00/mi",
+        "duration": "40 min",
+        "burn": 600,
+        "estimated": true
+      },
+      {
+        "activity": "Walk - 1 mi",
+        "duration": "18 min",
+        "burn": 90,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 690,
+    "steps": null,
+    "note": "Strong run - 5 mi at 8-minute pace is the longest and fastest of the tracking run. ~690 cal total.",
+    "sourceId": "2026-08-09-sunday-reset"
+  },
+  {
+    "date": "2026-08-10",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "HIIT dumbbell circuit (3 sets x 3 moves x 3 rounds)",
+        "duration": "30 min",
+        "burn": 300,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 300,
+    "steps": null,
+    "note": "40s on / 20s off, 3 rounds per set. Burn at ~8 METs; duration derived from the interval structure.",
+    "sourceId": "2026-08-10-motivation-and-hard-things"
   }
 ]

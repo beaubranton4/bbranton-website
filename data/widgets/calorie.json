@@ -123,7 +123,10 @@
       "sodium": null
     },
     "note": "Clean, high-protein reset day.",
-    "sourceId": "2026-07-20-everything-in-moderation"
+    "sourceId": "2026-07-20-everything-in-moderation",
+    "targetCalories": 2100,
+    "targetSource": "day_type",
+    "deficit": -14
   },
   {
     "date": "2026-07-21",
@@ -249,7 +252,10 @@
       "sodium": null
     },
     "note": "Training day. 5 miles @ 8:45/mi, 15,000 steps.",
-    "sourceId": "2026-07-21-show-up-every-day"
+    "sourceId": "2026-07-21-show-up-every-day",
+    "targetCalories": 2400,
+    "targetSource": "day_type",
+    "deficit": 46
   },
   {
     "date": "2026-07-22",
@@ -375,7 +381,10 @@
       "sodium": null
     },
     "note": "Training day (full body lift). Protein aim cleared.",
-    "sourceId": "2026-07-22-digital-embodiment"
+    "sourceId": "2026-07-22-digital-embodiment",
+    "targetCalories": 2400,
+    "targetSource": "day_type",
+    "deficit": -291
   },
   {
     "date": "2026-07-23",
@@ -473,7 +482,10 @@
       "sodium": null
     },
     "note": "Not a heavy training day — target = baseline (low, 1800) + 250 = 2050 cal, protein aim unchanged at 145g.",
-    "sourceId": "2026-07-23-fork-in-the-road"
+    "sourceId": "2026-07-23-fork-in-the-road",
+    "targetCalories": 2400,
+    "targetSource": "day_type",
+    "deficit": -342
   },
   {
     "date": "2026-07-24",
@@ -550,7 +562,10 @@
       "sodium": null
     },
     "note": "Training day (HIIT). Closed ~514 cal under target and ~39 g short on protein.",
-    "sourceId": "2026-07-24-scrambled-eggs-spinach"
+    "sourceId": "2026-07-24-scrambled-eggs-spinach",
+    "targetCalories": 2400,
+    "targetSource": "day_type",
+    "deficit": -514
   },
   {
     "date": "2026-07-25",
@@ -606,7 +621,10 @@
       "sodium": null
     },
     "note": "Training day (6 mi run @ 8:55 + 1 mi walk). ~615 cal over, ~62 g protein short — 7 beers carried the overage.",
-    "sourceId": "2026-07-25-the-odyssey-and-sunny-days"
+    "sourceId": "2026-07-25-the-odyssey-and-sunny-days",
+    "targetCalories": 2400,
+    "targetSource": "day_type",
+    "deficit": 615
   },
   {
     "date": "2026-07-26",
@@ -634,7 +652,10 @@
       "sodium": null
     },
     "note": "Training day (tennis with Jess and Nick). Two meals only - ~600 cal under target and ~40 g short on protein, third straight day under the floor.",
-    "sourceId": "2026-07-26-union-square-and-a-horrible-circus"
+    "sourceId": "2026-07-26-union-square-and-a-horrible-circus",
+    "targetCalories": 2400,
+    "targetSource": "day_type",
+    "deficit": -600
   },
   {
     "date": "2026-07-27",
@@ -711,7 +732,10 @@
       "sodium": null
     },
     "note": "Training day (lifting). ~330 cal under target, protein dead-on at ~144 g - first day back above the floor after four under.",
-    "sourceId": "2026-07-27-first-customer-call"
+    "sourceId": "2026-07-27-first-customer-call",
+    "targetCalories": 2400,
+    "targetSource": "day_type",
+    "deficit": -331
   },
   {
     "date": "2026-07-28",
@@ -781,7 +805,10 @@
       "sodium": null
     },
     "note": "Training day (4 mi run + 1.5 mi walk, ~620 cal burned). ~2,324 cal / ~161 g protein - right on the calorie target, protein well past the aim.",
-    "sourceId": "2026-07-28-lakeville-and-the-shopping-grind"
+    "sourceId": "2026-07-28-lakeville-and-the-shopping-grind",
+    "targetCalories": 2420,
+    "targetSource": "computed",
+    "deficit": -96
   },
   {
     "date": "2026-07-29",
@@ -886,7 +913,10 @@
       "sodium": 4193
     },
     "note": "Full day closed out with Souvla. ~2,174 cal / ~136 g protein / ~4,193 mg sodium. Computed target ~2,035 so ~139 over, essentially a maintenance day; protein cleared the 123 g floor and sat ~9 g under the 145 g aim; sodium ~2.8x the 1,500 mg limit, split across the marinated chicken, buffalo sauce, and the Souvla meal.",
-    "sourceId": "2026-07-29-scattered-mind-and-the-elevator-pitch"
+    "sourceId": "2026-07-29-scattered-mind-and-the-elevator-pitch",
+    "targetCalories": 2035,
+    "targetSource": "computed",
+    "deficit": 139
   },
   {
     "date": "2026-07-30",
@@ -970,7 +1000,10 @@
       "sodium": 4031
     },
     "note": "Korean family-style dinner closed the day at ~2,292 cal / ~98 g protein / ~4,031 mg sodium. Sprint session burned ~270 cal, so target was ~2,070 - about 222 over. Protein is the real miss: ~25 g below the 123 g floor and ~47 short of the 145 g aim, with no protein anchor all day. Sodium ~2,531 mg over the 1,500 mg limit, third straight day over.",
-    "sourceId": "2026-07-30-the-lakeville-call"
+    "sourceId": "2026-07-30-the-lakeville-call",
+    "targetCalories": 2070,
+    "targetSource": "computed",
+    "deficit": 222
   },
   {
     "date": "2026-07-31",
@@ -1040,7 +1073,10 @@
       "sodium": 4966
     },
     "note": "Closed at ~2,472 cal / ~147 g protein / ~4,966 mg sodium against a ~2,100 target (lifting burned ~300). About 372 over on calories - roughly the bingsu. Protein landed right on the 145 g aim, first day back on target. Sodium ~3,466 mg over the 1,500 limit and the worst day of the stretch; the ramen bowl alone is about two days' allowance.",
-    "sourceId": "2026-07-31-yogurt-and-berries"
+    "sourceId": "2026-07-31-yogurt-and-berries",
+    "targetCalories": 2100,
+    "targetSource": "computed",
+    "deficit": 372
   },
   {
     "date": "2026-08-01",
@@ -1110,7 +1146,10 @@
       "sodium": 2987
     },
     "note": "Backfilled 2026-08-05. ~2,140 cal / ~110 g protein / ~2,987 mg sodium vs a ~2,760 computed target (6-mi run + 18K steps, ~960 burned) - about 620 under. Protein ~13 g shy of the floor; sodium ~1,487 over on two restaurant meals.",
-    "sourceId": "2026-08-01-families-everything"
+    "sourceId": "2026-08-01-families-everything",
+    "targetCalories": 2760,
+    "targetSource": "computed",
+    "deficit": -620
   },
   {
     "date": "2026-08-02",
@@ -1145,7 +1184,10 @@
       "sodium": 3800
     },
     "note": "Point Reyes day. ~1,750 cal / ~85 g protein / ~3,800 mg sodium vs a ~2,340 computed target (18K steps, ~540 burned) - about 590 under on calories, but protein ~38 g below the floor and sodium ~2,300 over on three restaurant meals.",
-    "sourceId": "2026-08-02-point-reyes-and-the-lighthouse"
+    "sourceId": "2026-08-02-point-reyes-and-the-lighthouse",
+    "targetCalories": 2340,
+    "targetSource": "computed",
+    "deficit": -590
   },
   {
     "date": "2026-08-03",
@@ -1236,7 +1278,10 @@
       "sodium": 3766
     },
     "note": "Closed at ~1,939 cal / ~137 g protein / ~3,766 mg sodium vs the sedentary ~1,800 target - about 139 over. Lily dinner logged as a family-style split of Beau's ~1,200 meal total. Protein above the floor and ~8 g short of the aim, best day since 7/31 - ~75 g banked by lunch is the repeatable pattern. Sodium ~2,266 over, sixth straight day.",
-    "sourceId": "2026-08-03-shopping-brain"
+    "sourceId": "2026-08-03-shopping-brain",
+    "targetCalories": 1800,
+    "targetSource": "day_type",
+    "deficit": 139
   },
   {
     "date": "2026-08-04",
@@ -1306,7 +1351,10 @@
       "sodium": 3229
     },
     "note": "Closed at ~1,871 cal / ~104 g protein / ~3,229 mg sodium vs the ~2,100 computed target (swim, ~300 burned) - about 229 under. Protein ~19 g below the floor; the cheesesteak dinner was bread-and-cheese-led. Sodium ~1,729 over, seventh straight day - was under pace until the cheesesteak (~1,600 mg alone).",
-    "sourceId": "2026-08-04-not-enough-to-just-show-up"
+    "sourceId": "2026-08-04-not-enough-to-just-show-up",
+    "targetCalories": 2100,
+    "targetSource": "computed",
+    "deficit": -229
   },
   {
     "date": "2026-08-05",
@@ -1397,7 +1445,10 @@
       "sodium": 3198
     },
     "note": "Closed at ~1,599 cal / ~133 g protein / ~3,198 mg sodium vs the ~2,490 target (run + lower-body lift, ~690 burned) - about 891 under, bigger than ideal on a squat day. Protein back above the floor thanks to the oyakodon (~56 g of chicken and egg). Sodium ~1,698 over, eighth straight day - the soy-mirin sauce is the anchor.",
-    "sourceId": "2026-08-05-light-run"
+    "sourceId": "2026-08-05-light-run",
+    "targetCalories": 2490,
+    "targetSource": "computed",
+    "deficit": -891
   },
   {
     "date": "2026-08-06",
@@ -1460,7 +1511,10 @@
       "sodium": 4090
     },
     "note": "Full day: ~2,190 cal / ~142 g protein / ~4,090 mg sodium. Protein at the 145 aim; sodium ~2.7x the 1,500 limit - highest of the run. Training day (tennis + upper-body lift) - ~460 to spare on the computed target.",
-    "sourceId": "2026-08-06-oyakodon-breakfast"
+    "sourceId": "2026-08-06-oyakodon-breakfast",
+    "targetCalories": 2650,
+    "targetSource": "computed",
+    "deficit": -460
   },
   {
     "date": "2026-08-07",
@@ -1480,14 +1534,313 @@
         "calories": 250,
         "protein": 10,
         "sodium": 80
+      },
+      {
+        "food": "Chicken pho (~6 oz chicken)",
+        "amount": "1 bowl",
+        "calories": 550,
+        "protein": 50,
+        "sodium": 1500
+      },
+      {
+        "food": "TJ's chicken meatballs",
+        "amount": "~300 cal worth",
+        "calories": 300,
+        "protein": 28,
+        "sodium": 1000
+      },
+      {
+        "food": "Sushi rolls (split 2 with Abby)",
+        "amount": "~1 roll / 8 pc",
+        "calories": 320,
+        "protein": 10,
+        "sodium": 600
+      },
+      {
+        "food": "Salmon nigiri",
+        "amount": "2 pc",
+        "calories": 140,
+        "protein": 9,
+        "sodium": 200
+      },
+      {
+        "food": "Beer",
+        "amount": "6",
+        "calories": 900,
+        "protein": 8,
+        "sodium": 80
       }
     ],
     "totals": {
-      "calories": 450,
-      "protein": 20,
-      "sodium": 480
+      "calories": 2660,
+      "protein": 125,
+      "sodium": 3860
     },
-    "note": "Breakfast: ~450 cal / ~20 g protein / ~480 mg sodium. Light protein open - needs ~125 g rest of day. Sodium pacing well after yesterday's 4,090. No activity yet - target sedentary ~1,800.",
-    "sourceId": "2026-08-07-quiche-and-oatmeal"
+    "note": "Full day: ~2,660 cal / ~125 g protein / ~3,860 mg sodium. Run + walk (~620 burn) puts the computed target at ~2,420 - only ~240 over despite the 6 beers. Protein above floor; sodium ~2.6x limit (pho broth + meatballs + soy).",
+    "sourceId": "2026-08-07-quiche-and-oatmeal",
+    "targetCalories": 2420,
+    "targetSource": "computed",
+    "deficit": 240
+  },
+  {
+    "date": "2026-08-08",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Ham and cheese croissant",
+        "amount": "1",
+        "calories": 450,
+        "protein": 18,
+        "sodium": 800
+      },
+      {
+        "food": "Oyakodon (leftovers)",
+        "amount": "~250 cal worth",
+        "calories": 250,
+        "protein": 21,
+        "sodium": 450
+      },
+      {
+        "food": "Onion bialy with scallion cream cheese",
+        "amount": "1",
+        "calories": 320,
+        "protein": 8,
+        "sodium": 450
+      },
+      {
+        "food": "Chips",
+        "amount": "~100 cal worth",
+        "calories": 100,
+        "protein": 1,
+        "sodium": 100
+      },
+      {
+        "food": "Katsu-don (pork + shrimp katsu, oyakodon-style)",
+        "amount": "~700 cal worth",
+        "calories": 700,
+        "protein": 30,
+        "sodium": 1100
+      },
+      {
+        "food": "Popcorn, candy, kakimochi",
+        "amount": "~400 cal worth",
+        "calories": 400,
+        "protein": 4,
+        "sodium": 400
+      }
+    ],
+    "totals": {
+      "calories": 2220,
+      "protein": 82,
+      "sodium": 3300
+    },
+    "note": "Full day: ~2,220 cal / ~82 g protein / ~3,300 mg sodium vs computed target ~2,050 - about 170 over. Protein well under the floor; sodium ~2.2x limit. Mild surplus day.",
+    "sourceId": "2026-08-08-bialy-and-db-flies",
+    "targetCalories": 2050,
+    "targetSource": "computed",
+    "deficit": 170
+  },
+  {
+    "date": "2026-08-09",
+    "person": "Beau",
+    "dayType": "steps_10k",
+    "items": [
+      {
+        "food": "French toast with syrup (Buena Vista)",
+        "amount": "1 slice, halved",
+        "calories": 330,
+        "protein": 7,
+        "sodium": 300
+      },
+      {
+        "food": "Eggs",
+        "amount": "2",
+        "calories": 180,
+        "protein": 12,
+        "sodium": 180
+      },
+      {
+        "food": "Bacon",
+        "amount": "2 pieces",
+        "calories": 90,
+        "protein": 6,
+        "sodium": 370
+      },
+      {
+        "food": "Breakfast potatoes",
+        "amount": "standard portion",
+        "calories": 230,
+        "protein": 4,
+        "sodium": 400
+      },
+      {
+        "food": "Ketchup",
+        "amount": "~1.5 tsp",
+        "calories": 10,
+        "protein": 0,
+        "sodium": 80
+      },
+      {
+        "food": "Irish coffee",
+        "amount": "1",
+        "calories": 200,
+        "protein": 0,
+        "sodium": 10
+      },
+      {
+        "food": "Ramos Gin Fizz (best guess)",
+        "amount": "half",
+        "calories": 130,
+        "protein": 1,
+        "sodium": 10
+      },
+      {
+        "food": "Onion bialy with scallion cream cheese",
+        "amount": "1",
+        "calories": 320,
+        "protein": 8,
+        "sodium": 450
+      },
+      {
+        "food": "Ox and Tiger omakase dinner (multi-course)",
+        "amount": "1 tasting",
+        "calories": 900,
+        "protein": 50,
+        "sodium": 1250
+      }
+    ],
+    "totals": {
+      "calories": 2390,
+      "protein": 88,
+      "sodium": 3050
+    },
+    "note": "Full day: ~2,390 cal / ~88 g protein / ~3,050 mg sodium vs computed target ~2,490 - about 100 under. The run fully paid for the day. Protein well short of the floor; sodium ~2x limit.",
+    "sourceId": "2026-08-09-sunday-reset",
+    "targetCalories": 2490,
+    "targetSource": "computed",
+    "deficit": -100
+  },
+  {
+    "date": "2026-08-10",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Greek yogurt (nonfat, plain)",
+        "amount": "~1 cup",
+        "calories": 130,
+        "protein": 23,
+        "sodium": 80
+      },
+      {
+        "food": "Honey",
+        "amount": "~1.5 tsp",
+        "calories": 30,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Sourdough slice",
+        "amount": "1",
+        "calories": 80,
+        "protein": 3,
+        "sodium": 180
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "1 tbsp",
+        "calories": 95,
+        "protein": 4,
+        "sodium": 70
+      },
+      {
+        "food": "Chicken breast (measured)",
+        "amount": "0.7 lb raw",
+        "calories": 380,
+        "protein": 71,
+        "sodium": 205
+      },
+      {
+        "food": "Frank's RedHot",
+        "amount": "3 tbsp",
+        "calories": 2,
+        "protein": 0,
+        "sodium": 1710
+      },
+      {
+        "food": "Cottage cheese, 2%",
+        "amount": "1/2 cup",
+        "calories": 100,
+        "protein": 13,
+        "sodium": 350
+      },
+      {
+        "food": "Corn tortillas",
+        "amount": "4",
+        "calories": 140,
+        "protein": 4,
+        "sodium": 50
+      },
+      {
+        "food": "Garlic powder, water",
+        "amount": "-",
+        "calories": 5,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Synergy kombucha",
+        "amount": "1",
+        "calories": 50,
+        "protein": 0,
+        "sodium": 10
+      },
+      {
+        "food": "Cashews",
+        "amount": "4",
+        "calories": 35,
+        "protein": 1,
+        "sodium": 10
+      },
+      {
+        "food": "Parmesan cube",
+        "amount": "~1/2 oz",
+        "calories": 55,
+        "protein": 5,
+        "sodium": 225
+      },
+      {
+        "food": "Cherries",
+        "amount": "18",
+        "calories": 90,
+        "protein": 1,
+        "sodium": 0
+      },
+      {
+        "food": "Salmon (8 oz Atlantic) w/ sweet chili-sriracha yogurt sauce",
+        "amount": "half recipe",
+        "calories": 610,
+        "protein": 48,
+        "sodium": 780
+      },
+      {
+        "food": "Cherries (evening)",
+        "amount": "10",
+        "calories": 50,
+        "protein": 1,
+        "sodium": 0
+      }
+    ],
+    "totals": {
+      "calories": 1852,
+      "protein": 174,
+      "sodium": 3670
+    },
+    "note": "Full day: ~1,852 cal / ~174 g protein (record) / ~3,670 mg sodium vs computed target ~2,100 - about 250 under. Best calorie+protein day of the run; sodium still ~2.4x limit, mostly the Frank's.",
+    "sourceId": "2026-08-10-motivation-and-hard-things",
+    "targetCalories": 2100,
+    "targetSource": "computed",
+    "deficit": -248
   }
 ]

@@ -20,6 +20,7 @@ This repo IS the second brain. A day = one journal entry in `content/posts/YYYY-
 | tasks ("todo: email X, call Y") | **To Do capture** |
 | "what did I / how's my / am I / show me…" over time | **Query** |
 | "make me a plan / what should I lift / eat next" | **Plan** |
+| grocery sizing ("how much should I buy?", "did I buy too much?", a receipt to assess) | **grocery-planning skill** |
 
 Always: read today's entry first; only touch the relevant section; never rewrite his prose. If today has no entry, create one (`# Month DD, YYYY` title) or ask if he's clearly mid-thought elsewhere.
 

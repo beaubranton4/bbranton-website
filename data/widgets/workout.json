@@ -1901,5 +1901,157 @@
       }
     ],
     "sourceId": "2026-08-06-oyakodon-breakfast"
+  },
+  {
+    "date": "2026-08-08",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "DB Fly",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 35,
+                "reps": 12,
+                "failure": false
+              },
+              {
+                "weight": 45,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 60,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 60,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 76,
+            "volume": 1260
+          },
+          {
+            "exercise": "Chest-Supported Row",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 45,
+                "reps": 12,
+                "failure": false
+              },
+              {
+                "weight": 60,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 60,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 60,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 76,
+            "volume": 1500
+          },
+          {
+            "exercise": "Shoulder Press",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 50,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 55,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 55,
+                "reps": 6,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 55,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 70,
+            "volume": 1270
+          },
+          {
+            "exercise": "Single-Arm DB Curl",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 35,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 35,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 44,
+            "volume": 840
+          },
+          {
+            "exercise": "Single-Arm Cable Tricep Extension",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 20,
+                "reps": 12,
+                "failure": false
+              },
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 25,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 32,
+            "volume": 640
+          }
+        ],
+        "sessionVolume": 5510
+      }
+    ],
+    "sourceId": "2026-08-08-bialy-and-db-flies"
   }
 ]

@@ -24,6 +24,7 @@ import yaml from 'js-yaml';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const POSTS_DIR = path.join(ROOT, 'content/posts');
 const OUT_DIR = path.join(ROOT, 'data/widgets');
+const PROFILE_PATH = path.join(ROOT, 'data/profile.yml');
 
 const DATE_RE = /^(\d{4}-\d{2}-\d{2})-/;
 const WIDGET_RE = /```widget:([a-z]+)\n([\s\S]*?)```/g;
@@ -168,6 +169,42 @@ function buildTodoEntry(date, data, sourceId) {
   };
 }
 
+// Attach the day's calorie target and deficit to each calorie entry.
+// Target resolution mirrors data/profile.yml: preferred is the computed form
+// (base_tdee + the day's logged activity burn - clean_day_deficit); when no burn
+// is logged for that date+person, fall back to the coarse day_type bucket.
+// `deficit` = consumed - target: NEGATIVE = deficit (under target, losing weight),
+// positive = surplus. Sign convention per Beau, 2026-08-08.
+function attachCalorieTargets(calorie, activity) {
+  let profile;
+  try {
+    profile = yaml.load(fs.readFileSync(PROFILE_PATH, 'utf8'));
+  } catch (err) {
+    console.warn(`  ! could not read ${PROFILE_PATH} — skipping targets/deficits (${err.message})`);
+    return;
+  }
+  const people = profile?.people || {};
+  for (const day of calorie) {
+    const p = people[(day.person || '').toLowerCase()];
+    if (!p) continue;
+    const burn = activity
+      .filter((a) => a.date === day.date && a.person === day.person)
+      .reduce((acc, a) => acc + (a.totalBurn || 0), 0);
+    let target = null;
+    let targetSource = null;
+    if (burn > 0 && p.energy?.base_tdee != null && p.clean_day_deficit != null) {
+      target = p.energy.base_tdee + burn - p.clean_day_deficit;
+      targetSource = 'computed';
+    } else if (p.calorie_targets) {
+      target = p.calorie_targets[day.dayType || 'low'] ?? null;
+      if (target != null) targetSource = 'day_type';
+    }
+    day.targetCalories = target != null ? round(target) : null;
+    day.targetSource = targetSource;
+    day.deficit = target != null ? round(day.totals.calories - target) : null;
+  }
+}
+
 function buildWorkoutEntry(date, data, sourceId) {
   const lifters = (data.lifters || []).map((lifter) => {
     const lifts = (lifter.lifts || []).map((lift) => {
@@ -228,6 +265,8 @@ function main() {
       else console.warn(`  ? unknown widget type "${type}" in ${file}`);
     }
   }
+
+  attachCalorieTargets(calorie, activity);
 
   calorie.sort((a, b) => a.date.localeCompare(b.date));
   workout.sort((a, b) => a.date.localeCompare(b.date));
