@@ -118,5 +118,29 @@
     },
     "note": null,
     "sourceId": "2026-08-09-sunday-reset"
+  },
+  {
+    "date": "2026-08-10",
+    "person": "Beau",
+    "items": [
+      {
+        "text": "Drop off sunglasses - 1849 Geary Blvd, SF 94115",
+        "done": false
+      },
+      {
+        "text": "Drop off Brooks Brothers returns - 3145 Geary Blvd, SF 94118",
+        "done": false
+      },
+      {
+        "text": "Stress Free Autocare - 2941 Geary Blvd, SF 94118",
+        "done": false
+      }
+    ],
+    "counts": {
+      "open": 3,
+      "done": 0
+    },
+    "note": null,
+    "sourceId": "2026-08-10-motivation-and-hard-things"
   }
 ]

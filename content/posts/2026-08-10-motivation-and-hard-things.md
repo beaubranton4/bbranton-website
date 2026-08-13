@@ -6,6 +6,10 @@ I think it all comes down to motivation. That motivation, drive, willingness to 
 
 In any case, I really need to grind the next couple of weeks. Push the gameday tool, push the practice day tool, so that everything's ready to go by football.
 
+I want to preserve all my interactions with Claude Code ever, even in the case that my computer crashes. I would like to be able to use what I've built locally while on my phone — for example logging, tracking my to-dos, building Dugout Edge. I want everything in one place, accessible from all devices, anywhere in the world.
+
+I'm starting to think this whole protein trend is bad for you. I think people want to start eating healthy and training healthy — not for looks and aesthetics, but for feel and for function.
+
 ---
 
 ## Calorie Log
@@ -90,3 +94,19 @@ note: "40s on / 20s off, 3 rounds per set. Burn at ~8 METs; duration derived fro
 | 3 — Push & Pull Finisher | DB bench press (legs raised) | 50–65 lb DBs |
 | | Single-arm DB rows | 55–70 lb |
 | | Ab wheel | bodyweight |
+
+---
+
+## To Do
+
+- [ ] Drop off sunglasses — 1849 Geary Blvd, SF 94115
+- [ ] Drop off Brooks Brothers returns — 3145 Geary Blvd, SF 94118
+- [ ] Stress Free Autocare — 2941 Geary Blvd, SF 94118
+
+```widget:todo
+person: Beau
+items:
+  - { text: "Drop off sunglasses - 1849 Geary Blvd, SF 94115", done: false }
+  - { text: "Drop off Brooks Brothers returns - 3145 Geary Blvd, SF 94118", done: false }
+  - { text: "Stress Free Autocare - 2941 Geary Blvd, SF 94118", done: false }
+```

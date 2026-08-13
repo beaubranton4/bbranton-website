@@ -1842,5 +1842,99 @@
     "targetCalories": 2100,
     "targetSource": "computed",
     "deficit": -248
+  },
+  {
+    "date": "2026-08-11",
+    "person": "Beau",
+    "dayType": "steps_10k",
+    "items": [
+      {
+        "food": "Apple",
+        "amount": "1",
+        "calories": 95,
+        "protein": 0.5,
+        "sodium": 0
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "~1.25 tbsp",
+        "calories": 120,
+        "protein": 5,
+        "sodium": 85
+      },
+      {
+        "food": "Greek yogurt (nonfat, plain)",
+        "amount": "~3/4 cup",
+        "calories": 100,
+        "protein": 17,
+        "sodium": 60
+      },
+      {
+        "food": "Honey",
+        "amount": "~1 tsp",
+        "calories": 20,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Boiled egg",
+        "amount": "1",
+        "calories": 72,
+        "protein": 6,
+        "sodium": 62
+      },
+      {
+        "food": "Chicken breast (marinated)",
+        "amount": "0.7 lb raw",
+        "calories": 380,
+        "protein": 71,
+        "sodium": 205
+      },
+      {
+        "food": "Olive oil (marinade)",
+        "amount": "~1.5 tbsp",
+        "calories": 150,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Feta",
+        "amount": "~80 cal worth",
+        "calories": 80,
+        "protein": 4,
+        "sodium": 300
+      },
+      {
+        "food": "Spinach",
+        "amount": "~2 cups",
+        "calories": 15,
+        "protein": 2,
+        "sodium": 50
+      },
+      {
+        "food": "Cherries",
+        "amount": "27",
+        "calories": 135,
+        "protein": 2,
+        "sodium": 0
+      },
+      {
+        "food": "Shrimp tostadas (3 of 6, ~3/5 of the shrimp)",
+        "amount": "shrimp + avocado + sauce + veg",
+        "calories": 620,
+        "protein": 60,
+        "sodium": 560
+      }
+    ],
+    "totals": {
+      "calories": 1787,
+      "protein": 167.5,
+      "sodium": 1322
+    },
+    "note": "Full day: ~1,787 cal / ~168 g protein / ~1,320 mg sodium vs ~2,160 target (yoga + 5,400 steps) - about 375 under. FIRST day under the 1,500 sodium limit in the tracking run. Protein past the aim. Yoga ~200 burn; steps pending narration.",
+    "sourceId": "2026-08-11-yoga-and-the-block",
+    "targetCalories": 2160,
+    "targetSource": "computed",
+    "deficit": -373
   }
 ]

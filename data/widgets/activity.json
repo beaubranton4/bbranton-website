@@ -260,5 +260,27 @@
     "steps": null,
     "note": "40s on / 20s off, 3 rounds per set. Burn at ~8 METs; duration derived from the interval structure.",
     "sourceId": "2026-08-10-motivation-and-hard-things"
+  },
+  {
+    "date": "2026-08-11",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Vinyasa yoga class",
+        "duration": "50 min",
+        "burn": 200,
+        "estimated": true
+      },
+      {
+        "activity": "Walking - 5,400 steps as of 7:23pm",
+        "duration": null,
+        "burn": 160,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 360,
+    "steps": 5400,
+    "note": "First yoga entry in the log. Recovery/mobility day ahead of tomorrow's lower-body HIIT circuit. Steps logged at ~30 cal/1,000; update if the count grows.",
+    "sourceId": "2026-08-11-yoga-and-the-block"
   }
 ]
