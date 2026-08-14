@@ -44,9 +44,15 @@ Two axes. `project` is *whose* time it was; `category` is *what kind of work* it
 | `admin` | Billing, legal, tooling, email, planning, bookkeeping. |
 | `learning` | Reading, courses, docs, research. |
 | `meeting` | Conversations that aren't sales — mentors, advisors, catch-ups. |
-| `life` | Catch-all for `personal`. |
+| `food` | Gathering, prepping, cooking, and eating. Groceries count. |
+| `routine` | Journaling, meditation, the deliberate morning/evening block. |
+| `life` | Catch-all for `personal` — getting ready, errands, admin, decompressing. |
+
+`food` and `routine` were split out of `life` on **2026-08-13** at Beau's request. Both are `personal`-only in practice, and both are things he wants a standing number for rather than a note he'd have to grep. Everything else personal stays in `life`.
 
 Keep this list short. Detail belongs in `note`, not in new category keys. If a category genuinely doesn't fit after a few weeks of logging, add one — don't invent one on the fly for a single day.
+
+**Sleep and wake time are NOT time-log entries.** They go in `widget:sleep` (see below). The time log answers "where did my hours go?", and sleep is not an hour spent on a project — logging it here would corrupt `totalHours` and `byProject` and break the "don't force the day to 24 hours" rule.
 
 ### `deep`
 
@@ -86,6 +92,27 @@ note: "one-line day summary"
 
 Rules: numeric `hours` (no `h`, no `~`); rewrite the whole block each time rather than appending; keep it identical in content to the table; omit `deep` entirely when false rather than writing `deep: false`.
 
+## The `## Sleep` section
+
+Separate from the time log, and separate from `## Workout` — sleep is a physiological input like `widget:activity`, joinable to everything else on `date`. Log it whenever Beau narrates a wake time or a night's duration.
+
+```
+## Sleep
+
+| Woke | Slept | Est. bedtime |
+|---|---|---|
+| 7:30am | ~7.25 h | ~12:15am* |
+```
+
+```widget:sleep
+person: Beau
+wake: "07:30"
+hours: 7.25
+note: "one-line note"
+```
+
+Rules: `wake` is 24-hour `"HH:MM"` **in quotes** (bare `07:30` parses as a sexagesimal number in YAML). `hours` is numeric — take the midpoint of a range ("seven, seven and a half" → 7.25). `bedtime` is **derived by the extractor** (wake − hours), so never hand-write it in the block; it's an estimate and the human table should mark it with `*`. Optional `quality: 1-5` only when he actually rates it.
+
 ## Querying across days
 
 Read `data/widgets/time.json`. Each day carries `entries`, `totalHours`, `byProject`, `byCategory`, and `deepHours`. If the JSON looks stale because a section was just logged, run `npm run extract:widgets` first.
@@ -97,7 +124,7 @@ Questions worth answering well:
 - **"Am I actually shipping?"** → trend `deepHours` for `dugout-edge` week over week. Flat or falling while total hours rise means the work is turning into overhead.
 - **"Is exploration eating Dugout Edge?"** → `byProject.exploration` vs `byProject['dugout-edge']` over the same window. This is the ratio he asked the system to make visible.
 
-Cross-domain queries are the payoff of keeping this in the repo: time.json joins to `calorie.json`, `workout.json`, and `activity.json` on `date`. "Do I get more deep work on days I train?" is one join away.
+Cross-domain queries are the payoff of keeping this in the repo: time.json joins to `calorie.json`, `workout.json`, `activity.json`, and `sleep.json` on `date`. "Do I get more deep work on days I train?" and "does short sleep cost me deep hours?" are each one join away.
 
 ## Guardrails
 

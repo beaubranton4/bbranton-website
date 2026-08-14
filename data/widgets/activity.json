@@ -282,5 +282,49 @@
     "steps": 5400,
     "note": "First yoga entry in the log. Recovery/mobility day ahead of tomorrow's lower-body HIIT circuit. Steps logged at ~30 cal/1,000; update if the count grows.",
     "sourceId": "2026-08-11-yoga-and-the-block"
+  },
+  {
+    "date": "2026-08-12",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Lower-body HIIT circuit (4 rounds x 3 moves x 3 sets)",
+        "duration": "40 min",
+        "burn": 370,
+        "estimated": true
+      },
+      {
+        "activity": "Walking - 10,000 steps",
+        "duration": null,
+        "burn": 300,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 670,
+    "steps": 10000,
+    "note": "Circuit: 40s on / 20s rest, 3 sets per round, 4 rounds. Burn at ~8 METs over 36 min of interval time, same method as 8/10. 12 exercises vs 9 on Monday - a third more volume. Hit the 10K step floor on top, at the profile's 10K -> +300 rule. Total burn ~670, the highest of the run so far.",
+    "sourceId": "2026-08-12-lox-and-crackers"
+  },
+  {
+    "date": "2026-08-13",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Upper-body lift",
+        "duration": "60 min",
+        "burn": 330,
+        "estimated": true
+      },
+      {
+        "activity": "Walking - 15,000 steps",
+        "duration": null,
+        "burn": 450,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 780,
+    "steps": 15000,
+    "note": "Seven exercises, 21 working sets. Lift duration and burn estimated at the 8/8 session rate; steps at ~30 cal/1,000. Highest total burn of the run at ~780, and the biggest step count.",
+    "sourceId": "2026-08-13-ship-it-fail-fast"
   }
 ]

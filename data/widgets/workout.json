@@ -2053,5 +2053,213 @@
       }
     ],
     "sourceId": "2026-08-08-bialy-and-db-flies"
+  },
+  {
+    "date": "2026-08-13",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "Bench Press",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 185,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 195,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 205,
+                "reps": 5,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 195,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 247,
+            "volume": 4065
+          },
+          {
+            "exercise": "Upright Cable Row",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 155,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 165,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 185,
+                "reps": 6,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 185,
+              "reps": 6,
+              "failure": false
+            },
+            "est1RM": 222,
+            "volume": 4310
+          },
+          {
+            "exercise": "Shoulder Press",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 55,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 60,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 60,
+                "reps": 6,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 60,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 76,
+            "volume": 1280
+          },
+          {
+            "exercise": "DB Bicep Curl (hammer + regular)",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 30,
+                "reps": 16,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 7,
+                "failure": true
+              },
+              {
+                "weight": 30,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 30,
+              "reps": 16,
+              "failure": false
+            },
+            "est1RM": 46,
+            "volume": 965
+          },
+          {
+            "exercise": "Weighted Dip (added weight)",
+            "equipment": "bodyweight",
+            "sets": [
+              {
+                "weight": 35,
+                "reps": 11,
+                "failure": false
+              },
+              {
+                "weight": 45,
+                "reps": 7,
+                "failure": false
+              },
+              {
+                "weight": 45,
+                "reps": 7,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 45,
+              "reps": 7,
+              "failure": false
+            },
+            "est1RM": 56,
+            "volume": 1015
+          },
+          {
+            "exercise": "Face Pull",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 47.5,
+                "reps": 20,
+                "failure": false
+              },
+              {
+                "weight": 57.5,
+                "reps": 15,
+                "failure": false
+              },
+              {
+                "weight": 67.5,
+                "reps": 15,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 67.5,
+              "reps": 15,
+              "failure": false
+            },
+            "est1RM": 101,
+            "volume": 2825
+          },
+          {
+            "exercise": "Kneeling Prayer (cable)",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 87.5,
+                "reps": 20,
+                "failure": false
+              },
+              {
+                "weight": 97.5,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 97.5,
+                "reps": 10,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 87.5,
+              "reps": 20,
+              "failure": false
+            },
+            "est1RM": 146,
+            "volume": 3700
+          }
+        ],
+        "sessionVolume": 18160
+      }
+    ],
+    "sourceId": "2026-08-13-ship-it-fail-fast"
   }
 ]

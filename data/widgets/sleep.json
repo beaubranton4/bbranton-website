@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2026-08-13",
+    "person": "Beau",
+    "wake": "07:30",
+    "hours": 7.25,
+    "bedtime": "00:15",
+    "quality": null,
+    "note": "First night logged. Duration is the midpoint of a narrated 7-7.5 h range.",
+    "sourceId": "2026-08-13-ship-it-fail-fast"
+  }
+]

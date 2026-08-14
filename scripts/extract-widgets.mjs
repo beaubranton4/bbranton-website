@@ -3,7 +3,7 @@
  * extract-widgets.mjs — the data backbone for the "second brain."
  *
  * Walks content/posts/*.md, pulls every fenced ```widget:<type>``` block, and
- * emits per-widget JSON snapshots to data/widgets/{calorie,workout,activity,time,todo}.json.
+ * emits per-widget JSON snapshots to data/widgets/{calorie,workout,activity,time,todo,sleep}.json.
  *
  * These JSON files are the portable seam: they're the "database" today (read by
  * the /health and /workouts pages) and the migration artifact tomorrow (their
@@ -31,6 +31,8 @@ const WIDGET_RE = /```widget:([a-z]+)\n([\s\S]*?)```/g;
 
 const round = (n) => Math.round(n);
 const round1 = (n) => Math.round(n * 10) / 10;
+// sleep durations land on quarter hours (7.25, 7.75), which round1 would flatten
+const round2 = (n) => Math.round(n * 100) / 100;
 const sum = (arr, f) => arr.reduce((a, x) => a + f(x), 0);
 // Epley estimated 1RM: weight * (1 + reps/30)
 const epley = (weight, reps) => weight * (1 + reps / 30);
@@ -149,6 +151,41 @@ function buildTimeEntry(date, data, sourceId) {
   };
 }
 
+// widget:sleep — wake time and sleep duration.
+//
+// Deliberately NOT a widget:timelog entry. The time log answers "where did my hours
+// go?", and sleep is not an hour spent on a project — folding it in would corrupt
+// totalHours and byProject, and would break the "don't force the day to 24 hours"
+// rule the time log depends on. Sleep is a state the day starts in, so it lives
+// alongside widget:activity as a physiological input, joinable on `date`.
+//
+// `bedtime` is derived (wake - hours) rather than narrated, because Beau reliably
+// knows when he woke up and roughly how long he slept, but rarely notes when he
+// actually fell asleep.
+function buildSleepEntry(date, data, sourceId) {
+  const hours = data.hours != null ? round2(Number(data.hours) || 0) : null;
+  const wake = data.wake != null ? String(data.wake) : null;
+  let bedtime = null;
+  const m = wake && wake.match(/^(\d{1,2}):(\d{2})$/);
+  if (m && hours != null) {
+    const wakeMin = Number(m[1]) * 60 + Number(m[2]);
+    // wrap into [0,1440) so a pre-midnight bedtime comes out as e.g. "23:45", not negative
+    const bedMin = (((wakeMin - Math.round(hours * 60)) % 1440) + 1440) % 1440;
+    const pad = (n) => String(n).padStart(2, '0');
+    bedtime = `${pad(Math.floor(bedMin / 60))}:${pad(bedMin % 60)}`;
+  }
+  return {
+    date,
+    person: data.person || 'Beau',
+    wake,
+    hours,
+    bedtime,
+    quality: data.quality ?? null, // optional 1-5 self-rating; null when not narrated
+    note: data.note || null,
+    sourceId,
+  };
+}
+
 // widget:todo — the day's task list. Mirrors the human GitHub-checkbox list
 // (`- [ ]` / `- [x]`) that sits above it; `done` ⇔ `[x]`.
 function buildTodoEntry(date, data, sourceId) {
@@ -249,6 +286,7 @@ function main() {
   const activity = [];
   const time = [];
   const todo = [];
+  const sleep = [];
 
   for (const file of files) {
     const dm = file.match(DATE_RE);
@@ -262,6 +300,7 @@ function main() {
       else if (type === 'activity') activity.push(buildActivityEntry(date, data, sourceId));
       else if (type === 'timelog') time.push(buildTimeEntry(date, data, sourceId));
       else if (type === 'todo') todo.push(buildTodoEntry(date, data, sourceId));
+      else if (type === 'sleep') sleep.push(buildSleepEntry(date, data, sourceId));
       else console.warn(`  ? unknown widget type "${type}" in ${file}`);
     }
   }
@@ -273,6 +312,7 @@ function main() {
   activity.sort((a, b) => a.date.localeCompare(b.date));
   time.sort((a, b) => a.date.localeCompare(b.date));
   todo.sort((a, b) => a.date.localeCompare(b.date));
+  sleep.sort((a, b) => a.date.localeCompare(b.date));
 
   fs.mkdirSync(OUT_DIR, { recursive: true });
   fs.writeFileSync(path.join(OUT_DIR, 'calorie.json'), JSON.stringify(calorie, null, 2) + '\n');
@@ -280,12 +320,14 @@ function main() {
   fs.writeFileSync(path.join(OUT_DIR, 'activity.json'), JSON.stringify(activity, null, 2) + '\n');
   fs.writeFileSync(path.join(OUT_DIR, 'time.json'), JSON.stringify(time, null, 2) + '\n');
   fs.writeFileSync(path.join(OUT_DIR, 'todo.json'), JSON.stringify(todo, null, 2) + '\n');
+  fs.writeFileSync(path.join(OUT_DIR, 'sleep.json'), JSON.stringify(sleep, null, 2) + '\n');
 
   console.log(`✓ Extracted ${calorie.length} calorie day(s) → data/widgets/calorie.json`);
   console.log(`✓ Extracted ${workout.length} workout day(s) → data/widgets/workout.json`);
   console.log(`✓ Extracted ${activity.length} activity day(s) → data/widgets/activity.json`);
   console.log(`✓ Extracted ${time.length} time day(s) → data/widgets/time.json`);
   console.log(`✓ Extracted ${todo.length} todo day(s) → data/widgets/todo.json`);
+  console.log(`✓ Extracted ${sleep.length} sleep day(s) → data/widgets/sleep.json`);
 }
 
 main();

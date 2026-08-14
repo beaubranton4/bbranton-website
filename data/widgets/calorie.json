@@ -1924,17 +1924,331 @@
         "calories": 620,
         "protein": 60,
         "sodium": 560
+      },
+      {
+        "food": "Banana",
+        "amount": "1 medium",
+        "calories": 105,
+        "protein": 1.5,
+        "sodium": 1
+      },
+      {
+        "food": "Honey (with the banana)",
+        "amount": "~1/2 tsp",
+        "calories": 10,
+        "protein": 0,
+        "sodium": 0
       }
     ],
     "totals": {
-      "calories": 1787,
-      "protein": 167.5,
-      "sodium": 1322
+      "calories": 1902,
+      "protein": 169,
+      "sodium": 1323
     },
-    "note": "Full day: ~1,787 cal / ~168 g protein / ~1,320 mg sodium vs ~2,160 target (yoga + 5,400 steps) - about 375 under. FIRST day under the 1,500 sodium limit in the tracking run. Protein past the aim. Yoga ~200 burn; steps pending narration.",
+    "note": "Full day: ~1,902 cal / ~169 g protein / ~1,320 mg sodium vs ~2,160 target (yoga + 5,400 steps) - about 260 under. FIRST day under the 1,500 sodium limit in the tracking run. Protein past the aim. Yoga ~200 burn; steps pending narration.",
     "sourceId": "2026-08-11-yoga-and-the-block",
     "targetCalories": 2160,
     "targetSource": "computed",
-    "deficit": -373
+    "deficit": -258
+  },
+  {
+    "date": "2026-08-12",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Brown rice crackers",
+        "amount": "~60 cal worth",
+        "calories": 60,
+        "protein": 1,
+        "sodium": 90
+      },
+      {
+        "food": "Smoked Atlantic salmon (Whole Foods, 1 serving)",
+        "amount": "2 oz",
+        "calories": 120,
+        "protein": 14,
+        "sodium": 437
+      },
+      {
+        "food": "Cottage cheese, 4%",
+        "amount": "1/2 cup",
+        "calories": 110,
+        "protein": 13,
+        "sodium": 350
+      },
+      {
+        "food": "Apple",
+        "amount": "1 medium",
+        "calories": 95,
+        "protein": 0.5,
+        "sodium": 0
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "~1.5 tbsp",
+        "calories": 145,
+        "protein": 6,
+        "sodium": 100
+      },
+      {
+        "food": "Boiled egg",
+        "amount": "1",
+        "calories": 72,
+        "protein": 6,
+        "sodium": 62
+      },
+      {
+        "food": "Whole wheat bread (open-faced tuna melt)",
+        "amount": "1 slice, 80 cal",
+        "calories": 80,
+        "protein": 4,
+        "sodium": 150
+      },
+      {
+        "food": "Canned tuna",
+        "amount": "1 can (5 oz), drained",
+        "calories": 120,
+        "protein": 26,
+        "sodium": 360
+      },
+      {
+        "food": "Shredded cheese",
+        "amount": "~1/4 cup",
+        "calories": 110,
+        "protein": 7,
+        "sodium": 180
+      },
+      {
+        "food": "Light mayo",
+        "amount": "~2 tsp",
+        "calories": 25,
+        "protein": 0,
+        "sodium": 80
+      },
+      {
+        "food": "Greek yogurt",
+        "amount": "~1/4 cup",
+        "calories": 35,
+        "protein": 6,
+        "sodium": 20
+      },
+      {
+        "food": "Butter",
+        "amount": "~1/8 tbsp",
+        "calories": 15,
+        "protein": 0,
+        "sodium": 10
+      },
+      {
+        "food": "Olive oil",
+        "amount": "~30 cal worth",
+        "calories": 30,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Cherries",
+        "amount": "16",
+        "calories": 80,
+        "protein": 1,
+        "sodium": 0
+      },
+      {
+        "food": "Greek yogurt (nonfat, plain)",
+        "amount": "1/2 cup",
+        "calories": 70,
+        "protein": 11,
+        "sodium": 40
+      },
+      {
+        "food": "Blueberries",
+        "amount": "15",
+        "calories": 10,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Honey",
+        "amount": "1/2 tsp",
+        "calories": 10,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Sirloin steak",
+        "amount": "~2/3 of 1 lb",
+        "calories": 567,
+        "protein": 67,
+        "sodium": 353
+      },
+      {
+        "food": "Potato fries + oil",
+        "amount": "~2/3 of 1 medium + 1 tsp",
+        "calories": 127,
+        "protein": 3,
+        "sodium": 8
+      },
+      {
+        "food": "Parmesan",
+        "amount": "~2/3 tbsp",
+        "calories": 13,
+        "protein": 1,
+        "sodium": 51
+      },
+      {
+        "food": "Avocado chimichurri",
+        "amount": "~2/3 of 1/4 cup",
+        "calories": 187,
+        "protein": 1,
+        "sodium": 133
+      },
+      {
+        "food": "Broccoli",
+        "amount": "~2/3 of 2 cups",
+        "calories": 40,
+        "protein": 3,
+        "sodium": 40
+      },
+      {
+        "food": "Cherries",
+        "amount": "15",
+        "calories": 75,
+        "protein": 1,
+        "sodium": 0
+      }
+    ],
+    "totals": {
+      "calories": 2196,
+      "protein": 171.5,
+      "sodium": 2464
+    },
+    "note": "Full day: ~2,196 cal / ~172 g protein / ~2,464 mg sodium vs a ~2,470 computed target (HIIT circuit ~370 + 10,000 steps ~300 = ~670 burn) - about 274 under, a strong deficit day, protein well past the 145 aim. The 10K steps raised the target ~300 while the cherries after cost ~75, which is where most of the deficit came from. Sodium is the failure: 964 over the 1,500 target and 164 over the relaxed 2,300 ceiling Beau elected mid-day. Drivers were all protein sources: steak salt ~353, lox 437, tuna 360, cottage cheese 350, shredded cheese 180, bread 150. Structural lesson: every shelf-stable protein Beau reaches for is salt-preserved, so a pantry-built high-protein day hits 1,500 before dinner. Yesterday's clean day worked because he cooked raw chicken; today failed because he opened packages.",
+    "sourceId": "2026-08-12-lox-and-crackers",
+    "targetCalories": 2470,
+    "targetSource": "computed",
+    "deficit": -274
+  },
+  {
+    "date": "2026-08-13",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Sourdough toast",
+        "amount": "1 slice, 80 cal",
+        "calories": 80,
+        "protein": 3,
+        "sodium": 160
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "~1 tbsp",
+        "calories": 95,
+        "protein": 4,
+        "sodium": 70
+      },
+      {
+        "food": "Honey",
+        "amount": "~1 tsp",
+        "calories": 20,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Boiled egg",
+        "amount": "1",
+        "calories": 72,
+        "protein": 6,
+        "sodium": 62
+      },
+      {
+        "food": "Chicken shawarma",
+        "amount": "~6 oz cooked",
+        "calories": 350,
+        "protein": 35,
+        "sodium": 800
+      },
+      {
+        "food": "Rice",
+        "amount": "~1.5-2 cups",
+        "calories": 400,
+        "protein": 7,
+        "sodium": 300
+      },
+      {
+        "food": "Hummus",
+        "amount": "~1/2-3/4 cup",
+        "calories": 250,
+        "protein": 7,
+        "sodium": 450
+      },
+      {
+        "food": "Cherries",
+        "amount": "15",
+        "calories": 75,
+        "protein": 1,
+        "sodium": 0
+      },
+      {
+        "food": "Mackerel",
+        "amount": "2 fillets, 220 cal each",
+        "calories": 440,
+        "protein": 40,
+        "sodium": 190
+      },
+      {
+        "food": "Rice",
+        "amount": "1 cup",
+        "calories": 205,
+        "protein": 4,
+        "sodium": 5
+      },
+      {
+        "food": "Zucchini",
+        "amount": "1/2",
+        "calories": 20,
+        "protein": 1,
+        "sodium": 5
+      },
+      {
+        "food": "Olive oil",
+        "amount": "~40 cal worth",
+        "calories": 40,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Ice cream",
+        "amount": "~400 cal worth",
+        "calories": 400,
+        "protein": 6,
+        "sodium": 130
+      },
+      {
+        "food": "Apple",
+        "amount": "1 medium",
+        "calories": 95,
+        "protein": 0.5,
+        "sodium": 0
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "~1.25 tbsp",
+        "calories": 120,
+        "protein": 5,
+        "sodium": 85
+      }
+    ],
+    "totals": {
+      "calories": 2662,
+      "protein": 119.5,
+      "sodium": 2257
+    },
+    "note": "Full day: ~2,662 cal / ~120 g protein / ~2,257 mg sodium vs a ~2,580 computed target (lift ~330 + 15,000 steps ~450 = ~780 burn) - about 82 over, a small surplus. Protein is the miss at ~120 g, just under the ~123 floor, on a 21-set upper-body day. Causes: the shawarma plate gave only ~62 g on ~1,000 cal, and ~400 cal of ice cream added ~6 g. The closing apple + peanut butter added ~215 cal for ~5.5 g and flipped the day from ~133 under to ~82 over. Dinner itself was the clean part - mackerel/rice/zucchini at ~45 g protein and ~195 mg sodium. Restaurant lunch was ~71% of the day's sodium.",
+    "sourceId": "2026-08-13-ship-it-fail-fast",
+    "targetCalories": 2580,
+    "targetSource": "computed",
+    "deficit": 82
   }
 ]
