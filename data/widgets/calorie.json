@@ -2194,7 +2194,7 @@
         "food": "Mackerel",
         "amount": "2 fillets, 220 cal each",
         "calories": 440,
-        "protein": 40,
+        "protein": 34,
         "sodium": 190
       },
       {
@@ -2242,13 +2242,100 @@
     ],
     "totals": {
       "calories": 2662,
-      "protein": 119.5,
+      "protein": 113.5,
       "sodium": 2257
     },
-    "note": "Full day: ~2,662 cal / ~120 g protein / ~2,257 mg sodium vs a ~2,580 computed target (lift ~330 + 15,000 steps ~450 = ~780 burn) - about 82 over, a small surplus. Protein is the miss at ~120 g, just under the ~123 floor, on a 21-set upper-body day. Causes: the shawarma plate gave only ~62 g on ~1,000 cal, and ~400 cal of ice cream added ~6 g. The closing apple + peanut butter added ~215 cal for ~5.5 g and flipped the day from ~133 under to ~82 over. Dinner itself was the clean part - mackerel/rice/zucchini at ~45 g protein and ~195 mg sodium. Restaurant lunch was ~71% of the day's sodium.",
+    "note": "Full day: ~2,662 cal / ~114 g protein / ~2,257 mg sodium vs a ~2,580 computed target (lift ~330 + 15,000 steps ~450 = ~780 burn) - about 82 over, a small surplus. Protein is the miss at ~114 g, ~9 under the ~123 floor, on a 21-set upper-body day. Causes: the shawarma plate gave only ~62 g on ~1,000 cal, and ~400 cal of ice cream added ~6 g. The closing apple + peanut butter added ~215 cal for ~5.5 g and flipped the day from ~133 under to ~82 over. Dinner itself was the clean part - mackerel/rice/zucchini at ~39 g protein (mackerel protein corrected to the label, 17 g per fillet) and ~195 mg sodium. Restaurant lunch was ~71% of the day's sodium.",
     "sourceId": "2026-08-13-ship-it-fail-fast",
     "targetCalories": 2580,
     "targetSource": "computed",
     "deficit": 82
+  },
+  {
+    "date": "2026-08-14",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "White rice",
+        "amount": "1/2 cup cooked",
+        "calories": 105,
+        "protein": 2,
+        "sodium": 2
+      },
+      {
+        "food": "Scrambled eggs",
+        "amount": "3 large",
+        "calories": 215,
+        "protein": 19,
+        "sodium": 190
+      },
+      {
+        "food": "Olive oil (for the pan)",
+        "amount": "~1 tsp",
+        "calories": 40,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Greek yogurt (nonfat, plain)",
+        "amount": "1 cup",
+        "calories": 135,
+        "protein": 23,
+        "sodium": 80
+      },
+      {
+        "food": "Soy sauce",
+        "amount": "~1 tsp",
+        "calories": 3,
+        "protein": 0,
+        "sodium": 300
+      },
+      {
+        "food": "Jeju mackerel fillets",
+        "amount": "2, 220 cal each",
+        "calories": 440,
+        "protein": 34,
+        "sodium": 1200
+      },
+      {
+        "food": "White rice",
+        "amount": "~1 cup",
+        "calories": 205,
+        "protein": 4,
+        "sodium": 2
+      },
+      {
+        "food": "Silken tofu",
+        "amount": "~3/4 block",
+        "calories": 140,
+        "protein": 15,
+        "sodium": 30
+      },
+      {
+        "food": "Furikake",
+        "amount": "~5 servings",
+        "calories": 50,
+        "protein": 2,
+        "sodium": 1200
+      },
+      {
+        "food": "Chili oil + chili crunch",
+        "amount": "~1 tbsp",
+        "calories": 80,
+        "protein": 1,
+        "sodium": 200
+      }
+    ],
+    "totals": {
+      "calories": 1413,
+      "protein": 100,
+      "sodium": 3204
+    },
+    "note": "Through lunch: ~1,413 cal / ~100 g protein / ~3,204 mg sodium. Calories and protein excellent (~7.1 g per 100 cal, floor already cleared). Sodium is the failure and the mechanism is new: CONDIMENTS. Furikake ~1,200 (5 servings x 240) + chili crunch ~200 + soy sauce ~300 = ~1,700 mg from ~130 calories of garnish, more than the entire daily limit. Third distinct sodium mechanism in three days: 8/12 salt-cured proteins, 8/13 restaurant cooking, 8/14 condiments. Mackerel sodium is an estimate pending the label; if fresh rather than salt-cured the day drops to ~2,200. Leg session + easy 2-3 mi still to be logged.",
+    "sourceId": "2026-08-14-legs-and-eggs",
+    "targetCalories": 2150,
+    "targetSource": "computed",
+    "deficit": -737
   }
 ]

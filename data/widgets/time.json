@@ -159,5 +159,28 @@
     "deepHours": 0,
     "note": "Morning only. First day using the new food and routine categories, split out of life at Beau's request. Nothing logged for the working day yet.",
     "sourceId": "2026-08-13-ship-it-fail-fast"
+  },
+  {
+    "date": "2026-08-14",
+    "person": "Beau",
+    "entries": [
+      {
+        "project": "personal",
+        "category": "life",
+        "hours": 1,
+        "note": "Lower-body lift, 10:00-11:00am",
+        "deep": false
+      }
+    ],
+    "totalHours": 1,
+    "byProject": {
+      "personal": 1
+    },
+    "byCategory": {
+      "life": 1
+    },
+    "deepHours": 0,
+    "note": "Lift only so far. Working day not yet narrated.",
+    "sourceId": "2026-08-14-legs-and-eggs"
   }
 ]

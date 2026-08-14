@@ -2261,5 +2261,185 @@
       }
     ],
     "sourceId": "2026-08-13-ship-it-fail-fast"
+  },
+  {
+    "date": "2026-08-14",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "Squat Machine (single leg)",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 180,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 270,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 320,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 320,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 405,
+            "volume": 6160
+          },
+          {
+            "exercise": "Bulgarian Split Squat",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 55,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 55,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 55,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 55,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 70,
+            "volume": 1320
+          },
+          {
+            "exercise": "Single-Leg RDL",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 44,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 44,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 44,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 44,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 56,
+            "volume": 1056
+          },
+          {
+            "exercise": "Single-Leg Glute Machine",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 80,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 90,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 100,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 100,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 127,
+            "volume": 2160
+          },
+          {
+            "exercise": "Calf Raise",
+            "equipment": "machine",
+            "sets": [
+              {
+                "weight": 90,
+                "reps": 21,
+                "failure": false
+              },
+              {
+                "weight": 110,
+                "reps": 21,
+                "failure": false
+              },
+              {
+                "weight": 110,
+                "reps": 21,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 110,
+              "reps": 21,
+              "failure": false
+            },
+            "est1RM": 187,
+            "volume": 6510
+          },
+          {
+            "exercise": "Landmine Rotation (standing)",
+            "equipment": "barbell",
+            "sets": [
+              {
+                "weight": 25,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 35,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 44,
+            "volume": 760
+          }
+        ],
+        "sessionVolume": 17966
+      }
+    ],
+    "sourceId": "2026-08-14-legs-and-eggs"
   }
 ]

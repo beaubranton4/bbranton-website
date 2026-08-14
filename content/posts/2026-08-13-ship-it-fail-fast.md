@@ -20,25 +20,25 @@ So that's something that I really need to be working on in the coming days, the 
 | Rice | ~1½–2 cups | ~400 | ~7 g | ~300 mg* |
 | Hummus | ~½–¾ cup | ~250 | ~7 g | ~450 mg* |
 | Cherries | 15 | ~75 | ~1 g | 0 |
-| Mackerel | 2 fillets, 220 cal each | 440 | ~40 g | ~190 mg* |
+| Mackerel | 2 fillets, 220 cal each | 440 | 34 g | ~190 mg* |
 | Rice | 1 cup | ~205 | ~4 g | ~5 mg |
 | Zucchini | ½ | ~20 | ~1 g | ~5 mg |
 | Olive oil | ~40 cal worth | 40 | 0 | 0 |
 | Ice cream | ~400 cal worth | 400 | ~6 g | ~130 mg |
 | Apple | 1 medium | ~95 | ~0.5 g | 0 |
 | Peanut butter | ~1¼ tbsp | ~120 | ~5 g | ~85 mg |
-| **Total** | | **~2,662** | **~120 g** | **~2,257 mg** |
+| **Total** | | **~2,662** | **~114 g** | **~2,257 mg** |
 
-**Day vs. plan:** ~2,662 cal / ~120 g protein / ~2,257 mg sodium. With the lift (~330) plus 15,000 steps (~450), total burn is ~780 and the computed target is **~2,580** — **~82 over, so the day flipped from deficit to a small surplus.** Sodium finished just under the 2,300 general ceiling but ~757 over the 1,500 target. **Protein still ~3 g short of the ~123 g floor.**
+**Day vs. plan:** ~2,662 cal / ~120 g protein / ~2,257 mg sodium. With the lift (~330) plus 15,000 steps (~450), total burn is ~780 and the computed target is **~2,580** — **~82 over, so the day flipped from deficit to a small surplus.** Sodium finished just under the 2,300 general ceiling but ~757 over the 1,500 target. **Protein finished ~9 g short of the ~123 g floor.**
 
 *\*Sourdough sodium estimated at ~160 mg for an 80-cal slice; bakery loaves vary widely and a saltier one could run 200+. **Shawarma plate set to Beau's revised ~1,000 total**, down from my first ~1,250 pass; the reduction is taken out of the rice and hummus rather than the chicken, since my overestimate was mostly assumed cooking oil — which carries calories but no protein or sodium. Chicken held at ~6 oz cooked marinated thigh. Sodium is restaurant-scale and could still swing ±400 mg. Assumes no pita, no garlic sauce/toum, and no salad — add ~150–250 cal each if they were there.*
 
 - **Sodium — ~1,550 mg in a single meal, more than the entire daily limit.** The day is now ~342 mg past 1,500 at lunchtime. Notably this is a *different* failure mode from 8/12: yesterday it was salt-cured proteins from the pantry, today it's restaurant cooking, where the salt is in the marinade, the rice, and the hummus and there's no portion of the plate that avoids it.
 - **Calories — the sides, not the chicken, are the story.** The chicken is ~350 cal and carries ~35 g of protein; the rice and hummus are ~650 cal and carry ~14 g between them. Same plate, opposite efficiency.
-- **Protein finished under the floor — ~120 g against a ~123 g floor and a ~145 aim.** It ends a three-day streak of 174 / 169 / 172, and it happened on a 21-set upper-body day, which is exactly when it matters most. The mackerel dinner was actually strong (~40 g); the damage was done earlier. Two causes: the shawarma plate delivered only ~62 g on ~1,000 cal (~6 g per 100), and the ~400 cal of ice cream spent a sixth of the day's calories on ~6 g of protein. Either one alone was survivable; together they left no room.
+- **Protein finished under the floor — ~114 g against a ~123 g floor and a ~145 aim.** It ends a three-day streak of 174 / 169 / 172, and it happened on a 21-set upper-body day, which is exactly when it matters most. The mackerel dinner was solid (~34 g off the label); the damage was done earlier. Two causes: the shawarma plate delivered only ~62 g on ~1,000 cal (~6 g per 100), and the ~400 cal of ice cream spent a sixth of the day's calories on ~6 g of protein. Either one alone was survivable; together they left no room.
 - **The day flipped to a surplus at the very end.** After 15K steps it was sitting ~133 under target; the closing apple + peanut butter (~215 cal, ~5.5 g protein) pushed it ~82 over. Notable as a pattern rather than a problem: ~215 calories that moved protein almost not at all. Half a cup of Greek yogurt is ~70 cal for ~11 g — it would have cleared the floor for a third of the calories.
 - **The 15K steps still did the heavy lifting.** They raised the target by ~450 while the ice cream cost ~400, which is the only reason a day with ice cream *and* a late snack landed within ~82 of target instead of ~500 over. Second day running that walking has covered a discretionary choice.
-- **Dinner was the clean part of the day.** Mackerel, rice, zucchini, olive oil — ~705 cal, ~45 g protein, and only ~195 mg of sodium. That's the "cook it, don't open it" pattern working exactly as intended. The restaurant lunch alone was ~71% of the day's total sodium.
+- **Dinner was the clean part of the day.** Mackerel, rice, zucchini, olive oil — ~705 cal, ~39 g protein, and only ~195 mg of sodium. That's the "cook it, don't open it" pattern working exactly as intended. The restaurant lunch alone was ~71% of the day's total sodium.
 - **Sodium at ~2,172 is the second-best day of the run** behind 8/11's 1,323, and well under the 3,000–4,000 range of 8/6–8/10. Still over the 1,500 target, but the trend is real: one restaurant meal is now the difference between a clean day and a blown one.
 - **Breakfast was the right idea.** ~292 mg vs. ~1,010 at the same point yesterday, because nothing on the plate was cured or preserved. The tradeoff was protein (13 g vs 28 g), and lunch didn't make it back up.
 
@@ -54,14 +54,14 @@ items:
   - { food: "Rice", amount: "~1.5-2 cups", calories: 400, protein: 7, sodium: 300 }
   - { food: "Hummus", amount: "~1/2-3/4 cup", calories: 250, protein: 7, sodium: 450 }
   - { food: "Cherries", amount: "15", calories: 75, protein: 1, sodium: 0 }
-  - { food: "Mackerel", amount: "2 fillets, 220 cal each", calories: 440, protein: 40, sodium: 190 }
+  - { food: "Mackerel", amount: "2 fillets, 220 cal each", calories: 440, protein: 34, sodium: 190 }
   - { food: "Rice", amount: "1 cup", calories: 205, protein: 4, sodium: 5 }
   - { food: "Zucchini", amount: "1/2", calories: 20, protein: 1, sodium: 5 }
   - { food: "Olive oil", amount: "~40 cal worth", calories: 40, protein: 0, sodium: 0 }
   - { food: "Ice cream", amount: "~400 cal worth", calories: 400, protein: 6, sodium: 130 }
   - { food: "Apple", amount: "1 medium", calories: 95, protein: 0.5, sodium: 0 }
   - { food: "Peanut butter", amount: "~1.25 tbsp", calories: 120, protein: 5, sodium: 85 }
-note: "Full day: ~2,662 cal / ~120 g protein / ~2,257 mg sodium vs a ~2,580 computed target (lift ~330 + 15,000 steps ~450 = ~780 burn) - about 82 over, a small surplus. Protein is the miss at ~120 g, just under the ~123 floor, on a 21-set upper-body day. Causes: the shawarma plate gave only ~62 g on ~1,000 cal, and ~400 cal of ice cream added ~6 g. The closing apple + peanut butter added ~215 cal for ~5.5 g and flipped the day from ~133 under to ~82 over. Dinner itself was the clean part - mackerel/rice/zucchini at ~45 g protein and ~195 mg sodium. Restaurant lunch was ~71% of the day's sodium."
+note: "Full day: ~2,662 cal / ~114 g protein / ~2,257 mg sodium vs a ~2,580 computed target (lift ~330 + 15,000 steps ~450 = ~780 burn) - about 82 over, a small surplus. Protein is the miss at ~114 g, ~9 under the ~123 floor, on a 21-set upper-body day. Causes: the shawarma plate gave only ~62 g on ~1,000 cal, and ~400 cal of ice cream added ~6 g. The closing apple + peanut butter added ~215 cal for ~5.5 g and flipped the day from ~133 under to ~82 over. Dinner itself was the clean part - mackerel/rice/zucchini at ~39 g protein (mackerel protein corrected to the label, 17 g per fillet) and ~195 mg sodium. Restaurant lunch was ~71% of the day's sodium."
 ```
 
 ---
