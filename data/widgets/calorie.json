@@ -2337,5 +2337,99 @@
     "targetCalories": 2150,
     "targetSource": "computed",
     "deficit": -737
+  },
+  {
+    "date": "2026-08-16",
+    "person": "Beau",
+    "dayType": "training",
+    "items": [
+      {
+        "food": "Banana",
+        "amount": "1 medium",
+        "calories": 105,
+        "protein": 1.5,
+        "sodium": 1
+      },
+      {
+        "food": "Cheesecake Factory flatbread (split w/ Abby)",
+        "amount": "1/2",
+        "calories": 350,
+        "protein": 12,
+        "sodium": 600
+      },
+      {
+        "food": "Caesar salad (split w/ Abby)",
+        "amount": "1/2",
+        "calories": 430,
+        "protein": 10,
+        "sodium": 500
+      },
+      {
+        "food": "Pasta in creamy onion sauce (split w/ Abby)",
+        "amount": "1/2",
+        "calories": 570,
+        "protein": 22,
+        "sodium": 700
+      },
+      {
+        "food": "Bread w/ butter",
+        "amount": "~1.5 slices",
+        "calories": 150,
+        "protein": 5,
+        "sodium": 250
+      },
+      {
+        "food": "Boti kebab (planned dinner)",
+        "amount": "4 cubes (half of 8)",
+        "calories": 250,
+        "protein": 28,
+        "sodium": 450
+      },
+      {
+        "food": "Chicken momos (planned dinner)",
+        "amount": "4",
+        "calories": 220,
+        "protein": 14,
+        "sodium": 400
+      },
+      {
+        "food": "Sourdough bread",
+        "amount": "1 slice, 80 cal",
+        "calories": 80,
+        "protein": 3,
+        "sodium": 160
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "1 tbsp",
+        "calories": 95,
+        "protein": 4,
+        "sodium": 70
+      },
+      {
+        "food": "Honey",
+        "amount": "2 tsp",
+        "calories": 40,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Grapes",
+        "amount": "12",
+        "calories": 40,
+        "protein": 0.4,
+        "sodium": 1
+      }
+    ],
+    "totals": {
+      "calories": 2330,
+      "protein": 99.9,
+      "sodium": 3132
+    },
+    "note": "~2,330 cal / ~100 g protein / ~3,130 mg sodium with dinner logged as planned (boti kebab + momos). Run puts computed target at ~2,400, ~70 left. Protein is the miss (~23 g under the floor) - the 1,500-cal Cheesecake Factory share carried only ~49 g and the ~255-cal dessert added ~7 g. Sodium ~2x limit, mostly the restaurant lunch (8/13 mechanism). Recommended closer: 1 cup Greek yogurt (~65 over target, protein exactly to the floor).",
+    "sourceId": "2026-08-16-cheesecake-and-kebabs",
+    "targetCalories": 2400,
+    "targetSource": "computed",
+    "deficit": -70
   }
 ]

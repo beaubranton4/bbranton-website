@@ -342,5 +342,21 @@
     "steps": null,
     "note": "Six exercises, 18 working sets. Full 8/5 template run without the trims, all single-leg biased. Easy 2-3 mi run still to be logged.",
     "sourceId": "2026-08-14-legs-and-eggs"
+  },
+  {
+    "date": "2026-08-16",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Run - 5 mi @ ~8:10/mi",
+        "duration": "41 min",
+        "burn": 600,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 600,
+    "steps": null,
+    "note": "Second 5-miler at ~8-min pace in a week. Duration derived from stated pace.",
+    "sourceId": "2026-08-16-cheesecake-and-kebabs"
   }
 ]
