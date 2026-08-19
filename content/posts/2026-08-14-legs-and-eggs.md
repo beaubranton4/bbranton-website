@@ -16,9 +16,12 @@
 | Silken tofu | ~¾ block | ~140 | ~15 g | ~30 mg |
 | Furikake* | ~5 servings | ~50 | ~2 g | **~1,200 mg** |
 | Chili oil + chili crunch | ~1 tbsp | ~80 | ~1 g | ~200 mg |
-| **Total** | | **~1,413** | **~100 g** | **~3,204 mg** |
+| Chicken sandwich w/ cheese & bacon *(dinner, backfilled 8/16)* | 1 | ~800* | ~48 g | ~1,500 mg* |
+| Fries | whole side | ~480* | ~6 g | ~400 mg* |
+| Beer | 6 × 12 oz | ~900 | ~8 g | ~80 mg |
+| **Total** | | **~3,593** | **~162 g** | **~5,184 mg** |
 
-**Day vs. plan:** ~1,413 cal / ~100 g protein / ~3,204 mg sodium. With the leg session logged (~350 cal), the computed target is **~2,150** — **~737 cal left**; the easy 2–3 mi run will add ~300 to that when it happens. Calories and protein are both in excellent shape; **sodium is already more than double the 1,500 limit and ~900 mg past even the general 2,300 ceiling**, before lunch is over.
+**Day vs. plan (completed 8/16):** ~3,593 cal / ~162 g protein / ~5,184 mg sodium vs. the ~2,150 computed target (lift only; the easy run was never narrated) — **~1,443 over**. The chicken-bacon sandwich + whole side of fries + 6 beers added ~2,180 cal to what had been a ~737-under day. This is the month's blowout (the plan absorbs ~one +3,000-cal weekend/month, and Friday+Saturday together are roughly that). Protein finished way past the 145 aim; sodium ~3.5× the limit.
 
 *\*Eggs assumed large and scrambled with no added salt. Yogurt assumed plain nonfat Greek. Soy sauce assumed regular (Kikkoman rate, ~920 mg/tbsp); low-sodium would be ~190 mg. Mackerel protein is off the actual label (17 g each). **Mackerel sodium is an estimate pending the label** — Jeju mackerel is usually sold lightly salt-cured (간고등어) at ~600 mg per fillet; if these are fresh/unsalted it's ~100 mg each and the day drops to ~2,200. "Furikake" is my read of "putacake mix" in the narration; sodium is Beau's stated 240 mg × 5 servings, calories and protein estimated at typical furikake rates. Silken tofu assumed a ~350 g block.*
 
@@ -43,7 +46,10 @@ items:
   - { food: "Silken tofu", amount: "~3/4 block", calories: 140, protein: 15, sodium: 30 }
   - { food: "Furikake", amount: "~5 servings", calories: 50, protein: 2, sodium: 1200 }
   - { food: "Chili oil + chili crunch", amount: "~1 tbsp", calories: 80, protein: 1, sodium: 200 }
-note: "Through lunch: ~1,413 cal / ~100 g protein / ~3,204 mg sodium. Calories and protein excellent (~7.1 g per 100 cal, floor already cleared). Sodium is the failure and the mechanism is new: CONDIMENTS. Furikake ~1,200 (5 servings x 240) + chili crunch ~200 + soy sauce ~300 = ~1,700 mg from ~130 calories of garnish, more than the entire daily limit. Third distinct sodium mechanism in three days: 8/12 salt-cured proteins, 8/13 restaurant cooking, 8/14 condiments. Mackerel sodium is an estimate pending the label; if fresh rather than salt-cured the day drops to ~2,200. Leg session + easy 2-3 mi still to be logged."
+  - { food: "Chicken sandwich w/ cheese & bacon", amount: "1", calories: 800, protein: 48, sodium: 1500 }
+  - { food: "Fries", amount: "whole side", calories: 480, protein: 6, sodium: 400 }
+  - { food: "Beer", amount: "6 x 12 oz", calories: 900, protein: 8, sodium: 80 }
+note: "Full day (dinner backfilled 8/16): ~3,593 cal / ~162 g protein / ~5,184 mg sodium vs ~2,150 target - ~1,443 over. Chicken-bacon sandwich + whole side of fries + 6 beers (~2,180) turned a ~737-under day into the month's blowout. Protein well past the aim. Sodium ~3.5x limit: lunch condiments (~1,700) plus restaurant dinner (~1,900). Easy run never narrated - lift only."
 ```
 
 ---
@@ -62,7 +68,7 @@ Lower body, full session — six exercises, 18 working sets, 10:00–11:00am. No
 person: Beau
 activities:
   - { activity: "Lower-body lift", duration: "60 min", burn: 350 }
-note: "Six exercises, 18 working sets. Full 8/5 template run without the trims, all single-leg biased. Easy 2-3 mi run still to be logged."
+note: "Six exercises, 18 working sets. Full 8/5 template run without the trims, all single-leg biased. The planned easy 2-3 mi run was never narrated - presumed skipped."
 ```
 
 **Beau** — session volume 17,966 lb

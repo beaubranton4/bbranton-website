@@ -19,13 +19,12 @@
 | Grapes | 12 | ~40 | ~0.4 g | ~1 mg |
 | **Total** | | **~2,330** | **~100 g** | **~3,130 mg** |
 
-**Day vs. plan:** ~2,330 cal / ~100 g protein / ~3,130 mg sodium with dinner logged as planned. The 5-mile run (~600 cal) puts the computed target at **~2,400** — only **~70 left**. Calories land right on plan; **protein is the miss: ~23 g below the 123 g floor**, because ~1,500 restaurant calories brought only ~49 g and the ~255-cal dessert added just ~7 g. Sodium ~2× the 1,500 limit, almost all from the restaurant lunch — the 8/13 mechanism again.
+**Day vs. plan:** ~2,330 cal / ~100 g protein / ~3,130 mg sodium with dinner logged as planned. The 5-mile run plus the rest of a 17K-step day (~810 cal total burn) puts the computed target at **~2,610** — **~280 left**. Calories are comfortably under; **protein is the miss: ~23 g below the 123 g floor**, because ~1,500 restaurant calories brought only ~49 g and the ~255-cal dessert added just ~7 g. Sodium ~2× the 1,500 limit, almost all from the restaurant lunch — the 8/13 mechanism again.
 
 *\*Lunch itemization is a split of Beau's stated ~1,500-cal share across the four dishes, not menu-verified; the ~1,500 total is his number and is trusted. Boti kebab assumed lamb, yogurt-spice marinade, ~60–65 cal/cube. Momos assumed steamed, ~55 cal each; a chutney would add ~100–200 mg sodium. All restaurant sodium is estimated.*
 
-- **The dessert spent the protein budget.** The bread + PB + honey + grapes slot (~255 cal, ~7 g) was where yogurt + eggs (~300 cal, ~36 g) was supposed to go; the floor is now out of reach within target.
-- **Still worth closing with a cup of Greek yogurt (135 cal / 23 g).** It lands the day at ~2,465 — ~65 over the cut target but still well under maintenance — and puts protein at ~123 g, exactly on the floor. On a 5-mile day, protecting muscle beats the 65 calories.
-- **Skip the salty closers** — no cottage cheese/lox/condiments tonight; the day is already ~1,600 mg over the limit and yogurt adds only ~80.
+- **The 17K steps bought the protein closer back.** The dessert (~255 cal, ~7 g) had spent the calories the yogurt-and-eggs closer needed, but the walking raised the target to ~2,610 — a cup of Greek yogurt + 2 boiled eggs (~300 cal, ~36 g) now lands the day at ~2,630, right on target, with protein at ~136 g, floor cleared.
+- **Skip the salty closers** — no cottage cheese/lox/condiments tonight; the day is already ~1,600 mg over the limit and yogurt + eggs adds only ~200.
 
 ```widget:calorielog
 person: Beau
@@ -42,24 +41,50 @@ items:
   - { food: "Peanut butter", amount: "1 tbsp", calories: 95, protein: 4, sodium: 70 }
   - { food: "Honey", amount: "2 tsp", calories: 40, protein: 0, sodium: 0 }
   - { food: "Grapes", amount: "12", calories: 40, protein: 0.4, sodium: 1 }
-note: "~2,330 cal / ~100 g protein / ~3,130 mg sodium with dinner logged as planned (boti kebab + momos). Run puts computed target at ~2,400, ~70 left. Protein is the miss (~23 g under the floor) - the 1,500-cal Cheesecake Factory share carried only ~49 g and the ~255-cal dessert added ~7 g. Sodium ~2x limit, mostly the restaurant lunch (8/13 mechanism). Recommended closer: 1 cup Greek yogurt (~65 over target, protein exactly to the floor)."
+note: "~2,330 cal / ~100 g protein / ~3,130 mg sodium with dinner logged as planned (boti kebab + momos). Run + 17K-step day (~810 burn) puts computed target at ~2,610, ~280 left. Protein is the miss (~23 g under the floor) - the 1,500-cal Cheesecake Factory share carried only ~49 g and the ~255-cal dessert added ~7 g. Sodium ~2x limit, mostly the restaurant lunch (8/13 mechanism). Recommended closer: 1 cup Greek yogurt + 2 boiled eggs (right on target, protein ~136 g)."
 ```
 
 ---
 
 ## Workout
 
-Morning run — 5 miles at ~8:10/mi.
+Morning run — 5 miles at ~8:10/mi — inside a 17,000-step day.
 
 | Activity | Duration | Est. burn |
 |---|---|---|
 | Run — 5 mi @ ~8:10/mi | ~41 min | ~600 cal* |
+| Walking — rest of ~17K steps beyond the run | all day | ~210 cal* |
 
-*\*Burn estimated at the same rate as the 8/9 five-miler (~8:00 pace, ~600 cal at 170 lb). Duration from pace × distance.*
+*\*Run burn at the 8/9 five-miler rate (~600 cal at 170 lb); duration from pace × distance. The run covers ~10K of the 17K steps, so the walking line counts only the ~7K beyond it at ~30 cal/1,000 — same no-double-counting method as 8/1.*
 
 ```widget:activity
 person: Beau
 activities:
   - { activity: "Run - 5 mi @ ~8:10/mi", duration: "41 min", burn: 600 }
-note: "Second 5-miler at ~8-min pace in a week. Duration derived from stated pace."
+  - { activity: "Walking - rest of ~17K steps beyond the run", duration: "all day", burn: 210 }
+note: "Second 5-miler at ~8-min pace in a week, inside a 17K-step day. Walking counts only the ~7K steps beyond the run to avoid double-counting."
+```
+
+---
+
+## Time Log
+
+| Project | Category | Hours | Deep | What |
+|---|---|---|---|---|
+| Dugout Edge | product | 8* | | Coding + product — weekly total, 8/10–8/16 |
+| Dugout Edge | marketing | 4* | | Marketing — weekly total, 8/10–8/16 |
+| Personal | life | 1* | | 5-mile run |
+| **Total** | | **13** | **0 deep** | |
+
+**Read-out:** 12 h reached Dugout Edge this week — 8 product / 4 marketing — logged here as week totals since the days weren't specified. None marked deep (no focus blocks narrated).
+
+*\*Beau's weekly estimates, parked on Sunday's entry rather than spread across invented days. Workout hours per the assume-1-h rule.*
+
+```widget:timelog
+person: Beau
+entries:
+  - { project: dugout-edge, category: product, hours: 8, note: "Coding + product - weekly total 8/10-8/16, day-level split unknown" }
+  - { project: dugout-edge, category: marketing, hours: 4, note: "Marketing - weekly total 8/10-8/16, day-level split unknown" }
+  - { project: personal, category: life, hours: 1, note: "5-mile run (~1 h block, assumed)" }
+note: "First real Dugout Edge time capture: 12 h for the week (8 product / 4 marketing), logged as Sunday-parked weekly totals. Workout hours backfilled to their own days 8/10-8/14. No deep blocks narrated."
 ```

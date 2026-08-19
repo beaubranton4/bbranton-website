@@ -340,8 +340,24 @@
     ],
     "totalBurn": 350,
     "steps": null,
-    "note": "Six exercises, 18 working sets. Full 8/5 template run without the trims, all single-leg biased. Easy 2-3 mi run still to be logged.",
+    "note": "Six exercises, 18 working sets. Full 8/5 template run without the trims, all single-leg biased. The planned easy 2-3 mi run was never narrated - presumed skipped.",
     "sourceId": "2026-08-14-legs-and-eggs"
+  },
+  {
+    "date": "2026-08-15",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Walking - 8,000 steps",
+        "duration": "all day",
+        "burn": 240,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 240,
+    "steps": null,
+    "note": "Backfilled 8/16. No workout; ~8K steps at ~30 cal/1,000.",
+    "sourceId": "2026-08-15-pastries-thai-chipotle"
   },
   {
     "date": "2026-08-16",
@@ -352,11 +368,39 @@
         "duration": "41 min",
         "burn": 600,
         "estimated": true
+      },
+      {
+        "activity": "Walking - rest of ~17K steps beyond the run",
+        "duration": "all day",
+        "burn": 210,
+        "estimated": true
+      }
+    ],
+    "totalBurn": 810,
+    "steps": null,
+    "note": "Second 5-miler at ~8-min pace in a week, inside a 17K-step day. Walking counts only the ~7K steps beyond the run to avoid double-counting.",
+    "sourceId": "2026-08-16-cheesecake-and-kebabs"
+  },
+  {
+    "date": "2026-08-18",
+    "person": "Beau",
+    "activities": [
+      {
+        "activity": "Upper-body lift",
+        "duration": "~1 h",
+        "burn": 300,
+        "estimated": true
+      },
+      {
+        "activity": "Walking - 10,000 steps",
+        "duration": "all day",
+        "burn": 300,
+        "estimated": true
       }
     ],
     "totalBurn": 600,
     "steps": null,
-    "note": "Second 5-miler at ~8-min pace in a week. Duration derived from stated pace.",
-    "sourceId": "2026-08-16-cheesecake-and-kebabs"
+    "note": "Lift + 10K-step day, ~600 total burn.",
+    "sourceId": "2026-08-18-path-of-least-resistance"
   }
 ]

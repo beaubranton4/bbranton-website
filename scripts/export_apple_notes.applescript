@@ -1,26 +1,32 @@
+property exportedIDs : {}
+
 on run argv
 	if (count of argv) is 0 then error "Missing output directory argument."
 	set outputRoot to item 1 of argv
 	do shell script "mkdir -p " & quoted form of outputRoot
 	set exportedCount to 0
-	
+	set exportedIDs to {}
+
 	tell application "Notes"
 		repeat with acc in every account
 			set accName to my sanitizeFileName(name of acc)
 			set accPath to outputRoot & "/" & accName
 			do shell script "mkdir -p " & quoted form of accPath
-			
-			repeat with n in notes of acc
-				my writeNote(n, accPath)
-				set exportedCount to exportedCount + 1
-			end repeat
-			
+
+			-- Export folders first so notes inside folders land in their real
+			-- folder path; the account-level "notes of acc" list below includes
+			-- every note in the account (foldered or not), so anything already
+			-- written here must be skipped to avoid a duplicate flat copy.
 			repeat with f in folders of acc
 				set exportedCount to exportedCount + (my exportFolder(f, accPath))
 			end repeat
-		end repeat
+
+			repeat with n in notes of acc
+				if my writeNoteIfNew(n, accPath) then set exportedCount to exportedCount + 1
+			end repeat
+		end tell
 	end tell
-	
+
 	return "Exported " & exportedCount & " notes to " & outputRoot
 end run
 
@@ -29,35 +35,48 @@ on exportFolder(noteFolder, parentPath)
 	set folderPath to parentPath & "/" & folderName
 	do shell script "mkdir -p " & quoted form of folderPath
 	set noteCount to 0
-	
+
 	tell application "Notes"
 		repeat with n in notes of noteFolder
-			my writeNote(n, folderPath)
-			set noteCount to noteCount + 1
+			if my writeNoteIfNew(n, folderPath) then set noteCount to noteCount + 1
 		end repeat
-		
+
 		repeat with f in folders of noteFolder
 			set noteCount to noteCount + (my exportFolder(f, folderPath))
 		end repeat
 	end tell
-	
+
 	return noteCount
 end exportFolder
 
-on writeNote(n, folderPath)
+-- Writes the note only if its id hasn't already been exported this run
+-- (a note can otherwise be reached twice: once via its folder, once via
+-- the account's flat notes list). Returns true if it wrote a file.
+on writeNoteIfNew(n, folderPath)
+	tell application "Notes"
+		set noteIdentifier to id of n
+	end tell
+
+	if exportedIDs contains noteIdentifier then return false
+	set end of exportedIDs to noteIdentifier
+
+	my writeNote(n, folderPath, noteIdentifier)
+	return true
+end writeNoteIfNew
+
+on writeNote(n, folderPath, noteIdentifier)
 	tell application "Notes"
 		set noteTitle to name of n
 		set noteText to plaintext of n
-		set noteIdentifier to id of n
 	end tell
-	
+
 	if noteTitle is missing value or noteTitle is "" then set noteTitle to "untitled-note"
 	if noteText is missing value then set noteText to ""
-	
+
 	set safeTitle to my sanitizeFileName(noteTitle)
 	set safeId to my sanitizeFileName(noteIdentifier)
 	set filePath to folderPath & "/" & safeTitle & "--" & safeId & ".md"
-	
+
 	set outFile to POSIX file filePath
 	set fileRef to open for access outFile with write permission
 	try
@@ -78,14 +97,14 @@ on sanitizeFileName(inputText)
 	repeat with ch in badChars
 		set cleanText to my replaceText(ch as text, "-", cleanText)
 	end repeat
-	
+
 	set cleanText to my replaceText("  ", " ", cleanText)
 	set cleanText to my collapseDashes(cleanText)
-	
+
 	if (length of cleanText) > 120 then
 		set cleanText to text 1 thru 120 of cleanText
 	end if
-	
+
 	if cleanText is "" then set cleanText to "untitled"
 	return cleanText
 end sanitizeFileName

@@ -2325,18 +2325,77 @@
         "calories": 80,
         "protein": 1,
         "sodium": 200
+      },
+      {
+        "food": "Chicken sandwich w/ cheese & bacon",
+        "amount": "1",
+        "calories": 800,
+        "protein": 48,
+        "sodium": 1500
+      },
+      {
+        "food": "Fries",
+        "amount": "whole side",
+        "calories": 480,
+        "protein": 6,
+        "sodium": 400
+      },
+      {
+        "food": "Beer",
+        "amount": "6 x 12 oz",
+        "calories": 900,
+        "protein": 8,
+        "sodium": 80
       }
     ],
     "totals": {
-      "calories": 1413,
-      "protein": 100,
-      "sodium": 3204
+      "calories": 3593,
+      "protein": 162,
+      "sodium": 5184
     },
-    "note": "Through lunch: ~1,413 cal / ~100 g protein / ~3,204 mg sodium. Calories and protein excellent (~7.1 g per 100 cal, floor already cleared). Sodium is the failure and the mechanism is new: CONDIMENTS. Furikake ~1,200 (5 servings x 240) + chili crunch ~200 + soy sauce ~300 = ~1,700 mg from ~130 calories of garnish, more than the entire daily limit. Third distinct sodium mechanism in three days: 8/12 salt-cured proteins, 8/13 restaurant cooking, 8/14 condiments. Mackerel sodium is an estimate pending the label; if fresh rather than salt-cured the day drops to ~2,200. Leg session + easy 2-3 mi still to be logged.",
+    "note": "Full day (dinner backfilled 8/16): ~3,593 cal / ~162 g protein / ~5,184 mg sodium vs ~2,150 target - ~1,443 over. Chicken-bacon sandwich + whole side of fries + 6 beers (~2,180) turned a ~737-under day into the month's blowout. Protein well past the aim. Sodium ~3.5x limit: lunch condiments (~1,700) plus restaurant dinner (~1,900). Easy run never narrated - lift only.",
     "sourceId": "2026-08-14-legs-and-eggs",
     "targetCalories": 2150,
     "targetSource": "computed",
-    "deficit": -737
+    "deficit": 1443
+  },
+  {
+    "date": "2026-08-15",
+    "person": "Beau",
+    "dayType": "steps_10k",
+    "items": [
+      {
+        "food": "Pastries",
+        "amount": "~750 cal worth",
+        "calories": 750,
+        "protein": 12,
+        "sodium": 700
+      },
+      {
+        "food": "Thai food",
+        "amount": "~800 cal worth",
+        "calories": 800,
+        "protein": 35,
+        "sodium": 1500
+      },
+      {
+        "food": "Chipotle chicken bowl",
+        "amount": "1, ~750 cal",
+        "calories": 750,
+        "protein": 55,
+        "sodium": 1600
+      }
+    ],
+    "totals": {
+      "calories": 2300,
+      "protein": 102,
+      "sodium": 3800
+    },
+    "note": "Backfilled 8/16. ~2,300 cal / ~102 g protein / ~3,800 mg sodium vs ~2,040 computed target (8K steps, no workout) - ~260 over, mild surplus. Protein ~21 g under the floor; all three meals restaurant-bought, sodium ~2.5x limit. Calories are Beau's estimates; protein/sodium inferred.",
+    "sourceId": "2026-08-15-pastries-thai-chipotle",
+    "targetCalories": 2040,
+    "targetSource": "computed",
+    "deficit": 260
   },
   {
     "date": "2026-08-16",
@@ -2426,10 +2485,212 @@
       "protein": 99.9,
       "sodium": 3132
     },
-    "note": "~2,330 cal / ~100 g protein / ~3,130 mg sodium with dinner logged as planned (boti kebab + momos). Run puts computed target at ~2,400, ~70 left. Protein is the miss (~23 g under the floor) - the 1,500-cal Cheesecake Factory share carried only ~49 g and the ~255-cal dessert added ~7 g. Sodium ~2x limit, mostly the restaurant lunch (8/13 mechanism). Recommended closer: 1 cup Greek yogurt (~65 over target, protein exactly to the floor).",
+    "note": "~2,330 cal / ~100 g protein / ~3,130 mg sodium with dinner logged as planned (boti kebab + momos). Run + 17K-step day (~810 burn) puts computed target at ~2,610, ~280 left. Protein is the miss (~23 g under the floor) - the 1,500-cal Cheesecake Factory share carried only ~49 g and the ~255-cal dessert added ~7 g. Sodium ~2x limit, mostly the restaurant lunch (8/13 mechanism). Recommended closer: 1 cup Greek yogurt + 2 boiled eggs (right on target, protein ~136 g).",
     "sourceId": "2026-08-16-cheesecake-and-kebabs",
+    "targetCalories": 2610,
+    "targetSource": "computed",
+    "deficit": -280
+  },
+  {
+    "date": "2026-08-17",
+    "person": "Beau",
+    "dayType": "low",
+    "items": [
+      {
+        "food": "Boiled eggs",
+        "amount": "2 large",
+        "calories": 144,
+        "protein": 13,
+        "sodium": 124
+      },
+      {
+        "food": "Greek yogurt, plain nonfat",
+        "amount": "3/4 cup",
+        "calories": 98,
+        "protein": 17,
+        "sodium": 55
+      },
+      {
+        "food": "Blueberries",
+        "amount": "15",
+        "calories": 12,
+        "protein": 0.2,
+        "sodium": 0
+      },
+      {
+        "food": "Honey",
+        "amount": "1 tsp",
+        "calories": 20,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Lamb boti kebab",
+        "amount": "4 large cubes (~1.5in x 1.5in each)",
+        "calories": 440,
+        "protein": 48,
+        "sodium": 500
+      },
+      {
+        "food": "Chicken momos",
+        "amount": "3",
+        "calories": 165,
+        "protein": 11,
+        "sodium": 300
+      },
+      {
+        "food": "Salmon, bang bang style",
+        "amount": "0.5 lb raw",
+        "calories": 465,
+        "protein": 46,
+        "sodium": 130
+      },
+      {
+        "food": "Bang bang sauce (Greek yogurt + 1 tsp mayo + chili-sriracha)",
+        "amount": "~2 tbsp yogurt, 1 tsp mayo, sauce",
+        "calories": 90,
+        "protein": 2,
+        "sodium": 350
+      },
+      {
+        "food": "Cherries",
+        "amount": "15",
+        "calories": 75,
+        "protein": 1,
+        "sodium": 0
+      },
+      {
+        "food": "Almonds",
+        "amount": "7",
+        "calories": 50,
+        "protein": 2,
+        "sodium": 0
+      },
+      {
+        "food": "RX Bar",
+        "amount": "1 (100 cal)",
+        "calories": 100,
+        "protein": 5,
+        "sodium": 65
+      },
+      {
+        "food": "Lupini beans",
+        "amount": "5",
+        "calories": 15,
+        "protein": 2,
+        "sodium": 30
+      },
+      {
+        "food": "Greek yogurt, plain nonfat",
+        "amount": "3/4 cup",
+        "calories": 98,
+        "protein": 17,
+        "sodium": 55
+      },
+      {
+        "food": "Blueberries",
+        "amount": "15",
+        "calories": 12,
+        "protein": 0.2,
+        "sodium": 0
+      },
+      {
+        "food": "Honey",
+        "amount": "1.5 tsp",
+        "calories": 30,
+        "protein": 0,
+        "sodium": 0
+      }
+    ],
+    "totals": {
+      "calories": 1814,
+      "protein": 164.4,
+      "sodium": 1609
+    },
+    "note": "Full day: ~1,814 cal / ~164 g protein / ~1,610 mg sodium - right at the ~1,800 low-day fallback target with no activity logged. Lunch was the same meal as the planned 8/16 dinner but with larger boti cubes (~1.5in cubes) and one fewer momo. Dinner salmon used the usual 8/10 bang-bang recipe but swapped 2 tbsp mayo for Greek yogurt + only 1 tsp mayo. Protein aim (145g) cleared well before this second yogurt bowl (a repeat of breakfast). Sodium only modestly over the 1,500 limit for the full day - a clean day overall.",
+    "sourceId": "2026-08-17-meeps-and-moops",
+    "targetCalories": 1800,
+    "targetSource": "day_type",
+    "deficit": 14
+  },
+  {
+    "date": "2026-08-18",
+    "person": "Beau",
+    "dayType": "low",
+    "items": [
+      {
+        "food": "White rice",
+        "amount": "1 cup cooked",
+        "calories": 205,
+        "protein": 4,
+        "sodium": 2
+      },
+      {
+        "food": "Scrambled eggs",
+        "amount": "3 large",
+        "calories": 234,
+        "protein": 19,
+        "sodium": 190
+      },
+      {
+        "food": "Olive oil (for the pan)",
+        "amount": "~1 tsp",
+        "calories": 40,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Soy sauce",
+        "amount": "~1 tbsp",
+        "calories": 10,
+        "protein": 1,
+        "sodium": 900
+      },
+      {
+        "food": "Chicken breast",
+        "amount": "0.65 lb raw",
+        "calories": 350,
+        "protein": 66,
+        "sodium": 190
+      },
+      {
+        "food": "Green Thai curry w/ fried eggplant (leftover)",
+        "amount": "~half serving, 2-3 eggplant pieces",
+        "calories": 350,
+        "protein": 10,
+        "sodium": 700
+      },
+      {
+        "food": "Thai jasmine rice",
+        "amount": "~1 cup cooked",
+        "calories": 205,
+        "protein": 4,
+        "sodium": 2
+      },
+      {
+        "food": "Grapes",
+        "amount": "15",
+        "calories": 50,
+        "protein": 0.5,
+        "sodium": 1
+      },
+      {
+        "food": "Cherries",
+        "amount": "10",
+        "calories": 46,
+        "protein": 0.8,
+        "sodium": 0
+      }
+    ],
+    "totals": {
+      "calories": 1490,
+      "protein": 105.3,
+      "sodium": 1985
+    },
+    "note": "Through lunch: ~1,490 cal / ~106 g protein / ~2,585 mg sodium. Breakfast soy sauce (~900mg) plus the coconut-milk curry (~700mg est.) pushed sodium past the 1,500 limit by lunch. Protein at ~86% of the 145g aim off the 0.65 lb chicken breast alone. No activity logged yet - day_type defaults to low pending workout/steps.",
+    "sourceId": "2026-08-18-path-of-least-resistance",
     "targetCalories": 2400,
     "targetSource": "computed",
-    "deficit": -70
+    "deficit": -910
   }
 ]

@@ -155,9 +155,10 @@ note: "First night logged. Duration is the midpoint of a narrated 7-7.5 h range.
 | Personal | life | 0.5 | | Getting ready — phone (~5 min), shave, bathroom* |
 | Personal | food | 0.5 | | Prepping and eating breakfast (~20 min) |
 | Personal | routine | 0.5 | | Journaling + meditation (~30 min) |
-| **Total** | | **1.5** | **0 deep** | |
+| Personal | life | 1* | | Upper-body lift (backfilled 8/16) |
+| **Total** | | **2.5** | **0 deep** | |
 
-**Read-out:** 1.5 h logged, all personal, none deep. Morning only — the working day hasn't been narrated yet.
+**Read-out:** 2.5 h logged, all personal, none deep. Morning + workout — the working day hasn't been narrated.
 
 *\*Derived, not stated: Beau described "the first hour" as getting ready, and separately put breakfast at ~20 min, so the non-food remainder is ~40 min, rounded to 0.5.*
 
@@ -167,5 +168,6 @@ entries:
   - { project: personal, category: life, hours: 0.5, note: "Getting ready - phone (~5 min), shave, bathroom" }
   - { project: personal, category: food, hours: 0.5, note: "Prepping and eating breakfast (~20 min)" }
   - { project: personal, category: routine, hours: 0.5, note: "Journaling + meditation (~30 min)" }
-note: "Morning only. First day using the new food and routine categories, split out of life at Beau's request. Nothing logged for the working day yet."
+  - { project: personal, category: life, hours: 1, note: "Upper-body lift (~1 h block, assumed; backfilled 8/16)" }
+note: "Morning + workout hour (backfilled 8/16 per the assume-1-hour-per-workout rule). First day using the new food and routine categories. Working day never narrated."
 ```

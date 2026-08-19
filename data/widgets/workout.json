@@ -2441,5 +2441,385 @@
       }
     ],
     "sourceId": "2026-08-14-legs-and-eggs"
+  },
+  {
+    "date": "2026-08-17",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "DB Bench Press",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 55,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 65,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 80,
+                "reps": 6,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 80,
+              "reps": 6,
+              "failure": true
+            },
+            "est1RM": 96,
+            "volume": 1440
+          },
+          {
+            "exercise": "DB Row (chest-supported)",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 45,
+                "reps": 12,
+                "failure": false
+              },
+              {
+                "weight": 55,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 70,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 80,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 80,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 101,
+            "volume": 2290
+          },
+          {
+            "exercise": "Cable/DB Lateral Raise",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 15,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 12.5,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 10,
+                "reps": 15,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 15,
+              "reps": 10,
+              "failure": false
+            },
+            "est1RM": 20,
+            "volume": 425
+          },
+          {
+            "exercise": "Biceps (DB curl)",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 25,
+                "reps": 12,
+                "failure": false
+              },
+              {
+                "weight": 30,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 8,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 35,
+              "reps": 8,
+              "failure": true
+            },
+            "est1RM": 44,
+            "volume": 880
+          },
+          {
+            "exercise": "Triceps (single-arm cable ext.)",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 15,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 25,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 30,
+                "reps": 8,
+                "failure": true
+              }
+            ],
+            "topSet": {
+              "weight": 30,
+              "reps": 8,
+              "failure": true
+            },
+            "est1RM": 38,
+            "volume": 640
+          },
+          {
+            "exercise": "Crunches",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 50,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 50,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 50,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 50,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 50,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          }
+        ],
+        "sessionVolume": 5675
+      }
+    ],
+    "sourceId": "2026-08-17-meeps-and-moops"
+  },
+  {
+    "date": "2026-08-18",
+    "lifters": [
+      {
+        "name": "Beau",
+        "lifts": [
+          {
+            "exercise": "DB Bench Press",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 55,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 65,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 80,
+                "reps": 6,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 80,
+              "reps": 6,
+              "failure": false
+            },
+            "est1RM": 96,
+            "volume": 1440
+          },
+          {
+            "exercise": "DB Row (chest-supported)",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 45,
+                "reps": 12,
+                "failure": false
+              },
+              {
+                "weight": 55,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 70,
+                "reps": 8,
+                "failure": false
+              },
+              {
+                "weight": 80,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 80,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 101,
+            "volume": 2290
+          },
+          {
+            "exercise": "Cable/DB Lateral Raise",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 15,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 12.5,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 10,
+                "reps": 15,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 15,
+              "reps": 10,
+              "failure": false
+            },
+            "est1RM": 20,
+            "volume": 425
+          },
+          {
+            "exercise": "Biceps (DB curl)",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 25,
+                "reps": 12,
+                "failure": false
+              },
+              {
+                "weight": 30,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 35,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 35,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 44,
+            "volume": 880
+          },
+          {
+            "exercise": "Triceps (single-arm cable ext.)",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 15,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 25,
+                "reps": 10,
+                "failure": false
+              },
+              {
+                "weight": 30,
+                "reps": 8,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 30,
+              "reps": 8,
+              "failure": false
+            },
+            "est1RM": 38,
+            "volume": 640
+          },
+          {
+            "exercise": "Crunches",
+            "equipment": "dumbbell",
+            "sets": [
+              {
+                "weight": 0,
+                "reps": 50,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 50,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 50,
+                "failure": false
+              },
+              {
+                "weight": 0,
+                "reps": 50,
+                "failure": false
+              }
+            ],
+            "topSet": {
+              "weight": 0,
+              "reps": 50,
+              "failure": false
+            },
+            "est1RM": 0,
+            "volume": 0
+          }
+        ],
+        "sessionVolume": 5675
+      }
+    ],
+    "sourceId": "2026-08-18-path-of-least-resistance"
   }
 ]

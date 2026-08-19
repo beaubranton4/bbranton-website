@@ -142,5 +142,53 @@
     },
     "note": null,
     "sourceId": "2026-08-10-motivation-and-hard-things"
+  },
+  {
+    "date": "2026-08-18",
+    "person": "Beau",
+    "items": [
+      {
+        "text": "Take out the trash",
+        "done": false
+      },
+      {
+        "text": "Journal and meditate (journaling now, ~10 min meditation to follow)",
+        "done": false
+      },
+      {
+        "text": "Schedule dinner for Thursday night",
+        "done": true
+      },
+      {
+        "text": "Send out party invite/RSVP",
+        "done": false
+      },
+      {
+        "text": "Look up a $25K investment",
+        "done": false
+      },
+      {
+        "text": "Gym ~10:30am",
+        "done": true
+      },
+      {
+        "text": "Lunch ~12pm",
+        "done": true
+      },
+      {
+        "text": "Work block at a coffee shop, ~1-5pm",
+        "done": false
+      },
+      {
+        "text": "Learn about marketing (1 hour)",
+        "done": false
+      }
+    ],
+    "counts": {
+      "open": 6,
+      "done": 3
+    },
+    "note": null,
+    "sourceId": "2026-08-18-path-of-least-resistance"
   }
 ]

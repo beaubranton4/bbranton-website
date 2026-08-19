@@ -117,3 +117,23 @@ activities:
 steps: 10000
 note: "Circuit: 40s on / 20s rest, 3 sets per round, 4 rounds. Burn at ~8 METs over 36 min of interval time, same method as 8/10. 12 exercises vs 9 on Monday - a third more volume. Hit the 10K step floor on top, at the profile's 10K -> +300 rule. Total burn ~670, the highest of the run so far."
 ```
+
+---
+
+## Time Log
+
+| Project | Category | Hours | Deep | What |
+|---|---|---|---|---|
+| Personal | life | 1* | | Lower-body HIIT circuit |
+| **Total** | | **1** | **0 deep** | |
+
+**Read-out:** 1 h logged (backfilled 8/16), all personal.
+
+*\*Assumed ~1 h per workout at Beau's direction (circuit was ~40 min).*
+
+```widget:timelog
+person: Beau
+entries:
+  - { project: personal, category: life, hours: 1, note: "Lower-body HIIT circuit (~1 h block, assumed)" }
+note: "Backfilled 8/16: workout hour only, per Beau's assume-1-hour-per-workout rule."
+```

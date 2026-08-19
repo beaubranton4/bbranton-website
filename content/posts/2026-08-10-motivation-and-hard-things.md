@@ -110,3 +110,23 @@ items:
   - { text: "Drop off Brooks Brothers returns - 3145 Geary Blvd, SF 94118", done: false }
   - { text: "Stress Free Autocare - 2941 Geary Blvd, SF 94118", done: false }
 ```
+
+---
+
+## Time Log
+
+| Project | Category | Hours | Deep | What |
+|---|---|---|---|---|
+| Personal | life | 1* | | HIIT dumbbell circuit |
+| **Total** | | **1** | **0 deep** | |
+
+**Read-out:** 1 h logged (backfilled 8/16), all personal.
+
+*\*Assumed ~1 h per workout at Beau's direction (circuit interval time was ~30 min; the hour covers the full block).*
+
+```widget:timelog
+person: Beau
+entries:
+  - { project: personal, category: life, hours: 1, note: "HIIT dumbbell circuit (~1 h block, assumed)" }
+note: "Backfilled 8/16: workout hour only, per Beau's assume-1-hour-per-workout rule."
+```
