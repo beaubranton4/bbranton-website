@@ -396,5 +396,28 @@
     "deepHours": 0,
     "note": "3.5 h logged: 1h job, 1h DE marketing, 1h workout, 0.5h routine. Lunch done. Coffee-shop block (~1-5pm) and the marketing-learning to-do item still ahead - worth logging separately from the 1h marketing already spent.",
     "sourceId": "2026-08-18-path-of-least-resistance"
+  },
+  {
+    "date": "2026-08-19",
+    "person": "Beau",
+    "entries": [
+      {
+        "project": "dugout-edge",
+        "category": "marketing",
+        "hours": 2,
+        "note": "Marketing this morning",
+        "deep": false
+      }
+    ],
+    "totalHours": 2,
+    "byProject": {
+      "dugout-edge": 2
+    },
+    "byCategory": {
+      "marketing": 2
+    },
+    "deepHours": 0,
+    "note": "2h DE marketing so far today.",
+    "sourceId": "2026-08-19-yogurt-and-blueberries"
   }
 ]

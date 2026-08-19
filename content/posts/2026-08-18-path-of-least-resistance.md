@@ -19,30 +19,52 @@ And in some ways, maybe that's the key. The path of least resistance is often wh
 | Olive oil (for the pan) | ~1 tsp | ~40 | 0 | 0 |
 | Soy sauce | ~1 tbsp | ~10 | ~1 g | ~900 mg* |
 | Chicken breast | 0.65 lb raw | ~350 | ~66 g | ~190 mg |
-| Green Thai curry w/ fried eggplant (leftover) | ~half serving, 2-3 eggplant pieces | ~350* | ~10 g* | ~700 mg* |
-| Thai jasmine rice | ~1 cup cooked | ~205 | ~4 g | ~2 mg |
-| Grapes | 15 | ~50 | ~0.5 g | ~1 mg |
-| Cherries | 10 | ~46 | ~0.8 g | ~0 mg |
-| **Total** | | **~1,490** | **~106 g** | **~2,585 mg** |
+| Green Thai curry w/ fried eggplant (leftover) | ~half serving, 2-3 eggplant pieces | ~200 | ~6 g | ~400 mg* |
+| Thai jasmine rice | ~0.5 cup cooked | ~103 | ~2 g | ~1 mg |
+| Grapes (lunch) | 15 | ~50 | ~0.5 g | ~1 mg |
+| Cherries (lunch) | 10 | ~46 | ~0.8 g | ~0 mg |
+| Short rib | 0.6 lb raw | ~550* | ~42 g* | ~140 mg* |
+| Olive oil | ~1 tsp | ~40 | 0 | 0 |
+| Potato | 1 whole | ~235 | ~5 g | ~10 mg |
+| Parmesan cheese | 80 cal worth | 80 | ~7 g | ~340 mg* |
+| Broccoli | 2 cups | ~60 | ~4 g | ~60 mg |
+| Kimchi | 1 cup | ~60* | ~3 g* | ~750 mg* |
+| Ketchup | 1.5 tbsp | ~20 | 0 | ~200 mg* |
+| Apple | 1 medium | ~95 | ~0.5 g | 0 |
+| Peanut butter | 2 tbsp | ~190 | ~8 g | ~140 mg |
+| Grapes (dinner) | 10 | ~33 | ~0.3 g | ~1 mg |
+| Cherries (dinner) | 10 | ~46 | ~0.8 g | ~0 mg |
+| **Total** | | **~2,647** | **~170 g** | **~3,325 mg** |
 
-**Day vs. plan:** ~1,490 cal / ~106 g protein / ~2,585 mg sodium through lunch. No activity logged yet, so the fallback target is the `low` bucket at 1,800 cal — **~310 left**, and protein is already ~86% of the 145 g aim on the strength of that 0.65 lb of chicken. Sodium has crossed the 1,500 limit already, split between the soy-sauce breakfast and the curry (coconut-milk curries typically run high).
+**Day vs. plan:** ~2,647 cal / ~170 g protein / ~3,325 mg sodium for the full day, against the computed target of **~2,400** (base + lift + 10K steps) — **~247 over**. Protein is way past the 145 g aim; sodium is ~2.2× the 1,500 mg limit, with kimchi (~750 mg) and parmesan (~340 mg) the two biggest dinner carriers on top of an already-high morning (soy sauce + curry).
 
-*\*Soy sauce assumed regular strength (Kikkoman rate, ~920 mg/tbsp), confirmed as ~1 tbsp.*
+*\*Soy sauce assumed regular strength (Kikkoman rate, ~920 mg/tbsp), confirmed as ~1 tbsp. Short rib assumed boneless, moderately fatty. Kimchi and ketchup sodium are typical-brand estimates.*
 
 ```widget:calorielog
 person: Beau
-day_type: low
+day_type: training
 items:
   - { food: "White rice", amount: "1 cup cooked", calories: 205, protein: 4, sodium: 2 }
   - { food: "Scrambled eggs", amount: "3 large", calories: 234, protein: 19, sodium: 190 }
   - { food: "Olive oil (for the pan)", amount: "~1 tsp", calories: 40, protein: 0, sodium: 0 }
   - { food: "Soy sauce", amount: "~1 tbsp", calories: 10, protein: 1, sodium: 900 }
   - { food: "Chicken breast", amount: "0.65 lb raw", calories: 350, protein: 66, sodium: 190 }
-  - { food: "Green Thai curry w/ fried eggplant (leftover)", amount: "~half serving, 2-3 eggplant pieces", calories: 350, protein: 10, sodium: 700 }
-  - { food: "Thai jasmine rice", amount: "~1 cup cooked", calories: 205, protein: 4, sodium: 2 }
-  - { food: "Grapes", amount: "15", calories: 50, protein: 0.5, sodium: 1 }
-  - { food: "Cherries", amount: "10", calories: 46, protein: 0.8, sodium: 0 }
-note: "Through lunch: ~1,490 cal / ~106 g protein / ~2,585 mg sodium. Breakfast soy sauce (~900mg) plus the coconut-milk curry (~700mg est.) pushed sodium past the 1,500 limit by lunch. Protein at ~86% of the 145g aim off the 0.65 lb chicken breast alone. No activity logged yet - day_type defaults to low pending workout/steps."
+  - { food: "Green Thai curry w/ fried eggplant (leftover)", amount: "~half serving, 2-3 eggplant pieces", calories: 200, protein: 6, sodium: 400 }
+  - { food: "Thai jasmine rice", amount: "~0.5 cup cooked", calories: 103, protein: 2, sodium: 1 }
+  - { food: "Grapes (lunch)", amount: "15", calories: 50, protein: 0.5, sodium: 1 }
+  - { food: "Cherries (lunch)", amount: "10", calories: 46, protein: 0.8, sodium: 0 }
+  - { food: "Short rib", amount: "0.6 lb raw", calories: 550, protein: 42, sodium: 140 }
+  - { food: "Olive oil", amount: "~1 tsp", calories: 40, protein: 0, sodium: 0 }
+  - { food: "Potato", amount: "1 whole", calories: 235, protein: 5, sodium: 10 }
+  - { food: "Parmesan cheese", amount: "80 cal worth", calories: 80, protein: 7, sodium: 340 }
+  - { food: "Broccoli", amount: "2 cups", calories: 60, protein: 4, sodium: 60 }
+  - { food: "Kimchi", amount: "1 cup", calories: 60, protein: 3, sodium: 750 }
+  - { food: "Ketchup", amount: "1.5 tbsp", calories: 20, protein: 0, sodium: 200 }
+  - { food: "Apple", amount: "1 medium", calories: 95, protein: 0.5, sodium: 0 }
+  - { food: "Peanut butter", amount: "2 tbsp", calories: 190, protein: 8, sodium: 140 }
+  - { food: "Grapes (dinner)", amount: "10", calories: 33, protein: 0.3, sodium: 1 }
+  - { food: "Cherries (dinner)", amount: "10", calories: 46, protein: 0.8, sodium: 0 }
+note: "Full day: ~2,647 cal / ~170 g protein / ~3,325 mg sodium vs ~2,400 computed target (upper-body lift + 10K steps) - ~247 over. Curry corrected to ~200 cal (from ~350) and total day's rice corrected to 1.5 cups (lunch portion revised to 0.5 cup) per Beau's correction. Protein well past the 145g aim. Sodium ~2.2x the 1,500 limit; kimchi (~750mg) and parmesan (~340mg) were dinner's biggest carriers, stacked on an already-high soy-sauce-and-curry morning."
 ```
 
 ---
@@ -121,16 +143,16 @@ Upper body — same movement pattern as yesterday (8/17), with today's top sets 
 | Activity | Duration | Est. burn |
 |---|---|---|
 | Upper-body lift (session above) | ~1 h | ~300 cal* |
-| Walking — 10,000 steps | all day | ~300 cal* |
+| Walking — 11,000 steps | all day | ~330 cal* |
 
-*\*Lift burn at the same ~5 cal/min rate as recent upper-body sessions (8/8, 8/13). Steps at the profile's 10K → +300 rule.*
+*\*Lift burn at the same ~5 cal/min rate as recent upper-body sessions (8/8, 8/13). Steps at ~30 cal/1,000 above sedentary, consistent with prior step-day estimates.*
 
 ```widget:activity
 person: Beau
 activities:
   - { activity: "Upper-body lift", duration: "~1 h", burn: 300 }
-  - { activity: "Walking - 10,000 steps", duration: "all day", burn: 300 }
-note: "Lift + 10K-step day, ~600 total burn."
+  - { activity: "Walking - 11,000 steps", duration: "all day", burn: 330 }
+note: "Lift + 11K-step day (updated from 10K), ~630 total burn."
 ```
 
 **Against yesterday (8/17, same session structure):**

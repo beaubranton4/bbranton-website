@@ -392,15 +392,15 @@
         "estimated": true
       },
       {
-        "activity": "Walking - 10,000 steps",
+        "activity": "Walking - 11,000 steps",
         "duration": "all day",
-        "burn": 300,
+        "burn": 330,
         "estimated": true
       }
     ],
-    "totalBurn": 600,
+    "totalBurn": 630,
     "steps": null,
-    "note": "Lift + 10K-step day, ~600 total burn.",
+    "note": "Lift + 11K-step day (updated from 10K), ~630 total burn.",
     "sourceId": "2026-08-18-path-of-least-resistance"
   }
 ]

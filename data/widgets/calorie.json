@@ -2616,7 +2616,7 @@
   {
     "date": "2026-08-18",
     "person": "Beau",
-    "dayType": "low",
+    "dayType": "training",
     "items": [
       {
         "food": "White rice",
@@ -2656,26 +2656,103 @@
       {
         "food": "Green Thai curry w/ fried eggplant (leftover)",
         "amount": "~half serving, 2-3 eggplant pieces",
-        "calories": 350,
-        "protein": 10,
-        "sodium": 700
+        "calories": 200,
+        "protein": 6,
+        "sodium": 400
       },
       {
         "food": "Thai jasmine rice",
-        "amount": "~1 cup cooked",
-        "calories": 205,
-        "protein": 4,
-        "sodium": 2
+        "amount": "~0.5 cup cooked",
+        "calories": 103,
+        "protein": 2,
+        "sodium": 1
       },
       {
-        "food": "Grapes",
+        "food": "Grapes (lunch)",
         "amount": "15",
         "calories": 50,
         "protein": 0.5,
         "sodium": 1
       },
       {
-        "food": "Cherries",
+        "food": "Cherries (lunch)",
+        "amount": "10",
+        "calories": 46,
+        "protein": 0.8,
+        "sodium": 0
+      },
+      {
+        "food": "Short rib",
+        "amount": "0.6 lb raw",
+        "calories": 550,
+        "protein": 42,
+        "sodium": 140
+      },
+      {
+        "food": "Olive oil",
+        "amount": "~1 tsp",
+        "calories": 40,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Potato",
+        "amount": "1 whole",
+        "calories": 235,
+        "protein": 5,
+        "sodium": 10
+      },
+      {
+        "food": "Parmesan cheese",
+        "amount": "80 cal worth",
+        "calories": 80,
+        "protein": 7,
+        "sodium": 340
+      },
+      {
+        "food": "Broccoli",
+        "amount": "2 cups",
+        "calories": 60,
+        "protein": 4,
+        "sodium": 60
+      },
+      {
+        "food": "Kimchi",
+        "amount": "1 cup",
+        "calories": 60,
+        "protein": 3,
+        "sodium": 750
+      },
+      {
+        "food": "Ketchup",
+        "amount": "1.5 tbsp",
+        "calories": 20,
+        "protein": 0,
+        "sodium": 200
+      },
+      {
+        "food": "Apple",
+        "amount": "1 medium",
+        "calories": 95,
+        "protein": 0.5,
+        "sodium": 0
+      },
+      {
+        "food": "Peanut butter",
+        "amount": "2 tbsp",
+        "calories": 190,
+        "protein": 8,
+        "sodium": 140
+      },
+      {
+        "food": "Grapes (dinner)",
+        "amount": "10",
+        "calories": 33,
+        "protein": 0.3,
+        "sodium": 1
+      },
+      {
+        "food": "Cherries (dinner)",
         "amount": "10",
         "calories": 46,
         "protein": 0.8,
@@ -2683,14 +2760,87 @@
       }
     ],
     "totals": {
-      "calories": 1490,
-      "protein": 105.3,
-      "sodium": 1985
+      "calories": 2647,
+      "protein": 169.9,
+      "sodium": 3325
     },
-    "note": "Through lunch: ~1,490 cal / ~106 g protein / ~2,585 mg sodium. Breakfast soy sauce (~900mg) plus the coconut-milk curry (~700mg est.) pushed sodium past the 1,500 limit by lunch. Protein at ~86% of the 145g aim off the 0.65 lb chicken breast alone. No activity logged yet - day_type defaults to low pending workout/steps.",
+    "note": "Full day: ~2,647 cal / ~170 g protein / ~3,325 mg sodium vs ~2,400 computed target (upper-body lift + 10K steps) - ~247 over. Curry corrected to ~200 cal (from ~350) and total day's rice corrected to 1.5 cups (lunch portion revised to 0.5 cup) per Beau's correction. Protein well past the 145g aim. Sodium ~2.2x the 1,500 limit; kimchi (~750mg) and parmesan (~340mg) were dinner's biggest carriers, stacked on an already-high soy-sauce-and-curry morning.",
     "sourceId": "2026-08-18-path-of-least-resistance",
-    "targetCalories": 2400,
+    "targetCalories": 2430,
     "targetSource": "computed",
-    "deficit": -910
+    "deficit": 217
+  },
+  {
+    "date": "2026-08-19",
+    "person": "Beau",
+    "dayType": "low",
+    "items": [
+      {
+        "food": "Greek yogurt, low-fat",
+        "amount": "1 cup",
+        "calories": 155,
+        "protein": 23,
+        "sodium": 90
+      },
+      {
+        "food": "Blueberries",
+        "amount": "15",
+        "calories": 12,
+        "protein": 0.2,
+        "sodium": 0
+      },
+      {
+        "food": "Honey",
+        "amount": "1.5 tsp",
+        "calories": 30,
+        "protein": 0,
+        "sodium": 0
+      },
+      {
+        "food": "Boiled eggs",
+        "amount": "2 large",
+        "calories": 144,
+        "protein": 13,
+        "sodium": 124
+      },
+      {
+        "food": "Chicken breast",
+        "amount": "0.65 lb raw",
+        "calories": 350,
+        "protein": 66,
+        "sodium": 190
+      },
+      {
+        "food": "Spinach",
+        "amount": "~3 cups raw",
+        "calories": 21,
+        "protein": 2.7,
+        "sodium": 72
+      },
+      {
+        "food": "Feta cheese",
+        "amount": "~80-100 cal worth",
+        "calories": 90,
+        "protein": 5,
+        "sodium": 380
+      },
+      {
+        "food": "Olive oil",
+        "amount": "~50-60 cal worth",
+        "calories": 55,
+        "protein": 0,
+        "sodium": 0
+      }
+    ],
+    "totals": {
+      "calories": 857,
+      "protein": 109.9,
+      "sodium": 856
+    },
+    "note": "Through lunch: ~1,001 cal / ~123 g protein / ~854 mg sodium. Protein floor (123g) cleared before dinner. No activity logged yet - day_type defaults to low pending workout/steps.",
+    "sourceId": "2026-08-19-yogurt-and-blueberries",
+    "targetCalories": 1800,
+    "targetSource": "day_type",
+    "deficit": -943
   }
 ]
